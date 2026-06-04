@@ -24,7 +24,7 @@ jobs:
             echo "Converting $file"
             outdir="fodt-output/$(dirname "$file")"
             mkdir -p "$outdir"
-            timeout 60s libreoffice --headless --convert-to fodt "$file" --outdir "$outdir"
+            timeout 60s libreoffice --headless --convert-to odt "$file" --outdir "$outdir"
           done
 
       - name: Test files
