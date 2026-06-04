@@ -45,7 +45,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Test files
-        run: sudo apt-get install -y tree && tree && fastfetch
+        run: sudo apt-get install -y tree && tree
 
       - name: Start libreoffice once
         run: |
