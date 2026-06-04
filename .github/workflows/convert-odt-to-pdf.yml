@@ -17,7 +17,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y libreoffice
 
       - name: Test for files
-        run: ls -laF
+        run: sudo apt install -y tree && tree
 
       - name: Sync Crowdin files
         uses: crowdin/github-action@v1
@@ -32,8 +32,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Test for files 2
-        run: ls -laF
-
+        run: sudo apt install -y tree && tree
+      
       - name: Start libreoffice once
         run: |
           mkdir -p dummy
