@@ -13,11 +13,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+
       - name: Install LibreOffice
         run: sudo apt-get update && sudo apt-get install -y libreoffice
 
-      - name: Test for files
-        run: sudo apt install -y tree && tree
+      - name: Convert ODT files to FODT
+        run: |
+          mkdir -p fodt-output
+          find docs -type f -name "*.fodt" | while read file; do
+            echo "Converting $file"
+            outdir="fodt-output/$(dirname "$file")"
+            mkdir -p "$outdir"
+            timeout 60s libreoffice --headless --convert-to fodt "$file" --outdir "$outdir"
+          done
+
+      - name: Test files
+        run: sudo apt-get install -y tree && tree && fastfetch
 
       - name: Sync Crowdin files
         uses: crowdin/github-action@v1
@@ -30,10 +41,8 @@ jobs:
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
           CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Test for files 2
-        run: sudo apt install -y tree && tree
       
+
       - name: Start libreoffice once
         run: |
           mkdir -p dummy
@@ -44,10 +53,13 @@ jobs:
             libreoffice --headless --convert-to pdf "$file" --outdir "$outdir"
             break
           done
+
+      
       - name: Change i18n owner so writable
         run: |
          sudo chown -R $USER:$USER ./i18n
          ls -lR .
+
          
       - name: Create or Update LibreOffice Config
         run: |
@@ -60,11 +72,13 @@ jobs:
           cp -f $GITHUB_WORKSPACE/config/registrymodifications.xcu ~/.config/libreoffice/4/user          
           cat ~/.config/libreoffice/4/user/registrymodifications.xcu
 
+
       - name: Install libreoffice macros
         run: |
           mkdir -p ~/.config/libreoffice/4/user/basic/Standard
           cp macros/Module1.xba ~/.config/libreoffice/4/user/basic/Standard/Module1.xba
           cp macros/script.xlb ~/.config/libreoffice/4/user/basic/Standard/script.xlb
+
           
       - name: Update all ODT file links
         run: |
@@ -72,6 +86,7 @@ jobs:
             echo "Updating links in $file"
             timeout 60s libreoffice --headless --invisible "macro:///Standard.Module1.SaveAndExitDocument" "$file"
           done
+
           
       - name: Convert ODT files to PDF
         run: |
@@ -82,6 +97,7 @@ jobs:
             mkdir -p "$outdir"
             timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir "$outdir"
           done
+
 
       - name: Upload PDFs as artifact
         uses: actions/upload-artifact@v4
