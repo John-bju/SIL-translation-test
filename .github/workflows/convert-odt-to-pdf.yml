@@ -29,8 +29,8 @@ jobs:
           done
 
 
-      #- name: Test files
-      #  run: sudo apt-get install -y tree && tree && fastfetch
+      - name: Test files
+        run: sudo apt-get install -y tree && tree
 
       - name: Sync Crowdin files
         uses: crowdin/github-action@v1
