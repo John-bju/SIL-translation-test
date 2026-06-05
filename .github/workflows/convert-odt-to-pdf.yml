@@ -29,9 +29,6 @@ jobs:
           done
 
 
-      - name: Test files
-        run: sudo apt-get install -y tree && tree
-
       - name: Sync Crowdin files
         uses: crowdin/github-action@v1
         with:
@@ -44,15 +41,11 @@ jobs:
           CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      
-      - name: Test files
-        run: tree
-
 
       - name: Start libreoffice once
         run: |
           mkdir -p dummy
-          find docs i18n -type f -name "*.odt" | while read file; do
+          find docs i18n -type f -name "*.fodt" | while read file; do
             echo "Converting $file"
             outdir="dummy/$(dirname "$file")"
             mkdir -p "$outdir"
@@ -86,18 +79,18 @@ jobs:
           cp macros/script.xlb ~/.config/libreoffice/4/user/basic/Standard/script.xlb
 
           
-      - name: Update all ODT file links
+      - name: Update all FODT file links
         run: |
-          find docs i18n -type f -name "*.odt" | while read file; do
+          find docs i18n -type f -name "*.fodt" | while read file; do
             echo "Updating links in $file"
             timeout 60s libreoffice --headless --invisible "macro:///Standard.Module1.SaveAndExitDocument" "$file"
           done
 
           
-      - name: Convert ODT files to PDF
+      - name: Convert FODT files to PDF
         run: |
           mkdir -p pdf-output
-          find docs i18n -type f -name "*.odt" | while read file; do
+          find docs i18n -type f -name "*.fodt" | while read file; do
             echo "Converting $file"
             outdir="pdf-output/$(dirname "$file")"
             mkdir -p "$outdir"
