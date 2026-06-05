@@ -119,7 +119,7 @@ jobs:
           sudo chown -R "$USER" .git
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
+          git add pdf-output/
           git diff --staged --quiet || git commit -m "chore: add generated files [skip ci]"
           git push --set-upstream origin l10n_crowdin_action
 
