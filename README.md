@@ -1,1 +1,3 @@
-This is a test odt documents folder
+# SIL Translation Test
+
+###### all documents are of .fodt type, please only edit those documents
