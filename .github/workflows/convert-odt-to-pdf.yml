@@ -42,22 +42,22 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
-      - name: Start libreoffice once
-        run: |
-          mkdir -p dummy
-          find docs i18n -type f -name "*.fodt" | while read file; do
-            echo "Converting $file"
-            outdir="dummy/$(dirname "$file")"
-            mkdir -p "$outdir"
-            libreoffice --headless --convert-to pdf "$file" --outdir "$outdir"
-            break
-          done
+      #- name: Start libreoffice once
+      #  run: |
+      #    mkdir -p dummy
+      #    find docs i18n -type f -name "*.fodt" | while read file; do
+      #      echo "Converting $file"
+      #      outdir="dummy/$(dirname "$file")"
+      #      mkdir -p "$outdir"
+      #      libreoffice --headless --convert-to pdf "$file" --outdir "$outdir"
+      #      break
+      #    done
 
       
-      - name: Change i18n owner so writable
-        run: |
-         sudo chown -R $USER:$USER ./i18n
-         ls -lR .
+      #- name: Change i18n owner so writable
+      #  run: |
+      #   sudo chown -R $USER:$USER ./i18n
+      #   ls -lR .
 
          
       - name: Create or Update LibreOffice Config
