@@ -18,7 +18,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y libreoffice
 
 
-      - name: Convert ODT files to FODT
+      - name: Convert FODT files to ODT
         run: |
           mkdir -p odt-output
           find docs -type f -name "*.fodt" | while read file; do
@@ -43,9 +43,11 @@ jobs:
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
           CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       
       - name: Test files
-        run: sudo apt-get install -y tree && tree
+        run: tree
+
 
       - name: Start libreoffice once
         run: |
