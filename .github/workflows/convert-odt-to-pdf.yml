@@ -110,6 +110,9 @@ jobs:
       #  with:
       #    name: converted-pdfs
       #    path: pdf-output
+
+      - name: Fix .git permissions
+        run: sudo chown -R "$USER" .git
           
       - name: Commit and push (git)
         run: |
