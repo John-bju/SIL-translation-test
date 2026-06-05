@@ -112,7 +112,7 @@ jobs:
       #    path: pdf-output
 
       - name: Test Files
-        run: sudo apt-get install -y tree && tree && pwd
+        run: sudo apt-get install -y tree && tree && pwd && ls -laF
           
       - name: Commit and push (git)
         run: | 
