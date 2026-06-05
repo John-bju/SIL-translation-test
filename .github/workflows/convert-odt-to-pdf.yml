@@ -97,6 +97,8 @@ jobs:
             timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir "$outdir"
           done
 
+      - name: Test Files
+        run: sudo apt-get install -y tree && tree
 
       - name: Upload PDFs as artifact
         uses: actions/upload-artifact@v4
