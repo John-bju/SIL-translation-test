@@ -61,10 +61,10 @@ jobs:
       #    done
 
       
-      #- name: Change i18n owner so writable
-      #  run: |
-      #   sudo chown -R $USER:$USER ./i18n
-      #   ls -lR .
+      - name: Change i18n owner so writable
+        run: |
+         sudo chown -R $USER:$USER ./i18n
+         ls -lR .
 
          
       - name: Create or Update LibreOffice Config
@@ -104,8 +104,6 @@ jobs:
             timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir "$outdir"
           done
 
-      - name: Test Files
-        run: sudo apt-get install -y tree && tree
 
       #- name: Upload PDFs as artifact
       #  uses: actions/upload-artifact@v4
