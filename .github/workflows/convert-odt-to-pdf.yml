@@ -61,10 +61,10 @@ jobs:
       #    done
 
       
-      - name: Change i18n owner so writable
-        run: |
-         sudo chown -R $USER:$USER ./i18n
-         ls -lR .
+      #- name: Change i18n owner so writable
+      #  run: |
+      #   sudo chown -R $USER:$USER ./i18n
+      #   ls -lR .
 
          
       - name: Create or Update LibreOffice Config
@@ -111,14 +111,15 @@ jobs:
       #    name: converted-pdfs
       #    path: pdf-output
 
-      - name: Fix .git permissions
-        run: sudo chown -R "$USER" .git
+      - name: Test Files
+        run: sudo apt-get install -y tree && tree
           
       - name: Commit and push (git)
-        run: |
+        run: | 
+          sudo chown -R "$USER" .git
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
+          git add /pdf-output/
           git diff --staged --quiet || git commit -m "chore: add generated files [skip ci]"
           git push --set-upstream origin l10n_crowdin_action
 
