@@ -61,10 +61,10 @@ jobs:
       #    done
 
       
-      - name: Change i18n owner so writable
-        run: |
-         sudo chown -R $USER:$USER ./i18n
-         ls -lR .
+      #- name: Change i18n owner so writable
+      #  run: |
+      #   sudo chown -R $USER:$USER ./i18n
+      #   ls -lR .
 
          
       - name: Create or Update LibreOffice Config
