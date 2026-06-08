@@ -61,10 +61,10 @@ jobs:
       #    done
 
       
-      #- name: Change i18n owner so writable
-      #  run: |
-      #   sudo chown -R $USER:$USER ./i18n
-      #   ls -lR .
+      - name: Change i18n owner so writable
+        run: |
+         sudo chown -R $USER:$USER ./i18n
+         ls -lR .
 
          
       - name: Create or Update LibreOffice Config
@@ -111,8 +111,6 @@ jobs:
       #    name: converted-pdfs
       #    path: pdf-output
 
-      - name: Test Files
-        run: sudo apt-get install -y tree && tree && pwd && ls -laF
           
       - name: Commit and push (git)
         run: | 
