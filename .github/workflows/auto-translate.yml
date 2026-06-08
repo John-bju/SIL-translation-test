@@ -50,6 +50,7 @@ jobs:
 
       - name: List files
         run: |
+          sudo rm -rf odt-output
           sudo apt-get install -y tree
           tree
           pwd
