@@ -86,8 +86,11 @@ jobs:
             timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir "$outdir"
           done
 
-      - name: Convert FODT files to PDF
-        run: rm -rf odt-output
+      - name: Remove odt-output dir
+        run: |
+          find docs i18n -type f -name "*.fodt" | while read file; do
+            echo $file && pwd
+          done
 
           
       - name: Commit and push (git)
