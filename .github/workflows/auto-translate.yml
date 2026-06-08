@@ -85,13 +85,7 @@ jobs:
             mkdir -p "$outdir"
             timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir "$outdir"
           done
-
-      - name: Remove odt-output dir
-        run: |
-          find docs i18n -type f -name "*.fodt" | while read file; do
-            echo $file && pwd
-          done
-
+          
           
       - name: Commit and push (git)
         run: | 
