@@ -48,6 +48,12 @@ jobs:
           CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
           GITHUB_TOKEN: ${{ secrets.CROWDIN_GITHUB_TOKEN }}
 
+      - name: List files
+        run: |
+          sudo apt-get install -y tree
+          tree
+          pwd
+          ls -laF
          
       - name: Create or Update LibreOffice Config
         run: |
