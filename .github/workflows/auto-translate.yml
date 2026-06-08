@@ -1,4 +1,4 @@
-name: Convert ODT to PDF
+name: Auto Translate
 
 on:
   push:
@@ -48,24 +48,6 @@ jobs:
           CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
           GITHUB_TOKEN: ${{ secrets.CROWDIN_GITHUB_TOKEN }}
 
-
-      #- name: Start libreoffice once
-      #  run: |
-      #    mkdir -p dummy
-      #    find docs i18n -type f -name "*.fodt" | while read file; do
-      #      echo "Converting $file"
-      #      outdir="dummy/$(dirname "$file")"
-      #      mkdir -p "$outdir"
-      #      libreoffice --headless --convert-to pdf "$file" --outdir "$outdir"
-      #      break
-      #    done
-
-      
-      #- name: Change i18n owner so writable
-      #  run: |
-      #   sudo chown -R $USER:$USER ./i18n
-      #   ls -lR .
-
          
       - name: Create or Update LibreOffice Config
         run: |
@@ -103,13 +85,6 @@ jobs:
             mkdir -p "$outdir"
             timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir "$outdir"
           done
-
-
-      #- name: Upload PDFs as artifact
-      #  uses: actions/upload-artifact@v4
-      #  with:
-      #    name: converted-pdfs
-      #    path: pdf-output
 
           
       - name: Commit and push (git)
