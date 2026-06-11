@@ -85,7 +85,12 @@ jobs:
             mkdir -p "$outdir"
             timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir "$outdir"
           done
-          
+
+      - name: Upload PDFs as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: converted-pdfs
+          path: pdf-output
           
       - name: Commit and push (git)
         run: | 
