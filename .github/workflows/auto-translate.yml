@@ -92,6 +92,12 @@ jobs:
           name: converted-pdfs
           path: pdf-output
           
+      - name: Delete odt-output
+        run: |
+          ls
+          rm -rf odt-output
+          ls
+          
       - name: Commit and push (git)
         run: | 
           sudo chown -R "$USER" .git
