@@ -94,9 +94,10 @@ jobs:
           
       - name: Delete odt-output
         run: |
-          ls
+          sudo apt-get install -y tree && tree
           rm -rf odt-output
-          ls
+          echo "----------------------------------"
+          tree
           
       - name: Commit and push (git)
         run: | 
