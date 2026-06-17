@@ -97,7 +97,8 @@ jobs:
           pwd
           ls -a
           sudo apt-get install -y tree && tree /home/runner/work/SIL-translation-test/SIL-translation-test
-          rm -rf odt-output
+          tree /home/runner/work/SIL-translation-test
+          #rm -rf odt-output
           echo "----------------------------------"
           
       - name: Commit and push (git)
