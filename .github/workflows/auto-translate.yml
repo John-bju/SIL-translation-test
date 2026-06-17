@@ -94,6 +94,8 @@ jobs:
           
       - name: Delete odt-output
         run: |
+          pwd
+          ls -a
           sudo apt-get install -y tree && tree /home/runner
           rm -rf odt-output
           echo "----------------------------------"
