@@ -94,12 +94,9 @@ jobs:
           
       - name: Delete odt-output
         run: |
-          pwd
-          ls -a
-          sudo apt-get install -y tree && tree /home/runner/work/SIL-translation-test/SIL-translation-test
-          tree /home/runner/work/SIL-translation-test
+          #sudo apt-get install -y tree && tree /home/runner/work/SIL-translation-test/SIL-translation-test
+          git ls-tree -r --name-only origin/l10n_crowdin_action -- SIL-translation-test/odt-output/docs
           #rm -rf odt-output
-          echo "----------------------------------"
           
       - name: Commit and push (git)
         run: | 
