@@ -24,7 +24,7 @@ jobs:
         run: |
           find docs-en -type f -name "*.fodt" | while read file; do
             #outdir="$(dirname "$file")"
-            echo dirname
+            echo "$(dirname "$file")"
             mkdir -p "docs-en/odt/"
             echo "$file" "$outdir"
           done
