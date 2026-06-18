@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:title>Scripture App Builder - Installation Instructions</dc:title><meta:initial-creator>Richard Margetts</meta:initial-creator><meta:editing-cycles>12</meta:editing-cycles><meta:print-date>2019-01-04T10:26:00</meta:print-date><meta:creation-date>2025-09-02T14:30:00</meta:creation-date><dc:date>2026-06-16T14:08:20.802503296</dc:date><meta:editing-duration>PT4M2S</meta:editing-duration><meta:generator>LibreOffice/26.2.4.2$Linux_X86_64 LibreOffice_project/620$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="9" meta:object-count="0" meta:page-count="14" meta:paragraph-count="203" meta:word-count="2245" meta:character-count="14380" meta:non-whitespace-character-count="12360"/><meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
+ <office:meta><dc:title>Scripture App Builder - Installation Instructions</dc:title><meta:initial-creator>Richard Margetts</meta:initial-creator><meta:editing-cycles>13</meta:editing-cycles><meta:print-date>2019-01-04T10:26:00</meta:print-date><meta:creation-date>2025-09-02T14:30:00</meta:creation-date><dc:date>2026-06-16T15:24:27.844421882</dc:date><meta:editing-duration>PT4M39S</meta:editing-duration><meta:generator>LibreOffice/26.2.4.2$Linux_X86_64 LibreOffice_project/620$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="9" meta:object-count="0" meta:page-count="13" meta:paragraph-count="183" meta:word-count="1920" meta:character-count="12124" meta:non-whitespace-character-count="10405"/><meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">393171</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">306917</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">54903</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">18655</config:config-item>
@@ -14,11 +14,11 @@
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
      <config:config-item config:name="ViewLeft" config:type="long">19851</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">407760</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">310192</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">393171</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">306917</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">54901</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">411824</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">325570</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -123,7 +123,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -152,7 +152,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1404892</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1513232</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -1830,8 +1830,12 @@
    <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0in" style:contextual-spacing="false"/>
   </style:style>
   <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum5"/>
-  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum15"/>
-  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum16"/>
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum5">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="00171710"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="GB" officeooo:paragraph-rsid="00171710"/>
+  </style:style>
   <style:style style:name="P69" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum8">
    <style:paragraph-properties fo:margin-left="0.4957in" fo:margin-top="0.0835in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:text-indent="-0.248in" style:auto-text-indent="false"/>
   </style:style>
@@ -1851,20 +1855,10 @@
   <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:keep-with-next="always"/>
   </style:style>
-  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="3.9618in"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Command_20_Line">
-   <style:paragraph-properties fo:keep-with-next="always"/>
-  </style:style>
-  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:text-indent="-0.248in" style:auto-text-indent="false" fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Courier New" fo:font-size="10pt" fo:language="en" fo:country="GB" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -1985,7 +1979,7 @@
    <style:graphic-properties style:horizontal-pos="center" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
   <style:style style:name="fr4" style:family="graphic" style:parent-style-name="Graphics">
-   <style:graphic-properties style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+   <style:graphic-properties style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
   <style:style style:name="Sect1" style:family="section">
    <style:section-properties style:editable="false">
@@ -2011,9 +2005,9 @@
  <office:master-styles>
   <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
    <style:footer>
-    <text:p text:style-name="Footer"><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="paragraph" svg:y="0.0008in" draw:z-index="20">
+    <text:p text:style-name="Footer"><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="paragraph" svg:y="0.0008in" draw:z-index="19">
       <draw:text-box fo:min-height="0.0161in" fo:min-width="0.0161in">
-       <text:p text:style-name="P1"><text:span text:style-name="Page_20_Number"><text:page-number text:select-page="current">14</text:page-number></text:span></text:p>
+       <text:p text:style-name="P1"><text:span text:style-name="Page_20_Number"><text:page-number text:select-page="current">13</text:page-number></text:span></text:p>
       </draw:text-box>
      </draw:frame></text:p>
    </style:footer>
@@ -7155,7 +7149,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P47" loext:marker-style-name="T5"><text:span text:style-name="T5">If the installation was successful, you will see the version numbers displayed in green.</text:span><text:span text:style-name="T5"/></text:p>
    <text:p text:style-name="P48" loext:marker-style-name="T16"/>
    <text:p text:style-name="P49" loext:marker-style-name="T24"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T5"><text:soft-page-break/><draw:frame draw:style-name="fr2" draw:name="Image4" text:anchor-type="as-char" svg:width="5.9846in" svg:height="3.8571in" draw:z-index="16"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P3" loext:marker-style-name="T5"><text:soft-page-break/><draw:frame draw:style-name="fr2" draw:name="Image4" text:anchor-type="as-char" svg:width="5.9846in" svg:height="3.8571in" draw:z-index="15"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA7EAAAJhCAIAAAAYCKCVAAAAAXNSR0IArs4c6QAAbbJJREFU
        eF7t3Qt0HNWd+PlqJzwDlvFjEv5/CEHCwgPD7F8ZVhubR5g/kuJHCHhWZLLs2RDhxCZwFoOd
        2KOTAx7DyRo7PsZmx87YwQjP+W82E7RjEuJHLGcmIWBn9SfxOWHNGNkS4TH/DH/b2JJ5k7j3
@@ -7807,7 +7801,7 @@ Description automatically generated</svg:desc>
    </table:table>
    <text:p text:style-name="P7" loext:marker-style-name="T5"/>
    <text:p text:style-name="P7" loext:marker-style-name="T5"/>
-   <text:h text:style-name="P15" text:outline-level="2"><text:bookmark-start text:name="_Toc227140712"/><text:bookmark-start text:name="_Toc44921079"/>Install<text:bookmark-end text:name="_Toc44921079"/>ing aeneas for audio-text synchronization<text:bookmark-end text:name="_Toc227140712"/></text:h>
+   <text:h text:style-name="P15" text:outline-level="2"><text:bookmark-start text:name="_Toc44921079"/><text:bookmark-start text:name="_Toc227140712"/>Install<text:bookmark-end text:name="_Toc44921079"/>ing aeneas for audio-text synchronization<text:bookmark-end text:name="_Toc227140712"/></text:h>
    <text:p text:style-name="P53" loext:marker-style-name="T28"><text:span text:style-name="T28">Scripture App Builder uses a tool called </text:span><text:span text:style-name="T29">aeneas</text:span><text:span text:style-name="T28"> to synchronise text and audio.</text:span></text:p>
    <text:p text:style-name="P54" loext:marker-style-name="T28"><text:span text:style-name="T28">To set up </text:span><text:span text:style-name="T30">aeneas</text:span><text:span text:style-name="T28"> on Windows, there are several programs and modules to download and install: FFmpeg, eSpeak, Python and aeneas. These are installed with a single setup program.</text:span></text:p>
    <text:list text:style-name="WWNum9">
@@ -7839,7 +7833,7 @@ Description automatically generated</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P7" loext:marker-style-name="T5"/>
-   <text:p text:style-name="P59" loext:marker-style-name="T5"><text:soft-page-break/><draw:frame draw:style-name="fr2" draw:name="Image 11" text:anchor-type="as-char" svg:width="4.5134in" svg:height="3.5in" draw:z-index="12"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P59" loext:marker-style-name="T5"><text:soft-page-break/><draw:frame draw:style-name="fr2" draw:name="Image 11" text:anchor-type="as-char" svg:width="4.5134in" svg:height="3.5in" draw:z-index="11"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAfMAAAGDCAIAAACwT27dAAAAAXNSR0IArs4c6QAASHtJREFU
        eF7tnX+MFVeW36tbE2+82pm1Nhtss+7QtkOwUBNmsTV4MBtgOo7BJuKPmciOvYJJTDoyI3pA
        wmLWGC2SgV0EKxycWSsdLA2MemUrnj9asg0ebxvIwow98lhm6UF4EQarHQazP+Qk3t2stTvO
@@ -8411,7 +8405,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P40" loext:marker-style-name="T5"/>
    <text:p text:style-name="P64" loext:marker-style-name="T5"><text:span text:style-name="T22">Important</text:span><text:span text:style-name="T5">: If Scripture App Builder was open while you installed aeneas, close it and start it again to ensure that it picks up the changes to your Path settings.</text:span></text:p>
    <text:p text:style-name="P7" loext:marker-style-name="T5"/>
-   <text:h text:style-name="P11" text:outline-level="1" loext:marker-style-name="T5"><text:bookmark-start text:name="OLE_LINK1"/><text:bookmark-start text:name="OLE_LINK2"/><text:bookmark-start text:name="OLE_LINK5"/><text:bookmark-start text:name="_Toc227140713"/><text:span text:style-name="T5">Linux Installation</text:span><text:bookmark-end text:name="_Toc227140713"/><text:span text:style-name="T5"/></text:h>
+   <text:h text:style-name="P11" text:outline-level="1" loext:marker-style-name="T5"><text:bookmark-start text:name="_Toc227140713"/><text:bookmark-start text:name="OLE_LINK5"/><text:bookmark-start text:name="OLE_LINK2"/><text:bookmark-start text:name="OLE_LINK1"/><text:span text:style-name="T5">Linux Installation</text:span><text:bookmark-end text:name="_Toc227140713"/><text:span text:style-name="T5"/></text:h>
    <text:p text:style-name="P16" loext:marker-style-name="T5"><text:span text:style-name="T5">To run Scripture App Builder on Linux, you need to have 3 components installed on your computer:</text:span><text:span text:style-name="T5"/></text:p>
    <text:list text:style-name="WWNum5">
     <text:list-item>
@@ -8421,51 +8415,31 @@ Description automatically generated</svg:desc>
      <text:p text:style-name="P66" loext:marker-style-name="T5"><text:span text:style-name="T5">OpenJDK Java Development Kit (JDK)</text:span><text:span text:style-name="T5"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P66" loext:marker-style-name="T5"><text:span text:style-name="T5">Android Software Development Kit (SDK)</text:span><text:span text:style-name="T5"/></text:p>
+     <text:p text:style-name="P67" loext:marker-style-name="T5">Android</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P67" loext:marker-style-name="T5"/>
+     <text:p text:style-name="P67" loext:marker-style-name="T5"/>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P7" loext:marker-style-name="T5"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T5"><text:span text:style-name="T5">There are two ways to install Scripture App Builder for Linux:</text:span><text:span text:style-name="T5"/></text:p>
-   <text:list text:style-name="WWNum15">
-    <text:list-item>
-     <text:p text:style-name="P67" loext:marker-style-name="T5"><text:a xlink:type="simple" xlink:href="https://flathub.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T5">Flathub</text:span></text:span></text:a><text:span text:style-name="T5">: The Linux App Store – available for many distributions of Linux</text:span></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P67" loext:marker-style-name="T5"><text:a xlink:type="simple" xlink:href="https://packages.sil.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T5">SIL repository for Ubuntu</text:span></text:span></text:a> <text:span text:style-name="T5">– available for some versions of Ubuntu-based distributions (including </text:span><text:a xlink:type="simple" xlink:href="https://www.wastalinux.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T5">Wasta-Linux</text:span></text:span></text:a><text:span text:style-name="T5">) </text:span></text:p>
-    </text:list-item>
+   <text:p text:style-name="P68" loext:marker-style-name="T5"/>
+   <text:p text:style-name="P68" loext:marker-style-name="T5"/>
+   <text:list text:continue-numbering="true" text:style-name="WWNum5">
+    <text:list-header>
+     <text:p text:style-name="P67" loext:marker-style-name="T5"><text:bookmark-start text:name="_Hlk534311954"/>nstalling the packages.</text:p>
+    </text:list-header>
    </text:list>
-   <text:h text:style-name="P15" text:outline-level="2"><text:bookmark-start text:name="_Toc227140714"/>Flathub<text:bookmark-end text:name="_Toc227140714"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T5"><text:span text:style-name="T5">Flathub is required for Ubuntu 24.04 (Noble) and newer or other non-Ubuntu distributions. To install using Flathub, follow the installation instructions at </text:span><text:a xlink:type="simple" xlink:href="https://flathub.org/setup" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T5">https://flathub.org/setup</text:span></text:span></text:a><text:span text:style-name="T5"> for your specific distribution. Search for Scripture App Builder in the distribution-specific store. You will need to install the JDK and Android SDK separately. </text:span></text:p>
-   <text:p text:style-name="P7" loext:marker-style-name="T5"/>
-   <text:list text:style-name="WWNum16">
-    <text:list-item>
-     <text:p text:style-name="P68" loext:marker-style-name="T5"><text:span text:style-name="T5">To install the JDK, see section 2.2.1 Installing the JDK using the Install wizard.</text:span><text:span text:style-name="T5"/></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P68" loext:marker-style-name="T5"><text:span text:style-name="T5">To install the Android SDK, see section 2.3.1 Downloading the Android SDK packages from the internet.</text:span><text:span text:style-name="T5"/></text:p>
-    </text:list-item>
-   </text:list>
-   <text:h text:style-name="P15" text:outline-level="2"><text:bookmark-start text:name="_Toc227140715"/>SIL repository for Ubuntu<text:bookmark-end text:name="_Toc227140715"/><text:bookmark-start text:name="_Hlk534311954"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T5"><text:span text:style-name="T5">The Ubuntu-based package for Scripture App Builder already includes the dependencies on the package for OpenJDK and a package that will download the Android SDK from the internet and install it. <text:s/></text:span><text:span text:style-name="T5"/></text:p>
-   <text:p text:style-name="P7" loext:marker-style-name="T5"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T5"><text:span text:style-name="T5">You have the following installation options for how the Android SDK is installed:</text:span><text:span text:style-name="T5"/></text:p>
    <text:list text:style-name="WWNum8">
-    <text:list-item>
-     <text:p text:style-name="P69" loext:marker-style-name="T5"><text:span text:style-name="T5">Follow the instructions in section 3.2.2 to download everything directly from the Internet.</text:span><text:span text:style-name="T5"/></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P69" loext:marker-style-name="T5"><text:span text:style-name="T5">Follow the instructions in sections 3.2.3 through 3.2.5 to download the Android SDK files before installing the packages.</text:span><text:span text:style-name="T5"/></text:p>
-    </text:list-item>
-    <text:list-item>
+    <text:list-header>
      <text:p text:style-name="P69" loext:marker-style-name="T5"><text:span text:style-name="T5">Follow the instructions in section 3.2.6 if you already have the Android SDK installed and you do not want another copy installed.</text:span><text:bookmark-end text:name="_Hlk534311954"/><text:span text:style-name="T5"/></text:p>
-    </text:list-item>
+    </text:list-header>
    </text:list>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="_Toc227140716"/>Add SIL repository for Ubuntu<text:bookmark-end text:name="_Toc227140716"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T5"><text:span text:style-name="T5">To install packages from the SIL repository for Ubuntu, the repository must be added to the APT sources. </text:span><text:span text:style-name="T5"/></text:p>
    <text:p text:style-name="P7" loext:marker-style-name="T5"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T5"><text:span text:style-name="T33">Note: </text:span><text:span text:style-name="T17">Wasta-Linux</text:span><text:span text:style-name="T5"> already includes configuration for the SIL repository for Ubuntu and so you can skip this section.</text:span></text:p>
    <text:p text:style-name="P7" loext:marker-style-name="T5"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T5"><text:soft-page-break/><text:span text:style-name="T5">If you are using another </text:span><text:span text:style-name="T17">Ubuntu-based distribution</text:span><text:span text:style-name="T5">, please follow the instructions below (from the section “Enable access to SIL software and font apt/deb packages in Ubuntu” on </text:span><text:a xlink:type="simple" xlink:href="https://packages.sil.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T5">https://packages.sil.org</text:span></text:span></text:a><text:span text:style-name="T5">).</text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T5"><text:span text:style-name="T5">If you are using another </text:span><text:span text:style-name="T17">Ubuntu-based distribution</text:span><text:span text:style-name="T5">, please follow the instructions below (from the section “Enable access to SIL software and font apt/deb packages in Ubuntu” on </text:span><text:a xlink:type="simple" xlink:href="https://packages.sil.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T5">https://packages.sil.org</text:span></text:span></text:a><text:span text:style-name="T5">).</text:span></text:p>
    <text:p text:style-name="P7" loext:marker-style-name="T5"/>
    <text:list text:style-name="WWNum6">
     <text:list-item>
@@ -8486,14 +8460,14 @@ Description automatically generated</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Command_20_Line" loext:marker-style-name="T34"><text:span text:style-name="T34">(. /etc/os-release &amp;&amp; sudo tee /etc/apt/sources.list.d/packages-sil-org.list&gt;/dev/null &lt;&lt;&lt; &quot;deb http://packages.sil.org/$ID $VERSION_CODENAME main&quot;)</text:span><text:span text:style-name="T34"/></text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="_Toc227140717"/>Installing all packages from the Internet<text:bookmark-end text:name="_Toc227140717"/><text:bookmark text:name="OLE_LINK9"/><text:bookmark text:name="OLE_LINK10"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="_Toc227140717"/>Installing all packages from the Internet<text:bookmark-end text:name="_Toc227140717"/><text:bookmark text:name="OLE_LINK10"/><text:bookmark text:name="OLE_LINK9"/></text:h>
    <text:p text:style-name="P72" loext:marker-style-name="T5"><text:span text:style-name="T5">To install all the required software from the command line, type:</text:span><text:span text:style-name="T5"/></text:p>
    <text:p text:style-name="P73">sudo apt-get update</text:p>
    <text:p text:style-name="Command_20_Line">sudo apt-get install -y scripture-app-builder</text:p>
    <text:p text:style-name="P7" loext:marker-style-name="T5"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T5"><text:span text:style-name="T5">Note: </text:span><text:span text:style-name="T16">Wasta-Linux</text:span><text:span text:style-name="T5"> does not automatically install recommended packages. <text:s/>To get everything installed, also install android-sdk-installer.</text:span></text:p>
-   <text:p text:style-name="Command_20_Line"><text:bookmark-start text:name="OLE_LINK4"/><text:bookmark-start text:name="OLE_LINK3"/>sudo apt-get install -y scripture-app-builder android-sdk-installer</text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-end text:name="OLE_LINK4"/><text:bookmark-end text:name="OLE_LINK3"/><text:bookmark-start text:name="_Toc227140718"/>Downloading the Android SDK files prior to package installation<text:bookmark-end text:name="_Toc227140718"/></text:h>
+   <text:p text:style-name="Standard" loext:marker-style-name="T5"><text:soft-page-break/><text:span text:style-name="T5">Note: </text:span><text:span text:style-name="T16">Wasta-Linux</text:span><text:span text:style-name="T5"> does not automatically install recommended packages. <text:s/>To get everything installed, also install android-sdk-installer.</text:span></text:p>
+   <text:p text:style-name="Command_20_Line"><text:bookmark-start text:name="OLE_LINK3"/><text:bookmark-start text:name="OLE_LINK4"/>sudo apt-get install -y scripture-app-builder android-sdk-installer</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-end text:name="OLE_LINK3"/><text:bookmark-end text:name="OLE_LINK4"/><text:bookmark-start text:name="_Toc227140718"/>Downloading the Android SDK files prior to package installation<text:bookmark-end text:name="_Toc227140718"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T5"><text:span text:style-name="T5">The </text:span><text:span text:style-name="T16">android-sdk-installer</text:span><text:span text:style-name="T5"> package simplifies downloading and installing the Android SDK. Its default behaviour is to download the appropriate files from Google’s Android software repository during the install. If this would be a problem due to bandwidth usage during the install, the files can be downloaded prior to installation.</text:span></text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T5"><text:bookmark-start text:name="_Toc227140719"/><text:span text:style-name="T5">Downloading the Android SDK files</text:span><text:bookmark-end text:name="_Toc227140719"/><text:span text:style-name="T5"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T5"><text:span text:style-name="T5">On a computer connected to the internet, use the following command line instructions to create a new folder and download 4 zip files (approximately 400MB). <text:s/></text:span><text:span text:style-name="T5"/></text:p>
@@ -8502,11 +8476,11 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="Command_20_Line">wget -ci http://bit.ly/android-sdk-urls</text:p>
    <text:p text:style-name="P74" loext:marker-style-name="T35"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T5"><text:span text:style-name="T5">Note: the -c option will allow the downloads to be resumed if it fails part way through the download.</text:span><text:span text:style-name="T5"/></text:p>
-   <text:p text:style-name="P74" loext:marker-style-name="T35"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P74" loext:marker-style-name="T35"/>
    <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T5"><text:bookmark-start text:name="_Toc227140720"/><text:span text:style-name="T5">Provide zip files during the package install</text:span><text:bookmark-end text:name="_Toc227140720"/><text:span text:style-name="T5"/></text:h>
    <text:p text:style-name="P75" loext:marker-style-name="T5"><text:span text:style-name="T5">Use </text:span><text:span text:style-name="T16">debconf</text:span><text:span text:style-name="T5"> to pre-seed the package with the location of the files and install the package.</text:span></text:p>
    <text:p text:style-name="P7" loext:marker-style-name="T5"/>
-   <text:p text:style-name="P7" loext:marker-style-name="T5"><draw:frame draw:style-name="fr3" draw:name="Image1" text:anchor-type="char" svg:width="1.9264in" svg:height="1.9264in" draw:z-index="21"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P7" loext:marker-style-name="T5"><draw:frame draw:style-name="fr3" draw:name="Image1" text:anchor-type="char" svg:width="1.9264in" svg:height="1.9264in" draw:z-index="20"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAQ4AAAEOCAIAAAD3027yAAAAAXNSR0IB2cksfwAAAARnQU1B
        AACxjwv8YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAA
        AAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB+oGCxQEI/5uXz8AACAASURBVHja7L35s2XH
@@ -10075,25 +10049,14 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="Command_20_Line">echo android-sdk-installer android-sdk-installer/dldir string ~/Downloads/android-sdk-zips | sudo debconf-set-selections</text:p>
    <text:p text:style-name="Command_20_Line">sudo apt-get install android-sdk-installer</text:p>
    <text:p text:style-name="Command_20_Line">echo android-sdk-installer android-sdk-installer/dldir string | sudo debconf-set-selections</text:p>
-   <text:p text:style-name="P74" loext:marker-style-name="T35"/>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="_Toc227140721"/>Installing without Android SDK<text:bookmark-end text:name="_Toc227140721"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T5"><text:span text:style-name="T5">The </text:span><text:span text:style-name="T16">android-sdk-installer</text:span><text:span text:style-name="T5"> package is a recommended package for the </text:span><text:span text:style-name="T16">scripture-app-builder</text:span><text:span text:style-name="T5"> package. If the Android SDK is already installed, Scripture App Builder can use the current installation.</text:span></text:p>
-   <text:p text:style-name="Command_20_Line">sudo apt-get update</text:p>
-   <text:p text:style-name="Command_20_Line">sudo apt-get install scripture-app-builder --no-install-recommends</text:p>
-   <text:p text:style-name="P76" loext:marker-style-name="T5"><text:span text:style-name="T5"><text:tab/></text:span><text:span text:style-name="T5"/></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T5"><text:span text:style-name="T5">Set the ANDROID_HOME environment variable to the path of the Android SDK installation to allow Scripture App Builder to find it automatically. Otherwise you can use the </text:span><text:span text:style-name="T16">Tools</text:span><text:span text:style-name="T5"> </text:span><text:span text:style-name="T18"></text:span><text:span text:style-name="T5"> </text:span><text:span text:style-name="T16">Settings</text:span><text:span text:style-name="T5"> dialog in Scripture App Builder to specify the path.</text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T35"/>
    <text:p text:style-name="P7" loext:marker-style-name="T5"/>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="_Toc227140722"/>Automating Android SDK installation<text:bookmark-end text:name="_Toc227140722"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T5"><text:span text:style-name="T5">The </text:span><text:span text:style-name="T16">android-sdk-installer</text:span><text:span text:style-name="T5"> will prompt you to accept the license for the Android SDK. To automate the installation (e.g. in an Ansible playbook), pre-seed the answer to this question.</text:span></text:p>
-   <text:p text:style-name="P77">echo android-sdk-installer android-sdk-installer/accepted-android-sdk-eula boolean true | sudo debconf-set-selections</text:p>
-   <text:p text:style-name="Command_20_Line">sudo apt-get install android-sdk-installer</text:p>
-   <text:p text:style-name="P7" loext:marker-style-name="T5"/>
-   <text:h text:style-name="P78" text:outline-level="1" loext:marker-style-name="T5"><text:bookmark-end text:name="OLE_LINK2"/><text:bookmark-end text:name="OLE_LINK5"/><text:bookmark-end text:name="OLE_LINK1"/><text:bookmark-start text:name="_Toc227140723"/><text:span text:style-name="T5">How to build your first app</text:span><text:bookmark-end text:name="_Toc227140723"/><text:span text:style-name="T5"/></text:h>
+   <text:h text:style-name="P76" text:outline-level="1" loext:marker-style-name="T5"><text:bookmark-end text:name="OLE_LINK1"/><text:bookmark-end text:name="OLE_LINK5"/><text:bookmark-end text:name="OLE_LINK2"/><text:bookmark-start text:name="_Toc227140723"/><text:span text:style-name="T5">How to build your first app</text:span><text:bookmark-end text:name="_Toc227140723"/><text:span text:style-name="T5"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T5"><text:span text:style-name="T5">To build your first app with Scripture App Builder, follow the instructions in the first chapter of the document </text:span><text:span text:style-name="T4">‘Scripture App Builder – 2 Building Apps’</text:span><text:span text:style-name="T5">.</text:span></text:p>
    <text:p text:style-name="P7" loext:marker-style-name="T5"/>
    <text:p text:style-name="P7" loext:marker-style-name="T5"/>
    <text:p text:style-name="P7" loext:marker-style-name="T5"/>
-   <text:p text:style-name="P79" loext:marker-style-name="T36"><draw:frame draw:style-name="fr4" draw:name="Image5" text:anchor-type="char" svg:width="5.9846in" svg:height="3.5602in" draw:z-index="22"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P77" loext:marker-style-name="T36"><draw:frame draw:style-name="fr4" draw:name="Image5" text:anchor-type="char" svg:width="4.9634in" svg:height="3.5602in" draw:z-index="21"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAlgAAAFlCAIAAAC4CAFlAAAACXBIWXMAAAsTAAALEwEAmpwY
        AAAgAElEQVR4nMS82ZIkSXItdnQxc/dYcq2lq7tnwQAYguQFKXKf+cAP4kfwkS/8Cv4EP4Gk
        8IkiV64Qg8Es6O7pqq6qzIzN3RZV5YNnVTcGgAi4m6RIZkZGeFqYm+lRPedo0H/zP/yvc1mW
