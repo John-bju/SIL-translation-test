@@ -115,7 +115,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -139,7 +139,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">519765</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">542405</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">true</config:config-item>
@@ -173,7 +173,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Times New Roman1" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Times New Roman1" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -3205,7 +3205,7 @@
  <office:master-styles>
   <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
    <style:footer>
-    <text:p text:style-name="Footer"><draw:frame draw:style-name="fr1" draw:name="Frame8" text:anchor-type="paragraph" svg:y="0.0008in" draw:z-index="47">
+    <text:p text:style-name="Footer"><draw:frame draw:style-name="fr1" draw:name="Frame8" text:anchor-type="paragraph" svg:y="0.0008in" draw:z-index="46">
       <draw:text-box fo:min-height="0.0161in" fo:min-width="0.0161in">
        <text:p text:style-name="P1"><text:span text:style-name="Page_20_Number"><text:page-number text:select-page="current">24</text:page-number></text:span></text:p>
       </draw:text-box>
@@ -4701,7 +4701,7 @@
    <text:p text:style-name="P14" loext:marker-style-name="T4"/>
    <text:p text:style-name="P14" loext:marker-style-name="T4"/>
    <text:p text:style-name="P14" loext:marker-style-name="T4"/>
-   <text:p text:style-name="P4" loext:marker-style-name="T4"><draw:frame text:anchor-type="as-char" draw:z-index="0" draw:name="Picture 28" draw:style-name="gr1" draw:text-style-name="P183" svg:width="0.6858in" svg:height="0.7594in">
+   <text:p text:style-name="P4" loext:marker-style-name="T4"><draw:frame text:anchor-type="as-char" draw:z-index="46" draw:name="Picture 28" draw:style-name="gr1" draw:text-style-name="P183" svg:width="0.6858in" svg:height="0.7594in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAGAAAABsCAIAAAAaOCAUAAAALHRFWHRDcmVhdGlvbiBUaW1l
        AE1vbiAzMCBKdW4gMjAxNCAxMzo0NzozNiAtMDAwMECFhwQAAAAHdElNRQfeBwQPFRYRn4jA
@@ -4890,7 +4890,7 @@
    </text:table-of-content>
    <text:p text:style-name="P44" loext:marker-style-name="T22"/>
    <text:p text:style-name="P45" loext:marker-style-name="T22"/>
-   <text:list xml:id="list4015755437" text:style-name="WWNum13">
+   <text:list xml:id="list2090491928" text:style-name="WWNum13">
     <text:list-item>
      <text:h text:style-name="P89" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc500235124"/><text:span text:style-name="T3">Introduction</text:span><text:bookmark-end text:name="_Toc500235124"/><text:span text:style-name="T3"/></text:h>
     </text:list-item>
@@ -4929,7 +4929,7 @@
    <text:p text:style-name="P24" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
    <text:p text:style-name="P57" loext:marker-style-name="T25"><text:span text:style-name="T25">Timing files</text:span><text:span text:style-name="T25"/></text:p>
    <text:p text:style-name="P58" loext:marker-style-name="T3"><text:span text:style-name="T7">A timing file for a single chapter</text:span><text:span text:style-name="T3"> will look like this, with a line for the timing of each phrase to be highlighted:</text:span></text:p>
-   <text:p text:style-name="P7" loext:marker-style-name="T3"><draw:custom-shape text:anchor-type="as-char" draw:z-index="1" draw:name="Shape2" draw:style-name="gr2" draw:text-style-name="P184" svg:width="4.6252in" svg:height="3.5004in">
+   <text:p text:style-name="P7" loext:marker-style-name="T3"><draw:custom-shape text:anchor-type="as-char" draw:z-index="0" draw:name="Shape2" draw:style-name="gr2" draw:text-style-name="P184" svg:width="4.6252in" svg:height="3.5004in">
      <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T26"><text:span text:style-name="T26">8.252945<text:tab/><text:tab/>8.252945<text:tab/><text:tab/>a</text:span><text:span text:style-name="T26"/></text:p>
      <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T26"><text:span text:style-name="T26">16.401422<text:tab/><text:tab/>16.401422<text:tab/><text:tab/>b</text:span><text:span text:style-name="T26"/></text:p>
      <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T26"><text:span text:style-name="T26">27.235258<text:tab/><text:tab/>27.235258<text:tab/><text:tab/>c</text:span><text:span text:style-name="T26"/></text:p>
@@ -5007,7 +5007,7 @@
    <text:p text:style-name="P19" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
    <text:p text:style-name="P19" loext:marker-style-name="T3"/>
    <text:p text:style-name="P19" loext:marker-style-name="T3"/>
-   <text:list xml:id="list172254692773377" text:continue-list="list4015755437" text:style-name="WWNum13">
+   <text:list xml:id="list183404642472251" text:continue-list="list2090491928" text:style-name="WWNum13">
     <text:list-item>
      <text:h text:style-name="P89" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc500235125"/><text:span text:style-name="T3">Getting Started</text:span><text:bookmark-end text:name="_Toc500235125"/><text:span text:style-name="T3"/></text:h>
      <text:list>
@@ -5274,7 +5274,7 @@
    <text:p text:style-name="P19" loext:marker-style-name="T3"/>
    <text:p text:style-name="P19" loext:marker-style-name="T3"/>
    <text:p text:style-name="P19" loext:marker-style-name="T3"/>
-   <text:list text:continue-list="list172254692773377" text:style-name="WWNum13">
+   <text:list text:continue-list="list183404642472251" text:style-name="WWNum13">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -5285,7 +5285,7 @@
    </text:list>
    <text:p text:style-name="P68" loext:marker-style-name="T3"><text:span text:style-name="T3">Install the </text:span><text:span text:style-name="T7">Audacity</text:span><text:span text:style-name="T3"> sound-editing program if you do not already have it. Please see </text:span><text:span text:style-name="T7">Appendix: How to install Audacity</text:span><text:span text:style-name="T3">.</text:span></text:p>
    <text:p text:style-name="P26" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P8"><draw:frame text:anchor-type="as-char" draw:z-index="2" draw:name="Shape3" draw:style-name="gr1" draw:text-style-name="P183" svg:width="1.898in" svg:height="0.7413in">
+   <text:p text:style-name="P8"><draw:frame text:anchor-type="as-char" draw:z-index="1" draw:name="Shape3" draw:style-name="gr1" draw:text-style-name="P183" svg:width="1.898in" svg:height="0.7413in">
      <draw:image draw:mime-type="image/jpeg">
       <office:binary-data>/9j/4AAQSkZJRgABAQEASABIAAD/4QAWRXhpZgAATU0AKgAAAAgAAAAAAAD/2wBDAAUDBAQE
        AwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIe
@@ -5420,7 +5420,7 @@
      </draw:image>
     </draw:frame></text:p>
    <text:p text:style-name="P21" loext:marker-style-name="T3"/>
-   <text:list xml:id="list172255411119976" text:continue-numbering="true" text:style-name="WWNum13">
+   <text:list xml:id="list183403875601224" text:continue-numbering="true" text:style-name="WWNum13">
     <text:list-item>
      <text:h text:style-name="P92" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc500235128"/><text:span text:style-name="T3">Producing Timing Files</text:span><text:bookmark-end text:name="_Toc500235128"/><text:span text:style-name="T3"/></text:h>
     </text:list-item>
@@ -5450,7 +5450,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P19" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P4" loext:marker-style-name="T3"><draw:frame text:anchor-type="as-char" draw:z-index="3" draw:name="Shape4" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.9815in" svg:height="3.287in">
+   <text:p text:style-name="P4" loext:marker-style-name="T3"><draw:frame text:anchor-type="as-char" draw:z-index="2" draw:name="Shape4" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.9815in" svg:height="3.287in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA38AAAHsCAIAAADtuIMcAAAAAXNSR0IArs4c6QAAtytJREFU
        eF7tvQucFcW57t0DeMc7USEgICiEjTFBBRJQIBgkwmfgiDFb9naIom7xDGiEaDBsNRyJRlRg
@@ -6350,7 +6350,7 @@
    <text:p text:style-name="P26" loext:marker-style-name="T3"/>
    <text:p text:style-name="P73" loext:marker-style-name="T4"><text:span text:style-name="T4">If you are using a Mac, the shortcut to use is </text:span><text:span text:style-name="T6">Command B</text:span><text:span text:style-name="T4">.</text:span></text:p>
    <text:p text:style-name="P26" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P4" loext:marker-style-name="T3"><draw:frame text:anchor-type="as-char" draw:z-index="4" draw:name="Shape5" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.9815in" svg:height="3.5004in">
+   <text:p text:style-name="P4" loext:marker-style-name="T3"><draw:frame text:anchor-type="as-char" draw:z-index="3" draw:name="Shape5" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.9815in" svg:height="3.5004in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA38AAAIMCAIAAADKFIIDAAAAAXNSR0IArs4c6QAAwf5JREFU
        eF7tvQucFcWZ998DeMc7UYeAgKAQFmNEBRJQQIwS4U/gFaMruw5R0BV3QCNEg2HV5ZV4wQvM
@@ -7351,7 +7351,7 @@
    <text:p text:style-name="P19" loext:marker-style-name="T3"/>
    <text:p text:style-name="P75" loext:marker-style-name="T4"><text:span text:style-name="T4">If you are quick, you’ll find there is no need to stop the audio for this. The cursor is in the new label already so all you have to do is type the letters or numbers. If you miss typing a label, you can always come back to it at the end.</text:span><text:span text:style-name="T4"/></text:p>
    <text:p text:style-name="P19" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P4" loext:marker-style-name="T3"><text:soft-page-break/><draw:frame text:anchor-type="as-char" draw:z-index="5" draw:name="Shape6" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.9815in" svg:height="3.5004in">
+   <text:p text:style-name="P4" loext:marker-style-name="T3"><text:soft-page-break/><draw:frame text:anchor-type="as-char" draw:z-index="4" draw:name="Shape6" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.9815in" svg:height="3.5004in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA38AAAIMCAIAAADKFIIDAAAAAXNSR0IArs4c6QAA0oBJREFU
        eF7tnQm8FcWV//sBxn036CMgIBiJg1FxgQQUEKNEGAOjiUYyQuKS0cwDjZAYDVHDaEzECLy/
@@ -8376,7 +8376,7 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P8" loext:marker-style-name="T3"><draw:frame text:anchor-type="as-char" draw:z-index="6" draw:name="Shape7" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.9815in" svg:height="3.5004in">
+   <text:p text:style-name="P8" loext:marker-style-name="T3"><draw:frame text:anchor-type="as-char" draw:z-index="5" draw:name="Shape7" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.9815in" svg:height="3.5004in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA38AAAIMCAIAAADKFIIDAAAAAXNSR0IArs4c6QAAx2NJREFU
        eF7t/QucFcWZ/4/3AN5RUIm3MMpF1LAQ4y2aOAbGMUKEX8CvF4zuMiYixvgfhAhxE8NqljVZ
@@ -9331,7 +9331,7 @@
     </draw:frame></text:p>
    <text:p text:style-name="P23" loext:marker-style-name="T3"/>
    <text:p text:style-name="P75" loext:marker-style-name="T4"><text:span text:style-name="T4">Another way of adding labels is via </text:span><text:span text:style-name="T6">Tracks </text:span><text:span text:style-name="T27"></text:span><text:span text:style-name="T6"> Edit Labels...</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T4">This is an easier way to add timing labels quickly. You can also delete unwanted labels here.<text:line-break/>   </text:span></text:p>
-   <text:p text:style-name="P4" loext:marker-style-name="T4"><draw:frame text:anchor-type="as-char" draw:z-index="7" draw:name="Shape8" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.9913in" svg:height="2.778in">
+   <text:p text:style-name="P4" loext:marker-style-name="T4"><draw:frame text:anchor-type="as-char" draw:z-index="6" draw:name="Shape8" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.9913in" svg:height="2.778in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAssAAAFMCAIAAACyN2ZxAAAAAXNSR0IArs4c6QAAO3FJREFU
        eF7tnUFsFFe678tPd/WyGLZXAtGWkXwX4M1kwVNasjsgk4lZgHRRshovsINmIsJIuMXNIFaI
@@ -9670,7 +9670,7 @@
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">The timing file is now ready to be used in an app.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P19" loext:marker-style-name="T3"/>
    <text:p text:style-name="P19" loext:marker-style-name="T3"/>
-   <text:list xml:id="list172256290196131" text:continue-list="list172255411119976" text:style-name="WWNum13">
+   <text:list xml:id="list183404992473355" text:continue-list="list183403875601224" text:style-name="WWNum13">
     <text:list-item>
      <text:h text:style-name="P90" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc500235129"/><text:span text:style-name="T3">Timing Labels Assistant</text:span><text:bookmark-end text:name="_Toc500235129"/><text:span text:style-name="T3"/></text:h>
     </text:list-item>
@@ -9734,7 +9734,7 @@
      <text:p text:style-name="P167" loext:marker-style-name="T3"><text:span text:style-name="T3">Click on the icon in the taskbar and select </text:span><text:span text:style-name="T8">Exit</text:span><text:span text:style-name="T3">.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list172256423499874" text:continue-list="list172256290196131" text:style-name="WWNum13">
+   <text:list xml:id="list183405612733986" text:continue-list="list183404992473355" text:style-name="WWNum13">
     <text:list-item>
      <text:h text:style-name="P91" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc500235130"/><text:span text:style-name="T3">Usability Tips</text:span><text:bookmark-end text:name="_Toc500235130"/><text:span text:style-name="T3"/></text:h>
      <text:list>
@@ -9760,7 +9760,7 @@
    <text:p text:style-name="P19" loext:marker-style-name="T3"/>
    <text:p text:style-name="P75" loext:marker-style-name="T3"><text:span text:style-name="T3">You are looking for the line that ends with ‘…and Set Cursor’ rather than simply ‘Play/Stop’. </text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P28" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P81" loext:marker-style-name="T3"><draw:frame text:anchor-type="as-char" draw:z-index="8" draw:name="Shape9" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.4724in" svg:height="3.4449in">
+   <text:p text:style-name="P81" loext:marker-style-name="T3"><draw:frame text:anchor-type="as-char" draw:z-index="7" draw:name="Shape9" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.4724in" svg:height="3.4449in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAkgAAAFwCAIAAADMvROlAAAAAXNSR0IArs4c6QAASepJREFU
        eF7tnX9sFEea98uvdvXuvZFuuVt00iuBGEIiEBpO+15474jwinHmdjEYKblgLfxFdLIXyUGQ
@@ -10140,7 +10140,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P29" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P12" loext:marker-style-name="T3"><draw:frame text:anchor-type="as-char" draw:z-index="9" draw:name="Shape10" draw:style-name="gr1" draw:text-style-name="P183" svg:width="3.9815in" svg:height="2.7413in">
+   <text:p text:style-name="P12" loext:marker-style-name="T3"><draw:frame text:anchor-type="as-char" draw:z-index="8" draw:name="Shape10" draw:style-name="gr1" draw:text-style-name="P183" svg:width="3.9815in" svg:height="2.7413in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAX4AAAEHCAIAAAAmlbqiAAAAAXNSR0IArs4c6QAAI5NJREFU
        eF7tnX+MJMdVx3sdX0Rs4wQSkSAOeU5s2CDCkshW5OQceY47zcVeQSSUzVlIJCDv3kIuEn+w
@@ -10325,7 +10325,7 @@
    </text:list>
    <text:p text:style-name="P33" loext:marker-style-name="T3"/>
    <text:p text:style-name="P28" loext:marker-style-name="T3"/>
-   <text:list xml:id="list172256449304753" text:continue-list="list172256423499874" text:style-name="WWNum13">
+   <text:list xml:id="list183404923546913" text:continue-list="list183405612733986" text:style-name="WWNum13">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -10350,7 +10350,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P28" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P82" loext:marker-style-name="T3"><draw:frame text:anchor-type="as-char" draw:z-index="10" draw:name="Shape11" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.4815in" svg:height="3.4449in">
+   <text:p text:style-name="P82" loext:marker-style-name="T3"><draw:frame text:anchor-type="as-char" draw:z-index="9" draw:name="Shape11" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.4815in" svg:height="3.4449in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAkgAAAFwCAIAAADMvROlAAAAAXNSR0IArs4c6QAASgZJREFU
        eF7tnW1sHNd5748uEtz0GmiUWihwAQlamjZECKsit9ZtZYiBlt4mokQBci0i0icZBRkBtCDZ
@@ -10722,7 +10722,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P19" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P82" loext:marker-style-name="T3"><draw:frame text:anchor-type="as-char" draw:z-index="11" draw:name="Shape12" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.4724in" svg:height="3.4358in">
+   <text:p text:style-name="P82" loext:marker-style-name="T3"><draw:frame text:anchor-type="as-char" draw:z-index="10" draw:name="Shape12" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.4724in" svg:height="3.4358in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAkgAAAFwCAIAAADMvROlAAAAAXNSR0IArs4c6QAASN5JREFU
        eF7tnV1oXFl2748uM9xJGjKeYAIBG5dabWxMOQxMQzzXGlyaysSyZXAnFmM/uR8kfFEbq920
@@ -11083,7 +11083,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P28" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P12" loext:marker-style-name="T3"><draw:frame text:anchor-type="as-char" draw:z-index="12" draw:name="Shape13" draw:style-name="gr1" draw:text-style-name="P183" svg:width="3.9079in" svg:height="2.7413in">
+   <text:p text:style-name="P12" loext:marker-style-name="T3"><draw:frame text:anchor-type="as-char" draw:z-index="11" draw:name="Shape13" draw:style-name="gr1" draw:text-style-name="P183" svg:width="3.9079in" svg:height="2.7413in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAXcAAAEHCAIAAADagJFoAAAAAXNSR0IArs4c6QAAIx5JREFU
        eF7tnW2MXNdZx++mdkWTkBZa0SKMshYuW0RZWiWq0jpVZrE1brKCSqhbR0i0IO96oK7EB3bq
@@ -11266,7 +11266,7 @@
    </text:list>
    <text:p text:style-name="P19" loext:marker-style-name="T3"/>
    <text:p text:style-name="P19" loext:marker-style-name="T3"/>
-   <text:list text:continue-list="list172256449304753" text:style-name="WWNum13">
+   <text:list text:continue-list="list183404923546913" text:style-name="WWNum13">
     <text:list-item>
      <text:h text:style-name="P91" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc500235133"/><text:span text:style-name="T3">FAQ</text:span><text:bookmark-end text:name="_Toc500235133"/><text:span text:style-name="T3"/></text:h>
      <text:list>
@@ -11299,7 +11299,7 @@
    <text:p text:style-name="P19" loext:marker-style-name="T3"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">For </text:span><text:span text:style-name="T7">section headings in picture story books</text:span><text:span text:style-name="T3">, add the page number before the label, e.g. 1s1, 1s2, 1s3 for section headings on the first page; 2s1, 2s2, etc. for section headings on the second page.</text:span></text:p>
    <text:p text:style-name="P19" loext:marker-style-name="T3"/>
-   <text:list xml:id="list172255196961157" text:continue-numbering="true" text:style-name="WWNum13">
+   <text:list xml:id="list183404673174530" text:continue-numbering="true" text:style-name="WWNum13">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -11313,7 +11313,7 @@
    <text:p text:style-name="P26" loext:marker-style-name="T3"/>
    <text:p text:style-name="P68" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Here is an example:</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P26" loext:marker-style-name="T3"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T3"><draw:frame text:anchor-type="as-char" draw:z-index="13" draw:name="Shape14" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.9815in" svg:height="3.5004in">
+   <text:p text:style-name="Standard" loext:marker-style-name="T3"><draw:frame text:anchor-type="as-char" draw:z-index="12" draw:name="Shape14" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.9815in" svg:height="3.5004in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA38AAAIMCAIAAADKFIIDAAAAAXNSR0IArs4c6QAAyEJJREFU
        eF7tvQucFcWZ998DeEdBJSqGUS6ihIUY7ySOARwjRPgHfL1GdxkSEaO+gxAhbjSscVlNVBRk
@@ -12290,7 +12290,7 @@
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">To create a label range, drag the &lt; or &gt; part of the label marker.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P19" loext:marker-style-name="T3"/>
    <text:p text:style-name="P19" loext:marker-style-name="T3"/>
-   <text:list text:continue-list="list172255196961157" text:style-name="WWNum13">
+   <text:list text:continue-list="list183404673174530" text:style-name="WWNum13">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -12323,7 +12323,7 @@
    </text:list>
    <text:p text:style-name="P38" loext:marker-style-name="T13"/>
    <text:p text:style-name="P64" loext:marker-style-name="T13"><text:span text:style-name="T13">For version 2.1, the filename is </text:span><text:span text:style-name="T9">audacity-win-2.2.0.exe</text:span><text:span text:style-name="T14">. It is 19 MB in size.</text:span></text:p>
-   <text:p text:style-name="P9" loext:marker-style-name="T9"><draw:frame text:anchor-type="as-char" draw:z-index="14" draw:name="Shape15" draw:style-name="gr1" draw:text-style-name="P183" svg:width="2.5469in" svg:height="0.6024in">
+   <text:p text:style-name="P9" loext:marker-style-name="T9"><draw:frame text:anchor-type="as-char" draw:z-index="13" draw:name="Shape15" draw:style-name="gr1" draw:text-style-name="P183" svg:width="2.5469in" svg:height="0.6024in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAPMAAAA6CAIAAADqc/gUAAAALHRFWHRDcmVhdGlvbiBUaW1l
        AEZyaSAyMyBNYXIgMjAxMiAxMDozNDo1OCAtMDAwMLPRK2YAAAAHdElNRQfcAxcKJDYQg5Lr
@@ -12446,7 +12446,7 @@
      <text:p text:style-name="P175" loext:marker-style-name="T13"><text:span text:style-name="T13">Select English as the language to use :<text:line-break/></text:span><text:span text:style-name="T13"/></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P13" loext:marker-style-name="T13"><draw:frame text:anchor-type="as-char" draw:z-index="15" draw:name="Picture 1" draw:style-name="gr1" draw:text-style-name="P183" svg:width="3.1114in" svg:height="1.5835in">
+   <text:p text:style-name="P13" loext:marker-style-name="T13"><draw:frame text:anchor-type="as-char" draw:z-index="14" draw:name="Picture 1" draw:style-name="gr1" draw:text-style-name="P183" svg:width="3.1114in" svg:height="1.5835in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAASsAAACYCAIAAAAz71iMAAAAAXNSR0IArs4c6QAAF59JREFU
        eF7tXX1wFGWaf3s+kpAvAsJm9QIZhTWci97uQq05CGJM1YHI7aLlCXV/gHuhuMIrZFcSwpKj
@@ -12568,7 +12568,7 @@
     </draw:frame></text:p>
    <text:p text:style-name="P39" loext:marker-style-name="T13"/>
    <text:p text:style-name="P83" loext:marker-style-name="T13"><text:span text:style-name="T13">The Setup Wizard opens:</text:span><text:span text:style-name="T13"/></text:p>
-   <text:p text:style-name="P8" loext:marker-style-name="T9"><draw:frame text:anchor-type="as-char" draw:z-index="16" draw:name="Shape16" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.1949in" svg:height="4.028in">
+   <text:p text:style-name="P8" loext:marker-style-name="T9"><draw:frame text:anchor-type="as-char" draw:z-index="15" draw:name="Shape16" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.1949in" svg:height="4.028in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAfMAAAGDCAIAAACwT27dAAAAAXNSR0IArs4c6QAAh1FJREFU
        eF7tvQmYVNWZBnzurerqvaGbptmh2RExiUvcxSbkT0AmOolmzDjZJmAMYfyTOBASNRn/UZMw
@@ -13223,7 +13223,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P84" loext:marker-style-name="T13"><text:span text:style-name="T13">A page of licence information will appear:</text:span><text:span text:style-name="T13"/></text:p>
-   <text:p text:style-name="P8" loext:marker-style-name="T9"><draw:frame text:anchor-type="as-char" draw:z-index="17" draw:name="Shape17" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.1949in" svg:height="4.028in">
+   <text:p text:style-name="P8" loext:marker-style-name="T9"><draw:frame text:anchor-type="as-char" draw:z-index="16" draw:name="Shape17" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.1949in" svg:height="4.028in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAfMAAAGDCAIAAACwT27dAAAAAXNSR0IArs4c6QAAZXxJREFU
        eF7tvQ2UHFeVJniz9G/Z2MY/YCzjLMum1G5RzY+Z8TRqqDryqTIUc+geXGu2e9dMr6qsY3TM
@@ -13718,7 +13718,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P86" loext:marker-style-name="T13"><text:span text:style-name="T13">You will see the page </text:span><text:span text:style-name="T9">Select Destination Location</text:span><text:span text:style-name="T13">:</text:span></text:p>
-   <text:p text:style-name="P8" loext:marker-style-name="T9"><draw:frame text:anchor-type="as-char" draw:z-index="18" draw:name="Shape18" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.1949in" svg:height="4.028in">
+   <text:p text:style-name="P8" loext:marker-style-name="T9"><draw:frame text:anchor-type="as-char" draw:z-index="17" draw:name="Shape18" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.1949in" svg:height="4.028in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAfMAAAGDCAIAAACwT27dAAAAAXNSR0IArs4c6QAAQ4FJREFU
        eF7tnQ10Fed555/RF2DACIOJsVEQYAWiQOrYJEtiJUB1TsGGHpLg1m6zSzYLqz2OD9Sc4kNj
@@ -14052,7 +14052,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P86" loext:marker-style-name="T13"><text:span text:style-name="T13">You’ll see the </text:span><text:span text:style-name="T9">Select Additional Tasks</text:span><text:span text:style-name="T13"> page:<text:line-break/></text:span></text:p>
-   <text:p text:style-name="P4" loext:marker-style-name="T13"><draw:frame text:anchor-type="as-char" draw:z-index="19" draw:name="Shape19" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.1949in" svg:height="4.028in">
+   <text:p text:style-name="P4" loext:marker-style-name="T13"><draw:frame text:anchor-type="as-char" draw:z-index="18" draw:name="Shape19" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.1949in" svg:height="4.028in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAfMAAAGDCAIAAACwT27dAAAAAXNSR0IArs4c6QAAO3FJREFU
        eF7tnQ+UFdWd53/Vf4EWbRVRlA4NSCSkyT9x1okdpdPnLBiYg47O6k52YWdh2UM8gB7hMJNs
@@ -14348,7 +14348,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P86" loext:marker-style-name="T13"><text:span text:style-name="T13">You’ll then see the </text:span><text:span text:style-name="T9">Ready to Install</text:span><text:span text:style-name="T13"> page:<text:line-break/></text:span></text:p>
-   <text:p text:style-name="P4" loext:marker-style-name="T10"><draw:frame text:anchor-type="as-char" draw:z-index="20" draw:name="Shape20" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.1949in" svg:height="4.028in">
+   <text:p text:style-name="P4" loext:marker-style-name="T10"><draw:frame text:anchor-type="as-char" draw:z-index="19" draw:name="Shape20" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.1949in" svg:height="4.028in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAfMAAAGDCAIAAACwT27dAAAAAXNSR0IArs4c6QAAPpxJREFU
        eF7tnQuUFNd557+aJw8hBglhPRgxIGPhMTiWLWWVaGTNnDlnQYYc4qCstPbuZL2w7ME6EDgG
@@ -14659,7 +14659,7 @@
      <text:p text:style-name="P176" loext:marker-style-name="T13"><text:span text:style-name="T13">Click </text:span><text:span text:style-name="T9">Install</text:span><text:span text:style-name="T13"> to begin the installation.<text:line-break/></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P8" loext:marker-style-name="T13"><draw:frame text:anchor-type="as-char" draw:z-index="21" draw:name="Shape21" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.1949in" svg:height="4.028in">
+   <text:p text:style-name="P8" loext:marker-style-name="T13"><draw:frame text:anchor-type="as-char" draw:z-index="20" draw:name="Shape21" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.1949in" svg:height="4.028in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAfMAAAGDCAIAAACwT27dAAAAAXNSR0IArs4c6QAAMjJJREFU
        eF7t3Q2UVOWd5/H/7XdAFBRQFLXRGAlpk/iWcUaMzeGcFYNzTEazcZNds1lY9xCPrp7AYSZZ
@@ -14906,7 +14906,7 @@
      </draw:image>
     </draw:frame></text:p>
    <text:p text:style-name="P85" loext:marker-style-name="T13"><text:span text:style-name="T13">When the installation is complete, you will see a page of information:<text:line-break/></text:span><text:span text:style-name="T13"/></text:p>
-   <text:p text:style-name="P8" loext:marker-style-name="T10"><draw:frame text:anchor-type="as-char" draw:z-index="22" draw:name="Shape22" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.1949in" svg:height="4.028in">
+   <text:p text:style-name="P8" loext:marker-style-name="T10"><draw:frame text:anchor-type="as-char" draw:z-index="21" draw:name="Shape22" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.1949in" svg:height="4.028in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAfMAAAGDCAIAAACwT27dAAAAAXNSR0IArs4c6QAAWmpJREFU
        eF7tvQ2UHFeV53mz9G3Z2MYfYCzjLFumhFtU89HMeBs3nXWkUzJdzKF7sAa2e9dsr0rWMTpm
@@ -15350,7 +15350,7 @@
    </text:list>
    <text:p text:style-name="P42" loext:marker-style-name="T13"/>
    <text:p text:style-name="P83" loext:marker-style-name="T13"><text:span text:style-name="T13">You will then see the final page of the Setup Wizard:<text:line-break/></text:span><text:span text:style-name="T13"/></text:p>
-   <text:p text:style-name="P8" loext:marker-style-name="T9"><draw:frame text:anchor-type="as-char" draw:z-index="23" draw:name="Shape23" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.1949in" svg:height="4.028in">
+   <text:p text:style-name="P8" loext:marker-style-name="T9"><draw:frame text:anchor-type="as-char" draw:z-index="22" draw:name="Shape23" draw:style-name="gr1" draw:text-style-name="P183" svg:width="5.1949in" svg:height="4.028in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAfMAAAGDCAIAAACwT27dAAAAAXNSR0IArs4c6QAAhhBJREFU
        eF7t/QecHMWZPo5X98zO5lVeZWmFUAAENsEkg1hZ/LGEznA2YDDns32WMMY6/rb5SpYJ5jgD
