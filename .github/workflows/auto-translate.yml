@@ -29,8 +29,10 @@ jobs:
         run: |
           find docs-en -type f -name "*.fodt" | while read file; do
             echo "Converting $file"
-            #outdir="$(dirname "$file")"
-            #mkdir -p "$outdir"
+            outdir="$(dirname "$file")"
+            echo $outdir
+            pwd
+            mkdir -p "$outdir"
             timeout 60s libreoffice --headless --convert-to odt "$file" --outdir "$outdir"
           done
 
