@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:title>Scripture App Builder: Creating Quizzes</dc:title><meta:initial-creator>Richard Margetts</meta:initial-creator><dc:creator>Richard Margetts</dc:creator><meta:editing-cycles>51</meta:editing-cycles><meta:print-date>2021-12-06T16:58:00</meta:print-date><meta:creation-date>2021-11-30T16:34:00</meta:creation-date><dc:date>2022-08-31T14:40:00</dc:date><meta:editing-duration>P0D</meta:editing-duration><meta:generator>LibreOffice/26.2.3.2$Linux_X86_64 LibreOffice_project/620$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="7" meta:object-count="0" meta:page-count="11" meta:paragraph-count="174" meta:word-count="1058" meta:character-count="5835" meta:non-whitespace-character-count="4867"/><meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
+<office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><dc:title>Scripture App Builder: Creating Quizzes</dc:title><meta:initial-creator>Richard Margetts</meta:initial-creator><dc:creator>Richard Margetts</dc:creator><meta:editing-cycles>51</meta:editing-cycles><meta:print-date>2021-12-06T16:58:00</meta:print-date><meta:creation-date>2021-11-30T16:34:00</meta:creation-date><dc:date>2022-08-31T14:40:00</dc:date><meta:editing-duration>P0D</meta:editing-duration><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="7" meta:object-count="0" meta:page-count="11" meta:paragraph-count="174" meta:word-count="1058" meta:character-count="5835" meta:non-whitespace-character-count="4867"/><meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">44743</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">22782</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">14411</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">2752</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">44741</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">22781</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="LegacySingleLineFontwork" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IgnoreBreakAfterMultilineField" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
   </config:config-item-set>
   <config:config-item-set config:name="ooo:configuration-settings">
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
@@ -20,20 +41,13 @@
    <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
    <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AdjustTableLineHeightsToGridHeight" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="BalanceSpacesAndIdeographicSpaces" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="MsWordCompGridMetrics" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PaintHellOverHeaderFooter" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="ApplyParagraphMarkFormatToEmptyLineAtEndOfParagraph" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
    <config:config-item config:name="NoNumberingShowFollowBy" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="MinRowHeightInclBorder" config:type="boolean">true</config:config-item>
    <config:config-item config:name="HyphenateURLs" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ImagePreferredDPI" config:type="int">0</config:config-item>
    <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
    <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ContinuousEndnotes" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="MsWordUlTrailSpace" config:type="boolean">false</config:config-item>
    <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">true</config:config-item>
    <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">true</config:config-item>
@@ -48,11 +62,9 @@
    <config:config-item config:name="ApplyTextAttrToEmptyLineAtEndOfParagraph" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="NoClippingWithWrapPolygon" config:type="boolean">true</config:config-item>
    <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">true</config:config-item>
    <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">true</config:config-item>
    <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
    <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
    <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
@@ -80,7 +92,6 @@
    <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ForceTopAlignmentInCellWithFloatingAnchor" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
    <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
@@ -91,7 +102,11 @@
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">true</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
    <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
    <config:config-item config:name="DoNotMirrorRtlDrawObjs" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
    <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
@@ -100,7 +115,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -108,7 +123,7 @@
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
    <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">2</config:config-item>
    <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
@@ -118,21 +133,17 @@
    <config:config-item config:name="NoGapAfterNoteNumber" config:type="boolean">true</config:config-item>
    <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
    <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="HiddenParagraphMarkPerLineProperties" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="ClippedPictures" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="IgnoreHiddenCharsForLineCalculation" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
    <config:config-item config:name="DropCapPunctuation" config:type="boolean">true</config:config-item>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">733856</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">790445</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
   </config:config-item-set>
  </office:settings>
  <office:scripts>
@@ -155,13 +166,13 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Calibri" fo:font-size="11pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Calibri1" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Noto Sans" style:font-size-complex="11pt" style:language-complex="ar" style:country-complex="SA"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Calibri" fo:font-size="11pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Calibri1" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="DejaVu Sans" style:font-size-complex="11pt" style:language-complex="ar" style:country-complex="SA"/>
   </style:default-style>
   <style:default-style style:family="paragraph">
-   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" fo:hyphenation-keep="auto" loext:hyphenation-keep-type="column" loext:hyphenation-keep-line="false" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.5in" style:writing-mode="page"/>
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.5in" style:writing-mode="lr-tb"/>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Calibri" fo:font-size="11pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Calibri1" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="DejaVu Sans" style:font-size-complex="11pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false" loext:hyphenation-word-char-count="5" loext:hyphenation-zone="no-limit"/>
   </style:default-style>
   <style:default-style style:family="table">
@@ -171,9 +182,9 @@
    <style:table-row-properties fo:keep-together="auto"/>
   </style:default-style>
   <style:style style:name="Standard" style:family="paragraph" style:class="text">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.111in" style:contextual-spacing="false" fo:line-height="108%" fo:text-align="left" style:justify-single-word="false" fo:orphans="2" fo:widows="2" style:writing-mode="lr-tb"/>
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.111in" style:contextual-spacing="false" fo:line-height="108%" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="chapter">
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
    <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:keep-with-next="always"/>
    <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Noto Sans" style:font-family-asian="&apos;Noto Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Noto Sans Devanagari1" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
   </style:style>
@@ -191,7 +202,7 @@
    <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
    <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Noto Sans Devanagari" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss"/>
   </style:style>
-  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:next-style-name="Standard" loext:linked-style-name="Heading_20_1_20_Char" style:default-outline-level="1" style:class="chapter">
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:next-style-name="Standard" loext:linked-style-name="Heading_20_1_20_Char" style:default-outline-level="1" style:class="text">
    <style:paragraph-properties fo:margin-left="0.2953in" fo:text-indent="-0.2953in" style:auto-text-indent="false" fo:break-before="page" fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0.0138in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.51pt solid #000000"/>
    <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
   </style:style>
@@ -199,7 +210,7 @@
    <style:paragraph-properties fo:margin-left="0.5in" fo:margin-top="0in" fo:margin-bottom="0.111in" style:contextual-spacing="true"/>
   </style:style>
   <style:style style:name="Revision" style:family="paragraph">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="left" style:justify-single-word="false" fo:orphans="2" fo:widows="2" style:writing-mode="lr-tb"/>
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="Index_20_Heading" style:display-name="Index Heading" style:family="paragraph" style:parent-style-name="Heading" style:class="index"/>
   <style:style style:name="Contents_20_Heading" style:display-name="Contents Heading" style:family="paragraph" style:parent-style-name="Heading_20_1" style:next-style-name="Standard" style:default-outline-level="" style:list-style-name="" style:class="index">
@@ -295,7 +306,7 @@
   </style:style>
   <style:style style:name="Index_20_Link" style:display-name="Index Link" style:family="text"/>
   <style:style style:name="Graphics" style:family="graphic">
-   <style:graphic-properties text:anchor-type="paragraph" svg:x="0in" svg:y="0in" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:background-color="transparent" draw:fill="none"/>
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0in" svg:y="0in" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:background-color="transparent" draw:fill="none" draw:fill-color="#729fcf"/>
   </style:style>
   <text:outline-style style:name="Outline">
    <text:outline-level-style text:level="1" text:style-name="ListLabel_20_1" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
@@ -489,126 +500,250 @@
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footer">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
   </style:style>
-  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Footer">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="24pt" fo:font-weight="bold" style:font-size-asian="24pt" style:font-weight-asian="bold" style:font-size-complex="24pt"/>
   </style:style>
   <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
   </style:style>
   <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties fo:font-style="italic" style:font-style-asian="italic"/>
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.111in" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.111in" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
-   <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt"/>
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="24pt" fo:font-weight="bold" style:font-size-asian="24pt" style:font-weight-asian="bold" style:font-size-complex="24pt"/>
   </style:style>
   <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt"/>
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic"/>
   </style:style>
   <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:font-size="22pt" fo:font-weight="bold" style:font-size-asian="22pt" style:font-weight-asian="bold" style:font-size-complex="22pt" style:font-weight-complex="bold"/>
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.111in" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
+   <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt"/>
   </style:style>
   <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.111in" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt"/>
   </style:style>
   <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:font-size="16pt" fo:language="fr" fo:country="FR" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="22pt" fo:font-weight="bold" style:font-size-asian="22pt" style:font-weight-asian="bold" style:font-size-complex="22pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:margin-left="0.2953in" fo:text-indent="-0.2953in" style:auto-text-indent="false"/>
   </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:language="fr" fo:country="FR"/>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:margin-left="0.2953in" fo:margin-top="0in" fo:margin-bottom="0.111in" style:contextual-spacing="true" fo:text-indent="-0.2953in" style:auto-text-indent="false" fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum2"/>
   <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
-   <style:text-properties style:font-name="Courier New" fo:font-size="5pt" style:font-size-asian="5pt" style:font-name-complex="Courier New1" style:font-size-complex="5pt"/>
+   <style:text-properties fo:language="fr" fo:country="FR"/>
   </style:style>
   <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+   <style:text-properties style:font-name="Courier New" fo:font-size="5pt" style:font-size-asian="5pt" style:font-name-complex="Courier New1" style:font-size-complex="5pt"/>
   </style:style>
   <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
-   <style:text-properties style:font-name="Courier New" fo:font-size="5pt" fo:font-weight="bold" style:font-size-asian="5pt" style:font-weight-asian="bold" style:font-name-complex="Courier New1" style:font-size-complex="5pt" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Courier New" fo:font-size="5pt" style:font-size-asian="5pt" style:font-name-complex="Courier New1" style:font-size-complex="5pt"/>
   </style:style>
   <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0555in" style:contextual-spacing="false" fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+   <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+   <style:text-properties style:font-name="Courier New" fo:font-size="5pt" fo:font-weight="bold" style:font-size-asian="5pt" style:font-weight-asian="bold" style:font-name-complex="Courier New1" style:font-size-complex="5pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Courier New" style:font-name-complex="Courier New1"/>
   </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:margin-left="0.2953in" fo:margin-top="0in" fo:margin-bottom="0.111in" style:contextual-spacing="true" fo:text-indent="-0.2953in" style:auto-text-indent="false" fo:break-before="page"/>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+   <style:text-properties style:font-name="Courier New" fo:font-size="3pt" style:font-size-asian="3pt" style:font-name-complex="Courier New1" style:font-size-complex="3pt"/>
   </style:style>
   <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.1665in" style:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+   <style:text-properties style:font-name="Courier New" fo:font-size="3pt" style:font-size-asian="3pt" style:font-name-complex="Courier New1" style:font-size-complex="3pt"/>
   </style:style>
   <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
-   <style:text-properties style:font-name="Courier New" fo:font-size="3pt" style:font-size-asian="3pt" style:font-name-complex="Courier New1" style:font-size-complex="3pt"/>
+   <style:text-properties style:font-name="Courier New" fo:font-size="1pt" style:font-size-asian="1pt" style:font-name-complex="Courier New1" style:font-size-complex="1pt"/>
   </style:style>
   <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
-   <style:text-properties style:font-name="Courier New" fo:font-size="1pt" style:font-size-asian="1pt" style:font-name-complex="Courier New1" style:font-size-complex="1pt"/>
-  </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
-  </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
    <style:text-properties style:font-name="Courier New" fo:font-size="6pt" style:font-size-asian="6pt" style:font-name-complex="Courier New1" style:font-size-complex="6pt"/>
   </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
    <style:text-properties style:font-name="Courier New" fo:font-size="6pt" fo:font-weight="bold" style:font-size-asian="6pt" style:font-weight-asian="bold" style:font-name-complex="Courier New1" style:font-size-complex="6pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
    <style:text-properties style:font-name="Courier New" fo:font-size="4pt" style:font-size-asian="4pt" style:font-name-complex="Courier New1" style:font-size-complex="4pt"/>
   </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
    <style:text-properties style:font-name="Courier New" fo:font-size="4pt" style:font-size-asian="4pt" style:font-name-complex="Courier New1" style:font-size-complex="4pt"/>
   </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0417in" style:contextual-spacing="false" fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
-  </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
    <style:text-properties style:font-name="Courier New" fo:font-size="4pt" fo:font-weight="bold" style:font-size-asian="4pt" style:font-weight-asian="bold" style:font-name-complex="Courier New1" style:font-size-complex="4pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:font-size="4pt" style:font-size-asian="4pt" style:font-size-complex="4pt"/>
-  </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
-   <style:text-properties style:font-name="Courier New" fo:font-size="3pt" style:font-size-asian="3pt" style:font-name-complex="Courier New1" style:font-size-complex="3pt"/>
-  </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
    <style:text-properties style:font-name="Courier New" fo:font-size="2pt" style:font-size-asian="2pt" style:font-name-complex="Courier New1" style:font-size-complex="2pt"/>
   </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
    <style:text-properties style:font-name="Courier New" fo:font-size="2pt" fo:font-weight="bold" style:font-size-asian="2pt" style:font-weight-asian="bold" style:font-name-complex="Courier New1" style:font-size-complex="2pt" style:font-weight-complex="bold"/>
   </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0555in" style:contextual-spacing="false" fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.1665in" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0417in" style:contextual-spacing="false" fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+  </style:style>
   <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+   <style:text-properties fo:font-size="4pt" style:font-size-asian="4pt" style:font-size-complex="4pt"/>
   </style:style>
   <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0555in" style:contextual-spacing="false" fo:line-height="100%" fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+   <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
   </style:style>
   <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Courier New" fo:font-size="5pt" style:font-size-asian="5pt" style:font-name-complex="Courier New1" style:font-size-complex="5pt"/>
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0555in" style:contextual-spacing="false" fo:line-height="100%" fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
   </style:style>
   <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:font-size="12pt" fo:language="en" fo:country="US" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="12pt" fo:language="fr" fo:country="FR" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:margin-left="0.2953in" fo:text-indent="-0.2953in" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:margin-left="0.2953in" fo:margin-top="0in" fo:margin-bottom="0.111in" style:contextual-spacing="true" fo:text-indent="-0.2953in" style:auto-text-indent="false" fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum2"/>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="24pt" fo:font-weight="bold" style:font-size-asian="24pt" style:font-weight-asian="bold" style:font-size-complex="24pt"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.111in" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.111in" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
+   <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="16pt" fo:language="fr" fo:country="FR" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="22pt" fo:font-weight="bold" style:font-size-asian="22pt" style:font-weight-asian="bold" style:font-size-complex="22pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="fr" fo:country="FR"/>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+   <style:text-properties style:font-name="Courier New" fo:font-size="5pt" style:font-size-asian="5pt" style:font-name-complex="Courier New1" style:font-size-complex="5pt"/>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Courier New" fo:font-size="5pt" style:font-size-asian="5pt" style:font-name-complex="Courier New1" style:font-size-complex="5pt"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+   <style:text-properties style:font-name="Courier New" fo:font-size="5pt" fo:font-weight="bold" style:font-size-asian="5pt" style:font-weight-asian="bold" style:font-name-complex="Courier New1" style:font-size-complex="5pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Courier New" style:font-name-complex="Courier New1"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+   <style:text-properties style:font-name="Courier New" fo:font-size="3pt" style:font-size-asian="3pt" style:font-name-complex="Courier New1" style:font-size-complex="3pt"/>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+   <style:text-properties style:font-name="Courier New" fo:font-size="3pt" style:font-size-asian="3pt" style:font-name-complex="Courier New1" style:font-size-complex="3pt"/>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+   <style:text-properties style:font-name="Courier New" fo:font-size="1pt" style:font-size-asian="1pt" style:font-name-complex="Courier New1" style:font-size-complex="1pt"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+   <style:text-properties style:font-name="Courier New" fo:font-size="6pt" style:font-size-asian="6pt" style:font-name-complex="Courier New1" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+   <style:text-properties style:font-name="Courier New" fo:font-size="6pt" fo:font-weight="bold" style:font-size-asian="6pt" style:font-weight-asian="bold" style:font-name-complex="Courier New1" style:font-size-complex="6pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+   <style:text-properties style:font-name="Courier New" fo:font-size="4pt" style:font-size-asian="4pt" style:font-name-complex="Courier New1" style:font-size-complex="4pt"/>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+   <style:text-properties style:font-name="Courier New" fo:font-size="4pt" style:font-size-asian="4pt" style:font-name-complex="Courier New1" style:font-size-complex="4pt"/>
+  </style:style>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+   <style:text-properties style:font-name="Courier New" fo:font-size="4pt" fo:font-weight="bold" style:font-size-asian="4pt" style:font-weight-asian="bold" style:font-name-complex="Courier New1" style:font-size-complex="4pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+   <style:text-properties style:font-name="Courier New" fo:font-size="2pt" style:font-size-asian="2pt" style:font-name-complex="Courier New1" style:font-size-complex="2pt"/>
+  </style:style>
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+   <style:text-properties style:font-name="Courier New" fo:font-size="2pt" fo:font-weight="bold" style:font-size-asian="2pt" style:font-weight-asian="bold" style:font-name-complex="Courier New1" style:font-size-complex="2pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+  </style:style>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0555in" style:contextual-spacing="false" fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+  </style:style>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.1665in" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0417in" style:contextual-spacing="false" fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+  </style:style>
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="4pt" style:font-size-asian="4pt" style:font-size-complex="4pt"/>
+  </style:style>
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0555in" style:contextual-spacing="false" fo:line-height="100%" fo:padding-left="0.0555in" fo:padding-right="0.0555in" fo:padding-top="0.0138in" fo:padding-bottom="0.0138in" fo:border="0.51pt solid #000000" style:shadow="none"/>
+  </style:style>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="12pt" fo:language="en" fo:country="US" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:font-size="12pt" fo:language="fr" fo:country="FR" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -624,70 +759,70 @@
    <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt"/>
   </style:style>
   <style:style style:name="T5" style:family="text">
-   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+   <style:text-properties fo:font-size="16pt" fo:language="fr" fo:country="FR" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T6" style:family="text">
-   <style:text-properties fo:font-size="18pt" fo:language="fr" fo:country="FR" fo:font-weight="bold" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="T7" style:family="text">
    <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T8" style:family="text">
-   <style:text-properties fo:font-size="22pt" fo:font-weight="bold" style:font-size-asian="22pt" style:font-weight-asian="bold" style:font-size-complex="22pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-name-complex="Calibri1" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="T9" style:family="text">
-   <style:text-properties fo:font-size="11pt" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="GB" style:font-size-complex="11pt"/>
-  </style:style>
-  <style:style style:name="T10" style:family="text">
-   <style:text-properties text:display="true"/>
-  </style:style>
-  <style:style style:name="T11" style:family="text">
-   <style:text-properties fo:font-size="16pt" fo:language="fr" fo:country="FR" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T12" style:family="text">
-   <style:text-properties fo:language="fr" fo:country="FR"/>
-  </style:style>
-  <style:style style:name="T13" style:family="text">
    <style:text-properties fo:font-size="12pt" fo:language="en" fo:country="US" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="T14" style:family="text">
+  <style:style style:name="T10" style:family="text">
    <style:text-properties fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T15" style:family="text">
+  <style:style style:name="T11" style:family="text">
    <style:text-properties fo:font-size="12pt" fo:language="fr" fo:country="FR" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties fo:font-size="18pt" fo:language="fr" fo:country="FR" fo:font-weight="bold" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties fo:font-size="22pt" fo:font-weight="bold" style:font-size-asian="22pt" style:font-weight-asian="bold" style:font-size-complex="22pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties fo:font-size="11pt" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="GB" style:font-size-complex="11pt"/>
+  </style:style>
   <style:style style:name="T16" style:family="text">
-   <style:text-properties fo:font-size="9pt" fo:language="en" fo:country="US" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+   <style:text-properties text:display="true"/>
   </style:style>
   <style:style style:name="T17" style:family="text">
-   <style:text-properties fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:language="fr" fo:country="FR"/>
   </style:style>
   <style:style style:name="T18" style:family="text">
-   <style:text-properties style:font-name="Courier New" fo:font-size="5pt" style:font-size-asian="5pt" style:font-name-complex="Courier New1" style:font-size-complex="5pt"/>
+   <style:text-properties fo:font-size="9pt" fo:language="en" fo:country="US" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="T19" style:family="text">
-   <style:text-properties style:font-name-complex="Calibri1"/>
+   <style:text-properties fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T20" style:family="text">
-   <style:text-properties style:font-name="Courier New" fo:font-weight="bold" style:font-weight-asian="bold" style:font-name-complex="Courier New1" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Courier New" fo:font-size="5pt" style:font-size-asian="5pt" style:font-name-complex="Courier New1" style:font-size-complex="5pt"/>
   </style:style>
   <style:style style:name="T21" style:family="text">
-   <style:text-properties style:font-name="Courier New" fo:font-style="italic" style:font-style-asian="italic" style:font-name-complex="Courier New1" style:font-style-complex="italic"/>
-  </style:style>
-  <style:style style:name="T22" style:family="text">
-   <style:text-properties style:font-name="Courier New" style:font-name-complex="Courier New1"/>
-  </style:style>
-  <style:style style:name="T23" style:family="text">
-   <style:text-properties style:font-name="Courier New" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-weight-asian="bold" style:font-name-complex="Courier New1" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T24" style:family="text">
    <style:text-properties style:font-name="Courier New" fo:font-size="5pt" fo:font-weight="bold" style:font-size-asian="5pt" style:font-weight-asian="bold" style:font-name-complex="Courier New1" style:font-size-complex="5pt" style:font-weight-complex="bold"/>
   </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-weight="bold" style:font-weight-asian="bold" style:font-name-complex="Courier New1" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-style="italic" style:font-style-asian="italic" style:font-name-complex="Courier New1" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties style:font-name="Courier New" style:font-name-complex="Courier New1"/>
+  </style:style>
   <style:style style:name="T25" style:family="text">
-   <style:text-properties style:font-name="Courier New" fo:font-size="3pt" style:font-size-asian="3pt" style:font-name-complex="Courier New1" style:font-size-complex="3pt"/>
+   <style:text-properties style:font-name="Courier New" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-weight-asian="bold" style:font-name-complex="Courier New1" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T26" style:family="text">
-   <style:text-properties fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Courier New" fo:font-size="3pt" style:font-size-asian="3pt" style:font-name-complex="Courier New1" style:font-size-complex="3pt"/>
   </style:style>
   <style:style style:name="T27" style:family="text">
    <style:text-properties style:font-name="Courier New" fo:font-size="1pt" style:font-size-asian="1pt" style:font-name-complex="Courier New1" style:font-size-complex="1pt"/>
@@ -696,34 +831,37 @@
    <style:text-properties style:font-name="Courier New" fo:font-size="6pt" style:font-size-asian="6pt" style:font-name-complex="Courier New1" style:font-size-complex="6pt"/>
   </style:style>
   <style:style style:name="T29" style:family="text">
-   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-name-complex="Calibri1" style:font-size-complex="12pt"/>
-  </style:style>
-  <style:style style:name="T30" style:family="text">
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-name-complex="Calibri1" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T31" style:family="text">
    <style:text-properties style:font-name="Courier New" fo:font-size="6pt" fo:font-weight="bold" style:font-size-asian="6pt" style:font-weight-asian="bold" style:font-name-complex="Courier New1" style:font-size-complex="6pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T32" style:family="text">
+  <style:style style:name="T30" style:family="text">
    <style:text-properties style:font-name="Courier New" fo:font-size="4pt" style:font-size-asian="4pt" style:font-name-complex="Courier New1" style:font-size-complex="4pt"/>
   </style:style>
-  <style:style style:name="T33" style:family="text">
+  <style:style style:name="T31" style:family="text">
    <style:text-properties style:font-name="Courier New" fo:font-size="4pt" fo:font-weight="bold" style:font-size-asian="4pt" style:font-weight-asian="bold" style:font-name-complex="Courier New1" style:font-size-complex="4pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T34" style:family="text">
-   <style:text-properties fo:font-size="4pt" style:font-size-asian="4pt" style:font-size-complex="4pt"/>
-  </style:style>
-  <style:style style:name="T35" style:family="text">
+  <style:style style:name="T32" style:family="text">
    <style:text-properties style:font-name="Courier New" fo:font-size="2pt" style:font-size-asian="2pt" style:font-name-complex="Courier New1" style:font-size-complex="2pt"/>
   </style:style>
-  <style:style style:name="T36" style:family="text">
+  <style:style style:name="T33" style:family="text">
    <style:text-properties style:font-name="Courier New" fo:font-size="2pt" fo:font-weight="bold" style:font-size-asian="2pt" style:font-weight-asian="bold" style:font-name-complex="Courier New1" style:font-size-complex="2pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T34" style:family="text">
+   <style:text-properties style:font-name-complex="Calibri1"/>
+  </style:style>
+  <style:style style:name="T35" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-name-complex="Calibri1" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T36" style:family="text">
+   <style:text-properties fo:font-size="4pt" style:font-size-asian="4pt" style:font-size-complex="4pt"/>
   </style:style>
   <style:style style:name="T37" style:family="text">
    <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" fo:background-color="transparent" draw:fill="none" draw:fill-color="#729fcf" draw:secondary-fill-color="#729fcf" draw:gradient-step-count="0" draw:fill-hatch-solid="false" draw:opacity="100%" draw:fill-image-width="0in" draw:fill-image-height="0in" style:repeat="repeat" draw:fill-image-ref-point-x="0%" draw:fill-image-ref-point-y="0%" draw:fill-image-ref-point="center" draw:tile-repeat-offset="0% horizontal" fo:padding="0in" fo:border="none" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard" loext:decorative="false"/>
+  </style:style>
+  <style:style style:name="fr2" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:vertical-pos="top" style:vertical-rel="baseline" fo:background-color="transparent" draw:fill="none" draw:fill-color="#729fcf" draw:secondary-fill-color="#729fcf" draw:gradient-step-count="0" draw:fill-hatch-solid="false" draw:opacity="100%" draw:fill-image-width="0in" draw:fill-image-height="0in" style:repeat="repeat" draw:fill-image-ref-point-x="0%" draw:fill-image-ref-point-y="0%" draw:fill-image-ref-point="center" draw:tile-repeat-offset="0% horizontal" fo:padding="0in" fo:border="none" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard" loext:decorative="false"/>
   </style:style>
   <style:style style:name="Sect1" style:family="section">
    <style:section-properties style:editable="false">
@@ -746,7 +884,7 @@
  <office:master-styles>
   <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
    <style:footer>
-    <text:p text:style-name="P1"><text:page-number text:select-page="current">11</text:page-number></text:p>
+    <text:p text:style-name="P1"><text:page-number text:select-page="current">22</text:page-number></text:p>
     <text:p text:style-name="Footer"/>
    </style:footer>
    <style:footer-first>
@@ -766,9 +904,9 @@
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P2" loext:marker-style-name="T1"/>
-   <text:p text:style-name="P2" loext:marker-style-name="T1"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T1"><draw:frame draw:style-name="fr1" draw:name="Picture 2" text:anchor-type="as-char" svg:width="5.9846in" svg:height="1.7689in"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P5" loext:marker-style-name="T1"/>
+   <text:p text:style-name="P5" loext:marker-style-name="T1"/>
+   <text:p text:style-name="P3" loext:marker-style-name="T1"><draw:frame draw:style-name="fr2" draw:name="Picture 2" text:anchor-type="as-char" svg:width="5.9846in" svg:height="1.7689in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAACEYAAAJyCAYAAAG0nmfFAAAACXBIWXMAABcSAAAXEgFnn9JS
        AAAKT2lDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVNnVFPpFj333vRCS4iAlEtvUhUI
        IFJCi4AUkSYqIQkQSoghodkVUcERRUUEG8igiAOOjoCMFVEsDIoK2AfkIaKOg6OIisr74Xuj
@@ -2151,16 +2289,16 @@
 
 Description automatically generated</svg:desc>
     </draw:frame></text:p>
-   <text:p text:style-name="P2" loext:marker-style-name="T1"/>
-   <text:p text:style-name="P2" loext:marker-style-name="T1"/>
+   <text:p text:style-name="P5" loext:marker-style-name="T1"/>
+   <text:p text:style-name="P5" loext:marker-style-name="T1"/>
    <text:p text:style-name="P3" loext:marker-style-name="T2"><text:span text:style-name="T2">Creating Apps <text:line-break/>with Quizzes</text:span><text:span text:style-name="T2"/></text:p>
-   <text:p text:style-name="P4" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P4" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P4" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P4" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P4" loext:marker-style-name="T3"/>
+   <text:p text:style-name="P6" loext:marker-style-name="T3"/>
+   <text:p text:style-name="P6" loext:marker-style-name="T3"/>
+   <text:p text:style-name="P6" loext:marker-style-name="T3"/>
+   <text:p text:style-name="P6" loext:marker-style-name="T3"/>
+   <text:p text:style-name="P6" loext:marker-style-name="T3"/>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Picture 9" text:anchor-type="as-char" svg:width="1.2165in" svg:height="0.6626in"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P3"><draw:frame draw:style-name="fr2" draw:name="Picture 9" text:anchor-type="as-char" svg:width="1.2165in" svg:height="0.6626in" draw:z-index="1"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAGIAAAA2CAYAAAA8ukzvAAAOeUlEQVR4nO2cfXAT95nHf/iF
        V0PCBUjDUcgLBBK4HKTkKKF+k21JfgGahJcYg5mE5O56ndyld2R6vd4fmTbpNJD27iZ312HS
        pB1bkt8kW+9vXmnXoWRChrYJkJYcwVpJu9KuSQqF5j3le3/8dm1JXsmWrRY7jmae8Yx2tfI8
@@ -2237,29 +2375,29 @@ Description automatically generated</svg:desc>
 
 Description automatically generated</svg:desc>
     </draw:frame></text:p>
-   <text:p text:style-name="P5" loext:marker-style-name="T4"/>
-   <text:p text:style-name="P6" loext:marker-style-name="T4"/>
-   <text:p text:style-name="P6" loext:marker-style-name="T4"/>
-   <text:p text:style-name="P6" loext:marker-style-name="T4"/>
-   <text:p text:style-name="P6" loext:marker-style-name="T4"/>
-   <text:p text:style-name="P6" loext:marker-style-name="T4"/>
-   <text:p text:style-name="P6" loext:marker-style-name="T4"/>
-   <text:p text:style-name="P6" loext:marker-style-name="T4"/>
-   <text:p text:style-name="P6" loext:marker-style-name="T4"/>
+   <text:p text:style-name="P7" loext:marker-style-name="T4"/>
+   <text:p text:style-name="P8" loext:marker-style-name="T4"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P8" loext:marker-style-name="T4"/>
+   <text:p text:style-name="P8" loext:marker-style-name="T4"/>
+   <text:p text:style-name="P8" loext:marker-style-name="T4"/>
+   <text:p text:style-name="P8" loext:marker-style-name="T4"/>
+   <text:p text:style-name="P8" loext:marker-style-name="T4"/>
+   <text:p text:style-name="P8" loext:marker-style-name="T4"/>
+   <text:p text:style-name="P8" loext:marker-style-name="T4"/>
    <text:p text:style-name="P3" loext:marker-style-name="T4"><text:span text:style-name="T4">Scripture App Builder: </text:span><text:span text:style-name="T4"/></text:p>
    <text:p text:style-name="P3" loext:marker-style-name="T4"><text:span text:style-name="T4">Creating Apps with Quizzes</text:span><text:span text:style-name="T4"/></text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T5">© <text:span text:style-name="T5">2022, SIL International</text:span><text:span text:style-name="T5"/></text:p>
-   <text:p text:style-name="P3" loext:marker-style-name="T6"><text:span text:style-name="T7">31 August 2022</text:span><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T6">© <text:span text:style-name="T6">2022, SIL International</text:span><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T13"><text:span text:style-name="T7">31 August 2022</text:span><text:span text:style-name="T13"/></text:p>
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T5"><text:span text:style-name="T5">You are free to print this manual for personal use and for training workshops.</text:span><text:span text:style-name="T5"/></text:p>
-   <text:p text:style-name="P3" loext:marker-style-name="T5"><text:span text:style-name="T5">The latest version is available at</text:span><text:span text:style-name="T5"/></text:p>
-   <text:p text:style-name="P3" loext:marker-style-name="T5"><text:a xlink:type="simple" xlink:href="http://software.sil.org/scriptureappbuilder/resources/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T5">http://software.sil.org/scriptureappbuilder/resources/</text:span></text:span></text:a><text:span text:style-name="T5"> <text:s/></text:span></text:p>
-   <text:p text:style-name="P3" loext:marker-style-name="T5"><text:span text:style-name="T5">and on the Help menu of Scripture App Builder.</text:span><text:span text:style-name="T5"/></text:p>
-   <text:p text:style-name="P7" loext:marker-style-name="T8"/>
-   <text:p text:style-name="P8" loext:marker-style-name="T8"><text:span text:style-name="T8">Contents</text:span><text:span text:style-name="T8"/></text:p>
-   <text:p text:style-name="P7" loext:marker-style-name="T8"/>
+   <text:p text:style-name="P3" loext:marker-style-name="T6"><text:soft-page-break/><text:span text:style-name="T6">You are free to print this manual for personal use and for training workshops.</text:span><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T6"><text:span text:style-name="T6">The latest version is available at</text:span><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T6"><text:a xlink:type="simple" xlink:href="http://software.sil.org/scriptureappbuilder/resources/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T6">http://software.sil.org/scriptureappbuilder/resources/</text:span></text:span></text:a><text:span text:style-name="T6"> <text:s/></text:span></text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T6"><text:span text:style-name="T6">and on the Help menu of Scripture App Builder.</text:span><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P10" loext:marker-style-name="T14"/>
+   <text:p text:style-name="P4" loext:marker-style-name="T14"><text:span text:style-name="T14">Contents</text:span><text:span text:style-name="T14"/></text:p>
+   <text:p text:style-name="P10" loext:marker-style-name="T14"/>
    <text:table-of-content text:style-name="Sect1" text:protected="true" text:name="Table of Contents1">
     <text:table-of-content-source text:outline-level="3" text:use-index-marks="false">
      <text:index-title-template text:style-name="Contents_20_Heading"/>
@@ -2354,59 +2492,59 @@ Description automatically generated</svg:desc>
      </text:table-of-content-entry-template>
     </text:table-of-content-source>
     <text:index-body>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T9"><text:a xlink:type="simple" xlink:href="#_Toc112849245" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">1.<text:span text:style-name="T9"><text:tab/></text:span>Quiz files<text:span text:style-name="T10"><text:tab/>4</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T9"><text:a xlink:type="simple" xlink:href="#_Toc112849246" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">2.<text:span text:style-name="T9"><text:tab/></text:span>Questions and answers in words<text:span text:style-name="T10"><text:tab/>5</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T9"><text:a xlink:type="simple" xlink:href="#_Toc112849247" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.<text:span text:style-name="T9"><text:tab/></text:span>Question with picture, and answers in words<text:span text:style-name="T10"><text:tab/>6</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T9"><text:a xlink:type="simple" xlink:href="#_Toc112849248" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">4.<text:span text:style-name="T9"><text:tab/></text:span>Question in words, and answers in pictures<text:span text:style-name="T10"><text:tab/>7</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T9"><text:a xlink:type="simple" xlink:href="#_Toc112849249" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">5.<text:span text:style-name="T9"><text:tab/></text:span>Question and answer in words, with audio<text:span text:style-name="T10"><text:tab/>8</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T9"><text:a xlink:type="simple" xlink:href="#_Toc112849250" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">6.<text:span text:style-name="T9"><text:tab/></text:span>Question and answer in words, with explanations<text:span text:style-name="T10"><text:tab/>9</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T9"><text:a xlink:type="simple" xlink:href="#_Toc112849251" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">7.<text:span text:style-name="T9"><text:tab/></text:span>Question and answer in words, with explanations and audio<text:span text:style-name="T10"><text:tab/>10</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T9"><text:a xlink:type="simple" xlink:href="#_Toc112849252" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">8.<text:span text:style-name="T9"><text:tab/></text:span>Sound effects for right and wrong answers<text:span text:style-name="T10"><text:tab/>11</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc112849245" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">1.<text:span text:style-name="T15"><text:tab/></text:span>Quiz files<text:span text:style-name="T16"><text:tab/>4</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc112849246" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">2.<text:span text:style-name="T15"><text:tab/></text:span>Questions and answers in words<text:span text:style-name="T16"><text:tab/>5</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc112849247" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.<text:span text:style-name="T15"><text:tab/></text:span>Question with picture, and answers in words<text:span text:style-name="T16"><text:tab/>6</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc112849248" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">4.<text:span text:style-name="T15"><text:tab/></text:span>Question in words, and answers in pictures<text:span text:style-name="T16"><text:tab/>7</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc112849249" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">5.<text:span text:style-name="T15"><text:tab/></text:span>Question and answer in words, with audio<text:span text:style-name="T16"><text:tab/>8</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc112849250" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">6.<text:span text:style-name="T15"><text:tab/></text:span>Question and answer in words, with explanations<text:span text:style-name="T16"><text:tab/>9</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc112849251" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">7.<text:span text:style-name="T15"><text:tab/></text:span>Question and answer in words, with explanations and audio<text:span text:style-name="T16"><text:tab/>10</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc112849252" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">8.<text:span text:style-name="T15"><text:tab/></text:span>Sound effects for right and wrong answers<text:span text:style-name="T16"><text:tab/>11</text:span></text:a></text:p>
     </text:index-body>
    </text:table-of-content>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P9" loext:marker-style-name="T11"/>
-   <text:h text:style-name="P10" text:outline-level="1"><text:bookmark-start text:name="_Toc112849245"/><text:bookmark-start text:name="_Toc89893446"/>Quiz files<text:bookmark-end text:name="_Toc112849245"/><text:bookmark-end text:name="_Toc89893446"/> </text:h>
-   <text:p text:style-name="P11" loext:marker-style-name="T12"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T13"><text:span text:style-name="T13">Quizzes are developed using </text:span><text:span text:style-name="T14">text files </text:span><text:span text:style-name="T13">(.txt), created with a text editor such as </text:span><text:span text:style-name="T14">Notepad</text:span><text:span text:style-name="T13">. Do not use a word processor such as Word or LibreOffice.</text:span></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T13"><text:span text:style-name="T13">A quiz file contains :</text:span><text:span text:style-name="T13"/></text:p>
+   <text:p text:style-name="P9" loext:marker-style-name="T5"/>
+   <text:h text:style-name="P11" text:outline-level="1"><text:bookmark-start text:name="_Toc89893446"/><text:bookmark-start text:name="_Toc112849245"/>Quiz files<text:bookmark-end text:name="_Toc89893446"/><text:bookmark-end text:name="_Toc112849245"/> </text:h>
+   <text:p text:style-name="P13" loext:marker-style-name="T17"/>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">Quizzes are developed using </text:span><text:span text:style-name="T10">text files </text:span><text:span text:style-name="T9">(.txt), created with a text editor such as </text:span><text:span text:style-name="T10">Notepad</text:span><text:span text:style-name="T9">. Do not use a word processor such as Word or LibreOffice.</text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">A quiz file contains :</text:span><text:span text:style-name="T9"/></text:p>
    <text:list text:style-name="WWNum2">
     <text:list-item>
-     <text:p text:style-name="P12" loext:marker-style-name="T13"><text:span text:style-name="T13">Some information at the beginning: ID, name, short name;</text:span><text:span text:style-name="T13"/></text:p>
+     <text:p text:style-name="P40" loext:marker-style-name="T9"><text:span text:style-name="T9">Some information at the beginning: ID, name, short name;</text:span><text:span text:style-name="T9"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P12" loext:marker-style-name="T13"><text:span text:style-name="T13">Questions: at least one question (there is no limit to the number of questions).</text:span><text:span text:style-name="T13"/></text:p>
+     <text:p text:style-name="P40" loext:marker-style-name="T9"><text:span text:style-name="T9">Questions: at least one question (there is no limit to the number of questions).</text:span><text:span text:style-name="T9"/></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Standard" loext:marker-style-name="T15"><text:span text:style-name="T16"><text:line-break/></text:span><text:span text:style-name="T13">In Scripture App Builder, you add quiz files as you do with other kinds of books on the </text:span><text:span text:style-name="T14">Books </text:span><text:span text:style-name="T13">page. Click </text:span><text:span text:style-name="T14">Add Book... </text:span><text:span text:style-name="T13">and select the file.<text:line-break/></text:span></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">Codes to use</text:span><text:span text:style-name="T17"/></text:p>
-   <text:p text:style-name="P13" loext:marker-style-name="T18"/>
-   <text:p text:style-name="P14" loext:marker-style-name="T19"><text:span text:style-name="T20">\id </text:span><text:span text:style-name="T21">abc <text:tab/></text:span><text:span text:style-name="T19">Quiz ID</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T19"><text:span text:style-name="T20">\quiz <text:tab/></text:span><text:span text:style-name="T19">Specify that this file is a quiz</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T19"><text:span text:style-name="T20">\qn</text:span><text:span text:style-name="T22"> xyz</text:span><text:span text:style-name="T19"><text:tab/>Quiz Name</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T23"><text:span text:style-name="T20">\qs </text:span><text:span text:style-name="T21">hjk <text:tab/></text:span><text:span text:style-name="T19">Short name or abbreviation</text:span></text:p>
-   <text:p text:style-name="P15" loext:marker-style-name="T24"/>
+   <text:p text:style-name="Standard" loext:marker-style-name="T11"><text:span text:style-name="T18"><text:line-break/></text:span><text:span text:style-name="T9">In Scripture App Builder, you add quiz files as you do with other kinds of books on the </text:span><text:span text:style-name="T10">Books </text:span><text:span text:style-name="T9">page. Click </text:span><text:span text:style-name="T10">Add Book... </text:span><text:span text:style-name="T9">and select the file.<text:line-break/></text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T19"><text:span text:style-name="T19">Codes to use</text:span><text:span text:style-name="T19"/></text:p>
+   <text:p text:style-name="P14" loext:marker-style-name="T20"/>
+   <text:p text:style-name="P28" loext:marker-style-name="T34"><text:span text:style-name="T22">\id </text:span><text:span text:style-name="T23">abc <text:tab/></text:span><text:span text:style-name="T34">Quiz ID</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T34"><text:span text:style-name="T22">\quiz <text:tab/></text:span><text:span text:style-name="T34">Specify that this file is a quiz</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T34"><text:span text:style-name="T22">\qn</text:span><text:span text:style-name="T24"> xyz</text:span><text:span text:style-name="T34"><text:tab/>Quiz Name</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T25"><text:span text:style-name="T22">\qs </text:span><text:span text:style-name="T23">hjk <text:tab/></text:span><text:span text:style-name="T34">Short name or abbreviation</text:span></text:p>
+   <text:p text:style-name="P16" loext:marker-style-name="T21"/>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">Example 1</text:span><text:span text:style-name="T17"/></text:p>
-   <text:p text:style-name="P13" loext:marker-style-name="T18"/>
-   <text:p text:style-name="P16" loext:marker-style-name="T22"><text:span text:style-name="T20">\id </text:span><text:span text:style-name="T22">QUIZ1</text:span></text:p>
-   <text:p text:style-name="P16" loext:marker-style-name="T20"><text:span text:style-name="T20">\quiz</text:span><text:span text:style-name="T20"/></text:p>
-   <text:p text:style-name="P16" loext:marker-style-name="T22"><text:span text:style-name="T20">\qn </text:span><text:span text:style-name="T22">Quiz on Mali</text:span></text:p>
-   <text:p text:style-name="P16" loext:marker-style-name="T20"><text:span text:style-name="T20">\qs </text:span><text:span text:style-name="T22">Mali</text:span></text:p>
-   <text:p text:style-name="P13" loext:marker-style-name="T18"/>
-   <text:p text:style-name="P17" loext:marker-style-name="T22"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">Example 2</text:span><text:span text:style-name="T17"/></text:p>
-   <text:p text:style-name="P13" loext:marker-style-name="T18"/>
-   <text:p text:style-name="P16" loext:marker-style-name="T22"><text:span text:style-name="T20">\id </text:span><text:span text:style-name="T22">Q123</text:span></text:p>
-   <text:p text:style-name="P16" loext:marker-style-name="T20"><text:span text:style-name="T20">\quiz</text:span><text:span text:style-name="T20"/></text:p>
-   <text:p text:style-name="P16" loext:marker-style-name="T22"><text:span text:style-name="T20">\qn </text:span><text:span text:style-name="T22">The cities of the world</text:span></text:p>
-   <text:p text:style-name="P16" loext:marker-style-name="T20"><text:span text:style-name="T20">\qs </text:span><text:span text:style-name="T22">Cities</text:span></text:p>
-   <text:p text:style-name="P13" loext:marker-style-name="T18"/>
+   <text:p text:style-name="Standard" loext:marker-style-name="T19"><text:span text:style-name="T19">Example 1</text:span><text:span text:style-name="T19"/></text:p>
+   <text:p text:style-name="P14" loext:marker-style-name="T20"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P29" loext:marker-style-name="T24"><text:span text:style-name="T22">\id </text:span><text:span text:style-name="T24">QUIZ1</text:span></text:p>
+   <text:p text:style-name="P29" loext:marker-style-name="T22"><text:span text:style-name="T22">\quiz</text:span><text:span text:style-name="T22"/></text:p>
+   <text:p text:style-name="P29" loext:marker-style-name="T24"><text:span text:style-name="T22">\qn </text:span><text:span text:style-name="T24">Quiz on Mali</text:span></text:p>
+   <text:p text:style-name="P29" loext:marker-style-name="T22"><text:span text:style-name="T22">\qs </text:span><text:span text:style-name="T24">Mali</text:span></text:p>
+   <text:p text:style-name="P14" loext:marker-style-name="T20"/>
+   <text:p text:style-name="P17" loext:marker-style-name="T24"/>
+   <text:p text:style-name="Standard" loext:marker-style-name="T19"><text:span text:style-name="T19">Example 2</text:span><text:span text:style-name="T19"/></text:p>
+   <text:p text:style-name="P14" loext:marker-style-name="T20"/>
+   <text:p text:style-name="P29" loext:marker-style-name="T24"><text:span text:style-name="T22">\id </text:span><text:span text:style-name="T24">Q123</text:span></text:p>
+   <text:p text:style-name="P29" loext:marker-style-name="T22"><text:span text:style-name="T22">\quiz</text:span><text:span text:style-name="T22"/></text:p>
+   <text:p text:style-name="P29" loext:marker-style-name="T24"><text:span text:style-name="T22">\qn </text:span><text:span text:style-name="T24">The cities of the world</text:span></text:p>
+   <text:p text:style-name="P29" loext:marker-style-name="T22"><text:span text:style-name="T22">\qs </text:span><text:span text:style-name="T24">Cities</text:span></text:p>
+   <text:p text:style-name="P14" loext:marker-style-name="T20"/>
    <text:p text:style-name="Standard"/>
-   <text:h text:style-name="P18" text:outline-level="1"><text:bookmark-start text:name="_Toc112849246"/><text:bookmark-start text:name="_Toc89893447"/>Questions and answers in words<text:bookmark-end text:name="_Toc112849246"/><text:bookmark-end text:name="_Toc89893447"/> </text:h>
+   <text:h text:style-name="P12" text:outline-level="1"><text:bookmark-start text:name="_Toc89893447"/><text:bookmark-start text:name="_Toc112849246"/>Questions and answers in words<text:bookmark-end text:name="_Toc89893447"/><text:bookmark-end text:name="_Toc112849246"/> </text:h>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P19" loext:marker-style-name="T5"><text:span text:style-name="T5">The easiest questions to write have one question in words followed by a few answers in words. You need to provide one right answer and one or more wrong answers. The order of the answers will be mixed up in the app. You can have two answers, like &quot;True&quot; and &quot;False&quot;, or three or four answers, or even more depending on the question.</text:span><text:span text:style-name="T5"/></text:p>
-   <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Picture 1" text:anchor-type="as-char" svg:width="3.1201in" svg:height="2.9898in"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P30" loext:marker-style-name="T6"><text:span text:style-name="T6">The easiest questions to write have one question in words followed by a few answers in words. You need to provide one right answer and one or more wrong answers. The order of the answers will be mixed up in the app. You can have two answers, like &quot;True&quot; and &quot;False&quot;, or three or four answers, or even more depending on the question.</text:span><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Picture 1" text:anchor-type="as-char" svg:width="3.1201in" svg:height="2.9898in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAU4AAAFACAYAAADTWZUZAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAC4/SURBVHhe7d0HeBTV3gbwd9OFAAkg
        EvpnwYYISlFBiqIi/SIqYAEVpCNiLiB4RbBcQFAvIOBFQYoKiki5KEoTlN7B0BQEBBJDCyQB
@@ -2636,26 +2774,26 @@ Description automatically generated</svg:desc>
 Description automatically generated with medium confidence</svg:desc>
     </draw:frame></text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">Codes to use</text:span><text:span text:style-name="T17"/></text:p>
-   <text:p text:style-name="P13" loext:marker-style-name="T18"/>
-   <text:p text:style-name="P14" loext:marker-style-name="T20"><text:span text:style-name="T20">\qu </text:span><text:span text:style-name="T21">abc <text:tab/></text:span><text:span text:style-name="T19">Question</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T22"><text:span text:style-name="T20">\ar </text:span><text:span text:style-name="T22">xyz <text:tab/></text:span><text:span text:style-name="T19">Right answer (a = “answer”, r = &quot;right&quot;)</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T19"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">xyz <text:tab/></text:span><text:span text:style-name="T19">Wrong answer (a = “answer”, w = &quot;wrong&quot;)</text:span></text:p>
-   <text:p text:style-name="P15" loext:marker-style-name="T24"/>
+   <text:p text:style-name="Standard" loext:marker-style-name="T19"><text:span text:style-name="T19">Codes to use</text:span><text:span text:style-name="T19"/></text:p>
+   <text:p text:style-name="P14" loext:marker-style-name="T20"/>
+   <text:p text:style-name="P28" loext:marker-style-name="T22"><text:span text:style-name="T22">\qu </text:span><text:span text:style-name="T23">abc <text:tab/></text:span><text:span text:style-name="T34">Question</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T24"><text:span text:style-name="T22">\ar </text:span><text:span text:style-name="T24">xyz <text:tab/></text:span><text:span text:style-name="T34">Right answer (a = “answer”, r = &quot;right&quot;)</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T34"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">xyz <text:tab/></text:span><text:span text:style-name="T34">Wrong answer (a = “answer”, w = &quot;wrong&quot;)</text:span></text:p>
+   <text:p text:style-name="P16" loext:marker-style-name="T21"/>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">Example </text:span><text:span text:style-name="T17"/></text:p>
-   <text:p text:style-name="P13" loext:marker-style-name="T18"/>
-   <text:p text:style-name="P14" loext:marker-style-name="T22"><text:span text:style-name="T20">\qu </text:span><text:span text:style-name="T22">What is the capital city of Mali?</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T22"><text:span text:style-name="T20">\ar </text:span><text:span text:style-name="T22">Bamako</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">Abidjan</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">Ouagadougou</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">Dakar</text:span></text:p>
-   <text:p text:style-name="P20" loext:marker-style-name="T25"/>
-   <text:h text:style-name="P10" text:outline-level="1"><text:bookmark-start text:name="_Toc112849247"/><text:bookmark-start text:name="_Toc89893448"/>Question with picture, and answers in words<text:bookmark-end text:name="_Toc112849247"/><text:bookmark-end text:name="_Toc89893448"/> </text:h>
+   <text:p text:style-name="Standard" loext:marker-style-name="T19"><text:span text:style-name="T19">Example </text:span><text:span text:style-name="T19"/></text:p>
+   <text:p text:style-name="P14" loext:marker-style-name="T20"/>
+   <text:p text:style-name="P28" loext:marker-style-name="T24"><text:span text:style-name="T22">\qu </text:span><text:span text:style-name="T24">What is the capital city of Mali?</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T24"><text:span text:style-name="T22">\ar </text:span><text:span text:style-name="T24">Bamako</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T24"><text:soft-page-break/><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">Abidjan</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T24"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">Ouagadougou</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T24"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">Dakar</text:span></text:p>
+   <text:p text:style-name="P18" loext:marker-style-name="T26"/>
+   <text:h text:style-name="P11" text:outline-level="1"><text:bookmark-start text:name="_Toc89893448"/><text:bookmark-start text:name="_Toc112849247"/>Question with picture, and answers in words<text:bookmark-end text:name="_Toc89893448"/><text:bookmark-end text:name="_Toc112849247"/> </text:h>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T5"><text:span text:style-name="T5">Here we have a question with an image and text, and the answers are in words.</text:span><text:span text:style-name="T5"/></text:p>
-   <text:p text:style-name="P19" loext:marker-style-name="T5"><text:span text:style-name="T5">In </text:span><text:span text:style-name="T15">Scripture </text:span><text:span text:style-name="T5">App Builder, you need to put the image (a JPG or PNG file) in the </text:span><text:span text:style-name="T26">Illustrations </text:span><text:span text:style-name="T5">tab for the quiz book.</text:span></text:p>
-   <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Picture 6" text:anchor-type="as-char" svg:width="2.8126in" svg:height="3.3543in"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="Standard" loext:marker-style-name="T6"><text:span text:style-name="T6">Here we have a question with an image and text, and the answers are in words.</text:span><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P30" loext:marker-style-name="T6"><text:span text:style-name="T6">In </text:span><text:span text:style-name="T11">Scripture </text:span><text:span text:style-name="T6">App Builder, you need to put the image (a JPG or PNG file) in the </text:span><text:span text:style-name="T12">Illustrations </text:span><text:span text:style-name="T6">tab for the quiz book.</text:span></text:p>
+   <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Picture 6" text:anchor-type="as-char" svg:width="2.8126in" svg:height="3.3543in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAUcAAAGGCAYAAADo/UN6AAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAP+lSURBVHhe7P0JkLVNdtcHZu37XvWu
        39rLp1bTQhJCgBhGBoc1KMwYjD2eATwxwzKEsRmMJ7AxzBBhxuMZx9hEjLEJMzZgwAhbBozM
@@ -4077,25 +4215,25 @@ Description automatically generated with medium confidence</svg:desc>
 
 Description automatically generated</svg:desc>
     </draw:frame><text:line-break/></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">Codes to use</text:span><text:span text:style-name="T17"/></text:p>
-   <text:p text:style-name="P21" loext:marker-style-name="T27"/>
-   <text:p text:style-name="P14" loext:marker-style-name="T19"><text:span text:style-name="T20">\qu </text:span><text:span text:style-name="T21">abc <text:tab/><text:tab/></text:span><text:span text:style-name="T19">Question in words</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T19"><text:span text:style-name="T20">\qu </text:span><text:span text:style-name="T22">qqq.jpg <text:tab/></text:span><text:span text:style-name="T19">Image to be displayed in the question (a JPG or PNG filename)</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T19"><text:span text:style-name="T20">\ar </text:span><text:span text:style-name="T22">xyz <text:s text:c="3"/><text:tab/></text:span><text:span text:style-name="T19">Right answer</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T28"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">xyz <text:s text:c="3"/><text:tab/></text:span><text:span text:style-name="T19">Wrong answer</text:span><text:span text:style-name="T29"><text:line-break/></text:span></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17"><text:line-break/>Example </text:span><text:span text:style-name="T17"/></text:p>
-   <text:p text:style-name="P21" loext:marker-style-name="T27"/>
-   <text:p text:style-name="P22" loext:marker-style-name="T22"><text:span text:style-name="T20">\qu </text:span><text:span text:style-name="T22">Which city is this?</text:span></text:p>
-   <text:p text:style-name="P22" loext:marker-style-name="T20"><text:span text:style-name="T20">\qu </text:span><text:span text:style-name="T22">city.jpg</text:span></text:p>
-   <text:p text:style-name="P22" loext:marker-style-name="T22"><text:span text:style-name="T20">\ar </text:span><text:span text:style-name="T22">London</text:span></text:p>
-   <text:p text:style-name="P22" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">Paris</text:span></text:p>
-   <text:p text:style-name="P22" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">New York</text:span></text:p>
-   <text:p text:style-name="P22" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">Sydney</text:span></text:p>
-   <text:p text:style-name="P20" loext:marker-style-name="T25"/>
-   <text:h text:style-name="P10" text:outline-level="1"><text:bookmark-start text:name="_Toc112849248"/><text:bookmark-start text:name="_Toc89893449"/>Question in words, and answers in pictures<text:bookmark-end text:name="_Toc112849248"/><text:bookmark-end text:name="_Toc89893449"/> </text:h>
+   <text:p text:style-name="Standard" loext:marker-style-name="T19"><text:span text:style-name="T19">Codes to use</text:span><text:span text:style-name="T19"/></text:p>
+   <text:p text:style-name="P20" loext:marker-style-name="T27"/>
+   <text:p text:style-name="P28" loext:marker-style-name="T34"><text:span text:style-name="T22">\qu </text:span><text:span text:style-name="T23">abc <text:tab/><text:tab/></text:span><text:span text:style-name="T34">Question in words</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T34"><text:span text:style-name="T22">\qu </text:span><text:span text:style-name="T24">qqq.jpg <text:tab/></text:span><text:span text:style-name="T34">Image to be displayed in the question (a JPG or PNG filename)</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T34"><text:span text:style-name="T22">\ar </text:span><text:span text:style-name="T24">xyz <text:s text:c="3"/><text:tab/></text:span><text:span text:style-name="T34">Right answer</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T28"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">xyz <text:s text:c="3"/><text:tab/></text:span><text:span text:style-name="T34">Wrong answer</text:span><text:span text:style-name="T8"><text:line-break/></text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T19"><text:span text:style-name="T19"><text:line-break/>Example </text:span><text:span text:style-name="T19"/></text:p>
+   <text:p text:style-name="P20" loext:marker-style-name="T27"/>
+   <text:p text:style-name="P31" loext:marker-style-name="T24"><text:span text:style-name="T22">\qu </text:span><text:span text:style-name="T24">Which city is this?</text:span></text:p>
+   <text:p text:style-name="P31" loext:marker-style-name="T22"><text:span text:style-name="T22">\qu </text:span><text:span text:style-name="T24">city.jpg</text:span></text:p>
+   <text:p text:style-name="P31" loext:marker-style-name="T24"><text:span text:style-name="T22">\ar </text:span><text:span text:style-name="T24">London</text:span></text:p>
+   <text:p text:style-name="P31" loext:marker-style-name="T24"><text:soft-page-break/><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">Paris</text:span></text:p>
+   <text:p text:style-name="P31" loext:marker-style-name="T24"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">New York</text:span></text:p>
+   <text:p text:style-name="P31" loext:marker-style-name="T24"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">Sydney</text:span></text:p>
+   <text:p text:style-name="P18" loext:marker-style-name="T26"/>
+   <text:h text:style-name="P11" text:outline-level="1"><text:bookmark-start text:name="_Toc89893449"/><text:bookmark-start text:name="_Toc112849248"/>Question in words, and answers in pictures<text:bookmark-end text:name="_Toc89893449"/><text:bookmark-end text:name="_Toc112849248"/> </text:h>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P19" loext:marker-style-name="T5"><text:span text:style-name="T5">Here we have a question in words, and the answers are pictures.</text:span><text:span text:style-name="T5"/></text:p>
-   <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Picture 8" text:anchor-type="as-char" svg:width="3.4583in" svg:height="3.8654in"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P30" loext:marker-style-name="T6"><text:span text:style-name="T6">Here we have a question in words, and the answers are pictures.</text:span><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Picture 8" text:anchor-type="as-char" svg:width="3.4583in" svg:height="3.8654in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAUwAAAFzCAYAAABVQjAnAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAP+lSURBVHhe7P0HeCxJdt+JHrhCoVAF
        D1xcf2/f9nZ6HMf74XjOkENSHBpRIne5epRW3+OSWo1W0lJarfaRb2U+SY+kVlxpRSe6ITmG
@@ -6422,27 +6560,27 @@ Description automatically generated</svg:desc>
 
 Description automatically generated</svg:desc>
     </draw:frame></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">Codes to use</text:span><text:span text:style-name="T17"/></text:p>
-   <text:p text:style-name="P23" loext:marker-style-name="T28"/>
-   <text:p text:style-name="P14" loext:marker-style-name="T30"><text:span text:style-name="T20">\qu</text:span><text:span text:style-name="T22"> </text:span><text:span text:style-name="T21">abc <text:tab/><text:tab/></text:span><text:span text:style-name="T19">Question in words</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T19"><text:span text:style-name="T20">\ar </text:span><text:span text:style-name="T21">xyz.jpg <text:tab/></text:span><text:span text:style-name="T19">Right answer - image file (JPG or PNG)</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T19"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T21">xyz.jpg <text:tab/></text:span><text:span text:style-name="T19">Wrong answer - image file (JPG or PNG)</text:span></text:p>
-   <text:p text:style-name="P24" loext:marker-style-name="T31"/>
+   <text:p text:style-name="Standard" loext:marker-style-name="T19"><text:span text:style-name="T19">Codes to use</text:span><text:span text:style-name="T19"/></text:p>
+   <text:p text:style-name="P21" loext:marker-style-name="T28"/>
+   <text:p text:style-name="P28" loext:marker-style-name="T35"><text:span text:style-name="T22">\qu</text:span><text:span text:style-name="T24"> </text:span><text:span text:style-name="T23">abc <text:tab/><text:tab/></text:span><text:span text:style-name="T34">Question in words</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T34"><text:span text:style-name="T22">\ar </text:span><text:span text:style-name="T23">xyz.jpg <text:tab/></text:span><text:span text:style-name="T34">Right answer - image file (JPG or PNG)</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T34"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T23">xyz.jpg <text:tab/></text:span><text:span text:style-name="T34">Wrong answer - image file (JPG or PNG)</text:span></text:p>
+   <text:p text:style-name="P22" loext:marker-style-name="T29"/>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">Example </text:span><text:span text:style-name="T17"/></text:p>
-   <text:p text:style-name="P13" loext:marker-style-name="T18"/>
-   <text:p text:style-name="P14" loext:marker-style-name="T22"><text:span text:style-name="T20">\qu </text:span><text:span text:style-name="T22">Which photo was taken in Bamako, Mali?</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">dakar.jpg</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">abidjan.jpg</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">ouaga.jpg</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T22"><text:span text:style-name="T20">\ar </text:span><text:span text:style-name="T22">bamako.jpg</text:span></text:p>
-   <text:p text:style-name="P25" loext:marker-style-name="T32"/>
-   <text:p text:style-name="P9" loext:marker-style-name="T11"/>
-   <text:h text:style-name="P18" text:outline-level="1"><text:bookmark-start text:name="_Toc112849249"/><text:bookmark-start text:name="_Toc89893450"/>Question and answer in words, with audio<text:bookmark-end text:name="_Toc112849249"/><text:bookmark-end text:name="_Toc89893450"/> </text:h>
+   <text:p text:style-name="Standard" loext:marker-style-name="T19"><text:span text:style-name="T19">Example </text:span><text:span text:style-name="T19"/></text:p>
+   <text:p text:style-name="P14" loext:marker-style-name="T20"/>
+   <text:p text:style-name="P28" loext:marker-style-name="T24"><text:span text:style-name="T22">\qu </text:span><text:span text:style-name="T24">Which photo was taken in Bamako, Mali?</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T24"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">dakar.jpg</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T24"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">abidjan.jpg</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T24"><text:soft-page-break/><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">ouaga.jpg</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T24"><text:span text:style-name="T22">\ar </text:span><text:span text:style-name="T24">bamako.jpg</text:span></text:p>
+   <text:p text:style-name="P23" loext:marker-style-name="T30"/>
+   <text:p text:style-name="P9" loext:marker-style-name="T5"/>
+   <text:h text:style-name="P12" text:outline-level="1"><text:bookmark-start text:name="_Toc89893450"/><text:bookmark-start text:name="_Toc112849249"/>Question and answer in words, with audio<text:bookmark-end text:name="_Toc89893450"/><text:bookmark-end text:name="_Toc112849249"/> </text:h>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T5"><text:span text:style-name="T5">You can provide an audio recording for the question and for each answer. The recording can be done in a program like Audacity (</text:span><text:a xlink:type="simple" xlink:href="https://www.audacityteam.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T5">https://www.audacityteam.org</text:span></text:span></text:a><text:span text:style-name="T5">). Use </text:span><text:span text:style-name="T26">File</text:span><text:span text:style-name="T5"> &gt; </text:span><text:span text:style-name="T26">Export</text:span><text:span text:style-name="T5"> &gt; </text:span><text:span text:style-name="T26">Export Selected Audio</text:span><text:span text:style-name="T5">.</text:span></text:p>
-   <text:p text:style-name="P19" loext:marker-style-name="T5"><text:span text:style-name="T5">In </text:span><text:span text:style-name="T15">Scripture </text:span><text:span text:style-name="T5">App Builder, you need to put the audio clip (MP3 file) in the </text:span><text:span text:style-name="T26">Audio Clips </text:span><text:span text:style-name="T5">tab for the quiz book.</text:span></text:p>
-   <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Picture 10" text:anchor-type="as-char" svg:width="2.2398in" svg:height="2.1457in"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="Standard" loext:marker-style-name="T6"><text:span text:style-name="T6">You can provide an audio recording for the question and for each answer. The recording can be done in a program like Audacity (</text:span><text:a xlink:type="simple" xlink:href="https://www.audacityteam.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T6">https://www.audacityteam.org</text:span></text:span></text:a><text:span text:style-name="T6">). Use </text:span><text:span text:style-name="T12">File</text:span><text:span text:style-name="T6"> &gt; </text:span><text:span text:style-name="T12">Export</text:span><text:span text:style-name="T6"> &gt; </text:span><text:span text:style-name="T12">Export Selected Audio</text:span><text:span text:style-name="T6">.</text:span></text:p>
+   <text:p text:style-name="P30" loext:marker-style-name="T6"><text:span text:style-name="T6">In </text:span><text:span text:style-name="T11">Scripture </text:span><text:span text:style-name="T6">App Builder, you need to put the audio clip (MP3 file) in the </text:span><text:span text:style-name="T12">Audio Clips </text:span><text:span text:style-name="T6">tab for the quiz book.</text:span></text:p>
+   <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Picture 10" text:anchor-type="as-char" svg:width="2.2398in" svg:height="2.1457in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAU4AAAFACAYAAADTWZUZAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAC4/SURBVHhe7d0HeBTV3gbwd9OFAAkg
        EvpnwYYISlFBiqIi/SIqYAEVpCNiLiB4RbBcQFAvIOBFQYoKiki5KEoTlN7B0BQEBBJDCyQB
@@ -6671,33 +6809,33 @@ Description automatically generated</svg:desc>
 
 Description automatically generated with medium confidence</svg:desc>
     </draw:frame></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">Codes to use</text:span><text:span text:style-name="T17"/></text:p>
-   <text:p text:style-name="P26" loext:marker-style-name="T32"/>
-   <text:p text:style-name="P27" loext:marker-style-name="T19"><text:span text:style-name="T20">\qu </text:span><text:span text:style-name="T21">abc <text:tab/><text:tab/></text:span><text:span text:style-name="T19">Question</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T19"><text:span text:style-name="T20">\qu </text:span><text:span text:style-name="T21">abc.mp3 <text:tab/></text:span><text:span text:style-name="T19">Audio recording of the question (MP3 audio file)</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T19"><text:span text:style-name="T20">\ar </text:span><text:span text:style-name="T22">xyz <text:tab/><text:tab/></text:span><text:span text:style-name="T19">Right answer</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T19"><text:span text:style-name="T20">\ar </text:span><text:span text:style-name="T21">xyz.mp3 <text:tab/></text:span><text:span text:style-name="T19">Audio recording of the right answer (MP3 audio file)</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T19"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">xyz <text:tab/><text:tab/></text:span><text:span text:style-name="T19">Wrong answer</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T19"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T21">xyz.mp3 <text:tab/></text:span><text:span text:style-name="T19">Audio recording of the wrong answer (MP3 audio file)</text:span></text:p>
-   <text:p text:style-name="P28" loext:marker-style-name="T33"/>
-   <text:p text:style-name="P29" loext:marker-style-name="T34"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">Example </text:span><text:span text:style-name="T17"/></text:p>
-   <text:p text:style-name="P30" loext:marker-style-name="T25"/>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\qu </text:span><text:span text:style-name="T22">What is the capital city of Mali?</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\qu </text:span><text:span text:style-name="T22">capital-question.mp3</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\ar </text:span><text:span text:style-name="T22">Bamako</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\ar </text:span><text:span text:style-name="T22">bamako.mp3</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">Abidjan</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">abidjan.mp3</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">Ouagadougou</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">ouagadougou.mp3</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">Dakar</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">dakar.mp3</text:span></text:p>
-   <text:p text:style-name="P13" loext:marker-style-name="T18"/>
-   <text:h text:style-name="P10" text:outline-level="1"><text:bookmark-start text:name="_Toc112849250"/><text:bookmark-start text:name="_Toc89893451"/>Question and answer in words, with explanations<text:bookmark-end text:name="_Toc112849250"/><text:bookmark-end text:name="_Toc89893451"/> </text:h>
+   <text:p text:style-name="Standard" loext:marker-style-name="T19"><text:span text:style-name="T19">Codes to use</text:span><text:span text:style-name="T19"/></text:p>
+   <text:p text:style-name="P24" loext:marker-style-name="T30"/>
+   <text:p text:style-name="P32" loext:marker-style-name="T34"><text:span text:style-name="T22">\qu </text:span><text:span text:style-name="T23">abc <text:tab/><text:tab/></text:span><text:span text:style-name="T34">Question</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T34"><text:span text:style-name="T22">\qu </text:span><text:span text:style-name="T23">abc.mp3 <text:tab/></text:span><text:span text:style-name="T34">Audio recording of the question (MP3 audio file)</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T34"><text:span text:style-name="T22">\ar </text:span><text:span text:style-name="T24">xyz <text:tab/><text:tab/></text:span><text:span text:style-name="T34">Right answer</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T34"><text:span text:style-name="T22">\ar </text:span><text:span text:style-name="T23">xyz.mp3 <text:tab/></text:span><text:span text:style-name="T34">Audio recording of the right answer (MP3 audio file)</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T34"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">xyz <text:tab/><text:tab/></text:span><text:span text:style-name="T34">Wrong answer</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T34"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T23">xyz.mp3 <text:tab/></text:span><text:span text:style-name="T34">Audio recording of the wrong answer (MP3 audio file)</text:span></text:p>
+   <text:p text:style-name="P25" loext:marker-style-name="T31"/>
+   <text:p text:style-name="P33" loext:marker-style-name="T36"/>
+   <text:p text:style-name="Standard" loext:marker-style-name="T19"><text:span text:style-name="T19">Example </text:span><text:span text:style-name="T19"/></text:p>
+   <text:p text:style-name="P19" loext:marker-style-name="T26"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\qu </text:span><text:span text:style-name="T24">What is the capital city of Mali?</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\qu </text:span><text:span text:style-name="T24">capital-question.mp3</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\ar </text:span><text:span text:style-name="T24">Bamako</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\ar </text:span><text:span text:style-name="T24">bamako.mp3</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">Abidjan</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">abidjan.mp3</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">Ouagadougou</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">ouagadougou.mp3</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">Dakar</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">dakar.mp3</text:span></text:p>
+   <text:p text:style-name="P14" loext:marker-style-name="T20"/>
+   <text:h text:style-name="P11" text:outline-level="1"><text:bookmark-start text:name="_Toc89893451"/><text:bookmark-start text:name="_Toc112849250"/>Question and answer in words, with explanations<text:bookmark-end text:name="_Toc89893451"/><text:bookmark-end text:name="_Toc112849250"/> </text:h>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T5"><text:span text:style-name="T5">You can give an explanation to the user after they select an answer, helping them to see why it is the right or the wrong answer.</text:span><text:span text:style-name="T5"/></text:p>
-   <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Picture 11" text:anchor-type="as-char" svg:width="2.8854in" svg:height="2.8252in"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="Standard" loext:marker-style-name="T6"><text:span text:style-name="T6">You can give an explanation to the user after they select an answer, helping them to see why it is the right or the wrong answer.</text:span><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Picture 11" text:anchor-type="as-char" svg:width="2.8854in" svg:height="2.8252in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAU0AAAFGCAYAAADuN80HAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAACn6SURBVHhe7d0HfBPl/wfwT9rSFmih
        TFtAwC2CAspQZONAUFFERfgrgoAiiAtx4AJ+P0VEUfEHKKKiKIKyZamAgoIMWcp0ASKtCKV0
@@ -6905,89 +7043,89 @@ Description automatically generated with medium confidence</svg:desc>
 
 Description automatically generated</svg:desc>
     </draw:frame></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">Codes to use</text:span><text:span text:style-name="T17"/></text:p>
-   <text:p text:style-name="P31" loext:marker-style-name="T35"/>
-   <text:p text:style-name="P14" loext:marker-style-name="T19"><text:span text:style-name="T20">\qu </text:span><text:span text:style-name="T21">abc <text:tab/></text:span><text:span text:style-name="T19">Question</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T19"><text:span text:style-name="T20">\ar </text:span><text:span text:style-name="T22">xyz <text:s/><text:tab/></text:span><text:span text:style-name="T19">Right answer</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T22"><text:span text:style-name="T20">\ae </text:span><text:span text:style-name="T21">hjk <text:tab/></text:span><text:span text:style-name="T19">Explanation - why the answer is right</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">xyz <text:s/><text:tab/></text:span><text:span text:style-name="T19">Wrong answer</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T22"><text:span text:style-name="T20">\ae </text:span><text:span text:style-name="T21">hjk <text:tab/></text:span><text:span text:style-name="T19">Explanation - why the answer is not right</text:span></text:p>
-   <text:p text:style-name="P32" loext:marker-style-name="T36"/>
-   <text:p text:style-name="P33" loext:marker-style-name="T37"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">Example </text:span><text:span text:style-name="T17"/></text:p>
-   <text:p text:style-name="P31" loext:marker-style-name="T35"/>
-   <text:p text:style-name="P34" loext:marker-style-name="T22"><text:span text:style-name="T20">\qu </text:span><text:span text:style-name="T22">In the Bible, who was Jacob&apos;s father?</text:span></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T22"><text:span text:style-name="T20">\ar </text:span><text:span text:style-name="T22">Issac</text:span></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T22"><text:span text:style-name="T20">\ae </text:span><text:span text:style-name="T22">Yes, Isaac was the father of Jacob and Esau.</text:span></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">Abraham</text:span></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T22"><text:span text:style-name="T20">\ae </text:span><text:span text:style-name="T22">No, it was Isaac. Abraham was Jacob&apos;s grandfather.</text:span></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">Joseph</text:span></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T22"><text:span text:style-name="T20">\ae </text:span><text:span text:style-name="T22">No, it was Isaac. Joseph was one of Jacob&apos;s sons.</text:span></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">Esau</text:span></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T22"><text:span text:style-name="T20">\ae </text:span><text:span text:style-name="T22">No, it was Isaac. Esau was Jacob&apos;s brother.</text:span></text:p>
-   <text:p text:style-name="P13" loext:marker-style-name="T18"/>
-   <text:h text:style-name="P10" text:outline-level="1"><text:bookmark-start text:name="_Toc112849251"/><text:bookmark-start text:name="_Toc89893452"/>Question and answer in words, with explanations and audio<text:bookmark-end text:name="_Toc112849251"/><text:bookmark-end text:name="_Toc89893452"/> </text:h>
+   <text:p text:style-name="Standard" loext:marker-style-name="T19"><text:span text:style-name="T19">Codes to use</text:span><text:span text:style-name="T19"/></text:p>
+   <text:p text:style-name="P26" loext:marker-style-name="T32"/>
+   <text:p text:style-name="P28" loext:marker-style-name="T34"><text:span text:style-name="T22">\qu </text:span><text:span text:style-name="T23">abc <text:tab/></text:span><text:span text:style-name="T34">Question</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T34"><text:span text:style-name="T22">\ar </text:span><text:span text:style-name="T24">xyz <text:s/><text:tab/></text:span><text:span text:style-name="T34">Right answer</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T24"><text:span text:style-name="T22">\ae </text:span><text:span text:style-name="T23">hjk <text:tab/></text:span><text:span text:style-name="T34">Explanation - why the answer is right</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T24"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">xyz <text:s/><text:tab/></text:span><text:span text:style-name="T34">Wrong answer</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T24"><text:span text:style-name="T22">\ae </text:span><text:span text:style-name="T23">hjk <text:tab/></text:span><text:span text:style-name="T34">Explanation - why the answer is not right</text:span></text:p>
+   <text:p text:style-name="P27" loext:marker-style-name="T33"/>
+   <text:p text:style-name="P34" loext:marker-style-name="T37"/>
+   <text:p text:style-name="Standard" loext:marker-style-name="T19"><text:span text:style-name="T19">Example </text:span><text:span text:style-name="T19"/></text:p>
+   <text:p text:style-name="P26" loext:marker-style-name="T32"/>
+   <text:p text:style-name="P35" loext:marker-style-name="T24"><text:span text:style-name="T22">\qu </text:span><text:span text:style-name="T24">In the Bible, who was Jacob&apos;s father?</text:span></text:p>
+   <text:p text:style-name="P35" loext:marker-style-name="T24"><text:soft-page-break/><text:span text:style-name="T22">\ar </text:span><text:span text:style-name="T24">Issac</text:span></text:p>
+   <text:p text:style-name="P35" loext:marker-style-name="T24"><text:span text:style-name="T22">\ae </text:span><text:span text:style-name="T24">Yes, Isaac was the father of Jacob and Esau.</text:span></text:p>
+   <text:p text:style-name="P35" loext:marker-style-name="T24"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">Abraham</text:span></text:p>
+   <text:p text:style-name="P35" loext:marker-style-name="T24"><text:span text:style-name="T22">\ae </text:span><text:span text:style-name="T24">No, it was Isaac. Abraham was Jacob&apos;s grandfather.</text:span></text:p>
+   <text:p text:style-name="P35" loext:marker-style-name="T24"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">Joseph</text:span></text:p>
+   <text:p text:style-name="P35" loext:marker-style-name="T24"><text:span text:style-name="T22">\ae </text:span><text:span text:style-name="T24">No, it was Isaac. Joseph was one of Jacob&apos;s sons.</text:span></text:p>
+   <text:p text:style-name="P35" loext:marker-style-name="T24"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">Esau</text:span></text:p>
+   <text:p text:style-name="P35" loext:marker-style-name="T24"><text:span text:style-name="T22">\ae </text:span><text:span text:style-name="T24">No, it was Isaac. Esau was Jacob&apos;s brother.</text:span></text:p>
+   <text:p text:style-name="P14" loext:marker-style-name="T20"/>
+   <text:h text:style-name="P11" text:outline-level="1"><text:bookmark-start text:name="_Toc89893452"/><text:bookmark-start text:name="_Toc112849251"/>Question and answer in words, with explanations and audio<text:bookmark-end text:name="_Toc89893452"/><text:bookmark-end text:name="_Toc112849251"/> </text:h>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T5"><text:span text:style-name="T5">It is possible to give the explanations in audio.<text:line-break/></text:span><text:span text:style-name="T5"/></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">Codes to use</text:span><text:span text:style-name="T17"/></text:p>
-   <text:p text:style-name="P25" loext:marker-style-name="T32"/>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\qu </text:span><text:span text:style-name="T21">abc <text:tab/><text:tab/></text:span><text:span text:style-name="T19">Question</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\qu </text:span><text:span text:style-name="T21">abc.mp3 <text:tab/></text:span><text:span text:style-name="T19">Audio recording of the question (mp3)</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\ar </text:span><text:span text:style-name="T22">xyz <text:tab/><text:tab/></text:span><text:span text:style-name="T19">Right answer</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\ae </text:span><text:span text:style-name="T21">xyz.mp3 <text:tab/></text:span><text:span text:style-name="T19">Audio recording of the answer (mp3)</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\ae </text:span><text:span text:style-name="T21">hjk <text:tab/><text:tab/></text:span><text:span text:style-name="T19">Explanation - why the answer is right</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\ae </text:span><text:span text:style-name="T21">hjk.mp3 <text:tab/></text:span><text:span text:style-name="T19">Explanation - audio file (mp3)</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">xyz <text:tab/><text:tab/></text:span><text:span text:style-name="T19">Wrong answer</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T21">xyz.mp3 <text:tab/></text:span><text:span text:style-name="T19">Audio recording of the answer (mp3)</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\ae </text:span><text:span text:style-name="T21">hjk <text:tab/><text:tab/></text:span><text:span text:style-name="T19">Explanation - why the answer is not right</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\ae </text:span><text:span text:style-name="T21">hjk.mp3 <text:tab/></text:span><text:span text:style-name="T19">Explanation - audio file (mp3)</text:span><text:span text:style-name="T22"><text:line-break/></text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T6"><text:span text:style-name="T6">It is possible to give the explanations in audio.<text:line-break/></text:span><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T19"><text:span text:style-name="T19">Codes to use</text:span><text:span text:style-name="T19"/></text:p>
+   <text:p text:style-name="P23" loext:marker-style-name="T30"/>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\qu </text:span><text:span text:style-name="T23">abc <text:tab/><text:tab/></text:span><text:span text:style-name="T34">Question</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\qu </text:span><text:span text:style-name="T23">abc.mp3 <text:tab/></text:span><text:span text:style-name="T34">Audio recording of the question (mp3)</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\ar </text:span><text:span text:style-name="T24">xyz <text:tab/><text:tab/></text:span><text:span text:style-name="T34">Right answer</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\ae </text:span><text:span text:style-name="T23">xyz.mp3 <text:tab/></text:span><text:span text:style-name="T34">Audio recording of the answer (mp3)</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\ae </text:span><text:span text:style-name="T23">hjk <text:tab/><text:tab/></text:span><text:span text:style-name="T34">Explanation - why the answer is right</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\ae </text:span><text:span text:style-name="T23">hjk.mp3 <text:tab/></text:span><text:span text:style-name="T34">Explanation - audio file (mp3)</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">xyz <text:tab/><text:tab/></text:span><text:span text:style-name="T34">Wrong answer</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T23">xyz.mp3 <text:tab/></text:span><text:span text:style-name="T34">Audio recording of the answer (mp3)</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\ae </text:span><text:span text:style-name="T23">hjk <text:tab/><text:tab/></text:span><text:span text:style-name="T34">Explanation - why the answer is not right</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\ae </text:span><text:span text:style-name="T23">hjk.mp3 <text:tab/></text:span><text:span text:style-name="T34">Explanation - audio file (mp3)</text:span><text:span text:style-name="T24"><text:line-break/></text:span></text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">Example </text:span><text:span text:style-name="T17"/></text:p>
-   <text:p text:style-name="P21" loext:marker-style-name="T27"/>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\qu </text:span><text:span text:style-name="T22">In the Bible, who was Jacob&apos;s father?</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\qu </text:span><text:span text:style-name="T22">question-jacob-father.mp3</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\ar </text:span><text:span text:style-name="T22">Issac</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\ar </text:span><text:span text:style-name="T22">isaac.mp3</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\ae </text:span><text:span text:style-name="T22">Yes, Isaac was the father of Jacob and Esau.</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\ae </text:span><text:span text:style-name="T22">expl-isaac.mp3</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">Abraham</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">Abraham.mp3</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\ae </text:span><text:span text:style-name="T22">No, it was Isaac. Abraham was Jacob&apos;s grandfather.</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\ae </text:span><text:span text:style-name="T22">expl-abraham.mp3</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">Joseph</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">joseph.mp3</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\ae </text:span><text:span text:style-name="T22">No, it was Isaac. Joseph was one of Jacob&apos;s sons.</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\ae </text:span><text:span text:style-name="T22">expl-joseph.mp3</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">Esau</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\aw </text:span><text:span text:style-name="T22">esau.mp3</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\ae </text:span><text:span text:style-name="T22">No, it was Isaac. Esau was Jacob&apos;s brother.</text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T22"><text:span text:style-name="T20">\ae </text:span><text:span text:style-name="T22">expl-esau.mp3</text:span></text:p>
-   <text:p text:style-name="P35" loext:marker-style-name="T18"/>
-   <text:h text:style-name="P18" text:outline-level="1"><text:bookmark-start text:name="_Toc112849252"/><text:bookmark-start text:name="_Toc89893453"/>Sound effects for right and wrong answers<text:bookmark-end text:name="_Toc112849252"/><text:bookmark-end text:name="_Toc89893453"/></text:h>
-   <text:p text:style-name="P11" loext:marker-style-name="T12"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T5"><text:span text:style-name="T5">After a right or wrong answer, there is a sound effect to indicate to the user whether the answer is right or wrong. You can change these sound effects.</text:span><text:span text:style-name="T5"/></text:p>
-   <text:p text:style-name="P36" loext:marker-style-name="T13"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">Codes to use</text:span><text:span text:style-name="T17"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T19"><text:soft-page-break/><text:span text:style-name="T19">Example </text:span><text:span text:style-name="T19"/></text:p>
+   <text:p text:style-name="P20" loext:marker-style-name="T27"/>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\qu </text:span><text:span text:style-name="T24">In the Bible, who was Jacob&apos;s father?</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\qu </text:span><text:span text:style-name="T24">question-jacob-father.mp3</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\ar </text:span><text:span text:style-name="T24">Issac</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\ar </text:span><text:span text:style-name="T24">isaac.mp3</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\ae </text:span><text:span text:style-name="T24">Yes, Isaac was the father of Jacob and Esau.</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\ae </text:span><text:span text:style-name="T24">expl-isaac.mp3</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">Abraham</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">Abraham.mp3</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\ae </text:span><text:span text:style-name="T24">No, it was Isaac. Abraham was Jacob&apos;s grandfather.</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\ae </text:span><text:span text:style-name="T24">expl-abraham.mp3</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">Joseph</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">joseph.mp3</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\ae </text:span><text:span text:style-name="T24">No, it was Isaac. Joseph was one of Jacob&apos;s sons.</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\ae </text:span><text:span text:style-name="T24">expl-joseph.mp3</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:soft-page-break/><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">Esau</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\aw </text:span><text:span text:style-name="T24">esau.mp3</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\ae </text:span><text:span text:style-name="T24">No, it was Isaac. Esau was Jacob&apos;s brother.</text:span></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T24"><text:span text:style-name="T22">\ae </text:span><text:span text:style-name="T24">expl-esau.mp3</text:span></text:p>
+   <text:p text:style-name="P15" loext:marker-style-name="T20"/>
+   <text:h text:style-name="P12" text:outline-level="1"><text:bookmark-start text:name="_Toc89893453"/><text:bookmark-start text:name="_Toc112849252"/>Sound effects for right and wrong answers<text:bookmark-end text:name="_Toc89893453"/><text:bookmark-end text:name="_Toc112849252"/></text:h>
+   <text:p text:style-name="P13" loext:marker-style-name="T17"/>
+   <text:p text:style-name="Standard" loext:marker-style-name="T6"><text:span text:style-name="T6">After a right or wrong answer, there is a sound effect to indicate to the user whether the answer is right or wrong. You can change these sound effects.</text:span><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P36" loext:marker-style-name="T9"/>
+   <text:p text:style-name="Standard" loext:marker-style-name="T19"><text:span text:style-name="T19">Codes to use</text:span><text:span text:style-name="T19"/></text:p>
    <text:p text:style-name="Standard">Put these codes at the end or beginning of the quiz file. They apply to all questions.</text:p>
-   <text:p text:style-name="P31" loext:marker-style-name="T35"/>
-   <text:p text:style-name="P14" loext:marker-style-name="T22"><text:span text:style-name="T20">\ra </text:span><text:span text:style-name="T22">abc.mp3<text:tab/></text:span><text:span text:style-name="T19">Sound effect for a right answer</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T22"><text:span text:style-name="T20">\wa </text:span><text:span text:style-name="T22">hjk.mp3<text:tab/></text:span><text:span text:style-name="T19">Sound effect for a wrong answer</text:span></text:p>
-   <text:p text:style-name="P23" loext:marker-style-name="T28"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17"><text:line-break/>Example 1</text:span><text:span text:style-name="T17"/></text:p>
-   <text:p text:style-name="P31" loext:marker-style-name="T35"/>
-   <text:p text:style-name="P14" loext:marker-style-name="T22"><text:span text:style-name="T20">\ra </text:span><text:span text:style-name="T22">good.mp3 <text:s text:c="6"/></text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T22"><text:span text:style-name="T20">\wa </text:span><text:span text:style-name="T22">wrong.mp3<text:line-break/></text:span></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17"><text:line-break/>Example 2</text:span><text:span text:style-name="T17"/></text:p>
+   <text:p text:style-name="P26" loext:marker-style-name="T32"/>
+   <text:p text:style-name="P28" loext:marker-style-name="T24"><text:span text:style-name="T22">\ra </text:span><text:span text:style-name="T24">abc.mp3<text:tab/></text:span><text:span text:style-name="T34">Sound effect for a right answer</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T24"><text:span text:style-name="T22">\wa </text:span><text:span text:style-name="T24">hjk.mp3<text:tab/></text:span><text:span text:style-name="T34">Sound effect for a wrong answer</text:span></text:p>
+   <text:p text:style-name="P21" loext:marker-style-name="T28"/>
+   <text:p text:style-name="Standard" loext:marker-style-name="T19"><text:span text:style-name="T19"><text:line-break/>Example 1</text:span><text:span text:style-name="T19"/></text:p>
+   <text:p text:style-name="P26" loext:marker-style-name="T32"/>
+   <text:p text:style-name="P28" loext:marker-style-name="T24"><text:span text:style-name="T22">\ra </text:span><text:span text:style-name="T24">good.mp3 <text:s text:c="6"/></text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T24"><text:span text:style-name="T22">\wa </text:span><text:span text:style-name="T24">wrong.mp3<text:line-break/></text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T19"><text:span text:style-name="T19"><text:line-break/>Example 2</text:span><text:span text:style-name="T19"/></text:p>
    <text:p text:style-name="Standard">You can give several files for the right and wrong answers. The application will choose among them for each answer.</text:p>
-   <text:p text:style-name="P31" loext:marker-style-name="T35"/>
-   <text:p text:style-name="P14" loext:marker-style-name="T20"><text:span text:style-name="T20">\ra </text:span><text:span text:style-name="T22">very-good.mp3</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T22"><text:span text:style-name="T20">\ra </text:span><text:span text:style-name="T22">excellent.mp3</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T22"><text:span text:style-name="T20">\ra </text:span><text:span text:style-name="T22">good-answer.mp3</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T22"><text:span text:style-name="T20">\wa </text:span><text:span text:style-name="T22">sorry.mp3</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T22"><text:span text:style-name="T20">\wa </text:span><text:span text:style-name="T22">incorrect.mp3</text:span></text:p>
-   <text:p text:style-name="P14" loext:marker-style-name="T22"><text:span text:style-name="T20">\wa </text:span><text:span text:style-name="T22">not-good.mp3</text:span><text:span text:style-name="T21"><text:line-break/></text:span></text:p>
-   <text:p text:style-name="P37" loext:marker-style-name="T15"/>
-   <text:p text:style-name="P37" loext:marker-style-name="T15"/>
+   <text:p text:style-name="P26" loext:marker-style-name="T32"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T22"><text:span text:style-name="T22">\ra </text:span><text:span text:style-name="T24">very-good.mp3</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T24"><text:span text:style-name="T22">\ra </text:span><text:span text:style-name="T24">excellent.mp3</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T24"><text:span text:style-name="T22">\ra </text:span><text:span text:style-name="T24">good-answer.mp3</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T24"><text:span text:style-name="T22">\wa </text:span><text:span text:style-name="T24">sorry.mp3</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T24"><text:span text:style-name="T22">\wa </text:span><text:span text:style-name="T24">incorrect.mp3</text:span></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T24"><text:span text:style-name="T22">\wa </text:span><text:span text:style-name="T24">not-good.mp3</text:span><text:span text:style-name="T23"><text:line-break/></text:span></text:p>
+   <text:p text:style-name="P37" loext:marker-style-name="T11"/>
+   <text:p text:style-name="P37" loext:marker-style-name="T11"/>
   </office:text>
  </office:body>
 </office:document>
