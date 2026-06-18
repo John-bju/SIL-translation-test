@@ -2,6 +2,6 @@ project_id: "903335"
 api_token_env: CROWDIN_PERSONAL_TOKEN
 
 "files":
-  - source:  docs-en/odt/**/*.odt
-    translation: /docs-fr/%locale%/odt/**/%original_file_name%-fr
+  - source:  /docs-en/odt/**/*.odt
+    translation: /docs-fr/%locale%/**/%original_file_name%
 
