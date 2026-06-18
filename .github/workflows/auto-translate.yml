@@ -23,12 +23,10 @@ jobs:
       - name: Convert TESTING
         run: |
           find docs-en -type f -name "*.fodt" | while read file; do
-            echo "Converting $file"
             #outdir="$(dirname "$file")"
             echo dirname
-            #mkdir -p "$outdir"
             mkdir -p "docs-en/odt/"
-            cp "$file" "$outdir"
+            echo "$file" "$outdir"
           done
 
 
