@@ -27,10 +27,9 @@ jobs:
 
       - name: Convert FODT files to ODT
         run: |
-          mkdir -p odt-output
-          find docs -type f -name "*.fodt" | while read file; do
+          find docs-en -type f -name "*.fodt" | while read file; do
             echo "Converting $file"
-            outdir="odt-output/$(dirname "$file")"
+            outdir="docs-en/odt/$(dirname "$file")"
             mkdir -p "$outdir"
             timeout 60s libreoffice --headless --convert-to odt "$file" --outdir "$outdir"
           done
@@ -70,7 +69,7 @@ jobs:
           
       - name: Update all FODT file links
         run: |
-          find docs i18n -type f -name "*.fodt" | while read file; do
+          find docs-en docs-fr -type f -name "*.fodt" | while read file; do
             echo "Updating links in $file"
             timeout 60s libreoffice --headless --invisible "macro:///Standard.Module1.SaveAndExitDocument" "$file"
           done
@@ -78,10 +77,9 @@ jobs:
           
       - name: Convert FODT files to PDF
         run: |
-          mkdir -p pdf-output
-          find docs i18n -type f -name "*.fodt" | while read file; do
+          find docs-en docs-fr -type f -name "*.fodt" | while read file; do
             echo "Converting $file"
-            outdir="pdf-output/$(dirname "$file")"
+            outdir="docs-en/pdf/$(dirname "$file")"
             mkdir -p "$outdir"
             timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir "$outdir"
           done
@@ -90,7 +88,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: converted-pdfs
-          path: pdf-output
+          path: docs-en/pdf
 
           
       - name: Commit and push (git)
