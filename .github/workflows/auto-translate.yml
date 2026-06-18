@@ -24,7 +24,6 @@ jobs:
         run: |
           find docs-en -type f -name "*.fodt" | while read file; do
             echo $file
-            libreoffice --headless --convert-to odt "$file" --outdir docs-en/odt
           done
 
 
