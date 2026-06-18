@@ -20,12 +20,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Convert TESTING
-        run: |
-          find docs-en -type f -name "*.fodt" | while read file; do
-            echo $file
-          done
-
 
       - name: Install LibreOffice
         run: sudo apt-get update && sudo apt-get install -y libreoffice
@@ -35,9 +29,9 @@ jobs:
         run: |
           find docs-en -type f -name "*.fodt" | while read file; do
             echo "Converting $file"
-            outdir="$(dirname "$file")"
-            mkdir -p "$outdir"
-            timeout 60s libreoffice --headless --convert-to odt "$file" --outdir "$outdir"
+            #outdir="$(dirname "$file")"
+            #mkdir -p "$outdir"
+            timeout 60s libreoffice --headless --convert-to odt "$file" --outdir "docs-en/odt"
           done
 
 
