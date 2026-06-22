@@ -27,7 +27,6 @@ jobs:
 
       - name: Convert FODT files to ODT
         run: |
-          mkdir docs-en/
           find docs-en -type f -name "*.fodt" | while read file; do
             echo "Converting $file"
             outdir="$(dirname "$file")"
