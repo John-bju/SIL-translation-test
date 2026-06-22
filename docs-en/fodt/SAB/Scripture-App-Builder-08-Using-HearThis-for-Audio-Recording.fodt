@@ -115,7 +115,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -139,7 +139,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1133732</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1165329</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">true</config:config-item>
@@ -167,7 +167,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Times New Roman1" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Times New Roman1" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -1857,10 +1857,10 @@
    <style:paragraph-properties fo:text-align="center"/>
   </style:style>
   <style:style style:name="P96" style:family="paragraph">
-   <loext:graphic-properties draw:fill="none"/>
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#ff0000"/>
   </style:style>
   <style:style style:name="P97" style:family="paragraph">
-   <loext:graphic-properties draw:fill="solid" draw:fill-color="#ff0000"/>
+   <loext:graphic-properties draw:fill="none"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-size="24pt" fo:language="en" fo:country="GB" fo:font-weight="bold" style:font-size-asian="24pt" style:font-weight-asian="bold" style:font-size-complex="24pt"/>
@@ -1945,17 +1945,17 @@
   <style:style style:name="gr1" style:family="graphic">
    <style:graphic-properties draw:stroke="none" svg:stroke-width="0in" draw:fill="none" loext:fill-use-slide-background="false" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" draw:color-mode="standard" draw:luminance="0%" draw:contrast="0%" draw:gamma="100%" draw:red="0%" draw:green="0%" draw:blue="0%" fo:clip="rect(0in, 0in, 0in, 0in)" draw:image-opacity="100%" style:mirror="none" loext:decorative="false" fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:wrap-influence-on-position="once-concurrent" loext:allow-overlap="true" style:flow-with-text="false"/>
   </style:style>
-  <style:style style:name="gr2" style:family="graphic" style:parent-style-name="Frame">
-   <style:graphic-properties draw:stroke="none" svg:stroke-width="0in" draw:fill="none" loext:fill-use-slide-background="false" draw:textarea-vertical-align="top" draw:auto-grow-height="false" fo:min-height="0.2138in" fo:min-width="1.55in" fo:padding-top="0.05in" fo:padding-bottom="0.05in" fo:padding-left="0.1in" fo:padding-right="0.1in" fo:wrap-option="wrap" loext:decorative="false" fo:margin-left="0.1252in" fo:margin-right="0.1252in" fo:margin-top="0in" fo:margin-bottom="0in" style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:wrap-influence-on-position="once-concurrent" loext:allow-overlap="true" style:flow-with-text="false"/>
-  </style:style>
-  <style:style style:name="gr3" style:family="graphic">
+  <style:style style:name="gr2" style:family="graphic">
    <style:graphic-properties draw:stroke="solid" svg:stroke-width="0in" svg:stroke-color="#000000" draw:stroke-linejoin="miter" svg:stroke-linecap="butt" draw:fill="solid" draw:fill-color="#ff0000" draw:textarea-vertical-align="top" draw:auto-grow-height="false" fo:min-height="0.25in" fo:min-width="0.6252in" fo:wrap-option="wrap" loext:decorative="false" fo:margin-left="0.1252in" fo:margin-right="0.1252in" fo:margin-top="0in" fo:margin-bottom="0in" style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:wrap-influence-on-position="once-concurrent" loext:allow-overlap="true" style:flow-with-text="false"/>
   </style:style>
-  <style:style style:name="gr4" style:family="graphic">
+  <style:style style:name="gr3" style:family="graphic">
    <style:graphic-properties draw:stroke="solid" svg:stroke-width="0in" svg:stroke-color="#000000" draw:stroke-linejoin="miter" svg:stroke-linecap="butt" draw:fill="solid" draw:fill-color="#ff0000" draw:textarea-vertical-align="top" draw:auto-grow-height="false" fo:min-height="0.1252in" fo:min-width="0.5472in" fo:wrap-option="wrap" loext:decorative="false" fo:margin-left="0.1252in" fo:margin-right="0.1252in" fo:margin-top="0in" fo:margin-bottom="0in" style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:wrap-influence-on-position="once-concurrent" loext:allow-overlap="true" style:flow-with-text="false"/>
   </style:style>
-  <style:style style:name="gr5" style:family="graphic">
+  <style:style style:name="gr4" style:family="graphic">
    <style:graphic-properties draw:stroke="none" svg:stroke-width="0in" draw:fill="none" loext:fill-use-slide-background="false" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" draw:color-mode="standard" draw:luminance="0%" draw:contrast="0%" draw:gamma="100%" draw:red="0%" draw:green="0%" draw:blue="0%" fo:clip="rect(0in, 0.415in, 0in, 0in)" draw:image-opacity="100%" style:mirror="none" loext:decorative="false" fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:wrap-influence-on-position="once-concurrent" loext:allow-overlap="true" style:flow-with-text="false"/>
+  </style:style>
+  <style:style style:name="gr5" style:family="graphic" style:parent-style-name="Frame">
+   <style:graphic-properties draw:stroke="none" svg:stroke-width="0in" draw:fill="none" loext:fill-use-slide-background="false" draw:textarea-vertical-align="top" draw:auto-grow-height="false" fo:min-height="0.2138in" fo:min-width="1.55in" fo:padding-top="0.05in" fo:padding-bottom="0.05in" fo:padding-left="0.1in" fo:padding-right="0.1in" fo:wrap-option="wrap" loext:decorative="false" fo:margin-left="0.1252in" fo:margin-right="0.1252in" fo:margin-top="0in" fo:margin-bottom="0in" style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:wrap-influence-on-position="once-concurrent" loext:allow-overlap="true" style:flow-with-text="false"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="8.2681in" fo:page-height="11.6929in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.8736in" fo:margin-bottom="0.4925in" fo:margin-left="1.1417in" fo:margin-right="1.1417in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="39" style:layout-grid-base-height="0.25in" style:layout-grid-ruby-height="0in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.1665in" style:layout-grid-snap-to="true" style:footnote-max-height="0in" loext:margin-gutter="0in">
@@ -1998,7 +1998,7 @@
    <text:p text:style-name="P10" loext:marker-style-name="T1"/>
    <text:p text:style-name="P10" loext:marker-style-name="T1"/>
    <text:p text:style-name="P10" loext:marker-style-name="T1"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T1"><draw:frame text:anchor-type="as-char" draw:z-index="47" draw:name="Shape1" draw:style-name="gr5" draw:text-style-name="P95" svg:width="5.8024in" svg:height="1.7815in">
+   <text:p text:style-name="P3" loext:marker-style-name="T1"><draw:frame text:anchor-type="as-char" draw:z-index="47" draw:name="Shape1" draw:style-name="gr4" draw:text-style-name="P95" svg:width="5.8024in" svg:height="1.7815in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAACEYAAAJyCAYAAAG0nmfFAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAAFxEAABcRAcom8z8AAP+lSURBVHhe7P1PqFzpYef/a6llL7Vr
@@ -4696,7 +4696,7 @@
    <text:p text:style-name="P12" loext:marker-style-name="T9"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">To modify the recording device to use, right-click on the Speaker/Volume icon at the bottom right of your computer screen and select </text:span><text:span text:style-name="T10">Recording devices</text:span><text:span text:style-name="T9">. Here you can enable and disable devices.</text:span></text:p>
    <text:p text:style-name="P12" loext:marker-style-name="T9"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T9"><draw:frame text:anchor-type="as-char" draw:z-index="17" draw:name="Shape5" draw:style-name="gr1" draw:text-style-name="P95" svg:width="2.9276in" svg:height="2.4689in">
+   <text:p text:style-name="P3" loext:marker-style-name="T9"><draw:frame text:anchor-type="as-char" draw:z-index="52" draw:name="Shape5" draw:style-name="gr1" draw:text-style-name="P95" svg:width="2.9276in" svg:height="2.4689in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAApUAAAItCAIAAADnqhboAAAALHRFWHRDcmVhdGlvbiBUaW1l
        AFRodSAxOCBOb3YgMjAxMCAxNjoxMjo0NiAtMDAwMO99JzYAAAAHdElNRQfaCxIQDiPSc8Rg
@@ -5665,7 +5665,7 @@
    <text:h text:style-name="P40" text:outline-level="2" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024690"/><text:span text:style-name="T9">The HearThis screen</text:span><text:bookmark-end text:name="_Toc459024690"/><text:span text:style-name="T9"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">The main HearThis screen presents you with all the controls you need to select books and chapters and to record phrases.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P12" loext:marker-style-name="T9"/>
-   <text:p text:style-name="P12" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="65" draw:name="Shape6" draw:style-name="gr2" draw:text-style-name="P96" svg:width="1.7504in" svg:height="0.3142in" svg:x="3.75in" svg:y="0.098in">
+   <text:p text:style-name="P12" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="17" draw:name="Shape6" draw:style-name="gr5" draw:text-style-name="P97" svg:width="1.7504in" svg:height="0.3142in" svg:x="3.75in" svg:y="0.098in">
      <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T17"><text:span text:style-name="T17">Publish Sound Files</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="mso-spt202" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape><draw:frame draw:style-name="fr2" draw:name="Frame2" text:anchor-type="char" svg:x="0.6252in" svg:y="0.1602in" svg:width="1.75in" svg:height="0.3138in" draw:z-index="10">
@@ -5673,7 +5673,7 @@
       <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T19"><text:span text:style-name="T17">Choose </text:span><text:span text:style-name="T19">Paratext Project</text:span></text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="P12" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="4" draw:name="Shape8" draw:style-name="gr3" draw:text-style-name="P97" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (-1.79175501009738) translate (1.55763888888889in 0.256944444444445in)">
+   <text:p text:style-name="P12" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="4" draw:name="Shape8" draw:style-name="gr2" draw:text-style-name="P96" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (-1.79175501009738) translate (1.55763888888889in 0.256944444444445in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -5687,7 +5687,7 @@
       <draw:handle draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600" draw:handle-range-y-minimum="0" draw:handle-range-y-maximum="10800" draw:handle-position="$0 $1"/>
      </draw:enhanced-geometry>
     </draw:custom-shape></text:p>
-   <text:p text:style-name="P12" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="16" draw:name="Shape7" draw:style-name="gr3" draw:text-style-name="P97" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (-1.79175501009738) translate (4.66180555555556in 0.0590277777777778in)">
+   <text:p text:style-name="P12" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="16" draw:name="Shape7" draw:style-name="gr2" draw:text-style-name="P96" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (-1.79175501009738) translate (4.66180555555556in 0.0590277777777778in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -5702,7 +5702,7 @@
      </draw:enhanced-geometry>
     </draw:custom-shape></text:p>
    <text:p text:style-name="P12" loext:marker-style-name="T9"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="18" draw:name="Shape9" draw:style-name="gr3" draw:text-style-name="P97" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (1.79175501009738) translate (4.85277777777778in 3.76180555555556in)">
+   <text:p text:style-name="P3" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="18" draw:name="Shape9" draw:style-name="gr2" draw:text-style-name="P96" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (1.79175501009738) translate (4.85277777777778in 3.76180555555556in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -5723,7 +5723,7 @@
      <draw:text-box>
       <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T17"><text:span text:style-name="T17">Chapter selector</text:span></text:p>
      </draw:text-box>
-    </draw:frame><draw:custom-shape text:anchor-type="char" draw:z-index="6" draw:name="Shape10" draw:style-name="gr3" draw:text-style-name="P97" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (0.370184334347997) translate (0.375in 1.33402777777778in)">
+    </draw:frame><draw:custom-shape text:anchor-type="char" draw:z-index="6" draw:name="Shape10" draw:style-name="gr2" draw:text-style-name="P96" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (0.370184334347997) translate (0.375in 1.33402777777778in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -5740,7 +5740,7 @@
      <draw:text-box>
       <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T19"><text:span text:style-name="T17">Current</text:span><text:span text:style-name="T19"> phrase to record</text:span></text:p>
      </draw:text-box>
-    </draw:frame><draw:custom-shape text:anchor-type="char" draw:z-index="7" draw:name="Shape11" draw:style-name="gr3" draw:text-style-name="P97" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (0.565661210571362) translate (0.375in 2.44861111111111in)">
+    </draw:frame><draw:custom-shape text:anchor-type="char" draw:z-index="7" draw:name="Shape11" draw:style-name="gr2" draw:text-style-name="P96" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (0.565661210571362) translate (0.375in 2.44861111111111in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -5757,7 +5757,7 @@
      <draw:text-box>
       <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T17"><text:span text:style-name="T17">Play, Record <text:line-break/>and Next buttons</text:span></text:p>
      </draw:text-box>
-    </draw:frame><draw:custom-shape text:anchor-type="char" draw:z-index="9" draw:name="Shape12" draw:style-name="gr3" draw:text-style-name="P97" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (0.934100215667365) translate (0.708333333333333in 3.57152777777778in)">
+    </draw:frame><draw:custom-shape text:anchor-type="char" draw:z-index="9" draw:name="Shape12" draw:style-name="gr2" draw:text-style-name="P96" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (0.934100215667365) translate (0.708333333333333in 3.57152777777778in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -5770,7 +5770,7 @@
       <draw:equation draw:name="f7" draw:formula="?f1 -?f6 "/>
       <draw:handle draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600" draw:handle-range-y-minimum="0" draw:handle-range-y-maximum="10800" draw:handle-position="$0 $1"/>
      </draw:enhanced-geometry>
-    </draw:custom-shape><draw:custom-shape text:anchor-type="char" draw:z-index="8" draw:name="Shape13" draw:style-name="gr3" draw:text-style-name="P97" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (2.44311188694166) translate (5.22847222222222in 2.65416666666667in)">
+    </draw:custom-shape><draw:custom-shape text:anchor-type="char" draw:z-index="8" draw:name="Shape13" draw:style-name="gr2" draw:text-style-name="P96" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (2.44311188694166) translate (5.22847222222222in 2.65416666666667in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -5783,7 +5783,7 @@
       <draw:equation draw:name="f7" draw:formula="?f1 -?f6 "/>
       <draw:handle draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600" draw:handle-range-y-minimum="0" draw:handle-range-y-maximum="10800" draw:handle-position="$0 $1"/>
      </draw:enhanced-geometry>
-    </draw:custom-shape><draw:custom-shape text:anchor-type="char" draw:z-index="5" draw:name="Shape14" draw:style-name="gr3" draw:text-style-name="P97" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (-0.309621409303795) translate (0.399305555555556in 0.436111111111111in)">
+    </draw:custom-shape><draw:custom-shape text:anchor-type="char" draw:z-index="5" draw:name="Shape14" draw:style-name="gr2" draw:text-style-name="P96" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (-0.309621409303795) translate (0.399305555555556in 0.436111111111111in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -6339,7 +6339,7 @@
     </draw:frame></text:p>
    <text:p text:style-name="P15" loext:marker-style-name="T9"/>
    <text:p text:style-name="P15" loext:marker-style-name="T9"/>
-   <text:p text:style-name="P15" loext:marker-style-name="T9"><draw:frame draw:style-name="fr2" draw:name="Frame7" text:anchor-type="char" svg:x="4.3646in" svg:y="0.0311in" svg:width="1.75in" svg:height="0.5in" draw:z-index="53">
+   <text:p text:style-name="P15" loext:marker-style-name="T9"><draw:frame draw:style-name="fr2" draw:name="Frame7" text:anchor-type="char" svg:x="4.3646in" svg:y="0.0311in" svg:width="1.75in" svg:height="0.5in" draw:z-index="54">
      <draw:text-box>
       <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T19"><text:span text:style-name="T19">Input microphone level</text:span></text:p>
      </draw:text-box>
@@ -6360,7 +6360,7 @@
    <text:h text:style-name="P40" text:outline-level="2" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024691"/><text:span text:style-name="T9">Choose the Paratext project</text:span><text:bookmark-end text:name="_Toc459024691"/><text:span text:style-name="T9"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">When you start HearThis for the first time, you will be asked to select a Paratext project.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P12" loext:marker-style-name="T9"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T9"><draw:frame text:anchor-type="as-char" draw:z-index="67" draw:name="Shape16" draw:style-name="gr1" draw:text-style-name="P95" svg:width="4.0106in" svg:height="3.1461in">
+   <text:p text:style-name="P3" loext:marker-style-name="T9"><draw:frame text:anchor-type="as-char" draw:z-index="66" draw:name="Shape16" draw:style-name="gr1" draw:text-style-name="P95" svg:width="4.0106in" svg:height="3.1461in">
      <draw:image draw:mime-type="image/x-emf">
       <office:binary-data>AQAAAGwAAAAAAAAAAAAAAIABAAAuAQAAAAAAAAAAAAAMNQAAwCkAACBFTUYAAAEAhLIKAA0A
        AAABAAAAAAAAAAAAAAAAAAAAgAcAADgEAAClAgAAfQEAAAAAAAAAAAAAAAAAANVVCgBI0AUA
@@ -20502,12 +20502,12 @@
    <text:p text:style-name="P12" loext:marker-style-name="T9"/>
    <text:h text:style-name="P40" text:outline-level="2" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024692"/><text:span text:style-name="T9">Choose the book and chapter to record</text:span><text:bookmark-end text:name="_Toc459024692"/><text:span text:style-name="T9"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">You can select the book and chapter to record by clicking on the appropriate blue or gray boxes at the top of the screen.</text:span><text:span text:style-name="T9"/></text:p>
-   <text:p text:style-name="P12" loext:marker-style-name="T9"><draw:frame draw:style-name="fr2" draw:name="Frame9" text:anchor-type="char" svg:x="2.448in" svg:y="0.0654in" svg:width="1.75in" svg:height="0.3138in" draw:z-index="59">
+   <text:p text:style-name="P12" loext:marker-style-name="T9"><draw:frame draw:style-name="fr2" draw:name="Frame9" text:anchor-type="char" svg:x="2.448in" svg:y="0.0654in" svg:width="1.75in" svg:height="0.3138in" draw:z-index="60">
      <draw:text-box>
       <text:p text:style-name="P6" loext:marker-style-name="T19"><text:span text:style-name="T19">Books</text:span></text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="P12" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="57" draw:name="Shape17" draw:style-name="gr3" draw:text-style-name="P97" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (-2.2162190841824) translate (3.26319444444444in 0.23125in)">
+   <text:p text:style-name="P12" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="58" draw:name="Shape17" draw:style-name="gr2" draw:text-style-name="P96" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (-2.2162190841824) translate (3.26319444444444in 0.23125in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -20522,7 +20522,7 @@
      </draw:enhanced-geometry>
     </draw:custom-shape><text:soft-page-break/></text:p>
    <text:p text:style-name="P12" loext:marker-style-name="T9"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="58" draw:name="Shape18" draw:style-name="gr3" draw:text-style-name="P97" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (1.03759824031063) translate (2.1875in 1.67013888888889in)">
+   <text:p text:style-name="P3" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="59" draw:name="Shape18" draw:style-name="gr2" draw:text-style-name="P96" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (1.03759824031063) translate (2.1875in 1.67013888888889in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -33544,7 +33544,7 @@
      </draw:image>
     </draw:frame></text:p>
    <text:p text:style-name="P15" loext:marker-style-name="T9"/>
-   <text:p text:style-name="P15" loext:marker-style-name="T9"><draw:frame draw:style-name="fr2" draw:name="Frame10" text:anchor-type="char" svg:x="1.5in" svg:y="0.0854in" svg:width="1.75in" svg:height="0.3138in" draw:z-index="60">
+   <text:p text:style-name="P15" loext:marker-style-name="T9"><draw:frame draw:style-name="fr2" draw:name="Frame10" text:anchor-type="char" svg:x="1.5in" svg:y="0.0854in" svg:width="1.75in" svg:height="0.3138in" draw:z-index="61">
      <draw:text-box>
       <text:p text:style-name="P6" loext:marker-style-name="T17"><text:span text:style-name="T17">Chapters</text:span></text:p>
      </draw:text-box>
@@ -33585,7 +33585,7 @@
    <text:p text:style-name="P12" loext:marker-style-name="T9"/>
    <text:p text:style-name="P29" loext:marker-style-name="T9"><text:span text:style-name="T9">For example, in the screen below, we have checked “s – Heading” which means not to record section headings.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P12" loext:marker-style-name="T9"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="62" draw:name="Shape20" draw:style-name="gr3" draw:text-style-name="P97" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (0.445058959258554) translate (0.71875in 2.08125in)">
+   <text:p text:style-name="P3" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="63" draw:name="Shape20" draw:style-name="gr2" draw:text-style-name="P96" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (0.445058959258554) translate (0.71875in 2.08125in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -33598,7 +33598,7 @@
       <draw:equation draw:name="f7" draw:formula="?f1 -?f6 "/>
       <draw:handle draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600" draw:handle-range-y-minimum="0" draw:handle-range-y-maximum="10800" draw:handle-position="$0 $1"/>
      </draw:enhanced-geometry>
-    </draw:custom-shape><text:span text:style-name="T22">3</text:span><draw:frame text:anchor-type="as-char" draw:z-index="61" draw:name="Shape21" draw:style-name="gr1" draw:text-style-name="P95" svg:width="4.0421in" svg:height="4.1252in">
+    </draw:custom-shape><text:span text:style-name="T22">3</text:span><draw:frame text:anchor-type="as-char" draw:z-index="62" draw:name="Shape21" draw:style-name="gr1" draw:text-style-name="P95" svg:width="4.0421in" svg:height="4.1252in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAYUAAAGMCAIAAAC6TinXAAAAAXNSR0IArs4c6QAAVBpJREFU
        eF7tfQt8FNXZ94Tcw13EegGBEEAi72tBRQ1+KiIgib4FayJKW9DaRLRCrMV+KFr7GaQVtUEr
@@ -38134,7 +38134,7 @@
    <text:p text:style-name="P12" loext:marker-style-name="T9"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">As you record each verse you will see a small horizontal blue line appear the Verse selector. To go back to a verse, click on one of these blue lines.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P12" loext:marker-style-name="T9"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="63" draw:name="Shape26" draw:style-name="gr3" draw:text-style-name="P97" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (1.03759824031063) translate (0.727083333333333in 0.979166666666667in)">
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="64" draw:name="Shape26" draw:style-name="gr2" draw:text-style-name="P96" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (1.03759824031063) translate (0.727083333333333in 0.979166666666667in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -38147,7 +38147,7 @@
       <draw:equation draw:name="f7" draw:formula="?f1 -?f6 "/>
       <draw:handle draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600" draw:handle-range-y-minimum="0" draw:handle-range-y-maximum="10800" draw:handle-position="$0 $1"/>
      </draw:enhanced-geometry>
-    </draw:custom-shape><draw:frame draw:style-name="fr2" draw:name="Frame11" text:anchor-type="char" svg:x="0.0008in" svg:y="1.0244in" svg:width="1.75in" svg:height="0.3138in" draw:z-index="67">
+    </draw:custom-shape><draw:frame draw:style-name="fr2" draw:name="Frame11" text:anchor-type="char" svg:x="0.0008in" svg:y="1.0244in" svg:width="1.75in" svg:height="0.3138in" draw:z-index="68">
      <draw:text-box>
       <text:p text:style-name="P6" loext:marker-style-name="T17"><text:span text:style-name="T17">Verses already recorded</text:span></text:p>
      </draw:text-box>
@@ -43830,7 +43830,7 @@
    <text:p text:style-name="P29" loext:marker-style-name="T9"><text:span text:style-name="T9">The Publish Sound Files window will appear.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P13" loext:marker-style-name="T9"/>
    <text:p text:style-name="P13" loext:marker-style-name="T9"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="56" draw:name="Shape28" draw:style-name="gr3" draw:text-style-name="P97" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (-2.78083309720257) translate (5.92291666666667in 0.773611111111111in)">
+   <text:p text:style-name="P3" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="57" draw:name="Shape28" draw:style-name="gr2" draw:text-style-name="P96" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (-2.78083309720257) translate (5.92291666666667in 0.773611111111111in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -43843,7 +43843,7 @@
       <draw:equation draw:name="f7" draw:formula="?f1 -?f6 "/>
       <draw:handle draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600" draw:handle-range-y-minimum="0" draw:handle-range-y-maximum="10800" draw:handle-position="$0 $1"/>
      </draw:enhanced-geometry>
-    </draw:custom-shape><draw:custom-shape text:anchor-type="char" draw:z-index="55" draw:name="Shape29" draw:style-name="gr3" draw:text-style-name="P97" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (0.565661210571362) translate (0.0625in 1.45486111111111in)">
+    </draw:custom-shape><draw:custom-shape text:anchor-type="char" draw:z-index="56" draw:name="Shape29" draw:style-name="gr2" draw:text-style-name="P96" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (0.565661210571362) translate (0.0625in 1.45486111111111in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -44408,7 +44408,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P12" loext:marker-style-name="T9"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="54" draw:name="Shape31" draw:style-name="gr4" draw:text-style-name="P97" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (0.594808209079668) translate (0.172222222222222in 2.58680555555556in)">
+   <text:p text:style-name="P3" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="55" draw:name="Shape31" draw:style-name="gr3" draw:text-style-name="P96" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (0.594808209079668) translate (0.172222222222222in 2.58680555555556in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -44421,7 +44421,7 @@
       <draw:equation draw:name="f7" draw:formula="?f1 -?f6 "/>
       <draw:handle draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600" draw:handle-range-y-minimum="0" draw:handle-range-y-maximum="10800" draw:handle-position="$0 $1"/>
      </draw:enhanced-geometry>
-    </draw:custom-shape><draw:frame text:anchor-type="as-char" draw:z-index="52" draw:name="Shape32" draw:style-name="gr1" draw:text-style-name="P95" svg:width="4.9276in" svg:height="3.9378in">
+    </draw:custom-shape><draw:frame text:anchor-type="as-char" draw:z-index="53" draw:name="Shape32" draw:style-name="gr1" draw:text-style-name="P95" svg:width="4.9276in" svg:height="3.9378in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAq4AAAIkCAIAAABQtj7vAAAAAXNSR0IArs4c6QAAhcpJREFU
        eF7tvQucFcWZ998zMAy3c0ABo3NAZADnsrxxg8yomKiBDCyQy5CIMclunCS7Kmuik32XNztv
@@ -46116,7 +46116,7 @@
      <text:p text:style-name="P93" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">Go to the </text:span><text:span text:style-name="T10">Features </text:span><text:span text:style-name="T23"></text:span><text:span text:style-name="T9"> </text:span><text:span text:style-name="T10">Audio page</text:span><text:span text:style-name="T9"> and specify the phrase-ending characters to correspond to the phrase-ending characters HearThis used. <text:line-break/><text:line-break/></text:span><text:span text:style-name="T11">Important:</text:span><text:span text:style-name="T9"> By default HearThis uses sentence-ending characters (full stop/period, question mark, exclamation mark), but it does not split phrases by commas in the middle of sentences. So you will need to delete the comma if it you see it on the SAB features page – otherwise your text and audio will not be synchronized correctly.<text:line-break/></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P7" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="64" draw:name="Shape35" draw:style-name="gr3" draw:text-style-name="P97" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (-2.78083309720257) translate (5.54791666666667in 1.85486111111111in)">
+   <text:p text:style-name="P7" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="65" draw:name="Shape35" draw:style-name="gr2" draw:text-style-name="P96" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (-2.78083309720257) translate (5.54791666666667in 1.85486111111111in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
