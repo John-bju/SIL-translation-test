@@ -80,7 +80,8 @@ jobs:
           find docs-en docs-fr -type f -name "*.fodt" | while read file; do
             echo "Converting $file"
             #outdir="$(dirname "$file")"
-            #mkdir -p "$outdir"
+            outdir="docs-en/pdf"
+            mkdir -p "$outdir"
             timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir "$outdir"
           done
 
