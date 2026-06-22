@@ -115,7 +115,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -139,7 +139,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1216585</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1227368</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -166,7 +166,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Calibri" fo:font-size="11pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Calibri1" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="DejaVu Sans" style:font-size-complex="11pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -2257,7 +2257,7 @@ Description automatically generated</svg:desc>
    </text:table-of-content>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="P9" loext:marker-style-name="T5"/>
-   <text:h text:style-name="P11" text:outline-level="1"><text:bookmark-start text:name="_Toc89893446"/><text:bookmark-start text:name="_Toc89951951"/>Quiz files<text:bookmark-end text:name="_Toc89893446"/><text:bookmark-end text:name="_Toc89951951"/> </text:h>
+   <text:h text:style-name="P11" text:outline-level="1"><text:bookmark-start text:name="_Toc89951951"/><text:bookmark-start text:name="_Toc89893446"/>Quiz files<text:bookmark-end text:name="_Toc89951951"/><text:bookmark-end text:name="_Toc89893446"/> </text:h>
    <text:p text:style-name="P13" loext:marker-style-name="T16"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">Quizzes are developed using </text:span><text:span text:style-name="T10">text files </text:span><text:span text:style-name="T9">(.txt), created with a text editor such as </text:span><text:span text:style-name="T10">Notepad</text:span><text:span text:style-name="T9">. Do not use a word processor such as Word or LibreOffice.</text:span></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">A quiz file contains :</text:span><text:span text:style-name="T9"/></text:p>
@@ -2294,7 +2294,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P29" loext:marker-style-name="T21"><text:span text:style-name="T21">\qs </text:span><text:span text:style-name="T23">Cities</text:span></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T19"/>
    <text:p text:style-name="Standard"/>
-   <text:h text:style-name="P12" text:outline-level="1"><text:bookmark-start text:name="_Toc89893447"/><text:bookmark-start text:name="_Toc89951952"/>Questions and answers in words<text:bookmark-end text:name="_Toc89893447"/><text:bookmark-end text:name="_Toc89951952"/> </text:h>
+   <text:h text:style-name="P12" text:outline-level="1"><text:bookmark-start text:name="_Toc89951952"/><text:bookmark-start text:name="_Toc89893447"/>Questions and answers in words<text:bookmark-end text:name="_Toc89951952"/><text:bookmark-end text:name="_Toc89893447"/> </text:h>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="P30" loext:marker-style-name="T7"><text:span text:style-name="T7">The easiest questions to write have one question in words followed by a few answers in words. You need to provide one right answer and one or more wrong answers. The order of the answers will be mixed up in the app. You can have two answers, like &quot;True&quot; and &quot;False&quot;, or three or four answers, or even more depending on the question.</text:span><text:span text:style-name="T7"/></text:p>
    <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Picture 1" text:anchor-type="as-char" svg:width="3.1201in" svg:height="2.9898in" draw:z-index="0"><draw:image draw:mime-type="image/png">
@@ -2542,7 +2542,7 @@ Description automatically generated with medium confidence</svg:desc>
    <text:p text:style-name="P28" loext:marker-style-name="T23"><text:span text:style-name="T21">\aw </text:span><text:span text:style-name="T23">Ouagadougou</text:span></text:p>
    <text:p text:style-name="P28" loext:marker-style-name="T23"><text:span text:style-name="T21">\aw </text:span><text:span text:style-name="T23">Dakar</text:span></text:p>
    <text:p text:style-name="P18" loext:marker-style-name="T25"/>
-   <text:h text:style-name="P11" text:outline-level="1"><text:bookmark-start text:name="_Toc89893448"/><text:bookmark-start text:name="_Toc89951953"/>Question with picture, and answers in words<text:bookmark-end text:name="_Toc89893448"/><text:bookmark-end text:name="_Toc89951953"/> </text:h>
+   <text:h text:style-name="P11" text:outline-level="1"><text:bookmark-start text:name="_Toc89951953"/><text:bookmark-start text:name="_Toc89893448"/>Question with picture, and answers in words<text:bookmark-end text:name="_Toc89951953"/><text:bookmark-end text:name="_Toc89893448"/> </text:h>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T7"><text:span text:style-name="T7">Here we have a question with an image and text, and the answers are in words.</text:span><text:span text:style-name="T7"/></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T7"><text:span text:style-name="T7">In Reading App Builder, you need to put the image (a JPG or PNG file) in the </text:span><text:span text:style-name="T11">Illustrations </text:span><text:span text:style-name="T7">tab for the quiz book.</text:span></text:p>
@@ -3983,7 +3983,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P31" loext:marker-style-name="T23"><text:span text:style-name="T21">\aw </text:span><text:span text:style-name="T23">New York</text:span></text:p>
    <text:p text:style-name="P31" loext:marker-style-name="T23"><text:span text:style-name="T21">\aw </text:span><text:span text:style-name="T23">Sydney</text:span></text:p>
    <text:p text:style-name="P18" loext:marker-style-name="T25"/>
-   <text:h text:style-name="P11" text:outline-level="1"><text:bookmark-start text:name="_Toc89893449"/><text:bookmark-start text:name="_Toc89951954"/>Question in words, and answers in pictures<text:bookmark-end text:name="_Toc89893449"/><text:bookmark-end text:name="_Toc89951954"/> </text:h>
+   <text:h text:style-name="P11" text:outline-level="1"><text:bookmark-start text:name="_Toc89951954"/><text:bookmark-start text:name="_Toc89893449"/>Question in words, and answers in pictures<text:bookmark-end text:name="_Toc89951954"/><text:bookmark-end text:name="_Toc89893449"/> </text:h>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="P30" loext:marker-style-name="T7"><text:span text:style-name="T7">Here we have a question in words, and the answers are pictures.</text:span><text:span text:style-name="T7"/></text:p>
    <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Picture 8" text:anchor-type="as-char" svg:width="3.4583in" svg:height="3.8654in" draw:z-index="0"><draw:image draw:mime-type="image/png">
@@ -6329,7 +6329,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P28" loext:marker-style-name="T23"><text:span text:style-name="T21">\ar </text:span><text:span text:style-name="T23">bamako.jpg</text:span></text:p>
    <text:p text:style-name="P23" loext:marker-style-name="T29"/>
    <text:p text:style-name="P9" loext:marker-style-name="T5"/>
-   <text:h text:style-name="P12" text:outline-level="1"><text:bookmark-start text:name="_Toc89893450"/><text:bookmark-start text:name="_Toc89951955"/>Question and answer in words, with audio<text:bookmark-end text:name="_Toc89893450"/><text:bookmark-end text:name="_Toc89951955"/> </text:h>
+   <text:h text:style-name="P12" text:outline-level="1"><text:bookmark-start text:name="_Toc89951955"/><text:bookmark-start text:name="_Toc89893450"/>Question and answer in words, with audio<text:bookmark-end text:name="_Toc89951955"/><text:bookmark-end text:name="_Toc89893450"/> </text:h>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T7"><text:span text:style-name="T7">You can provide an audio recording for the question and for each answer. The recording can be done in a program like Audacity (</text:span><text:a xlink:type="simple" xlink:href="https://www.audacityteam.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T7">https://www.audacityteam.org</text:span></text:span></text:a><text:span text:style-name="T7">). Use </text:span><text:span text:style-name="T11">File</text:span><text:span text:style-name="T7"> &gt; </text:span><text:span text:style-name="T11">Export</text:span><text:span text:style-name="T7"> &gt; </text:span><text:span text:style-name="T11">Export Selected Audio</text:span><text:span text:style-name="T7">.</text:span></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T7"><text:span text:style-name="T7">In Reading App Builder, you need to put the audio clip (MP3 file) in the </text:span><text:span text:style-name="T11">Audio Clips </text:span><text:span text:style-name="T7">tab for the quiz book.</text:span></text:p>
@@ -6585,7 +6585,7 @@ Description automatically generated with medium confidence</svg:desc>
    <text:p text:style-name="P32" loext:marker-style-name="T23"><text:span text:style-name="T21">\aw </text:span><text:span text:style-name="T23">Dakar</text:span></text:p>
    <text:p text:style-name="P32" loext:marker-style-name="T23"><text:span text:style-name="T21">\aw </text:span><text:span text:style-name="T23">dakar.mp3</text:span></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T19"/>
-   <text:h text:style-name="P11" text:outline-level="1"><text:bookmark-start text:name="_Toc89893451"/><text:bookmark-start text:name="_Toc89951956"/>Question and answer in words, with explanations<text:bookmark-end text:name="_Toc89893451"/><text:bookmark-end text:name="_Toc89951956"/> </text:h>
+   <text:h text:style-name="P11" text:outline-level="1"><text:bookmark-start text:name="_Toc89951956"/><text:bookmark-start text:name="_Toc89893451"/>Question and answer in words, with explanations<text:bookmark-end text:name="_Toc89951956"/><text:bookmark-end text:name="_Toc89893451"/> </text:h>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T7"><text:span text:style-name="T7">You can give an explanation to the user after they select an answer, helping them to see why it is the right or the wrong answer.</text:span><text:span text:style-name="T7"/></text:p>
    <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Picture 11" text:anchor-type="as-char" svg:width="2.8854in" svg:height="2.8252in" draw:z-index="0"><draw:image draw:mime-type="image/png">
@@ -6817,7 +6817,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P35" loext:marker-style-name="T23"><text:span text:style-name="T21">\aw </text:span><text:span text:style-name="T23">Esau</text:span></text:p>
    <text:p text:style-name="P35" loext:marker-style-name="T23"><text:span text:style-name="T21">\ae </text:span><text:span text:style-name="T23">No, it was Isaac. Esau was Jacob&apos;s brother.</text:span></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T19"/>
-   <text:h text:style-name="P11" text:outline-level="1"><text:bookmark-start text:name="_Toc89893452"/><text:bookmark-start text:name="_Toc89951957"/>Question and answer in words, with explanations and audio<text:bookmark-end text:name="_Toc89893452"/><text:bookmark-end text:name="_Toc89951957"/> </text:h>
+   <text:h text:style-name="P11" text:outline-level="1"><text:bookmark-start text:name="_Toc89951957"/><text:bookmark-start text:name="_Toc89893452"/>Question and answer in words, with explanations and audio<text:bookmark-end text:name="_Toc89951957"/><text:bookmark-end text:name="_Toc89893452"/> </text:h>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T7"><text:span text:style-name="T7">It is possible to give the explanations in audio.<text:line-break/></text:span><text:span text:style-name="T7"/></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T18"><text:span text:style-name="T18">Codes to use</text:span><text:span text:style-name="T18"/></text:p>
@@ -6854,7 +6854,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P32" loext:marker-style-name="T23"><text:span text:style-name="T21">\ae </text:span><text:span text:style-name="T23">No, it was Isaac. Esau was Jacob&apos;s brother.</text:span></text:p>
    <text:p text:style-name="P32" loext:marker-style-name="T23"><text:span text:style-name="T21">\ae </text:span><text:span text:style-name="T23">expl-esau.mp3</text:span></text:p>
    <text:p text:style-name="P15" loext:marker-style-name="T19"/>
-   <text:h text:style-name="P12" text:outline-level="1"><text:bookmark-start text:name="_Toc89893453"/><text:bookmark-start text:name="_Toc89951958"/>Sound effects for right and wrong answers<text:bookmark-end text:name="_Toc89893453"/><text:bookmark-end text:name="_Toc89951958"/></text:h>
+   <text:h text:style-name="P12" text:outline-level="1"><text:bookmark-start text:name="_Toc89951958"/><text:bookmark-start text:name="_Toc89893453"/>Sound effects for right and wrong answers<text:bookmark-end text:name="_Toc89951958"/><text:bookmark-end text:name="_Toc89893453"/></text:h>
    <text:p text:style-name="P13" loext:marker-style-name="T16"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">After a right or wrong answer, there is a sound effect to indicate to the user whether the answer is right or wrong. You can change these sound effects.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P36" loext:marker-style-name="T12"/>
