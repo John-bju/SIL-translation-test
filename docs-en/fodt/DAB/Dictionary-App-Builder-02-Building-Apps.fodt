@@ -115,7 +115,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -139,7 +139,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">983659</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1087278</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">true</config:config-item>
@@ -174,7 +174,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Times New Roman2" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Times New Roman2" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -4946,9 +4946,9 @@
     </text:index-body>
    </text:table-of-content>
    <text:p text:style-name="P21" loext:marker-style-name="T24"/>
-   <text:h text:style-name="P31" text:outline-level="1" loext:marker-style-name="T24"><text:bookmark-start text:name="_Toc452459025"/><text:bookmark-start text:name="_Toc172123629"/><text:bookmark-start text:name="_Toc468106959"/><text:span text:style-name="T24">Preparing content for your app</text:span><text:bookmark-end text:name="_Toc452459025"/><text:bookmark-end text:name="_Toc172123629"/><text:bookmark-end text:name="_Toc468106959"/><text:span text:style-name="T24"/></text:h>
+   <text:h text:style-name="P31" text:outline-level="1" loext:marker-style-name="T24"><text:bookmark-start text:name="_Toc468106959"/><text:bookmark-start text:name="_Toc172123629"/><text:bookmark-start text:name="_Toc452459025"/><text:span text:style-name="T24">Preparing content for your app</text:span><text:bookmark-end text:name="_Toc468106959"/><text:bookmark-end text:name="_Toc172123629"/><text:bookmark-end text:name="_Toc452459025"/><text:span text:style-name="T24"/></text:h>
    <text:p text:style-name="P41" loext:marker-style-name="T24"><text:span text:style-name="T24">Before you build an app with Dictionary App Builder (DAB), you need to get your content (lexicon file, images and audio) into formats that DAB can handle.</text:span><text:span text:style-name="T24"/></text:p>
-   <text:h text:style-name="P42" text:outline-level="2"><text:bookmark-start text:name="_Toc468106960"/><text:bookmark-start text:name="_Toc172123630"/>Preparing <text:bookmark-end text:name="_Toc468106960"/>your lexicon file<text:bookmark-end text:name="_Toc172123630"/></text:h>
+   <text:h text:style-name="P42" text:outline-level="2"><text:bookmark-start text:name="_Toc172123630"/><text:bookmark-start text:name="_Toc468106960"/>Preparing <text:bookmark-end text:name="_Toc468106960"/>your lexicon file<text:bookmark-end text:name="_Toc172123630"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T24"><text:span text:style-name="T24">DAB can read two types of lexicon database file: LIFT and XHTML.</text:span><text:span text:style-name="T24"/></text:p>
    <text:p text:style-name="P21" loext:marker-style-name="T24"/>
    <text:list text:style-name="WWNum9">
@@ -4974,11 +4974,11 @@
    <text:p text:style-name="P53" loext:marker-style-name="T24"><text:span text:style-name="T24">WeSay<text:tab/><text:tab/></text:span><text:a xlink:type="simple" xlink:href="http://wesay.palaso.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T24">http://wesay.palaso.org/</text:span></text:span></text:a></text:p>
    <text:p text:style-name="P53" loext:marker-style-name="T24"><text:span text:style-name="T24">Lexique Pro<text:tab/></text:span><text:a xlink:type="simple" xlink:href="http://lexiquepro.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T24">http://lexiquepro.com/</text:span></text:span></text:a><text:span text:style-name="T24"> </text:span></text:p>
    <text:p text:style-name="P22" loext:marker-style-name="T24"/>
-   <text:h text:style-name="P42" text:outline-level="2"><text:bookmark-start text:name="_Toc468106961"/><text:bookmark-start text:name="_Toc172123631"/>Preparing images<text:bookmark-end text:name="_Toc468106961"/><text:bookmark-end text:name="_Toc172123631"/></text:h>
+   <text:h text:style-name="P42" text:outline-level="2"><text:bookmark-start text:name="_Toc172123631"/><text:bookmark-start text:name="_Toc468106961"/>Preparing images<text:bookmark-end text:name="_Toc172123631"/><text:bookmark-end text:name="_Toc468106961"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T24"><text:soft-page-break/><text:span text:style-name="T24">Images should be in JPEG or PNG format.</text:span><text:span text:style-name="T24"/></text:p>
    <text:p text:style-name="P54" loext:marker-style-name="T24"><text:span text:style-name="T24">Keep the image size small enough so that they display well on a small screen and will not make the app size too large. DAB will allow you to resize the images after you have added them to the app project.</text:span><text:span text:style-name="T24"/></text:p>
    <text:p text:style-name="P23" loext:marker-style-name="T25"/>
-   <text:h text:style-name="P42" text:outline-level="2"><text:bookmark-start text:name="_Toc468106962"/><text:bookmark-start text:name="_Toc172123632"/>Preparing audio<text:bookmark-end text:name="_Toc468106962"/><text:bookmark-end text:name="_Toc172123632"/></text:h>
+   <text:h text:style-name="P42" text:outline-level="2"><text:bookmark-start text:name="_Toc172123632"/><text:bookmark-start text:name="_Toc468106962"/>Preparing audio<text:bookmark-end text:name="_Toc172123632"/><text:bookmark-end text:name="_Toc468106962"/></text:h>
    <text:p text:style-name="P55" loext:marker-style-name="T24"><text:span text:style-name="T24">If you want to include audio files in your app, these need to be in MP3, WAV or 3GP audio format. </text:span><text:span text:style-name="T24"/></text:p>
    <text:p text:style-name="P54" loext:marker-style-name="T24"><text:span text:style-name="T24">Keep the audio files at a size where the quality is good enough for a phone and where the file size is not too large.</text:span><text:span text:style-name="T24"/></text:p>
    <text:p text:style-name="P21" loext:marker-style-name="T24"/>
@@ -5079,7 +5079,7 @@
    <text:p text:style-name="P21" loext:marker-style-name="T24"/>
    <text:p text:style-name="P56" loext:marker-style-name="T24"><text:span text:style-name="T24">Click </text:span><text:span text:style-name="T25">Next</text:span><text:span text:style-name="T24"> to move to the next page.</text:span></text:p>
    <text:p text:style-name="P21" loext:marker-style-name="T24"/>
-   <text:list xml:id="list183906134208620" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list191228407490592" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:p text:style-name="P154" loext:marker-style-name="T24"><text:span text:style-name="T24">On the page of the wizard titled </text:span><text:span text:style-name="T25">Signing</text:span><text:span text:style-name="T24">, you need to specify the keystore and alias to use to sign the app. An app must be signed in this way so that it can installed on an Android device.</text:span></text:p>
     </text:list-item>
@@ -5116,7 +5116,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P21" loext:marker-style-name="T24"/>
-   <text:list text:continue-list="list183906134208620" text:style-name="WWNum4">
+   <text:list text:continue-list="list191228407490592" text:style-name="WWNum4">
     <text:list-item>
      <text:p text:style-name="P154" loext:marker-style-name="T24"><text:span text:style-name="T24">Back on the </text:span><text:span text:style-name="T25">Signing</text:span><text:span text:style-name="T24"> page of the New App wizard, you need to specify the keystore password, select the alias and enter the alias password (just as you entered them in the step above).</text:span></text:p>
     </text:list-item>
@@ -5162,7 +5162,7 @@
    <text:p text:style-name="P64" loext:marker-style-name="T29"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T29"><text:span text:style-name="T29">The next section describes how to copy this APK file to your phone and launch the app.</text:span><text:span text:style-name="T29"/></text:p>
    <text:h text:style-name="P102" text:outline-level="1" loext:marker-style-name="T24"><text:bookmark-end text:name="_Hlk66432439"/><text:bookmark-start text:name="_Hlk66432451"/></text:h>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="_Toc66108082"/><text:bookmark-start text:name="_Toc172123634"/><text:soft-page-break/>Installing the app on your phone<text:bookmark-end text:name="_Toc66108082"/><text:bookmark-end text:name="_Toc172123634"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="_Toc172123634"/><text:bookmark-start text:name="_Toc66108082"/><text:soft-page-break/>Installing the app on your phone<text:bookmark-end text:name="_Toc172123634"/><text:bookmark-end text:name="_Toc66108082"/></text:h>
    <text:p text:style-name="P66" loext:marker-style-name="T29"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T29"><text:span text:style-name="T29">In the above section, you have seen how to compile an Android app. The result is an APK file, the installation file for an Android app. You now need to copy this APK file to your phone, install it and launch the app.</text:span><text:span text:style-name="T29"/></text:p>
    <text:p text:style-name="P64" loext:marker-style-name="T29"/>
@@ -13038,7 +13038,7 @@
    <text:p text:style-name="P75" loext:marker-style-name="T42"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T42"><text:span text:style-name="T42">dab -load \&quot;My App\&quot; -build</text:span><text:span text:style-name="T42"/></text:p>
    <text:h text:style-name="P31" text:outline-level="1" loext:marker-style-name="T24"><text:bookmark-start text:name="_Toc172123640"/><text:span text:style-name="T24">Fonts</text:span><text:bookmark-end text:name="_Toc172123640"/><text:span text:style-name="T24"/></text:h>
-   <text:p text:style-name="P82"><text:bookmark-start text:name="_Hlk534358734"/><text:bookmark-start text:name="_Toc534358673"/>If you are using a non-Roman script or a Roman script with combining diacritics, it is possible that Android devices will not display your fonts correctly. To overcome these problems, try using the GeckoView library.</text:p>
+   <text:p text:style-name="P82"><text:bookmark-start text:name="_Toc534358673"/><text:bookmark-start text:name="_Hlk534358734"/>If you are using a non-Roman script or a Roman script with combining diacritics, it is possible that Android devices will not display your fonts correctly. To overcome these problems, try using the GeckoView library.</text:p>
    <text:p text:style-name="P83" loext:marker-style-name="T29"><text:span text:style-name="T29">GeckoView is a viewer component from Mozilla that replaces the standard Android viewer. It can render Graphite fonts correctly.</text:span><text:bookmark-end text:name="_Hlk534358734"/><text:span text:style-name="T29"/></text:p>
    <text:p text:style-name="P83">You can configure this on the <text:span text:style-name="T32">Appearance</text:span> <text:span text:style-name="T31"></text:span> <text:span text:style-name="T32">Fonts</text:span> <text:span text:style-name="T31"></text:span> <text:span text:style-name="T32">Font Handling</text:span> page.<text:bookmark-end text:name="_Toc534358673"/></text:p>
    <text:p text:style-name="P64" loext:marker-style-name="T29"/>
@@ -13107,7 +13107,7 @@
    <text:p text:style-name="P61" loext:marker-style-name="T17"><text:span text:style-name="T17">You will get some months of free storage before there is a charge according to the bandwidth used, i.e. how many MB of audio users download. It might be easiest to organise this kind of cloud storage at an organisational level rather than creating a new account for each language.</text:span><text:span text:style-name="T17"/></text:p>
    <text:p text:style-name="P21" loext:marker-style-name="T24"/>
    <text:p text:style-name="P21" loext:marker-style-name="T24"/>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T24"><text:bookmark-start text:name="_Toc172123643"/><text:bookmark-start text:name="_Toc500152989"/><text:bookmark-start text:name="_Toc498952700"/><draw:custom-shape text:anchor-type="char" draw:z-index="0" draw:name="Shape6" draw:style-name="gr2" draw:text-style-name="P206" svg:width="0.5953in" svg:height="0.3024in" draw:transform="rotate (0.678409480250196) translate (0.0340277777777778in 2.62777777777778in)">
+   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T24"><text:bookmark-start text:name="_Toc498952700"/><text:bookmark-start text:name="_Toc500152989"/><text:bookmark-start text:name="_Toc172123643"/><draw:custom-shape text:anchor-type="char" draw:z-index="0" draw:name="Shape6" draw:style-name="gr2" draw:text-style-name="P206" svg:width="0.5953in" svg:height="0.3024in" draw:transform="rotate (0.678409480250196) translate (0.0340277777777778in 2.62777777777778in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -13120,7 +13120,7 @@
       <draw:equation draw:name="f7" draw:formula="?f1 -?f6 "/>
       <draw:handle draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600" draw:handle-range-y-minimum="0" draw:handle-range-y-maximum="10800" draw:handle-position="$0 $1"/>
      </draw:enhanced-geometry>
-    </draw:custom-shape><text:span text:style-name="T24">Navigation Drawer</text:span><text:bookmark-end text:name="_Toc172123643"/><text:bookmark-end text:name="_Toc500152989"/><text:bookmark-end text:name="_Toc498952700"/><text:span text:style-name="T24"/></text:h>
+    </draw:custom-shape><text:span text:style-name="T24">Navigation Drawer</text:span><text:bookmark-end text:name="_Toc498952700"/><text:bookmark-end text:name="_Toc500152989"/><text:bookmark-end text:name="_Toc172123643"/><text:span text:style-name="T24"/></text:h>
    <text:p text:style-name="P79" loext:marker-style-name="T47"/>
    <text:p text:style-name="P55" loext:marker-style-name="T20"><text:span text:style-name="T20">You can customise the image that appears at the top of the navigation drawer. It can be a photo, your organisation’s logo or any relevant graphic design.</text:span><text:span text:style-name="T20"/></text:p>
    <text:p text:style-name="P19" loext:marker-style-name="T20"/>
@@ -45165,7 +45165,7 @@
    <text:p text:style-name="P55" loext:marker-style-name="T20"><text:span text:style-name="T20">Specify a landscape image file on the </text:span><text:span text:style-name="T16">Appearance</text:span><text:span text:style-name="T20"> </text:span><text:span text:style-name="T31"></text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T15">Graphics</text:span><text:span text:style-name="T20"> </text:span><text:span text:style-name="T31"></text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T11">Navigation Drawer</text:span><text:span text:style-name="T3"> page.</text:span></text:p>
    <text:p text:style-name="P21" loext:marker-style-name="T24"/>
    <text:p text:style-name="P21" loext:marker-style-name="T24"/>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T24"><text:bookmark-start text:name="_Toc500152990"/><text:bookmark-start text:name="_Toc172123644"/><text:span text:style-name="T24">Analytics</text:span><text:bookmark-end text:name="_Toc500152990"/><text:bookmark-end text:name="_Toc172123644"/><text:span text:style-name="T24"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T24"><text:bookmark-start text:name="_Toc172123644"/><text:bookmark-start text:name="_Toc500152990"/><text:span text:style-name="T24">Analytics</text:span><text:bookmark-end text:name="_Toc172123644"/><text:bookmark-end text:name="_Toc500152990"/><text:span text:style-name="T24"/></text:h>
    <text:p text:style-name="P29" loext:marker-style-name="T24"/>
    <text:p text:style-name="P55" loext:marker-style-name="T24"><text:span text:style-name="T24">If you enable Analytics, the app will connect to the internet from time to time to send app usage information to one or more analytics accounts. This will give you an idea of the extent to which people are interacting with the app.</text:span><text:span text:style-name="T24"/></text:p>
    <text:p text:style-name="P21" loext:marker-style-name="T24"/>
@@ -45228,7 +45228,7 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P42" text:outline-level="2" loext:marker-style-name="T29"><text:bookmark-start text:name="_Toc15985863"/><text:bookmark-start text:name="_Toc172123645"/><text:span text:style-name="T29">Firebase Analytics</text:span><text:bookmark-end text:name="_Toc15985863"/><text:bookmark-end text:name="_Toc172123645"/><text:span text:style-name="T29"/></text:h>
+   <text:h text:style-name="P42" text:outline-level="2" loext:marker-style-name="T29"><text:bookmark-start text:name="_Toc172123645"/><text:bookmark-start text:name="_Toc15985863"/><text:span text:style-name="T29">Firebase Analytics</text:span><text:bookmark-end text:name="_Toc172123645"/><text:bookmark-end text:name="_Toc15985863"/><text:span text:style-name="T29"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T10"><text:span text:style-name="T10">To sign up for Firebase Analytics, ensure you have a Google account. </text:span><text:span text:style-name="T10"/></text:p>
    <text:p text:style-name="P15" loext:marker-style-name="T10"/>
    <text:p text:style-name="P50" loext:marker-style-name="T10"><text:span text:style-name="T10">You will need to:</text:span><text:span text:style-name="T10"/></text:p>
@@ -45847,7 +45847,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P86" loext:marker-style-name="T33"/>
-   <text:h text:style-name="P42" text:outline-level="2" loext:marker-style-name="T29"><text:bookmark-start text:name="_Toc508699627"/><text:bookmark-start text:name="_Toc172123646"/><text:bookmark-start text:name="_Toc508700185"/><text:span text:style-name="T29">Amplitude Analytics</text:span><text:bookmark-end text:name="_Toc508699627"/><text:bookmark-end text:name="_Toc172123646"/><text:bookmark-end text:name="_Toc508700185"/><text:span text:style-name="T29"/></text:h>
+   <text:h text:style-name="P42" text:outline-level="2" loext:marker-style-name="T29"><text:bookmark-start text:name="_Toc508700185"/><text:bookmark-start text:name="_Toc172123646"/><text:bookmark-start text:name="_Toc508699627"/><text:span text:style-name="T29">Amplitude Analytics</text:span><text:bookmark-end text:name="_Toc508700185"/><text:bookmark-end text:name="_Toc172123646"/><text:bookmark-end text:name="_Toc508699627"/><text:span text:style-name="T29"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T29"><text:span text:style-name="T29">To use Amplitude analytics, you will need to create an account. Go to:</text:span><text:span text:style-name="T29"/></text:p>
    <text:p text:style-name="P88" loext:marker-style-name="T29"><text:a xlink:type="simple" xlink:href="https://amplitude.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T29">https://amplitude.com</text:span></text:span></text:a><text:span text:style-name="T29"/></text:p>
    <text:p text:style-name="P64" loext:marker-style-name="T29"/>
@@ -45870,7 +45870,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P87" loext:marker-style-name="T33"/>
-   <text:h text:style-name="P42" text:outline-level="2" loext:marker-style-name="T29"><text:bookmark-start text:name="_Toc508699629"/><text:bookmark-start text:name="_Toc172123647"/><text:bookmark-start text:name="_Toc508700188"/><text:span text:style-name="T29">S3 Digest Analytics</text:span><text:bookmark-end text:name="_Toc508699629"/><text:bookmark-end text:name="_Toc172123647"/><text:bookmark-end text:name="_Toc508700188"/><text:span text:style-name="T29"/></text:h>
+   <text:h text:style-name="P42" text:outline-level="2" loext:marker-style-name="T29"><text:bookmark-start text:name="_Toc508700188"/><text:bookmark-start text:name="_Toc172123647"/><text:bookmark-start text:name="_Toc508699629"/><text:span text:style-name="T29">S3 Digest Analytics</text:span><text:bookmark-end text:name="_Toc508700188"/><text:bookmark-end text:name="_Toc172123647"/><text:bookmark-end text:name="_Toc508699629"/><text:span text:style-name="T29"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T29"><text:span text:style-name="T29">To use S3 Digest Analytics, ensure you have admin permissions to an Amazon AWS account, and go to:</text:span><text:span text:style-name="T29"/></text:p>
    <text:p text:style-name="P47" loext:marker-style-name="T29"><text:a xlink:type="simple" xlink:href="https://aws.amazon.com/console/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T29">https://aws.amazon.com/console/</text:span></text:span></text:a><text:span text:style-name="T29"/></text:p>
    <text:p text:style-name="P64" loext:marker-style-name="T29"/>
@@ -45938,12 +45938,12 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P89"/>
-   <text:h text:style-name="P42" text:outline-level="2"><text:bookmark-start text:name="_Toc508644267"/><text:bookmark-start text:name="_Toc172123648"/><text:bookmark-start text:name="_Toc508651028"/>Details on S3 Digest Analytics<text:bookmark-end text:name="_Toc508644267"/><text:bookmark-end text:name="_Toc172123648"/><text:bookmark-end text:name="_Toc508651028"/></text:h>
-   <text:p text:style-name="Standard"><text:bookmark-start text:name="_Toc508644268"/><text:bookmark-start text:name="_Toc508651029"/>S3 Digest Analytics will <text:span text:style-name="T50">send a small daily digest </text:span>(about 300 bytes for each day the app is used)<text:span text:style-name="T36"> </text:span><text:span text:style-name="T50">of compressed, completely anonymous data</text:span> (no personal, phone, or GPS location information) <text:span text:style-name="T50">via an encrypted transport</text:span> (https) <text:span text:style-name="T50">to an Amazon data center, when the device is connected to the Internet </text:span>(via cell or WIFI)<text:span text:style-name="T50"> while the app is running.</text:span> You are responsible for hosting the Amazon S3 Bucket and processing the received data. </text:p>
+   <text:h text:style-name="P42" text:outline-level="2"><text:bookmark-start text:name="_Toc508651028"/><text:bookmark-start text:name="_Toc172123648"/><text:bookmark-start text:name="_Toc508644267"/>Details on S3 Digest Analytics<text:bookmark-end text:name="_Toc508651028"/><text:bookmark-end text:name="_Toc172123648"/><text:bookmark-end text:name="_Toc508644267"/></text:h>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="_Toc508651029"/><text:bookmark-start text:name="_Toc508644268"/>S3 Digest Analytics will <text:span text:style-name="T50">send a small daily digest </text:span>(about 300 bytes for each day the app is used)<text:span text:style-name="T36"> </text:span><text:span text:style-name="T50">of compressed, completely anonymous data</text:span> (no personal, phone, or GPS location information) <text:span text:style-name="T50">via an encrypted transport</text:span> (https) <text:span text:style-name="T50">to an Amazon data center, when the device is connected to the Internet </text:span>(via cell or WIFI)<text:span text:style-name="T50"> while the app is running.</text:span> You are responsible for hosting the Amazon S3 Bucket and processing the received data. </text:p>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard">Files are uploaded to the S3 Bucket and in a sub-folder based on the format (e.g. the current format is f1) and stored with a unique filename using a randomly generated <text:a xlink:type="simple" xlink:href="https://en.wikipedia.org/wiki/Universally_unique_identifier" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">GUID</text:span></text:a> as the basename. We are working to package a Splunk configuration so that you can deploy your own server to analyze the data.</text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P90">S3 Digest Analytics uses a JSON payload format. A complete sample data payload is below:<text:bookmark-end text:name="_Toc508651029"/><text:bookmark-end text:name="_Toc508644268"/></text:p>
+   <text:p text:style-name="P90">S3 Digest Analytics uses a JSON payload format. A complete sample data payload is below:<text:bookmark-end text:name="_Toc508644268"/><text:bookmark-end text:name="_Toc508651029"/></text:p>
    <text:p text:style-name="P91" loext:marker-style-name="T43"><text:span text:style-name="T43">{&quot;startTime&quot;:&quot;20180306T0835Z&quot;,&quot;period&quot;:1440,&quot;id&quot;:&quot;12db7e3f-93d9-4370-b12b-fe048804e4f5&quot;,&quot;package&quot;:&quot;org.sil.dictionary.cuk&quot;,&quot;version_name&quot;:&quot;1.0.1&quot;,&quot;sessions&quot;:1,&quot;sessionMins&quot;:21,&quot;shares&quot;:3}</text:span><text:span text:style-name="T43"/></text:p>
    <text:p text:style-name="P76" loext:marker-style-name="T43"/>
    <text:p text:style-name="P76" loext:marker-style-name="T43"/>
@@ -45967,7 +45967,7 @@
    </text:list>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
-   <text:h text:style-name="P92" text:outline-level="1"><text:bookmark-start text:name="_Toc15985870"/><text:bookmark-start text:name="_Toc172123649"/>Registration Screen<text:bookmark-end text:name="_Toc15985870"/><text:bookmark-end text:name="_Toc172123649"/></text:h>
+   <text:h text:style-name="P92" text:outline-level="1"><text:bookmark-start text:name="_Toc172123649"/><text:bookmark-start text:name="_Toc15985870"/>Registration Screen<text:bookmark-end text:name="_Toc172123649"/><text:bookmark-end text:name="_Toc15985870"/></text:h>
    <text:p text:style-name="P55"/>
    <text:p text:style-name="P55" loext:marker-style-name="T3"><text:span text:style-name="T3">You can define a registration screen to be shown when a user launches the app for the first time. This allows you to collect contact information, for example to connect people with a WhatsApp group to discuss dictionary entries.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P55"/>
@@ -54694,7 +54694,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P13" loext:marker-style-name="T3"/>
-   <text:h text:style-name="P42" text:outline-level="2" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc15985871"/><text:bookmark-start text:name="_Toc172123650"/><text:span text:style-name="T3">Setting up the Registration Screen in Dictionary App Builder</text:span><text:bookmark-end text:name="_Toc15985871"/><text:bookmark-end text:name="_Toc172123650"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="P42" text:outline-level="2" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc172123650"/><text:bookmark-start text:name="_Toc15985871"/><text:span text:style-name="T3">Setting up the Registration Screen in Dictionary App Builder</text:span><text:bookmark-end text:name="_Toc172123650"/><text:bookmark-end text:name="_Toc15985871"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="P54">To set up the registration screen within the app builder:</text:p>
    <text:list text:style-name="WWNum20">
     <text:list-item>
@@ -54744,7 +54744,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P13" loext:marker-style-name="T3"/>
-   <text:h text:style-name="P42" text:outline-level="2" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc15985872"/><text:bookmark-start text:name="_Toc172123651"/><text:span text:style-name="T3">Setting up the database in the Google Firebase console</text:span><text:bookmark-end text:name="_Toc15985872"/><text:bookmark-end text:name="_Toc172123651"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="P42" text:outline-level="2" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc172123651"/><text:bookmark-start text:name="_Toc15985872"/><text:span text:style-name="T3">Setting up the database in the Google Firebase console</text:span><text:bookmark-end text:name="_Toc172123651"/><text:bookmark-end text:name="_Toc15985872"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="P54" loext:marker-style-name="T3"><text:span text:style-name="T3">To set up the database, which will contain the registered users’ information, you need to add Firebase to your app, create a database, set up authentication and configure rules.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P94" loext:marker-style-name="T7"><text:span text:style-name="T7">Add Firebase to your app</text:span><text:span text:style-name="T7"/></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">To add Firebase to your app:</text:span><text:span text:style-name="T3"/></text:p>
