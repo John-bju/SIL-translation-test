@@ -32,6 +32,7 @@ jobs:
             outdir="$(dirname "$file")"
             mkdir -p "$outdir"
             echo $outdir
+            basename $PWD
             timeout 60s libreoffice --headless --convert-to odt "$file" --outdir "docs-en/odt"
           done
 
