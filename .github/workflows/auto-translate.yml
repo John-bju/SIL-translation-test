@@ -31,8 +31,8 @@ jobs:
             echo "Converting $file"
             outdir="$(dirname "$file")"
             mkdir -p "$outdir"
-            basename $outdir
-            timeout 60s libreoffice --headless --convert-to odt "$file" --outdir "docs-en/odt"
+            project_dirname = "$(basename "$outdir")"
+            timeout 60s libreoffice --headless --convert-to odt "$file" --outdir "docs-en/odt/"$project_dirname""
           done
 
 
