@@ -32,7 +32,7 @@ jobs:
             outdir="$(dirname "$file")"
             mkdir -p "$outdir"
             project_dirname = "$(basename "$outdir")"
-            timeout 60s libreoffice --headless --convert-to odt "$file" --outdir "docs-en/odt/"$project_dirname""
+            timeout 60s libreoffice --headless --convert-to odt "$file" --outdir docs-en/odt/$project_dirname
           done
 
 
