@@ -115,7 +115,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -139,7 +139,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">2183459</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2265720</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">true</config:config-item>
@@ -174,7 +174,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Times New Roman2" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Times New Roman2" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -5750,7 +5750,7 @@
    <style:graphic-properties fo:margin-left="0.1252in" fo:margin-right="0.1252in" fo:margin-top="0.05in" fo:margin-bottom="0.05in" style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" fo:background-color="#ffffff" style:background-transparency="0%" draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100%" fo:padding-left="0.1in" fo:padding-right="0.1in" fo:padding-top="0.05in" fo:padding-bottom="0.05in" fo:border="0.06pt solid #000000"/>
   </style:style>
   <style:style style:name="fr4" style:family="graphic" style:parent-style-name="OLE">
-   <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:visible-area-left="0in" draw:visible-area-top="0in" draw:visible-area-width="1.9728in" draw:visible-area-height="1.9728in" draw:ole-draw-aspect="1"/>
+   <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:visible-area-left="0in" draw:visible-area-top="0in" draw:visible-area-width="1.9732in" draw:visible-area-height="1.9732in" draw:ole-draw-aspect="1"/>
   </style:style>
   <style:style style:name="Sect1" style:family="section">
    <style:section-properties style:editable="false">
@@ -5816,7 +5816,7 @@
    <text:p text:style-name="P14" loext:marker-style-name="T1"/>
    <text:p text:style-name="P14" loext:marker-style-name="T1"/>
    <text:p text:style-name="P14" loext:marker-style-name="T1"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T1"><draw:frame text:anchor-type="as-char" draw:z-index="86" draw:name="Shape1" draw:style-name="gr1" draw:text-style-name="P393" svg:width="5.9862in" svg:height="1.9587in">
+   <text:p text:style-name="P3" loext:marker-style-name="T1"><draw:frame text:anchor-type="as-char" draw:z-index="87" draw:name="Shape1" draw:style-name="gr1" draw:text-style-name="P393" svg:width="5.9862in" svg:height="1.9587in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAB2cAAAJpCAYAAAHu6Am1AAAACXBIWXMAABcSAAAXEgFnn9JS
        AAAKT2lDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVNnVFPpFj333vRCS4iAlEtvUhUI
@@ -7201,7 +7201,7 @@
    <text:p text:style-name="P15" loext:marker-style-name="T4"/>
    <text:p text:style-name="P15" loext:marker-style-name="T4"/>
    <text:p text:style-name="P15" loext:marker-style-name="T4"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T4"><draw:frame text:anchor-type="as-char" draw:z-index="88" draw:name="Shape2" draw:style-name="gr1" draw:text-style-name="P393" svg:width="1.2224in" svg:height="0.6669in">
+   <text:p text:style-name="P3" loext:marker-style-name="T4"><draw:frame text:anchor-type="as-char" draw:z-index="86" draw:name="Shape2" draw:style-name="gr1" draw:text-style-name="P393" svg:width="1.2224in" svg:height="0.6669in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAGIAAAA2CAYAAAA8ukzvAAAOeUlEQVR4nO2cfXAT95nHf/iF
        V0PCBUjDUcgLBBK4HKTkKKF+k21JfgGahJcYg5mE5O56ndyld2R6vd4fmTbpNJD27iZ312HS
@@ -7488,7 +7488,7 @@
    <text:p text:style-name="P77" loext:marker-style-name="T41"><text:span text:style-name="T41">When Word documents are displayed in the app, basic formatting will be preserved such as character styles (bold, italic, underline), numbered lists, bullet points, hyperlinks and simple tables. </text:span><text:span text:style-name="T41"/></text:p>
    <text:p text:style-name="P77" loext:marker-style-name="T41"><text:span text:style-name="T41">To define separate chapters or pages, insert page breaks using CTRL+Enter.<text:line-break/></text:span><text:span text:style-name="T41"/></text:p>
    <text:p text:style-name="P42" loext:marker-style-name="T41"/>
-   <text:list xml:id="list183841634351841" text:continue-numbering="true" text:style-name="WWNum7">
+   <text:list xml:id="list191208961886590" text:continue-numbering="true" text:style-name="WWNum7">
     <text:list-item>
      <text:p text:style-name="P250" loext:marker-style-name="T43"><text:span text:style-name="T43">Bloom books (.bloompub)</text:span><text:span text:style-name="T43"/></text:p>
     </text:list-item>
@@ -7515,7 +7515,7 @@
      <text:p text:style-name="P256" loext:marker-style-name="T12"><text:span text:style-name="T12">Save the Bloom book to your computer as a </text:span><text:span text:style-name="T15">.bloompub</text:span><text:span text:style-name="T12"> file. This is the file that you will need in Reading App Builder.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P80" loext:marker-style-name="T12"><draw:frame text:anchor-type="as-char" draw:z-index="87" draw:name="Shape3" draw:style-name="gr1" draw:text-style-name="P393" svg:width="5.9862in" svg:height="5.3059in">
+   <text:p text:style-name="P80" loext:marker-style-name="T12"><draw:frame text:anchor-type="as-char" draw:z-index="89" draw:name="Shape3" draw:style-name="gr1" draw:text-style-name="P393" svg:width="5.9862in" svg:height="5.3059in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA1EAAALwCAYAAAB2sv9VAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAP+lSURBVHhe7J0HgBxV/ce/t/V6S7m0
@@ -9836,7 +9836,7 @@
    <text:p text:style-name="P78" loext:marker-style-name="T41"><text:span text:style-name="T41">To find out more about Bloom, please see: </text:span><text:a xlink:type="simple" xlink:href="http://bloomlibrary.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T41">http://bloomlibrary.org</text:span></text:span></text:a><text:span text:style-name="T41"> <text:s/></text:span></text:p>
    <text:p text:style-name="P42" loext:marker-style-name="T41"/>
    <text:p text:style-name="P43" loext:marker-style-name="T41"/>
-   <text:list text:continue-list="list183841634351841" text:style-name="WWNum7">
+   <text:list text:continue-list="list191208961886590" text:style-name="WWNum7">
     <text:list-item>
      <text:p text:style-name="P250" loext:marker-style-name="T41"><text:span text:style-name="T43">SFM text files<text:tab/></text:span><text:span text:style-name="T43"/></text:p>
     </text:list-item>
@@ -9977,7 +9977,7 @@
    <text:p text:style-name="P41" loext:marker-style-name="T41"/>
    <text:p text:style-name="P85" loext:marker-style-name="T41"><text:span text:style-name="T41">Click </text:span><text:span text:style-name="T42">Next</text:span><text:span text:style-name="T41"> to move to the next page.</text:span></text:p>
    <text:p text:style-name="P41" loext:marker-style-name="T41"/>
-   <text:list xml:id="list183842283853860" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list191209050865914" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:p text:style-name="P264" loext:marker-style-name="T41"><text:soft-page-break/><text:span text:style-name="T41">On the page of the wizard entitled </text:span><text:span text:style-name="T42">Signing</text:span><text:span text:style-name="T41">, you need to specify the keystore and alias to use to sign the app. An app must be signed in this way so that it can installed on an Android device.</text:span></text:p>
     </text:list-item>
@@ -10014,7 +10014,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P41" loext:marker-style-name="T41"/>
-   <text:list text:continue-list="list183842283853860" text:style-name="WWNum4">
+   <text:list text:continue-list="list191209050865914" text:style-name="WWNum4">
     <text:list-item>
      <text:p text:style-name="P264" loext:marker-style-name="T41"><text:span text:style-name="T41">Back on the </text:span><text:span text:style-name="T42">Signing</text:span><text:span text:style-name="T41"> page of the New App wizard, you need to specify the keystore password, select the alias and enter the alias password (just as you entered them in the step above).</text:span></text:p>
     </text:list-item>
@@ -10061,7 +10061,7 @@
    <text:p text:style-name="Standard" loext:marker-style-name="T51"><text:span text:style-name="T51">The next section describes how to copy this APK file to your phone and launch the app.</text:span><text:bookmark-end text:name="_Hlk66431096"/><text:span text:style-name="T51"/></text:p>
    <text:p text:style-name="P89" loext:marker-style-name="T51"><text:soft-page-break/></text:p>
    <text:p text:style-name="P92" loext:marker-style-name="T51"/>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="_Toc172123727"/><text:bookmark-start text:name="_Hlk66431018"/><text:bookmark-start text:name="_Toc66108082"/>Installing the app on your phone<text:bookmark-end text:name="_Toc172123727"/><text:bookmark-end text:name="_Toc66108082"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="_Toc66108082"/><text:bookmark-start text:name="_Hlk66431018"/><text:bookmark-start text:name="_Toc172123727"/>Installing the app on your phone<text:bookmark-end text:name="_Toc66108082"/><text:bookmark-end text:name="_Toc172123727"/></text:h>
    <text:p text:style-name="P92" loext:marker-style-name="T51"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T51"><text:span text:style-name="T51">In the above section, you have seen how to compile an Android app. The result is an APK file, the installation file for an Android app. You now need to copy this APK file to your phone, install it and launch the app.</text:span><text:span text:style-name="T51"/></text:p>
    <text:p text:style-name="P89" loext:marker-style-name="T51"/>
@@ -10094,7 +10094,7 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P6" loext:marker-style-name="T51"><draw:custom-shape text:anchor-type="char" draw:z-index="89" draw:name="Shape4" draw:style-name="gr4" draw:text-style-name="P394" svg:width="0.5953in" svg:height="0.3024in" draw:transform="rotate (-2.68571265296887) translate (4.54722222222222in 3.23888888888889in)">
+   <text:p text:style-name="P6" loext:marker-style-name="T51"><draw:custom-shape text:anchor-type="char" draw:z-index="88" draw:name="Shape4" draw:style-name="gr4" draw:text-style-name="P394" svg:width="0.5953in" svg:height="0.3024in" draw:transform="rotate (-2.68571265296887) translate (4.54722222222222in 3.23888888888889in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -10107,7 +10107,7 @@
       <draw:equation draw:name="f7" draw:formula="?f1 -?f6 "/>
       <draw:handle draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600" draw:handle-range-y-minimum="0" draw:handle-range-y-maximum="10800" draw:handle-position="$0 $1"/>
      </draw:enhanced-geometry>
-    </draw:custom-shape><text:soft-page-break/><draw:frame text:anchor-type="as-char" draw:z-index="91" draw:name="Picture 9" draw:style-name="gr1" draw:text-style-name="P393" svg:width="2.0697in" svg:height="3.6807in">
+    </draw:custom-shape><text:soft-page-break/><draw:frame text:anchor-type="as-char" draw:z-index="90" draw:name="Picture 9" draw:style-name="gr1" draw:text-style-name="P393" svg:width="2.0697in" svg:height="3.6807in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAtAAAAUACAIAAADhrPJqAAAAA3NCSVQICAjb4U/gAAAgAElE
        QVR4nOzdeVyM+QMH8O80U+lUKqSTLhVyleQKyTqTa9l1LIvd3CzWvetYLNZursX+SK4sIvcZ
@@ -11853,7 +11853,7 @@
       <draw:equation draw:name="f7" draw:formula="?f1 -?f6 "/>
       <draw:handle draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600" draw:handle-range-y-minimum="0" draw:handle-range-y-maximum="10800" draw:handle-position="$0 $1"/>
      </draw:enhanced-geometry>
-    </draw:custom-shape><draw:frame text:anchor-type="as-char" draw:z-index="90" draw:name="Picture 10" draw:style-name="gr1" draw:text-style-name="P393" svg:width="2.1043in" svg:height="3.7362in">
+    </draw:custom-shape><draw:frame text:anchor-type="as-char" draw:z-index="93" draw:name="Picture 10" draw:style-name="gr1" draw:text-style-name="P393" svg:width="2.1043in" svg:height="3.7362in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAtAAAAUACAIAAADhrPJqAAAAA3NCSVQICAjb4U/gAAAgAElE
        QVR4nOzdd1xV5QPH8YfLvWxQEUWG4ALBPXFvxW2uX6allpaWMyuz1EyzoWWlOcrKzJGkOTMz
@@ -12742,7 +12742,7 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P7" loext:marker-style-name="T51"><draw:custom-shape text:anchor-type="char" draw:z-index="93" draw:name="AutoShape 160" draw:style-name="gr2" draw:text-style-name="P394" svg:width="0.5953in" svg:height="0.3024in" draw:transform="rotate (-2.68571265296887) translate (4.80069444444444in 1.29444444444444in)">
+   <text:p text:style-name="P7" loext:marker-style-name="T51"><draw:custom-shape text:anchor-type="char" draw:z-index="91" draw:name="AutoShape 160" draw:style-name="gr2" draw:text-style-name="P394" svg:width="0.5953in" svg:height="0.3024in" draw:transform="rotate (-2.68571265296887) translate (4.80069444444444in 1.29444444444444in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -14320,7 +14320,7 @@
     </draw:frame></text:p>
    <text:p text:style-name="P96" loext:marker-style-name="T51"/>
    <text:p text:style-name="P104" loext:marker-style-name="T51"><text:span text:style-name="T51">When you do this, you will probably get a message “Allow USB Debugging?”. Tap </text:span><text:span text:style-name="T57">OK</text:span><text:span text:style-name="T51">.</text:span></text:p>
-   <text:p text:style-name="P7" loext:marker-style-name="T51"><draw:custom-shape text:anchor-type="char" draw:z-index="111" draw:name="Shape6" draw:style-name="gr2" draw:text-style-name="P394" svg:width="0.5953in" svg:height="0.3024in" draw:transform="rotate (-2.68571265296887) translate (4.64861111111111in 2.27569444444444in)">
+   <text:p text:style-name="P7" loext:marker-style-name="T51"><draw:custom-shape text:anchor-type="char" draw:z-index="95" draw:name="Shape6" draw:style-name="gr2" draw:text-style-name="P394" svg:width="0.5953in" svg:height="0.3024in" draw:transform="rotate (-2.68571265296887) translate (4.64861111111111in 2.27569444444444in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -14333,7 +14333,7 @@
       <draw:equation draw:name="f7" draw:formula="?f1 -?f6 "/>
       <draw:handle draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600" draw:handle-range-y-minimum="0" draw:handle-range-y-maximum="10800" draw:handle-position="$0 $1"/>
      </draw:enhanced-geometry>
-    </draw:custom-shape><draw:frame text:anchor-type="as-char" draw:z-index="95" draw:name="Picture 13" draw:style-name="gr1" draw:text-style-name="P393" svg:width="2.0697in" svg:height="3.6669in">
+    </draw:custom-shape><draw:frame text:anchor-type="as-char" draw:z-index="111" draw:name="Picture 13" draw:style-name="gr1" draw:text-style-name="P393" svg:width="2.0697in" svg:height="3.6669in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAtAAAAUACAIAAADhrPJqAAAAA3NCSVQICAjb4U/gAAAgAElE
        QVR4nOzdeXwc9WH//8/M3quVVrd1WZLv+8CADdgcAUpTG0jTpmkwIfl+W/JrgBwNoeFo0l/S
@@ -16048,7 +16048,7 @@
     </draw:frame></text:p>
    <text:p text:style-name="P93" loext:marker-style-name="T51"/>
    <text:p text:style-name="P79" loext:marker-style-name="T51"><text:span text:style-name="T51">If you see a message box like this, tap </text:span><text:span text:style-name="T57">OK</text:span><text:span text:style-name="T51">:</text:span></text:p>
-   <text:p text:style-name="P6" loext:marker-style-name="T51"><draw:custom-shape text:anchor-type="char" draw:z-index="108" draw:name="Shape7" draw:style-name="gr2" draw:text-style-name="P394" svg:width="0.5953in" svg:height="0.3024in" draw:transform="rotate (-2.68571265296887) translate (4.42708333333333in 2.30833333333333in)">
+   <text:p text:style-name="P6" loext:marker-style-name="T51"><draw:custom-shape text:anchor-type="char" draw:z-index="96" draw:name="Shape7" draw:style-name="gr2" draw:text-style-name="P394" svg:width="0.5953in" svg:height="0.3024in" draw:transform="rotate (-2.68571265296887) translate (4.42708333333333in 2.30833333333333in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -16061,7 +16061,7 @@
       <draw:equation draw:name="f7" draw:formula="?f1 -?f6 "/>
       <draw:handle draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600" draw:handle-range-y-minimum="0" draw:handle-range-y-maximum="10800" draw:handle-position="$0 $1"/>
      </draw:enhanced-geometry>
-    </draw:custom-shape><draw:frame text:anchor-type="as-char" draw:z-index="109" draw:name="Picture 14" draw:style-name="gr1" draw:text-style-name="P393" svg:width="2.0697in" svg:height="3.6669in">
+    </draw:custom-shape><draw:frame text:anchor-type="as-char" draw:z-index="108" draw:name="Picture 14" draw:style-name="gr1" draw:text-style-name="P393" svg:width="2.0697in" svg:height="3.6669in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAtAAAAUACAIAAADhrPJqAAAAA3NCSVQICAjb4U/gAAAgAElE
        QVR4nOzdeXwb5YE//mdG92HJh3zbsp3DuexchNzhCJRtkwBLTwjXbpf+SpLSbgsthB6/0iOQ
@@ -17980,7 +17980,7 @@
    <text:p text:style-name="P115" loext:marker-style-name="T67"/>
    <text:p text:style-name="P115" loext:marker-style-name="T67"/>
    <text:h text:style-name="P56" text:outline-level="1" loext:marker-style-name="T41"><text:bookmark-start text:name="_Toc172123734"/><text:span text:style-name="T41">Fonts</text:span><text:bookmark-end text:name="_Toc172123734"/><text:span text:style-name="T41"/></text:h>
-   <text:p text:style-name="P126"><text:bookmark-start text:name="_Toc534358673"/><text:bookmark-start text:name="_Hlk534358734"/>If you are using a non-Roman script or a Roman script with combining diacritics, it is possible that Android devices will not display your fonts correctly. To overcome these problems, try using the GeckoView library.</text:p>
+   <text:p text:style-name="P126"><text:bookmark-start text:name="_Hlk534358734"/><text:bookmark-start text:name="_Toc534358673"/>If you are using a non-Roman script or a Roman script with combining diacritics, it is possible that Android devices will not display your fonts correctly. To overcome these problems, try using the GeckoView library.</text:p>
    <text:p text:style-name="P80" loext:marker-style-name="T51"><text:span text:style-name="T51">GeckoView is a viewer component from Mozilla that replaces the standard Android viewer. It can render Graphite fonts correctly.</text:span><text:bookmark-end text:name="_Hlk534358734"/><text:span text:style-name="T51"/></text:p>
    <text:p text:style-name="P80">You can configure this on the <text:span text:style-name="T55">Appearance</text:span> <text:span text:style-name="T61"></text:span> <text:span text:style-name="T55">Fonts</text:span> <text:span text:style-name="T61"></text:span> <text:span text:style-name="T55">Font Handling</text:span> page.<text:bookmark-end text:name="_Toc534358673"/></text:p>
    <text:p text:style-name="P89" loext:marker-style-name="T51"/>
@@ -18000,7 +18000,7 @@
    <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T41"><text:bookmark-start text:name="_Toc172123735"/><text:span text:style-name="T41">Audio</text:span><text:bookmark-end text:name="_Toc172123735"/><text:span text:style-name="T41"/></text:h>
    <text:h text:style-name="P76" text:outline-level="2" loext:marker-style-name="T41"><text:bookmark-start text:name="_Toc172123736"/><text:span text:style-name="T41">How can I associate audio files with the text?</text:span><text:bookmark-end text:name="_Toc172123736"/><text:span text:style-name="T41"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T41"><text:span text:style-name="T41">Reading App Builder allows you to use two different types of audio file:</text:span><text:span text:style-name="T41"/></text:p>
-   <text:list xml:id="list3507128530" text:style-name="WWNum20">
+   <text:list xml:id="list492651032" text:style-name="WWNum20">
     <text:list-item>
      <text:p text:style-name="P293" loext:marker-style-name="T41"><text:span text:style-name="T42">Audio files that correspond to a page of text in the app</text:span><text:span text:style-name="T41">, e.g. the audio recording of a chapter of a book or the text in a picture story book. These can be linked to timing files to enable synchronised highlighting of the text when the audio is playing.</text:span></text:p>
     </text:list-item>
@@ -18042,7 +18042,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P23" loext:marker-style-name="T22"/>
-   <text:h text:style-name="P76" text:outline-level="2" loext:marker-style-name="T41"><text:bookmark-start text:name="_Toc172123738"/><text:bookmark-start text:name="_Ref459721941"/><text:span text:style-name="T41">How do I distribute the audio files with the app?</text:span><text:bookmark-end text:name="_Toc172123738"/><text:bookmark-end text:name="_Ref459721941"/><text:span text:style-name="T41"/></text:h>
+   <text:h text:style-name="P76" text:outline-level="2" loext:marker-style-name="T41"><text:bookmark-start text:name="_Ref459721941"/><text:bookmark-start text:name="_Toc172123738"/><text:span text:style-name="T41">How do I distribute the audio files with the app?</text:span><text:bookmark-end text:name="_Ref459721941"/><text:bookmark-end text:name="_Toc172123738"/><text:span text:style-name="T41"/></text:h>
    <text:p text:style-name="P80" loext:marker-style-name="T22"><text:span text:style-name="T22">There are three ways of including audio files in your app: assets, external folder or internet download. You can use a single </text:span><text:span text:style-name="T16">file source</text:span><text:span text:style-name="T22"> for all of the files in an app or you can combine two or more sources in an app.</text:span></text:p>
    <text:p text:style-name="P127" loext:marker-style-name="T22"><text:span text:style-name="T22">To specify the file source(s) in Reading App Builder, you need to visit the following two pages:</text:span><text:span text:style-name="T22"/></text:p>
    <text:list text:style-name="WWNum18">
@@ -18099,7 +18099,7 @@
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">If timing files are not available when the app is compiled and are subsequently created by someone who isn&apos;t building the app (such as a volunteer), they can be placed in the external folder for testing. For more details, please see section 6.4 in the document </text:span><text:span text:style-name="T7">Using Audacity for Audio-Text Synchronization</text:span><text:span text:style-name="T3">, which answers the question </text:span><text:span text:style-name="T7">“I’d like to give someone else the task of creating timing files. Is there any way of them testing these without needing to know how to build the app?”</text:span></text:p>
    <text:p text:style-name="P41" loext:marker-style-name="T41"/>
    <text:p text:style-name="P41" loext:marker-style-name="T41"/>
-   <text:h text:style-name="P133" text:outline-level="2"><text:bookmark-start text:name="_Toc459719482"/><text:bookmark-start text:name="_Toc172123740"/><text:bookmark-start text:name="_Ref459717627"/>How can I use audio clips in the app?<text:bookmark-end text:name="_Toc459719482"/><text:bookmark-end text:name="_Toc172123740"/><text:bookmark-end text:name="_Ref459717627"/></text:h>
+   <text:h text:style-name="P133" text:outline-level="2"><text:bookmark-start text:name="_Ref459717627"/><text:bookmark-start text:name="_Toc172123740"/><text:bookmark-start text:name="_Toc459719482"/>How can I use audio clips in the app?<text:bookmark-end text:name="_Ref459717627"/><text:bookmark-end text:name="_Toc172123740"/><text:bookmark-end text:name="_Toc459719482"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T41"><text:span text:style-name="T41">Audio clips are short audio files which are played when the user taps a linked word, phrase or image in the app.</text:span><text:span text:style-name="T41"/></text:p>
    <text:p text:style-name="P41" loext:marker-style-name="T41"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T41"><text:span text:style-name="T41">To include an audio clip in your app:</text:span><text:span text:style-name="T41"/></text:p>
@@ -18118,7 +18118,7 @@
    <text:p text:style-name="P134" loext:marker-style-name="T41"><text:span text:style-name="T41"><text:tab/>[Click me to hear this word](word1.mp3)</text:span><text:span text:style-name="T41"/></text:p>
    <text:p text:style-name="P135" loext:marker-style-name="T41"><text:span text:style-name="T41">or if your text is in a Word document, select a word or a phrase, right-click, </text:span><text:span text:style-name="T42">Hyperlink…</text:span><text:span text:style-name="T41"> and enter the audio filename as the address to link to.</text:span></text:p>
    <text:p text:style-name="P41" loext:marker-style-name="T41"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T26"><draw:frame text:anchor-type="as-char" draw:z-index="110" draw:name="Shape8" draw:style-name="gr1" draw:text-style-name="P393" svg:width="5.0421in" svg:height="2.6323in">
+   <text:p text:style-name="P3" loext:marker-style-name="T26"><draw:frame text:anchor-type="as-char" draw:z-index="109" draw:name="Shape8" draw:style-name="gr1" draw:text-style-name="P393" svg:width="5.0421in" svg:height="2.6323in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAoAAAAFPCAIAAABS+eiIAAAAAXNSR0IArs4c6QAARnNJREFU
        eF7tnQt0FMeZ70sxfq1f8q698UNCD4OjYCnHD9bBRiiSxw4CtAvEbDC7BnyDDvdggmRiFCt2
@@ -18465,10 +18465,10 @@
    <text:p text:style-name="P98" loext:marker-style-name="T26"><text:soft-page-break/><text:span text:style-name="T26">Specify the audio filename without a path, e.g. “word1.mp3” rather than “C:\My clips\word1.mp3”.</text:span><text:span text:style-name="T26"/></text:p>
    <text:p text:style-name="P41" loext:marker-style-name="T41"/>
    <text:p text:style-name="P41" loext:marker-style-name="T41"/>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T51"><text:bookmark-start text:name="_Toc172123741"/><text:bookmark-start text:name="_Toc534358682"/><text:span text:style-name="T51">Video</text:span><text:bookmark-end text:name="_Toc172123741"/><text:bookmark-end text:name="_Toc534358682"/><text:span text:style-name="T51"/></text:h>
-   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T51"><text:bookmark-start text:name="_Toc172123742"/><text:bookmark-start text:name="_Toc534358683"/><text:span text:style-name="T51">How do I include videos in the app?</text:span><text:bookmark-end text:name="_Toc172123742"/><text:bookmark-end text:name="_Toc534358683"/><text:span text:style-name="T51"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T51"><text:bookmark-start text:name="_Toc534358682"/><text:bookmark-start text:name="_Toc172123741"/><text:span text:style-name="T51">Video</text:span><text:bookmark-end text:name="_Toc534358682"/><text:bookmark-end text:name="_Toc172123741"/><text:span text:style-name="T51"/></text:h>
+   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T51"><text:bookmark-start text:name="_Toc534358683"/><text:bookmark-start text:name="_Toc172123742"/><text:span text:style-name="T51">How do I include videos in the app?</text:span><text:bookmark-end text:name="_Toc534358683"/><text:bookmark-end text:name="_Toc172123742"/><text:span text:style-name="T51"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T51"><text:span text:style-name="T51">The app can handle two types of video:</text:span><text:span text:style-name="T51"/></text:p>
-   <text:list xml:id="list183841881874807" text:continue-list="list3507128530" text:style-name="WWNum20">
+   <text:list xml:id="list191210772617598" text:continue-list="list492651032" text:style-name="WWNum20">
     <text:list-item>
      <text:p text:style-name="P293" loext:marker-style-name="T51"><text:span text:style-name="T56">Videos hosted online for streaming</text:span><text:span text:style-name="T51">, e.g. YouTube, Vimeo, and MP4 streaming video files.</text:span></text:p>
     </text:list-item>
@@ -18533,7 +18533,7 @@
    <text:p text:style-name="Standard" loext:marker-style-name="T27"><text:span text:style-name="T27">If you want to include MP4 video files within the app, you need to make sure that they are as small as possible, otherwise your app will become too big to publish.</text:span><text:span text:style-name="T27"/></text:p>
    <text:p text:style-name="P80" loext:marker-style-name="T27"><text:span text:style-name="T27">There are some good video compression tools online which can reduce the size of a video considerably without losing much quality. An example is the Clideo Compress Video tool, at </text:span><text:a xlink:type="simple" xlink:href="https://clideo.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T27">https://clideo.com</text:span></text:span></text:a><text:span text:style-name="T27">.</text:span></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T27"/>
-   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T12"><text:bookmark-start text:name="_Toc172123744"/><text:bookmark-start text:name="_Toc534358684"/><text:span text:style-name="T12">How do I specify where the videos will be displayed within the app?</text:span><text:bookmark-end text:name="_Toc172123744"/><text:bookmark-end text:name="_Toc534358684"/><text:span text:style-name="T12"/></text:h>
+   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T12"><text:bookmark-start text:name="_Toc534358684"/><text:bookmark-start text:name="_Toc172123744"/><text:span text:style-name="T12">How do I specify where the videos will be displayed within the app?</text:span><text:bookmark-end text:name="_Toc534358684"/><text:bookmark-end text:name="_Toc172123744"/><text:span text:style-name="T12"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T27"><text:soft-page-break/><text:span text:style-name="T27">There are two ways of inserting videos into the text:</text:span><text:span text:style-name="T27"/></text:p>
    <text:list text:style-name="WWNum36">
     <text:list-item>
@@ -18544,7 +18544,7 @@
    <text:p text:style-name="P136" loext:marker-style-name="T38"><text:span text:style-name="T38">Here is another video:<text:line-break/></text:span><text:span text:style-name="T65">VIDEO: V2</text:span></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T27"/>
    <text:p text:style-name="P98" loext:marker-style-name="T27"><text:span text:style-name="T27">The </text:span><text:span text:style-name="T64">VIDEO:</text:span><text:span text:style-name="T27"> tag should be at the start of a new paragraph, and include a colon (:) before the video ID.</text:span></text:p>
-   <text:list text:continue-list="list183841881874807" text:style-name="WWNum20">
+   <text:list text:continue-list="list191210772617598" text:style-name="WWNum20">
     <text:list-item>
      <text:p text:style-name="P295" loext:marker-style-name="T27"><text:span text:style-name="T20">Video markers in SFM book files</text:span><text:span text:style-name="T27">: Use the </text:span><text:span text:style-name="T64">\video</text:span><text:span text:style-name="T27"> marker, together with the ID of the video within an SFM book file, e.g.</text:span></text:p>
     </text:list-item>
@@ -18552,7 +18552,7 @@
    <text:p text:style-name="P137" loext:marker-style-name="T38"><text:span text:style-name="T38">\s This is a sub heading<text:line-break/>\p Here is an example video to view:<text:line-break/></text:span><text:span text:style-name="T65">\video V1</text:span><text:span text:style-name="T38"><text:line-break/>\p Here is another video:<text:line-break/></text:span><text:span text:style-name="T65">\video V2</text:span></text:p>
    <text:p text:style-name="P41" loext:marker-style-name="T41"/>
    <text:p text:style-name="P41" loext:marker-style-name="T41"/>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T51"><text:bookmark-start text:name="_Toc172123745"/><text:bookmark-start text:name="_Toc521419253"/><text:span text:style-name="T51">About Page</text:span><text:bookmark-end text:name="_Toc172123745"/><text:bookmark-end text:name="_Toc521419253"/><text:span text:style-name="T51"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T51"><text:bookmark-start text:name="_Toc521419253"/><text:bookmark-start text:name="_Toc172123745"/><text:span text:style-name="T51">About Page</text:span><text:bookmark-end text:name="_Toc521419253"/><text:bookmark-end text:name="_Toc172123745"/><text:span text:style-name="T51"/></text:h>
    <text:p text:style-name="P29" loext:marker-style-name="T27"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T51"><text:span text:style-name="T51">Every app must have an About page, which is displayed to the user when they select </text:span><text:span text:style-name="T56">About</text:span><text:span text:style-name="T51"> from the bottom of the app’s navigation drawer menu.</text:span></text:p>
    <text:p text:style-name="P89" loext:marker-style-name="T51"/>
@@ -18569,7 +18569,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P89" loext:marker-style-name="T51"/>
-   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T12"><text:bookmark-start text:name="_Toc172123746"/><text:bookmark-start text:name="_Toc521419254"/><text:span text:style-name="T12">What information should I include in the About page?</text:span><text:bookmark-end text:name="_Toc172123746"/><text:bookmark-end text:name="_Toc521419254"/><text:span text:style-name="T12"/></text:h>
+   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T12"><text:bookmark-start text:name="_Toc521419254"/><text:bookmark-start text:name="_Toc172123746"/><text:span text:style-name="T12">What information should I include in the About page?</text:span><text:bookmark-end text:name="_Toc521419254"/><text:bookmark-end text:name="_Toc172123746"/><text:span text:style-name="T12"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T51"><text:span text:style-name="T51">The About page can contain any information. What you include is your choice, but commonly included items include:</text:span><text:span text:style-name="T51"/></text:p>
    <text:list text:style-name="WWNum31">
     <text:list-item>
@@ -18592,7 +18592,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P89" loext:marker-style-name="T51"/>
-   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T51"><text:bookmark-start text:name="_Toc172123747"/><text:bookmark-start text:name="_Toc521419255"/><text:span text:style-name="T51">Which formatting codes can I use in the About page?</text:span><text:bookmark-end text:name="_Toc172123747"/><text:bookmark-end text:name="_Toc521419255"/><text:span text:style-name="T51"/></text:h>
+   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T51"><text:bookmark-start text:name="_Toc521419255"/><text:bookmark-start text:name="_Toc172123747"/><text:span text:style-name="T51">Which formatting codes can I use in the About page?</text:span><text:bookmark-end text:name="_Toc521419255"/><text:bookmark-end text:name="_Toc172123747"/><text:span text:style-name="T51"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T51"><text:span text:style-name="T51">You can use the following formatting codes:</text:span><text:span text:style-name="T51"/></text:p>
    <text:p text:style-name="P89" loext:marker-style-name="T51"/>
    <table:table table:name="Table2" table:style-name="Table2">
@@ -18715,7 +18715,7 @@
    </table:table>
    <text:p text:style-name="P89" loext:marker-style-name="T51"/>
    <text:p text:style-name="P89" loext:marker-style-name="T51"/>
-   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T51"><text:bookmark-start text:name="_Toc172123748"/><text:bookmark-start text:name="_Toc521419256"/><text:span text:style-name="T51">Which variables can I use in the About page?</text:span><text:bookmark-end text:name="_Toc172123748"/><text:bookmark-end text:name="_Toc521419256"/><text:span text:style-name="T51"/></text:h>
+   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T51"><text:bookmark-start text:name="_Toc521419256"/><text:bookmark-start text:name="_Toc172123748"/><text:span text:style-name="T51">Which variables can I use in the About page?</text:span><text:bookmark-end text:name="_Toc521419256"/><text:bookmark-end text:name="_Toc172123748"/><text:span text:style-name="T51"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T51"><text:span text:style-name="T51">You can use certain variables on the About page. These are replaced by text in the app. For example, the variable %version-name% will be replaced by the app version number, e.g. “1.2” in the app.</text:span><text:span text:style-name="T51"/></text:p>
    <text:p text:style-name="P89" loext:marker-style-name="T51"/>
    <table:table table:name="Table3" table:style-name="Table3">
@@ -18756,10 +18756,10 @@
    </table:table>
    <text:p text:style-name="P89" loext:marker-style-name="T51"/>
    <text:p text:style-name="P89" loext:marker-style-name="T51"/>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T41"><text:bookmark-start text:name="_Toc172123749"/><text:bookmark-start text:name="_Toc498952700"/><text:span text:style-name="T41">Navigation Drawer</text:span><text:bookmark-end text:name="_Toc172123749"/><text:bookmark-end text:name="_Toc498952700"/><text:span text:style-name="T41"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T41"><text:bookmark-start text:name="_Toc498952700"/><text:bookmark-start text:name="_Toc172123749"/><text:span text:style-name="T41">Navigation Drawer</text:span><text:bookmark-end text:name="_Toc498952700"/><text:bookmark-end text:name="_Toc172123749"/><text:span text:style-name="T41"/></text:h>
    <text:p text:style-name="P122" loext:marker-style-name="T77"/>
    <text:p text:style-name="P88" loext:marker-style-name="T26"><text:span text:style-name="T26">You can customise the image that appears at the top of the navigation drawer. It can be a photo, your organisation’s logo or any relevant graphic design.<text:line-break/><text:line-break/></text:span><text:span text:style-name="T26"/></text:p>
-   <text:p text:style-name="P8" loext:marker-style-name="T26"><draw:custom-shape text:anchor-type="char" draw:z-index="107" draw:name="Shape9" draw:style-name="gr2" draw:text-style-name="P394" svg:width="0.5953in" svg:height="0.3024in" draw:transform="rotate (0.678409480250196) translate (0.0340277777777778in 1.33125in)">
+   <text:p text:style-name="P8" loext:marker-style-name="T26"><draw:custom-shape text:anchor-type="char" draw:z-index="110" draw:name="Shape9" draw:style-name="gr2" draw:text-style-name="P394" svg:width="0.5953in" svg:height="0.3024in" draw:transform="rotate (0.678409480250196) translate (0.0340277777777778in 1.33125in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -18772,7 +18772,7 @@
       <draw:equation draw:name="f7" draw:formula="?f1 -?f6 "/>
       <draw:handle draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600" draw:handle-range-y-minimum="0" draw:handle-range-y-maximum="10800" draw:handle-position="$0 $1"/>
      </draw:enhanced-geometry>
-    </draw:custom-shape><draw:frame text:anchor-type="as-char" draw:z-index="106" draw:name="Shape10" draw:style-name="gr1" draw:text-style-name="P393" svg:width="2.2295in" svg:height="3.9378in">
+    </draw:custom-shape><draw:frame text:anchor-type="as-char" draw:z-index="107" draw:name="Shape10" draw:style-name="gr1" draw:text-style-name="P393" svg:width="2.2295in" svg:height="3.9378in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABDgAAAeACAIAAACkA3BdAAAAA3NCSVQICAjb4U/gAAAgAElE
        QVR4nOy9ebxlR1Uvvtbe59yhu9OZesjUJGEKYQggIkNQePBD5YkP5fHAhyii/p6gIuCAgvrB
@@ -27823,7 +27823,7 @@
       </office:binary-data>
       <text:p/>
      </draw:image>
-    </draw:frame><text:span text:style-name="T26"><text:s text:c="14"/></text:span><draw:frame text:anchor-type="as-char" draw:z-index="105" draw:name="Shape11" draw:style-name="gr1" draw:text-style-name="P393" svg:width="2.2295in" svg:height="3.9378in">
+    </draw:frame><text:span text:style-name="T26"><text:s text:c="14"/></text:span><draw:frame text:anchor-type="as-char" draw:z-index="106" draw:name="Shape11" draw:style-name="gr1" draw:text-style-name="P393" svg:width="2.2295in" svg:height="3.9378in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABDgAAAeACAIAAACkA3BdAAAAA3NCSVQICAjb4U/gAAAgAElE
        QVR4nOy9ebymV1Umutb+vjPVkEqlUlVkTkBISJgSkDkkqCBigzghtDY2w21FuWLT2raKNqBX
@@ -45305,11 +45305,11 @@
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T26"><text:line-break/>Specify a landscape image file on the </text:span><text:span text:style-name="T55">Appearance</text:span> <text:span text:style-name="T61"></text:span> <text:span text:style-name="T19">Graphics</text:span><text:span text:style-name="T26"> </text:span><text:span text:style-name="T61"></text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T13">Navigation Drawer</text:span><text:span text:style-name="T3"> page.</text:span></text:p>
    <text:p text:style-name="P41" loext:marker-style-name="T41"/>
    <text:p text:style-name="P41" loext:marker-style-name="T41"/>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T51"><text:bookmark-start text:name="_Toc172123750"/><text:bookmark-start text:name="_Toc521419262"/><text:span text:style-name="T51">Contents Menu</text:span><text:bookmark-end text:name="_Toc172123750"/><text:bookmark-end text:name="_Toc521419262"/><text:span text:style-name="T51"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T51"><text:bookmark-start text:name="_Toc521419262"/><text:bookmark-start text:name="_Toc172123750"/><text:span text:style-name="T51">Contents Menu</text:span><text:bookmark-end text:name="_Toc521419262"/><text:bookmark-end text:name="_Toc172123750"/><text:span text:style-name="T51"/></text:h>
    <text:p text:style-name="P21" loext:marker-style-name="T12"/>
    <text:p text:style-name="P88" loext:marker-style-name="T12"><text:span text:style-name="T12">When the user launches the app you will normally want to display a contents menu, giving them an easy way to select books in the app. The contents menu contains a list of images and titles.</text:span><text:span text:style-name="T12"/></text:p>
    <text:p text:style-name="P21" loext:marker-style-name="T12"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T12"><draw:frame text:anchor-type="as-char" draw:z-index="104" draw:name="Shape12" draw:style-name="gr1" draw:text-style-name="P393" svg:width="2.3823in" svg:height="4.2224in">
+   <text:p text:style-name="P3" loext:marker-style-name="T12"><draw:frame text:anchor-type="as-char" draw:z-index="105" draw:name="Shape12" draw:style-name="gr1" draw:text-style-name="P393" svg:width="2.3823in" svg:height="4.2224in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABDgAAAeACAIAAACkA3BdAAAAA3NCSVQICAjb4U/gAAAgAElE
        QVR4nOzdd5wb9Z0//mka9a7VrrY3l3XvDQOmGRvTAgQSyIUSksA3B2l35BJSfnfHXQp3SQ6T
@@ -57066,11 +57066,11 @@
      </draw:image>
     </draw:frame></text:p>
    <text:p text:style-name="P22" loext:marker-style-name="T12"/>
-   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T51"><text:bookmark-start text:name="_Toc172123751"/><text:bookmark-start text:name="_Toc521419263"/><text:span text:style-name="T51">How do I create a contents menu?</text:span><text:bookmark-end text:name="_Toc172123751"/><text:bookmark-end text:name="_Toc521419263"/><text:span text:style-name="T51"/></text:h>
+   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T51"><text:bookmark-start text:name="_Toc521419263"/><text:bookmark-start text:name="_Toc172123751"/><text:span text:style-name="T51">How do I create a contents menu?</text:span><text:bookmark-end text:name="_Toc521419263"/><text:bookmark-end text:name="_Toc172123751"/><text:span text:style-name="T51"/></text:h>
    <text:p text:style-name="P131" loext:marker-style-name="T12"><text:span text:style-name="T12">Items can be added automatically to the contents menu when you add books to the app (in the New App or Add Books wizards). </text:span><text:span text:style-name="T12"/></text:p>
    <text:p text:style-name="P22" loext:marker-style-name="T12"/>
    <text:p text:style-name="P131" loext:marker-style-name="T12"><text:span text:style-name="T12">To add items to the contents menu:</text:span><text:span text:style-name="T12"/></text:p>
-   <text:list xml:id="list3816713978" text:style-name="WWNum32">
+   <text:list xml:id="list4158809539" text:style-name="WWNum32">
     <text:list-item>
      <text:p text:style-name="P323" loext:marker-style-name="T12"><text:span text:style-name="T12">Select the </text:span><text:span text:style-name="T55">Navigation</text:span> <text:span text:style-name="T61"></text:span> <text:span text:style-name="T14">Contents Menu</text:span><text:span text:style-name="T12"> page in the Apps tree view on the left of the screen.</text:span></text:p>
     </text:list-item>
@@ -57095,7 +57095,7 @@
      <text:p text:style-name="P325" loext:marker-style-name="T12"><text:span text:style-name="T12">An </text:span><text:span text:style-name="T14">image</text:span><text:span text:style-name="T12"> (optional) – to appear to the left of the title.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list text:continue-list="list3816713978" text:style-name="WWNum32">
+   <text:list text:continue-list="list4158809539" text:style-name="WWNum32">
     <text:list-item>
      <text:p text:style-name="P323" loext:marker-style-name="T12"><text:span text:style-name="T12">You can reorder the items on the screen by selecting rows in the table and dragging up or down.</text:span><text:span text:style-name="T12"/></text:p>
     </text:list-item>
@@ -57108,7 +57108,7 @@
    </text:list>
    <text:p text:style-name="P20" loext:marker-style-name="T12"/>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T12"><draw:frame text:anchor-type="as-char" draw:z-index="100" draw:name="Shape13" draw:style-name="gr1" draw:text-style-name="P393" svg:width="5.9724in" svg:height="4.4169in">
+   <text:p text:style-name="Standard" loext:marker-style-name="T12"><draw:frame text:anchor-type="as-char" draw:z-index="104" draw:name="Shape13" draw:style-name="gr1" draw:text-style-name="P393" svg:width="5.9724in" svg:height="4.4169in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAwIAAAI3CAIAAACnHntFAAAAAXNSR0IArs4c6QAA/8pJREFU
        eF7sXQlgk0X2/3I3vS9aSm+gBaGiXIKC0ooICIqCCqyyuipdWRZWVrqoCLuroougKKj8FzxW
@@ -58664,7 +58664,7 @@
     </draw:frame></text:p>
    <text:p text:style-name="P20" loext:marker-style-name="T12"/>
    <text:p text:style-name="P20" loext:marker-style-name="T12"/>
-   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T51"><text:bookmark-start text:name="_Toc172123752"/><text:bookmark-start text:name="_Toc521419264"/><text:span text:style-name="T51">How do I create additional contents menu screens?</text:span><text:bookmark-end text:name="_Toc172123752"/><text:bookmark-end text:name="_Toc521419264"/><text:span text:style-name="T51"/></text:h>
+   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T51"><text:bookmark-start text:name="_Toc521419264"/><text:bookmark-start text:name="_Toc172123752"/><text:span text:style-name="T51">How do I create additional contents menu screens?</text:span><text:bookmark-end text:name="_Toc521419264"/><text:bookmark-end text:name="_Toc172123752"/><text:span text:style-name="T51"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T12"><text:span text:style-name="T12">In some cases you might want to have multiple contents screens, i.e. you select an item in the first screen and it takes you to a second contents screen. This is especially useful if you have a lot of books that you want to divide into categories.</text:span><text:span text:style-name="T12"/></text:p>
    <text:p text:style-name="P20" loext:marker-style-name="T12"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T12"><text:span text:style-name="T12">To add a contents screen:</text:span><text:span text:style-name="T12"/></text:p>
@@ -58683,7 +58683,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P50"><text:line-break/></text:p>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="_Toc172123753"/><text:bookmark-start text:name="_Toc152684381"/>Radio<text:bookmark-end text:name="_Toc172123753"/><text:bookmark-end text:name="_Toc152684381"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="_Toc152684381"/><text:bookmark-start text:name="_Toc172123753"/>Radio<text:bookmark-end text:name="_Toc152684381"/><text:bookmark-end text:name="_Toc172123753"/></text:h>
    <text:p text:style-name="P127">You can include streaming web radio (internet radio) stations in your app.</text:p>
    <text:p text:style-name="P142">To add a web radio station:</text:p>
    <text:list text:style-name="WWNum52">
@@ -58709,7 +58709,7 @@
    <text:p text:style-name="P45" loext:marker-style-name="T41"/>
    <text:p text:style-name="P88" loext:marker-style-name="T47"><text:span text:style-name="T47">A picture story book is a book with a picture at the top of each page and a few sentences of text underneath. In the app, the picture will stay at the top of the screen and the text will scroll.</text:span><text:span text:style-name="T47"/></text:p>
    <text:p text:style-name="P51" loext:marker-style-name="T47"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T47"><text:soft-page-break/><draw:frame text:anchor-type="as-char" draw:z-index="99" draw:name="Shape14" draw:style-name="gr1" draw:text-style-name="P393" svg:width="2.0835in" svg:height="3.7016in">
+   <text:p text:style-name="P3" loext:marker-style-name="T47"><text:soft-page-break/><draw:frame text:anchor-type="as-char" draw:z-index="101" draw:name="Shape14" draw:style-name="gr1" draw:text-style-name="P393" svg:width="2.0835in" svg:height="3.7016in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAZ8AAALkCAYAAADQ7zgLAAAAAXNSR0IArs4c6QAAAAlwSFlz
        AAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAP+Q
@@ -62771,7 +62771,7 @@
       </office:binary-data>
       <text:p/>
      </draw:image>
-    </draw:frame><text:span text:style-name="T47"><text:s text:c="14"/></text:span><draw:frame text:anchor-type="as-char" draw:z-index="102" draw:name="Shape15" draw:style-name="gr1" draw:text-style-name="P393" svg:width="2.0835in" svg:height="3.6949in">
+    </draw:frame><text:span text:style-name="T47"><text:s text:c="14"/></text:span><draw:frame text:anchor-type="as-char" draw:z-index="100" draw:name="Shape15" draw:style-name="gr1" draw:text-style-name="P393" svg:width="2.0835in" svg:height="3.6949in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAZ8AAALmCAYAAACdJ5kAAAAAAXNSR0IArs4c6QAAAAlwSFlz
        AAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAP+Q
@@ -67322,7 +67322,7 @@
    <text:p text:style-name="Standard" loext:marker-style-name="T47"><text:span text:style-name="T47">Audio-text highlighting works as for other kinds of book, and when the audio reaches the end of a page the app will move to the next page of the story.</text:span><text:span text:style-name="T47"/></text:p>
    <text:p text:style-name="P52" loext:marker-style-name="T47"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T47"><text:span text:style-name="T47">When the device screen is in landscape orientation, the picture will be displayed to take up the whole screen. If you specify a timing file alongside the audio file, each phrase will be displayed as a subtitle over the image.</text:span><text:span text:style-name="T47"/></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T47"><draw:frame text:anchor-type="as-char" draw:z-index="101" draw:name="Shape16" draw:style-name="gr3" draw:text-style-name="P393" svg:width="5.9724in" svg:height="2.8059in">
+   <text:p text:style-name="Standard" loext:marker-style-name="T47"><draw:frame text:anchor-type="as-char" draw:z-index="103" draw:name="Shape16" draw:style-name="gr3" draw:text-style-name="P393" svg:width="5.9724in" svg:height="2.8059in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABKoAAAJWCAYAAAB4YG9LAAAAAXNSR0IArs4c6QAAAAlwSFlz
        AAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAP+Q
@@ -77282,7 +77282,7 @@
       <text:p/>
      </draw:image>
     </draw:frame></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T47"><draw:frame text:anchor-type="as-char" draw:z-index="103" draw:name="Shape17" draw:style-name="gr1" draw:text-style-name="P393" svg:width="5.9724in" svg:height="3.0004in">
+   <text:p text:style-name="Standard" loext:marker-style-name="T47"><draw:frame text:anchor-type="as-char" draw:z-index="102" draw:name="Shape17" draw:style-name="gr1" draw:text-style-name="P393" svg:width="5.9724in" svg:height="3.0004in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABKoAAAJaCAYAAAAPoq8wAAAAAXNSR0IArs4c6QAAAAlwSFlz
        AAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAP+Q
@@ -87254,7 +87254,7 @@
    <text:p text:style-name="P52" loext:marker-style-name="T47"/>
    <text:h text:style-name="P76" text:outline-level="2" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc172123755"/><text:span text:style-name="T3">How do I define a picture story book?</text:span><text:bookmark-end text:name="_Toc172123755"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T22"><text:span text:style-name="T22">Picture story books can be defined in one of three formats:</text:span><text:span text:style-name="T22"/></text:p>
-   <text:list xml:id="list858269446" text:style-name="WWNum10">
+   <text:list xml:id="list3807449326" text:style-name="WWNum10">
     <text:list-item>
      <text:p text:style-name="P328" loext:marker-style-name="T22"><text:span text:style-name="T22">Microsoft Word (.docx) documents,</text:span><text:span text:style-name="T22"/></text:p>
     </text:list-item>
@@ -87267,7 +87267,7 @@
    </text:list>
    <text:p text:style-name="P23" loext:marker-style-name="T22"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T22"><text:soft-page-break/><text:span text:style-name="T22">See </text:span><text:span text:style-name="T22"><text:bookmark-ref text:reference-format="number" text:ref-name="_Ref459720727">12.2</text:bookmark-ref></text:span><text:span text:style-name="T22"><text:s/>and </text:span><text:span text:style-name="T22"><text:bookmark-ref text:reference-format="number" text:ref-name="_Ref459720737">12.3</text:bookmark-ref></text:span><text:span text:style-name="T22"><text:s/>for a description of these formats.<text:line-break/></text:span></text:p>
-   <text:h text:style-name="P76" text:outline-level="2" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc172123756"/><text:bookmark-start text:name="_Ref459720727"/><text:span text:style-name="T3">What do picture story books in Word documents look like?</text:span><text:bookmark-end text:name="_Toc172123756"/><text:bookmark-end text:name="_Ref459720727"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="P76" text:outline-level="2" loext:marker-style-name="T3"><text:bookmark-start text:name="_Ref459720727"/><text:bookmark-start text:name="_Toc172123756"/><text:span text:style-name="T3">What do picture story books in Word documents look like?</text:span><text:bookmark-end text:name="_Ref459720727"/><text:bookmark-end text:name="_Toc172123756"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">To create a Microsoft Word document to define a picture story book:</text:span><text:span text:style-name="T3"/></text:p>
    <text:list text:style-name="WWNum11">
     <text:list-item>
@@ -114132,7 +114132,7 @@
    </text:list>
    <text:p text:style-name="P28" loext:marker-style-name="T26"/>
    <text:p text:style-name="P18" loext:marker-style-name="T3"/>
-   <text:h text:style-name="P76" text:outline-level="2" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc172123757"/><text:bookmark-start text:name="_Ref459720737"/><text:span text:style-name="T3">What do picture story books in SFM format text files look like?</text:span><text:bookmark-end text:name="_Toc172123757"/><text:bookmark-end text:name="_Ref459720737"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="P76" text:outline-level="2" loext:marker-style-name="T3"><text:bookmark-start text:name="_Ref459720737"/><text:bookmark-start text:name="_Toc172123757"/><text:span text:style-name="T3">What do picture story books in SFM format text files look like?</text:span><text:bookmark-end text:name="_Ref459720737"/><text:bookmark-end text:name="_Toc172123757"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="P88" loext:marker-style-name="T22"><text:span text:style-name="T22">They start with an id of your choice:</text:span><text:span text:style-name="T22"/></text:p>
    <text:p text:style-name="P25" loext:marker-style-name="T22"/>
    <text:p text:style-name="P108" loext:marker-style-name="T71"><text:soft-page-break/><text:span text:style-name="T71">\id CHICKEN<text:line-break/></text:span><text:span text:style-name="T71"/></text:p>
@@ -114164,7 +114164,7 @@
    <text:p text:style-name="Standard" loext:marker-style-name="T22"><text:span text:style-name="T3"><text:line-break/></text:span><text:span text:style-name="T22">If you have defined the picture story book as an SFM text file, you need to add the images to Reading App Builder separately. Do this on the </text:span><text:span text:style-name="T16">Media</text:span><text:span text:style-name="T22"> </text:span><text:span text:style-name="T61"></text:span><text:span text:style-name="T22"> </text:span><text:span text:style-name="T16">Illustrations</text:span><text:span text:style-name="T22"> page. You can use either PNG or JPG files. Try and make them as small as possible without compromising image quality. This will keep your app size small and reduce page load time.</text:span></text:p>
    <text:p text:style-name="P23" loext:marker-style-name="T22"/>
    <text:p text:style-name="P17" loext:marker-style-name="T3"/>
-   <text:h text:style-name="P133" text:outline-level="2"><text:bookmark-start text:name="_Toc172123759"/><text:bookmark-start text:name="_Toc459719490"/>How can I get the pictures to move when the audio is playing?<text:bookmark-end text:name="_Toc172123759"/><text:bookmark-end text:name="_Toc459719490"/></text:h>
+   <text:h text:style-name="P133" text:outline-level="2"><text:bookmark-start text:name="_Toc459719490"/><text:bookmark-start text:name="_Toc172123759"/>How can I get the pictures to move when the audio is playing?<text:bookmark-end text:name="_Toc459719490"/><text:bookmark-end text:name="_Toc172123759"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">You can add pan and zoom effects to the images when the audio is playing. To specify the motion:</text:span><text:span text:style-name="T3"/></text:p>
    <text:list text:style-name="WWNum22">
     <text:list-item>
@@ -118417,7 +118417,7 @@
    <text:p text:style-name="Standard" loext:marker-style-name="T88"><text:span text:style-name="T88"><text:line-break/></text:span><text:span text:style-name="T88"/></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T22"><text:soft-page-break/><text:span text:style-name="T22">To help with the creation of the timing files, generate phrase lists on the </text:span><text:span text:style-name="T16">Audio Synchronization</text:span><text:span text:style-name="T22"> page for the book, or use </text:span><text:span text:style-name="T17">aeneas</text:span><text:span text:style-name="T22"> to automate the synchronization process.</text:span></text:p>
    <text:p text:style-name="P23" loext:marker-style-name="T22"/>
-   <text:h text:style-name="P133" text:outline-level="2"><text:bookmark-start text:name="_Toc172123762"/><text:bookmark-start text:name="_Toc459719493"/>How can I add background music when the audio is playing?<text:bookmark-end text:name="_Toc172123762"/><text:bookmark-end text:name="_Toc459719493"/></text:h>
+   <text:h text:style-name="P133" text:outline-level="2"><text:bookmark-start text:name="_Toc459719493"/><text:bookmark-start text:name="_Toc172123762"/>How can I add background music when the audio is playing?<text:bookmark-end text:name="_Toc459719493"/><text:bookmark-end text:name="_Toc172123762"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T41"><text:span text:style-name="T41">You can add background music and sound effects behind the audio narration track. To do this:</text:span><text:span text:style-name="T41"/></text:p>
    <text:list text:style-name="WWNum23">
     <text:list-item>
@@ -121448,14 +121448,14 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P23" loext:marker-style-name="T22"/>
-   <text:h text:style-name="P133" text:outline-level="2"><text:bookmark-start text:name="_Toc172123763"/><text:bookmark-start text:name="_Toc459719495"/>How can I record the audio files?<text:bookmark-end text:name="_Toc172123763"/><text:bookmark-end text:name="_Toc459719495"/></text:h>
+   <text:h text:style-name="P133" text:outline-level="2"><text:bookmark-start text:name="_Toc459719495"/><text:bookmark-start text:name="_Toc172123763"/>How can I record the audio files?<text:bookmark-end text:name="_Toc459719495"/><text:bookmark-end text:name="_Toc172123763"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T22">Use your favourite sound recording software, such as Audacity. You&apos;ll need to decide how fast or slow you want the reader to read. In some contexts, it might be good for picture story books to be read fairly slowly.</text:span><text:span text:style-name="T22"/></text:p>
    <text:p text:style-name="P41" loext:marker-style-name="T41"/>
    <text:p text:style-name="P41" loext:marker-style-name="T41"><text:soft-page-break/></text:p>
    <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T41"><text:bookmark-start text:name="_Toc172123764"/><text:span text:style-name="T41">Song Books</text:span><text:bookmark-end text:name="_Toc172123764"/><text:span text:style-name="T41"/></text:h>
    <text:h text:style-name="P76" text:outline-level="2" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc172123765"/><text:span text:style-name="T3">How do I define a song book?</text:span><text:bookmark-end text:name="_Toc172123765"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T41"><text:span text:style-name="T41">You can build a song book app, with one song per &apos;chapter&apos;. </text:span><text:span text:style-name="T22">Song books are defined in one of two formats:</text:span></text:p>
-   <text:list text:continue-list="list858269446" text:style-name="WWNum10">
+   <text:list text:continue-list="list3807449326" text:style-name="WWNum10">
     <text:list-item>
      <text:p text:style-name="P328" loext:marker-style-name="T22"><text:span text:style-name="T22">Microsoft Word (.docx) documents, or</text:span><text:span text:style-name="T22"/></text:p>
     </text:list-item>
@@ -121468,7 +121468,7 @@
    <text:p text:style-name="P23" loext:marker-style-name="T22"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T41"><text:span text:style-name="T41">Audio can be added with audio-text synchronization so that each line of the song is highlighted as it is sung.</text:span><text:span text:style-name="T41"/></text:p>
    <text:p text:style-name="P23" loext:marker-style-name="T22"/>
-   <text:h text:style-name="P130" text:outline-level="2" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc172123766"/><text:bookmark-start text:name="_Ref459720750"/><text:span text:style-name="T3">What do song books in Word documents look like?</text:span><text:bookmark-end text:name="_Toc172123766"/><text:bookmark-end text:name="_Ref459720750"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="P130" text:outline-level="2" loext:marker-style-name="T3"><text:bookmark-start text:name="_Ref459720750"/><text:bookmark-start text:name="_Toc172123766"/><text:span text:style-name="T3">What do song books in Word documents look like?</text:span><text:bookmark-end text:name="_Ref459720750"/><text:bookmark-end text:name="_Toc172123766"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="P131" loext:marker-style-name="T3"><text:span text:style-name="T3">To create a Microsoft Word document to define a song book:</text:span><text:span text:style-name="T3"/></text:p>
    <text:list text:style-name="WWNum14">
     <text:list-item>
@@ -166124,7 +166124,7 @@
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
-   <text:list xml:id="list183842217911971" text:continue-numbering="true" text:style-name="WWNum14">
+   <text:list xml:id="list191210960434262" text:continue-numbering="true" text:style-name="WWNum14">
     <text:list-item>
      <text:p text:style-name="P342" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Create the following paragraph styles:</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
@@ -166486,7 +166486,7 @@
    </text:list>
    <text:p text:style-name="P86" loext:marker-style-name="T3"><text:span text:style-name="T3">Do this for c, s, q1 and q2.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P33" loext:marker-style-name="T3"/>
-   <text:list xml:id="list183842625765652" text:continue-list="list183842217911971" text:style-name="WWNum14">
+   <text:list xml:id="list191210502599394" text:continue-list="list191210960434262" text:style-name="WWNum14">
     <text:list-item>
      <text:p text:style-name="P343" loext:marker-style-name="T3"><text:span text:style-name="T3">Apply the above styles to all the chapter numbers, song titles and the lines of the song lyrics. </text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
@@ -166801,7 +166801,7 @@
       <draw:equation draw:name="f7" draw:formula="?f1 -?f6 "/>
       <draw:handle draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600" draw:handle-range-y-minimum="0" draw:handle-range-y-maximum="10800" draw:handle-position="$0 $1"/>
      </draw:enhanced-geometry>
-    </draw:custom-shape><draw:frame draw:style-name="fr3" draw:name="Frame4" text:anchor-type="char" svg:x="-0.2252in" svg:y="2.289in" svg:width="1.1925in" draw:z-index="97">
+    </draw:custom-shape><draw:frame draw:style-name="fr3" draw:name="Frame4" text:anchor-type="char" svg:x="-0.2252in" svg:y="2.289in" svg:width="1.1925in" draw:z-index="99">
      <draw:text-box fo:min-height="0.3134in">
       <text:p text:style-name="Frame_20_contents"><text:span text:style-name="T41">Apply</text:span> style ‘c’</text:p>
      </draw:text-box>
@@ -211460,14 +211460,14 @@
    <text:p text:style-name="P101" loext:marker-style-name="T3"><text:span text:style-name="T3">Tip: The F4 key can be useful as you apply the styles to repeat your previous action.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P53" loext:marker-style-name="T41"/>
    <text:p text:style-name="P107" loext:marker-style-name="T41"><text:span text:style-name="T41">All of the songs are contained within a single Word document.</text:span><text:span text:style-name="T41"/></text:p>
-   <text:list text:continue-list="list183842625765652" text:style-name="WWNum14">
+   <text:list text:continue-list="list191210502599394" text:style-name="WWNum14">
     <text:list-item>
      <text:p text:style-name="P343" loext:marker-style-name="T3"><text:span text:style-name="T3">Save the document in </text:span><text:span text:style-name="T13">.docx</text:span><text:span text:style-name="T3"> format.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P17" loext:marker-style-name="T3"/>
    <text:p text:style-name="P17" loext:marker-style-name="T3"/>
-   <text:h text:style-name="P76" text:outline-level="2" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc172123767"/><text:bookmark-start text:name="_Ref459720759"/><text:span text:style-name="T3">What do song books in SFM format text files look like?</text:span><text:bookmark-end text:name="_Toc172123767"/><text:bookmark-end text:name="_Ref459720759"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="P76" text:outline-level="2" loext:marker-style-name="T3"><text:bookmark-start text:name="_Ref459720759"/><text:bookmark-start text:name="_Toc172123767"/><text:span text:style-name="T3">What do song books in SFM format text files look like?</text:span><text:bookmark-end text:name="_Ref459720759"/><text:bookmark-end text:name="_Toc172123767"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="P88" loext:marker-style-name="T22"><text:span text:style-name="T22">They start with an id of your choice:</text:span><text:span text:style-name="T22"/></text:p>
    <text:p text:style-name="P25" loext:marker-style-name="T22"/>
    <text:p text:style-name="P108" loext:marker-style-name="T72"><text:span text:style-name="T72">\id SONGS<text:line-break/></text:span><text:span text:style-name="T72"/></text:p>
@@ -211558,12 +211558,12 @@
    <text:p text:style-name="Standard" loext:marker-style-name="T22"><text:span text:style-name="T22">Automated synchronization is unlikely to work for songs, so you will need to use the manual tagging method using Audacity and Timing Labels Assistant. Please see the document </text:span><text:span text:style-name="T6">Using Audacity for Audio Text Synchronization</text:span><text:span text:style-name="T22"> for instructions.</text:span></text:p>
    <text:p text:style-name="P119" loext:marker-style-name="T73"/>
    <text:p text:style-name="P119" loext:marker-style-name="T73"><text:soft-page-break/></text:p>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T41"><text:bookmark-start text:name="_Toc172123769"/><text:bookmark-start text:name="_Toc468107005"/><text:span text:style-name="T41">Sharing Apps</text:span><text:bookmark-end text:name="_Toc172123769"/><text:bookmark-end text:name="_Toc468107005"/><text:span text:style-name="T41"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T41"><text:bookmark-start text:name="_Toc468107005"/><text:bookmark-start text:name="_Toc172123769"/><text:span text:style-name="T41">Sharing Apps</text:span><text:bookmark-end text:name="_Toc468107005"/><text:bookmark-end text:name="_Toc172123769"/><text:span text:style-name="T41"/></text:h>
    <text:p text:style-name="P25" loext:marker-style-name="T22"/>
    <text:p text:style-name="P88" loext:marker-style-name="T3"><text:span text:style-name="T22">A </text:span><text:span text:style-name="T16">Share App</text:span><text:span text:style-name="T22"> item can be added to the app navigation drawer to enable users to share the app with others. You can configure this on the </text:span><text:span text:style-name="T16">Navigation</text:span><text:span text:style-name="T22"> </text:span><text:span text:style-name="T61"></text:span> <text:span text:style-name="T16">Navigation Drawer</text:span><text:span text:style-name="T22"> </text:span><text:span text:style-name="T61"></text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T13">Sharing</text:span><text:span text:style-name="T3"> page.</text:span></text:p>
    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T22"><draw:custom-shape text:anchor-type="char" draw:z-index="98" draw:name="Shape30" draw:style-name="gr2" draw:text-style-name="P394" svg:width="0.5953in" svg:height="0.3024in" draw:transform="rotate (0.662876049907446) translate (0.232638888888889in 2.64861111111111in)">
+   <text:p text:style-name="P3" loext:marker-style-name="T22"><draw:custom-shape text:anchor-type="char" draw:z-index="99" draw:name="Shape30" draw:style-name="gr2" draw:text-style-name="P394" svg:width="0.5953in" svg:height="0.3024in" draw:transform="rotate (0.662876049907446) translate (0.232638888888889in 2.64861111111111in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -223975,7 +223975,7 @@
    <text:p text:style-name="P119" loext:marker-style-name="T73"/>
    <text:p text:style-name="P119" loext:marker-style-name="T73"/>
    <text:p text:style-name="P119" loext:marker-style-name="T73"/>
-   <text:h text:style-name="P151" text:outline-level="1" loext:marker-style-name="T53"><text:bookmark-start text:name="_Toc172123770"/><text:bookmark-start text:name="_Toc15890614"/><text:span text:style-name="T53">Deep Linking</text:span><text:bookmark-end text:name="_Toc172123770"/><text:bookmark-end text:name="_Toc15890614"/><text:span text:style-name="T53"/></text:h>
+   <text:h text:style-name="P151" text:outline-level="1" loext:marker-style-name="T53"><text:bookmark-start text:name="_Toc15890614"/><text:bookmark-start text:name="_Toc172123770"/><text:span text:style-name="T53">Deep Linking</text:span><text:bookmark-end text:name="_Toc15890614"/><text:bookmark-end text:name="_Toc172123770"/><text:span text:style-name="T53"/></text:h>
    <text:p text:style-name="P152" loext:marker-style-name="T60"/>
    <text:p text:style-name="P88" loext:marker-style-name="T54"><text:span text:style-name="T54">Deep Linking allows you to direct people to specific pages within the app, using a link on a website, in a messaging app, social media or email.</text:span><text:span text:style-name="T54"/></text:p>
    <text:p text:style-name="P155" loext:marker-style-name="T54"><text:soft-page-break/></text:p>
@@ -223988,7 +223988,7 @@
    <text:p text:style-name="P156" loext:marker-style-name="T54"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T54"><text:span text:style-name="T54">If you share one of these links with a friend on WhatsApp, Facebook or email, and they tap on the link on their smartphone, the app (if already installed) will open and go directly to story book 2.</text:span><text:span text:style-name="T54"/></text:p>
    <text:p text:style-name="P153" loext:marker-style-name="T60"/>
-   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T53"><text:bookmark-start text:name="_Toc172123771"/><text:bookmark-start text:name="_Toc15890615"/><text:span text:style-name="T53">Setting up Deep Linking</text:span><text:bookmark-end text:name="_Toc172123771"/><text:bookmark-end text:name="_Toc15890615"/><text:span text:style-name="T53"/></text:h>
+   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T53"><text:bookmark-start text:name="_Toc15890615"/><text:bookmark-start text:name="_Toc172123771"/><text:span text:style-name="T53">Setting up Deep Linking</text:span><text:bookmark-end text:name="_Toc15890615"/><text:bookmark-end text:name="_Toc172123771"/><text:span text:style-name="T53"/></text:h>
    <text:p text:style-name="P158" loext:marker-style-name="T54"><text:span text:style-name="T54">To set up deep linking in your app:</text:span><text:span text:style-name="T54"/></text:p>
    <text:list text:style-name="WWNum39">
     <text:list-item>
@@ -224027,7 +224027,7 @@
    <text:p text:style-name="P162" loext:marker-style-name="T54"><text:span text:style-name="T54">http://www.literacy-tanzania.org/</text:span><text:span text:style-name="T54"/></text:p>
    <text:p text:style-name="P162" loext:marker-style-name="T54"><text:span text:style-name="T54">https://wycliffe.org/mexico/huichol/stories/</text:span><text:span text:style-name="T54"/></text:p>
    <text:p text:style-name="P156" loext:marker-style-name="T54"/>
-   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T53"><text:bookmark-start text:name="_Toc172123772"/><text:bookmark-start text:name="_Toc15890616"/><text:span text:style-name="T53">Creating Deep Links</text:span><text:bookmark-end text:name="_Toc172123772"/><text:bookmark-end text:name="_Toc15890616"/><text:span text:style-name="T53"/></text:h>
+   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T53"><text:bookmark-start text:name="_Toc15890616"/><text:bookmark-start text:name="_Toc172123772"/><text:span text:style-name="T53">Creating Deep Links</text:span><text:bookmark-end text:name="_Toc15890616"/><text:bookmark-end text:name="_Toc172123772"/><text:span text:style-name="T53"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T54"><text:span text:style-name="T54">This section explains how you create deep links to content in the app. We will look at how to specify book references (books, chapters), and how to turn the audio toolbar on when the app opens.</text:span><text:span text:style-name="T54"/></text:p>
    <text:p text:style-name="P156" loext:marker-style-name="T54"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T33"><text:span text:style-name="T33">Specifying book references in a deep link</text:span><text:span text:style-name="T33"/></text:p>
@@ -224063,7 +224063,7 @@
    <text:p text:style-name="P162" loext:marker-style-name="T85"><text:span text:style-name="T54">https://mamara.org/stories?ref=B003.2</text:span><text:span text:style-name="T85">&amp;audio=1</text:span></text:p>
    <text:p text:style-name="P156" loext:marker-style-name="T54"/>
    <text:p text:style-name="P156" loext:marker-style-name="T54"/>
-   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T53"><text:bookmark-start text:name="_Toc172123773"/><text:bookmark-start text:name="_Toc15890617"/><text:span text:style-name="T53">Deferred Deep Linking</text:span><text:bookmark-end text:name="_Toc172123773"/><text:bookmark-end text:name="_Toc15890617"/><text:span text:style-name="T53"/></text:h>
+   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T53"><text:bookmark-start text:name="_Toc15890617"/><text:bookmark-start text:name="_Toc172123773"/><text:span text:style-name="T53">Deferred Deep Linking</text:span><text:bookmark-end text:name="_Toc15890617"/><text:bookmark-end text:name="_Toc172123773"/><text:span text:style-name="T53"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T54"><text:span text:style-name="T54">The deep links described above will only work if the user already has the app installed. If they do not have the app, when they tap on the link, their device will not recognise it and an error message will appear.</text:span><text:span text:style-name="T54"/></text:p>
    <text:p text:style-name="P138" loext:marker-style-name="T29"><text:span text:style-name="T29">Branch (branch.io) provides a way of handling </text:span><text:span text:style-name="T21">deferred deep links</text:span><text:span text:style-name="T29">. If a user taps on a link to the app but does not have the app installed yet, the link will first redirect the user to the app store to download the app. Then after the app is installed and launched for the first time, the user will be taken to the deep link page.</text:span></text:p>
    <text:p text:style-name="P156" loext:marker-style-name="T54"/>
@@ -224194,7 +224194,7 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P167" text:outline-level="2" loext:marker-style-name="T12"><text:bookmark-start text:name="_Toc172123775"/><text:bookmark-start text:name="_Toc15985863"/><text:span text:style-name="T12">Firebase Analytics</text:span><text:bookmark-end text:name="_Toc172123775"/><text:bookmark-end text:name="_Toc15985863"/><text:span text:style-name="T12"/></text:h>
+   <text:h text:style-name="P167" text:outline-level="2" loext:marker-style-name="T12"><text:bookmark-start text:name="_Toc15985863"/><text:bookmark-start text:name="_Toc172123775"/><text:span text:style-name="T12">Firebase Analytics</text:span><text:bookmark-end text:name="_Toc15985863"/><text:bookmark-end text:name="_Toc172123775"/><text:span text:style-name="T12"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T12"><text:span text:style-name="T12">To sign up for Firebase Analytics, ensure you have a Google account. </text:span><text:span text:style-name="T12"/></text:p>
    <text:p text:style-name="P20" loext:marker-style-name="T12"/>
    <text:p text:style-name="P168" loext:marker-style-name="T12"><text:soft-page-break/><text:span text:style-name="T12">You will need to:</text:span><text:span text:style-name="T12"/></text:p>
@@ -224813,7 +224813,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P89" loext:marker-style-name="T51"/>
-   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T51"><text:bookmark-start text:name="_Toc172123776"/><text:bookmark-start text:name="_Toc508699627"/><text:soft-page-break/><text:span text:style-name="T51">Amplitude Analytics</text:span><text:bookmark-end text:name="_Toc172123776"/><text:bookmark-end text:name="_Toc508699627"/><text:span text:style-name="T51"/></text:h>
+   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T51"><text:bookmark-start text:name="_Toc508699627"/><text:bookmark-start text:name="_Toc172123776"/><text:soft-page-break/><text:span text:style-name="T51">Amplitude Analytics</text:span><text:bookmark-end text:name="_Toc508699627"/><text:bookmark-end text:name="_Toc172123776"/><text:span text:style-name="T51"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T51"><text:span text:style-name="T51">To use Amplitude analytics, you will need to create an account. Go to:</text:span><text:span text:style-name="T51"/></text:p>
    <text:p text:style-name="P146" loext:marker-style-name="T51"><text:a xlink:type="simple" xlink:href="https://amplitude.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T51">https://amplitude.com</text:span></text:span></text:a><text:span text:style-name="T51"/></text:p>
    <text:p text:style-name="P89" loext:marker-style-name="T51"/>
@@ -224836,7 +224836,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P154" loext:marker-style-name="T56"/>
-   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T51"><text:bookmark-start text:name="_Toc172123777"/><text:bookmark-start text:name="_Toc508699629"/><text:span text:style-name="T51">S3 Digest Analytics</text:span><text:bookmark-end text:name="_Toc172123777"/><text:bookmark-end text:name="_Toc508699629"/><text:span text:style-name="T51"/></text:h>
+   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T51"><text:bookmark-start text:name="_Toc508699629"/><text:bookmark-start text:name="_Toc172123777"/><text:span text:style-name="T51">S3 Digest Analytics</text:span><text:bookmark-end text:name="_Toc508699629"/><text:bookmark-end text:name="_Toc172123777"/><text:span text:style-name="T51"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T51"><text:span text:style-name="T51">To use S3 Digest Analytics, ensure you have admin permissions to an Amazon AWS account, and go to:</text:span><text:span text:style-name="T51"/></text:p>
    <text:p text:style-name="P106" loext:marker-style-name="T51"><text:a xlink:type="simple" xlink:href="https://aws.amazon.com/console/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T51">https://aws.amazon.com/console/</text:span></text:span></text:a><text:span text:style-name="T51"/></text:p>
    <text:p text:style-name="P89" loext:marker-style-name="T51"/>
@@ -224904,7 +224904,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P97" loext:marker-style-name="T51"><text:soft-page-break/></text:p>
-   <text:h text:style-name="P133" text:outline-level="2"><text:bookmark-start text:name="_Toc172123778"/><text:bookmark-start text:name="_Toc508644267"/>Data Payload for S3 Digest Analytics<text:bookmark-end text:name="_Toc172123778"/><text:bookmark-end text:name="_Toc508644267"/></text:h>
+   <text:h text:style-name="P133" text:outline-level="2"><text:bookmark-start text:name="_Toc508644267"/><text:bookmark-start text:name="_Toc172123778"/>Data Payload for S3 Digest Analytics<text:bookmark-end text:name="_Toc508644267"/><text:bookmark-end text:name="_Toc172123778"/></text:h>
    <text:p text:style-name="Standard">S3 Digest Analytics will <text:span text:style-name="T90">send a small daily digest </text:span>(about 300 bytes for each day the app is used)<text:span text:style-name="T59"> </text:span><text:span text:style-name="T90">of compressed, completely anonymous data</text:span> (no personal, phone, or GPS location information) <text:span text:style-name="T90">via an encrypted transport</text:span> (https) <text:span text:style-name="T90">to an Amazon data center, when the device is connected to the Internet </text:span>(via cell or WIFI)<text:span text:style-name="T90"> while the app is running.</text:span> You are responsible for hosting the Amazon S3 Bucket and processing the received data. </text:p>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard">Files are uploaded to the S3 Bucket and in a sub-folder based on the format (e.g. the current format is f1) and stored with a unique filename using a randomly generated <text:a xlink:type="simple" xlink:href="https://en.wikipedia.org/wiki/Universally_unique_identifier" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">GUID</text:span></text:a> as the basename. We are working to package a Splunk configuration so that you can deploy your own server to analyze the data.</text:p>
@@ -224932,7 +224932,7 @@
    </text:list>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="P119" loext:marker-style-name="T73"/>
-   <text:h text:style-name="P151" text:outline-level="1"><text:bookmark-start text:name="_Toc172123779"/><text:bookmark-start text:name="_Hlk16004026"/><text:bookmark-start text:name="_Toc15985870"/><text:soft-page-break/>Registration Screen<text:bookmark-end text:name="_Toc172123779"/><text:bookmark-end text:name="_Toc15985870"/></text:h>
+   <text:h text:style-name="P151" text:outline-level="1"><text:bookmark-start text:name="_Toc15985870"/><text:bookmark-start text:name="_Hlk16004026"/><text:bookmark-start text:name="_Toc172123779"/><text:soft-page-break/>Registration Screen<text:bookmark-end text:name="_Toc15985870"/><text:bookmark-end text:name="_Toc172123779"/></text:h>
    <text:p text:style-name="P88"/>
    <text:p text:style-name="P88" loext:marker-style-name="T3"><text:span text:style-name="T3">You can define a registration screen to be shown when a user launches the app for the first time. This allows you to collect contact information, for example to connect people with reading groups.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
@@ -233659,7 +233659,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P17" loext:marker-style-name="T3"/>
-   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc172123780"/><text:bookmark-start text:name="_Toc15985871"/><text:span text:style-name="T3">Setting up the Registration Screen in Reading App Builder</text:span><text:bookmark-end text:name="_Toc172123780"/><text:bookmark-end text:name="_Toc15985871"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc15985871"/><text:bookmark-start text:name="_Toc172123780"/><text:span text:style-name="T3">Setting up the Registration Screen in Reading App Builder</text:span><text:bookmark-end text:name="_Toc15985871"/><text:bookmark-end text:name="_Toc172123780"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="P80">To set up the registration screen within the app builder:</text:p>
    <text:list text:style-name="WWNum43">
     <text:list-item>
@@ -233709,7 +233709,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P17" loext:marker-style-name="T3"/>
-   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc172123781"/><text:bookmark-start text:name="_Toc15985872"/><text:span text:style-name="T3">Setting up the database in the Google Firebase console</text:span><text:bookmark-end text:name="_Toc172123781"/><text:bookmark-end text:name="_Toc15985872"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="P133" text:outline-level="2" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc15985872"/><text:bookmark-start text:name="_Toc172123781"/><text:span text:style-name="T3">Setting up the database in the Google Firebase console</text:span><text:bookmark-end text:name="_Toc15985872"/><text:bookmark-end text:name="_Toc172123781"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="P80" loext:marker-style-name="T3"><text:span text:style-name="T3">To set up the database, which will contain the registered users’ information, you need to add Firebase to your app, create a database, set up authentication and configure rules.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P172" loext:marker-style-name="T9"><text:span text:style-name="T9">Add Firebase to your app</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">To add Firebase to your app:</text:span><text:span text:style-name="T3"/></text:p>
