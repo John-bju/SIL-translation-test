@@ -3,4 +3,4 @@ api_token_env: CROWDIN_PERSONAL_TOKEN
 
 "files":
   - source:  /docs-en/odt/**/*.odt
-    translation: /docs-fr/%locale%/%file_name%-%two_letters_code%%file_extension%
+    translation: /docs-fr/%locale%/**/%file_name%-%two_letters_code%.%file_extension%
