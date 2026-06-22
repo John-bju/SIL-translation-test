@@ -30,7 +30,7 @@ jobs:
           find docs-en -type f -name "*.fodt" | while read file; do
             echo "Converting $file"
             outdir="$(dirname "$file")"
-            mkdir -p "$outdir"
+            #mkdir -p "$outdir"
             project_dirname="$(basename "$outdir")"
             timeout 60s libreoffice --headless --convert-to odt "$file" --outdir "docs-en/odt/$project_dirname"
           done
@@ -80,11 +80,10 @@ jobs:
         run: |
           find docs-en docs-fr -type f -name "*.fodt" | while read file; do
             echo "Converting $file"
-            #outdir="docs-en/pdf"
             outdir="$(dirname "$file")"
-            mkdir -p "$outdir"
-            echo $outdir
-            timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir "docs-en/pdf"
+            #mkdir -p "$outdir"
+            project_dirname="$(basename "$outdir")"
+            timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir "docs-en/pdf/$project_dirname"
           done
 
       - name: Upload PDFs as artifact
