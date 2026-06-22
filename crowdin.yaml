@@ -1,7 +1,8 @@
 project_id: "903335"
 api_token_env: CROWDIN_PERSONAL_TOKEN
 
+"preserve_hierarchy": true
+
 "files":
   - source:  /docs-en/odt/**/*.odt
-    translation: /docs-fr/%locale%/**/%original_file_name%
-
+    translation: /docs-fr/%locale%/**/%file_name%-%two_letters_code%%file_extension%
