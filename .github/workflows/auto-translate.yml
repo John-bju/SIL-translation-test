@@ -29,9 +29,9 @@ jobs:
         run: |
           find docs-en -type f -name "*.fodt" | while read file; do
             echo "Converting $file"
-            #outdir="$(dirname "$file")"
-            #mkdir -p "$outdir"
-            timeout 60s libreoffice --headless --convert-to odt "$file" --outdir "docs-en/odt"
+            outdir="$(dirname "$file")"
+            mkdir -p "$outdir"
+            timeout 60s libreoffice --headless --convert-to odt "$file" --outdir "$outdir"
           done
 
 
@@ -79,7 +79,6 @@ jobs:
         run: |
           find docs-en docs-fr -type f -name "*.fodt" | while read file; do
             echo "Converting $file"
-            #outdir="$(dirname "$file")"
             outdir="docs-en/pdf"
             mkdir -p "$outdir"
             timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir "$outdir"
