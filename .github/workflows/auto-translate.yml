@@ -91,7 +91,7 @@ jobs:
             echo "Converting $file"
             outdir="$(dirname "$file")"
             project_dirname="$(basename "$outdir")"
-            mkdir -p docs/**/pdf
+            mkdir -p docs/*/pdf
             echo docs/**/*
             echo docs/**
             echo docs/*
