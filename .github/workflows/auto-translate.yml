@@ -85,13 +85,16 @@ jobs:
             timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir "docs-en/pdf/$project_dirname"
           done
 
-      - name: Convert French FODT files to PDF
+      - name: Convert Other Language FODT files to PDF
         run: |
-          find docs-fr -type f -name "*.odt" | while read file; do
+          find docs -type f -name "*.odt" | while read file; do
             echo "Converting $file"
             outdir="$(dirname "$file")"
             project_dirname="$(basename "$outdir")"
-            timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir "docs-en/pdf/$project_dirname"
+            echo $project_dirname
+            echo $file
+            echo $outdir
+            #timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir "docs/pdf/$project_dirname"
           done
 
 
