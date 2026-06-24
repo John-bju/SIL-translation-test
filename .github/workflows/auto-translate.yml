@@ -91,11 +91,8 @@ jobs:
             echo "Converting $file"
             outdir="$(dirname "$file")"
             project_dirname="$(basename "$outdir")"
-            echo $project_dirname
-            echo $file
-            echo $outdir
-            mkdir -p docs/pdf
-            timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir "$outdir"
+            mkdir -p docs/**/pdf
+            timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir "docs/**/pdf/$project_dirname"
           done
 
 
