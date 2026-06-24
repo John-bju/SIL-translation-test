@@ -92,7 +92,7 @@ jobs:
             outdir="$(dirname "$file")"
             project_dirname="$(basename "$outdir")"
             mkdir -p docs/**/pdf
-            timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir "docs/**/pdf/$project_dirname"
+            timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir docs/**/pdf/$project_dirname
           done
 
 
