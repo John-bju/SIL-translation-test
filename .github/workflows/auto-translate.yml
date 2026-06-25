@@ -25,70 +25,71 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y libreoffice
 
 
-      - name: Convert FODT files to ODT
-        run: |
-          find docs-en -type f -name "*.fodt" | while read file; do
-            echo "Converting $file"
-            outdir="$(dirname "$file")"
-            mkdir -p docs-en/odt
-            project_dirname="$(basename "$outdir")"
-            timeout 60s libreoffice --headless --convert-to odt "$file" --outdir "docs-en/odt/$project_dirname"
-          done
+#      - name: Convert FODT files to ODT
+#        run: |
+#          find docs-en -type f -name "*.fodt" | while read file; do
+#            echo "Converting $file"
+#            outdir="$(dirname "$file")"
+#            mkdir -p docs-en/odt
+#            project_dirname="$(basename "$outdir")"
+#            timeout 60s libreoffice --headless --convert-to odt "$file" --outdir "docs-en/odt/$project_dirname"
+#          done
 
 
-      - name: Sync Crowdin files
-        uses: crowdin/github-action@v1
-        with:
-          upload_sources: true
-          upload_translations: false
-          download_translations: true
-          crowdin_branch_name: main
-          localization_branch_name: translations
-        env:
-          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
-          CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
-          GITHUB_TOKEN: ${{ secrets.CROWDIN_GITHUB_TOKEN }}
+#      - name: Sync Crowdin files
+#        uses: crowdin/github-action@v1
+#        with:
+#          upload_sources: true
+#          upload_translations: false
+#          download_translations: true
+#          crowdin_branch_name: main
+#          localization_branch_name: translations
+#        env:
+#          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+#          CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
+#          GITHUB_TOKEN: ${{ secrets.CROWDIN_GITHUB_TOKEN }}
          
-      - name: Create or Update LibreOffice Config
-        run: |
-          # Define the trusted directory
-          cat ~/.config/libreoffice/4/user/registrymodifications.xcu
-          pwd
+#      - name: Create or Update LibreOffice Config
+#        run: |
+#          # Define the trusted directory
+#          cat ~/.config/libreoffice/4/user/registrymodifications.xcu
+#          pwd
           
-          # Create the LibreOffice user profile directory if it doesn't exist
-          mkdir -p ~/.config/libreoffice/4/user/  # Adjust '4' if using a different major version
-          cp -f $GITHUB_WORKSPACE/config/registrymodifications.xcu ~/.config/libreoffice/4/user          
-          cat ~/.config/libreoffice/4/user/registrymodifications.xcu
+#          # Create the LibreOffice user profile directory if it doesn't exist
+#          mkdir -p ~/.config/libreoffice/4/user/  # Adjust '4' if using a different major version
+#          cp -f $GITHUB_WORKSPACE/config/registrymodifications.xcu ~/.config/libreoffice/4/user          
+#          cat ~/.config/libreoffice/4/user/registrymodifications.xcu
 
 
-      - name: Install libreoffice macros
-        run: |
-          mkdir -p ~/.config/libreoffice/4/user/basic/Standard
-          cp macros/Module1.xba ~/.config/libreoffice/4/user/basic/Standard/Module1.xba
-          cp macros/script.xlb ~/.config/libreoffice/4/user/basic/Standard/script.xlb
-
-          
-      - name: Update all FODT file links
-        run: |
-          find docs-en docs-fr -type f -name "*.fodt" | while read file; do
-            echo "Updating links in $file"
-            timeout 60s libreoffice --headless --invisible "macro:///Standard.Module1.SaveAndExitDocument" "$file"
-          done
+#      - name: Install libreoffice macros
+#        run: |
+#          mkdir -p ~/.config/libreoffice/4/user/basic/Standard
+#          cp macros/Module1.xba ~/.config/libreoffice/4/user/basic/Standard/Module1.xba
+#          cp macros/script.xlb ~/.config/libreoffice/4/user/basic/Standard/script.xlb
 
           
-      - name: Convert English FODT files to PDF
-        run: |
-          find docs-en -type f -name "*.fodt" | while read file; do
-            echo "Converting $file"
-            outdir="$(dirname "$file")"
-            project_dirname="$(basename "$outdir")"
-            timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir "docs-en/pdf/$project_dirname"
-          done
+#      - name: Update all FODT file links
+#        run: |
+#          find docs-en docs-fr -type f -name "*.fodt" | while read file; do
+#            echo "Updating links in $file"
+#            timeout 60s libreoffice --headless --invisible "macro:///Standard.Module1.SaveAndExitDocument" "$file"
+#          done
+
+          
+#      - name: Convert English FODT files to PDF
+#        run: |
+#          find docs-en -type f -name "*.fodt" | while read file; do
+#            echo "Converting $file"
+#            outdir="$(dirname "$file")"
+#            project_dirname="$(basename "$outdir")"
+#            timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir "docs-en/pdf/$project_dirname"
+#          done
 
 
       - name: Convert Other Language FODT files to PDF
         run: |
           dirs="$(ls docs/)"
+          echo $dirs
           for dir in $dirs; do
             find docs -type f -name "*.odt" | while read file; do
               #echo "Converting $file"
