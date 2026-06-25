@@ -115,7 +115,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -139,7 +139,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">2522555</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2641120</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">true</config:config-item>
@@ -171,7 +171,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Times New Roman2" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Times New Roman2" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -4251,7 +4251,7 @@
     </text:index-body>
    </text:table-of-content>
    <text:p text:style-name="P19" loext:marker-style-name="T17"/>
-   <text:h text:style-name="P29" text:outline-level="1" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc468106959"/><text:bookmark-start text:name="_Toc129968039"/><text:bookmark-start text:name="_Toc452459025"/><text:span text:style-name="T17">Preparing content for your app</text:span><text:bookmark-end text:name="_Toc468106959"/><text:bookmark-end text:name="_Toc129968039"/><text:bookmark-end text:name="_Toc452459025"/><text:span text:style-name="T17"/></text:h>
+   <text:h text:style-name="P29" text:outline-level="1" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc452459025"/><text:bookmark-start text:name="_Toc129968039"/><text:bookmark-start text:name="_Toc468106959"/><text:span text:style-name="T17">Preparing content for your app</text:span><text:bookmark-end text:name="_Toc452459025"/><text:bookmark-end text:name="_Toc129968039"/><text:bookmark-end text:name="_Toc468106959"/><text:span text:style-name="T17"/></text:h>
    <text:p text:style-name="P35" loext:marker-style-name="T17"><text:span text:style-name="T17">Before you build an app with Keyboard App Builder (KAB), you need:</text:span><text:span text:style-name="T17"/></text:p>
    <text:list text:style-name="WWNum25">
     <text:list-item>
@@ -4259,7 +4259,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P35" loext:marker-style-name="T17"><text:span text:style-name="T17">and optionally:</text:span><text:span text:style-name="T17"/></text:p>
-   <text:list xml:id="list210634631630351" text:continue-numbering="true" text:style-name="WWNum25">
+   <text:list xml:id="list161126129760710" text:continue-numbering="true" text:style-name="WWNum25">
     <text:list-item>
      <text:p text:style-name="P99" loext:marker-style-name="T17"><text:span text:style-name="T17">a </text:span><text:span text:style-name="T19">Keyman lexical model file</text:span><text:span text:style-name="T17"> (.model.kmp), for predictive text and autocorrect.</text:span></text:p>
     </text:list-item>
@@ -4348,7 +4348,7 @@
    <text:p text:style-name="P19" loext:marker-style-name="T17"/>
    <text:p text:style-name="P38" loext:marker-style-name="T17"><text:span text:style-name="T17">Click </text:span><text:span text:style-name="T18">Next</text:span><text:span text:style-name="T17"> to move to the next page.</text:span></text:p>
    <text:p text:style-name="P19" loext:marker-style-name="T17"/>
-   <text:list xml:id="list210635328052481" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list161125855340391" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:p text:style-name="P102" loext:marker-style-name="T17"><text:span text:style-name="T17">On the page of the wizard titled </text:span><text:span text:style-name="T18">Signing</text:span><text:span text:style-name="T17">, you need to specify the keystore and alias to use to sign the app. An app must be signed in this way so that it can installed on an Android device.</text:span></text:p>
     </text:list-item>
@@ -4385,7 +4385,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P19" loext:marker-style-name="T17"/>
-   <text:list text:continue-list="list210635328052481" text:style-name="WWNum4">
+   <text:list text:continue-list="list161125855340391" text:style-name="WWNum4">
     <text:list-item>
      <text:p text:style-name="P102" loext:marker-style-name="T17"><text:span text:style-name="T17">Back on the </text:span><text:span text:style-name="T18">Signing</text:span><text:span text:style-name="T17"> page of the New App wizard, you need to specify the keystore password, select the alias and enter the alias password (just as you entered them in the step above).</text:span></text:p>
     </text:list-item>
@@ -4432,7 +4432,7 @@
    <text:p text:style-name="Standard" loext:marker-style-name="T24"><text:span text:style-name="T24">The next section describes how to copy this APK file to your phone and launch the app.</text:span><text:span text:style-name="T24"/></text:p>
    <text:p text:style-name="P41" loext:marker-style-name="T24"/>
    <text:p text:style-name="P41" loext:marker-style-name="T24"><text:soft-page-break/></text:p>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="_Toc66431885"/><text:bookmark-start text:name="_Toc129968041"/><text:bookmark-start text:name="_Toc66108082"/>Installing the app on your phone<text:bookmark-end text:name="_Toc66431885"/><text:bookmark-end text:name="_Toc129968041"/><text:bookmark-end text:name="_Toc66108082"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="_Toc66108082"/><text:bookmark-start text:name="_Toc129968041"/><text:bookmark-start text:name="_Toc66431885"/>Installing the app on your phone<text:bookmark-end text:name="_Toc66108082"/><text:bookmark-end text:name="_Toc129968041"/><text:bookmark-end text:name="_Toc66431885"/></text:h>
    <text:p text:style-name="P43" loext:marker-style-name="T24"/>
    <text:p text:style-name="P49" loext:marker-style-name="T24"><text:span text:style-name="T24">In the above section, you have seen how to compile an Android app. The result is an APK file, the installation file for an Android app. You now need to copy this APK file to your phone, install it and launch the app.</text:span><text:span text:style-name="T24"/></text:p>
    <text:p text:style-name="P41" loext:marker-style-name="T24"/>
@@ -12073,9 +12073,9 @@
    <text:h text:style-name="P54" text:outline-level="2" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc129968045"/><text:span text:style-name="T17">Can I build apps when I do not have internet access?</text:span><text:bookmark-end text:name="_Toc129968045"/><text:span text:style-name="T17"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">The first time you build an app, you will need to be connected to the internet otherwise the compiler will fail. After that you can set the &apos;offline&apos; version in </text:span><text:span text:style-name="T18">Settings</text:span><text:span text:style-name="T17"> so you can work offline.</text:span></text:p>
    <text:p text:style-name="P19" loext:marker-style-name="T17"/>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc498952700"/><text:bookmark-start text:name="_Toc500152989"/><text:bookmark-start text:name="_Toc129968046"/><text:span text:style-name="T17">Home and Setup Screens</text:span><text:bookmark-end text:name="_Toc129968046"/><text:span text:style-name="T17"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc129968046"/><text:bookmark-start text:name="_Toc500152989"/><text:bookmark-start text:name="_Toc498952700"/><text:span text:style-name="T17">Home and Setup Screens</text:span><text:bookmark-end text:name="_Toc129968046"/><text:span text:style-name="T17"/></text:h>
    <text:p text:style-name="P58" loext:marker-style-name="T17"><text:span text:style-name="T17">There are two main screens in an app built with Keyboard App Builder: </text:span><text:span text:style-name="T17"/></text:p>
-   <text:list text:continue-list="list210634631630351" text:style-name="WWNum25">
+   <text:list text:continue-list="list161126129760710" text:style-name="WWNum25">
     <text:list-item>
      <text:p text:style-name="P98" loext:marker-style-name="T17"><text:span text:style-name="T17">the Home screen, and</text:span><text:span text:style-name="T17"/></text:p>
     </text:list-item>
@@ -44368,7 +44368,7 @@
    <text:p text:style-name="P27" loext:marker-style-name="T17"/>
    <text:p text:style-name="P27" loext:marker-style-name="T17"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">After completing each of the two or three steps, the keyboard is ready to be used in other apps such as WhatsApp, Gmail and Facebook.</text:span><text:span text:style-name="T17"/></text:p>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc129968049"/><text:span text:style-name="T17">Navigation Drawer</text:span><text:bookmark-end text:name="_Toc129968049"/><text:bookmark-end text:name="_Toc498952700"/><text:bookmark-end text:name="_Toc500152989"/><text:span text:style-name="T17"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc129968049"/><text:span text:style-name="T17">Navigation Drawer</text:span><text:bookmark-end text:name="_Toc129968049"/><text:bookmark-end text:name="_Toc500152989"/><text:bookmark-end text:name="_Toc498952700"/><text:span text:style-name="T17"/></text:h>
    <text:p text:style-name="P60" loext:marker-style-name="T31"/>
    <text:p text:style-name="P49" loext:marker-style-name="T11"><text:soft-page-break/><text:span text:style-name="T11">You can customise the image that appears at the top of the navigation drawer. It can be a photo, your organisation’s logo or any relevant graphic design.</text:span><text:span text:style-name="T11"/></text:p>
    <text:p text:style-name="P18" loext:marker-style-name="T11"/>
