@@ -85,15 +85,18 @@ jobs:
             timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir "docs-en/pdf/$project_dirname"
           done
 
+
       - name: Convert Other Language FODT files to PDF
         run: |
-          find docs -type f -name "*.odt" | while read file; do
-            #echo "Converting $file"
-            outdir="$(dirname "$file")"
-            project_dirname="$(basename "$outdir")"
-            timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir docs/*/pdf/$project_dirname
+          dirs="$(ls docs/)"
+          for dir in $dirs; do
+            find docs -type f -name "*.odt" | while read file; do
+              #echo "Converting $file"
+              outdir="$(dirname "$file")"
+              project_dirname="$(basename "$outdir")"
+              timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir docs/dir/pdf/$project_dirname
+            done
           done
-
 
       - name: Upload PDFs as artifact
         uses: actions/upload-artifact@v4
