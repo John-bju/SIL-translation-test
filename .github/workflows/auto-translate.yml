@@ -36,18 +36,18 @@ jobs:
 #          done
 
 
-#      - name: Sync Crowdin files
-#        uses: crowdin/github-action@v1
-#        with:
-#          upload_sources: true
-#          upload_translations: false
-#          download_translations: true
-#          crowdin_branch_name: main
-#          localization_branch_name: translations
-#        env:
-#          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
-#          CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
-#          GITHUB_TOKEN: ${{ secrets.CROWDIN_GITHUB_TOKEN }}
+      - name: Sync Crowdin files
+        uses: crowdin/github-action@v1
+        with:
+          upload_sources: true
+          upload_translations: false
+          download_translations: true
+          crowdin_branch_name: main
+          localization_branch_name: translations
+        env:
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+          CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
+          GITHUB_TOKEN: ${{ secrets.CROWDIN_GITHUB_TOKEN }}
          
 #      - name: Create or Update LibreOffice Config
 #        run: |
