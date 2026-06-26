@@ -49,41 +49,40 @@ jobs:
           CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
           GITHUB_TOKEN: ${{ secrets.CROWDIN_GITHUB_TOKEN }}
          
-      - name: Create or Update LibreOffice Config
-        run: |
-          # Define the trusted directory
-          cat ~/.config/libreoffice/4/user/registrymodifications.xcu
-          pwd
-          
-          # Create the LibreOffice user profile directory if it doesn't exist
-          mkdir -p ~/.config/libreoffice/4/user/  # Adjust '4' if using a different major version
-          cp -f $GITHUB_WORKSPACE/config/registrymodifications.xcu ~/.config/libreoffice/4/user          
-          cat ~/.config/libreoffice/4/user/registrymodifications.xcu
+#      - name: Create or Update LibreOffice Config
+#        run: |
+#          # Define the trusted directory
+#          cat ~/.config/libreoffice/4/user/registrymodifications.xcu
+#          pwd         
+#          # Create the LibreOffice user profile directory if it doesn't exist
+#          mkdir -p ~/.config/libreoffice/4/user/  # Adjust '4' if using a different major version
+#          cp -f $GITHUB_WORKSPACE/config/registrymodifications.xcu ~/.config/libreoffice/4/user          
+#          cat ~/.config/libreoffice/4/user/registrymodifications.xcu
 
 
-      - name: Install libreoffice macros
-        run: |
-          mkdir -p ~/.config/libreoffice/4/user/basic/Standard
-          cp macros/Module1.xba ~/.config/libreoffice/4/user/basic/Standard/Module1.xba
-          cp macros/script.xlb ~/.config/libreoffice/4/user/basic/Standard/script.xlb
-
-          
-      - name: Update all FODT file links
-        run: |
-          find docs-en docs-fr -type f -name "*.fodt" | while read file; do
-            echo "Updating links in $file"
-            timeout 60s libreoffice --headless --invisible "macro:///Standard.Module1.SaveAndExitDocument" "$file"
-          done
+#      - name: Install libreoffice macros
+#        run: |
+#          mkdir -p ~/.config/libreoffice/4/user/basic/Standard
+#          cp macros/Module1.xba ~/.config/libreoffice/4/user/basic/Standard/Module1.xba
+#          cp macros/script.xlb ~/.config/libreoffice/4/user/basic/Standard/script.xlb
 
           
-      - name: Convert English FODT files to PDF
-        run: |
-          find docs-en -type f -name "*.fodt" | while read file; do
-            echo "Converting $file"
-            outdir="$(dirname "$file")"
-            project_dirname="$(basename "$outdir")"
-            timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir "docs-en/pdf/$project_dirname"
-          done
+#      - name: Update all FODT file links
+#        run: |
+#          find docs-en docs-fr -type f -name "*.fodt" | while read file; do
+#            echo "Updating links in $file"
+#            timeout 60s libreoffice --headless --invisible "macro:///Standard.Module1.SaveAndExitDocument" "$file"
+#          done
+
+          
+#      - name: Convert English FODT files to PDF
+#        run: |
+#          find docs-en -type f -name "*.fodt" | while read file; do
+#            echo "Converting $file"
+#            outdir="$(dirname "$file")"
+#            project_dirname="$(basename "$outdir")"
+#            timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir "docs-en/pdf/$project_dirname"
+#          done
 
 
       - name: Convert Other Language FODT files to PDF
@@ -91,18 +90,23 @@ jobs:
           find docs -type f -name "*.odt" | while read file; do
             dirs="$(ls docs/)"
             for dir in $dirs; do
-              echo "Converting $file"
+              #echo "Converting $file"
               outdir="$(dirname "$file")"
               project_dirname="$(basename "$outdir")"
-              timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir docs/$dir/pdf/$project_dirname
+              echo $outdir
+              echo $project_dirname
+              echo $dirs
+              echo $dir
+              echo $file
+              #timeout 60s libreoffice --headless --convert-to pdf "$file" --outdir docs/$dir/pdf/$project_dirname
             done
           done
 
-      - name: Upload PDFs as artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: converted-pdfs
-          path: docs-en/pdf
+#      - name: Upload PDFs as artifact
+#        uses: actions/upload-artifact@v4
+#        with:
+#          name: converted-pdfs
+#          path: docs-en/pdf
 
           
       - name: Commit and push (git)
