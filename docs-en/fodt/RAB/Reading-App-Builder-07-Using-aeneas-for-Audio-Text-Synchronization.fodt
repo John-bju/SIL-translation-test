@@ -115,7 +115,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -139,7 +139,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">2321607</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2325869</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -174,7 +174,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Times New Roman1" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Times New Roman1" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -3226,13 +3226,13 @@
    </style:graphic-properties>
   </style:style>
   <style:style style:name="gr2" style:family="graphic">
-   <style:graphic-properties draw:stroke="solid" svg:stroke-width="0.028in" svg:stroke-color="#3a5f8b" svg:stroke-linecap="butt" draw:fill="solid" draw:fill-color="#ffffff" draw:textarea-vertical-align="top" draw:auto-grow-height="false" fo:min-height="0.3028in" fo:min-width="0in" fo:padding-top="0.0492in" fo:padding-bottom="0.0492in" fo:padding-left="0.0984in" fo:padding-right="0.0984in" fo:wrap-option="wrap" loext:decorative="false" fo:margin-left="0.0209in" fo:margin-right="0.0417in" fo:margin-top="0in" fo:margin-bottom="0.052in" style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:wrap-influence-on-position="once-concurrent" loext:allow-overlap="true" style:flow-with-text="false">
+   <style:graphic-properties draw:stroke="solid" svg:stroke-width="0.028in" svg:stroke-color="#3a5f8b" svg:stroke-linecap="butt" draw:fill="solid" draw:fill-color="#ffffff" draw:textarea-vertical-align="top" draw:auto-grow-height="false" fo:min-height="0.3028in" fo:min-width="0in" fo:padding-top="0.0492in" fo:padding-bottom="0.0492in" fo:padding-left="0.0984in" fo:padding-right="0.0984in" fo:wrap-option="wrap" loext:decorative="false" fo:margin-left="0.1453in" fo:margin-right="0.1453in" fo:margin-top="0in" fo:margin-bottom="0.0311in" style:run-through="foreground" style:wrap="parallel" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="true" style:wrap-contour-mode="full" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:wrap-influence-on-position="once-concurrent" loext:allow-overlap="true" style:flow-with-text="false">
     <loext:stroke-complex-color loext:theme-type="accent1" loext:color-type="theme"/>
     <loext:fill-complex-color loext:theme-type="light1" loext:color-type="theme"/>
    </style:graphic-properties>
   </style:style>
   <style:style style:name="gr3" style:family="graphic">
-   <style:graphic-properties draw:stroke="solid" svg:stroke-width="0.028in" svg:stroke-color="#3a5f8b" svg:stroke-linecap="butt" draw:fill="solid" draw:fill-color="#ffffff" draw:textarea-vertical-align="top" draw:auto-grow-height="false" fo:min-height="0.3028in" fo:min-width="0in" fo:padding-top="0.0492in" fo:padding-bottom="0.0492in" fo:padding-left="0.0984in" fo:padding-right="0.0984in" fo:wrap-option="wrap" loext:decorative="false" fo:margin-left="0.1453in" fo:margin-right="0.1453in" fo:margin-top="0in" fo:margin-bottom="0.0311in" style:run-through="foreground" style:wrap="parallel" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="true" style:wrap-contour-mode="full" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:wrap-influence-on-position="once-concurrent" loext:allow-overlap="true" style:flow-with-text="false">
+   <style:graphic-properties draw:stroke="solid" svg:stroke-width="0.028in" svg:stroke-color="#3a5f8b" svg:stroke-linecap="butt" draw:fill="solid" draw:fill-color="#ffffff" draw:textarea-vertical-align="top" draw:auto-grow-height="false" fo:min-height="0.3028in" fo:min-width="0in" fo:padding-top="0.0492in" fo:padding-bottom="0.0492in" fo:padding-left="0.0984in" fo:padding-right="0.0984in" fo:wrap-option="wrap" loext:decorative="false" fo:margin-left="0.0209in" fo:margin-right="0.0417in" fo:margin-top="0in" fo:margin-bottom="0.052in" style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:wrap-influence-on-position="once-concurrent" loext:allow-overlap="true" style:flow-with-text="false">
     <loext:stroke-complex-color loext:theme-type="accent1" loext:color-type="theme"/>
     <loext:fill-complex-color loext:theme-type="light1" loext:color-type="theme"/>
    </style:graphic-properties>
@@ -6333,7 +6333,7 @@
       </office:binary-data>
      </draw:image>
      <svg:desc>C:\Users\Richard\AppData\Local\Microsoft\Windows\INetCache\Content.Word\org2.png</svg:desc>
-    </draw:frame><draw:frame text:anchor-type="char" draw:z-index="39" draw:name="Shape1" draw:style-name="gr4" draw:text-style-name="P117" svg:width="2.0205in" svg:height="1.063in" svg:x="0.202in" svg:y="0.2035in">
+    </draw:frame><draw:frame text:anchor-type="char" draw:z-index="40" draw:name="Shape1" draw:style-name="gr4" draw:text-style-name="P117" svg:width="2.0205in" svg:height="1.063in" svg:x="0.202in" svg:y="0.2035in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAuwAAACFCAYAAAAARK1HAAAACXBIWXMAAAsTAAALEwEAmpwY
        AAAKT2lDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVNnVFPpFj333vRCS4iAlEtvUhUI
@@ -6758,7 +6758,7 @@
       <text:p/>
      </draw:image>
     </draw:frame></text:p>
-   <text:p text:style-name="P21" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="40" draw:name="Down Arrow 6" draw:style-name="gr3" draw:text-style-name="P116" svg:width="0.3543in" svg:height="0.4898in" svg:x="1.1398in" svg:y="0.998in">
+   <text:p text:style-name="P21" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="42" draw:name="Down Arrow 6" draw:style-name="gr2" draw:text-style-name="P116" svg:width="0.3543in" svg:height="0.4898in" svg:x="1.1398in" svg:y="0.998in">
      <text:p/>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:glue-points="?f7 0 0 ?f5 ?f7 ?f13 ?f14 ?f5" draw:text-areas="?f8 0 ?f9 ?f12" draw:type="ooxml-downArrow" draw:modifiers="50000 50000" draw:enhanced-path="M 0 ?f5 L ?f8 ?f5 ?f8 0 ?f9 0 ?f9 ?f5 ?f14 ?f5 ?f7 ?f13 Z N">
       <draw:equation draw:name="f0" draw:formula="min(logwidth,logheight)"/>
@@ -7202,7 +7202,7 @@
       </office:binary-data>
      </draw:image>
      <svg:desc>C:\Users\Richard\AppData\Local\Microsoft\Windows\INetCache\Content.Word\org2.png</svg:desc>
-    </draw:frame><draw:custom-shape text:anchor-type="char" draw:z-index="38" draw:name="Down Arrow 7" draw:style-name="gr5" draw:text-style-name="P116" svg:width="0.3543in" svg:height="0.4898in" svg:x="2.6484in" svg:y="1.0028in">
+    </draw:frame><draw:custom-shape text:anchor-type="char" draw:z-index="39" draw:name="Down Arrow 7" draw:style-name="gr5" draw:text-style-name="P116" svg:width="0.3543in" svg:height="0.4898in" svg:x="2.6484in" svg:y="1.0028in">
      <text:p/>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:glue-points="?f7 0 0 ?f5 ?f7 ?f13 ?f14 ?f5" draw:text-areas="?f8 0 ?f9 ?f12" draw:type="ooxml-downArrow" draw:modifiers="50000 50000" draw:enhanced-path="M 0 ?f5 L ?f8 ?f5 ?f8 0 ?f9 0 ?f9 ?f5 ?f14 ?f5 ?f7 ?f13 Z N">
       <draw:equation draw:name="f0" draw:formula="min(logwidth,logheight)"/>
@@ -7223,7 +7223,7 @@
       <draw:handle draw:handle-range-x-maximum="100000" draw:handle-range-x-minimum="0" draw:handle-position="?f8 0"/>
       <draw:handle draw:handle-range-y-maximum="?f1" draw:handle-range-y-minimum="0" draw:handle-position="0 ?f5"/>
      </draw:enhanced-geometry>
-    </draw:custom-shape><draw:custom-shape text:anchor-type="char" draw:z-index="42" draw:name="Down Arrow 8" draw:style-name="gr2" draw:text-style-name="P116" svg:width="0.3543in" svg:height="0.4898in" svg:x="4.3854in" svg:y="1.0035in">
+    </draw:custom-shape><draw:custom-shape text:anchor-type="char" draw:z-index="41" draw:name="Down Arrow 8" draw:style-name="gr3" draw:text-style-name="P116" svg:width="0.3543in" svg:height="0.4898in" svg:x="4.3854in" svg:y="1.0035in">
      <text:p/>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:glue-points="?f7 0 0 ?f5 ?f7 ?f13 ?f14 ?f5" draw:text-areas="?f8 0 ?f9 ?f12" draw:type="ooxml-downArrow" draw:modifiers="50000 50000" draw:enhanced-path="M 0 ?f5 L ?f8 ?f5 ?f8 0 ?f9 0 ?f9 ?f5 ?f14 ?f5 ?f7 ?f13 Z N">
       <draw:equation draw:name="f0" draw:formula="min(logwidth,logheight)"/>
@@ -7258,7 +7258,7 @@
       <draw:equation draw:name="f2" draw:formula="logheight"/>
       <draw:equation draw:name="f3" draw:formula="logwidth"/>
      </draw:enhanced-geometry>
-    </draw:custom-shape><draw:frame draw:style-name="fr3" draw:name="Picture 3" text:anchor-type="char" svg:x="0.1709in" svg:y="0.0173in" svg:width="5.8752in" svg:height="1.198in" draw:z-index="44"><draw:image draw:mime-type="image/png">
+    </draw:custom-shape><draw:frame draw:style-name="fr3" draw:name="Picture 3" text:anchor-type="char" svg:x="0.1709in" svg:y="0.0173in" svg:width="5.8752in" svg:height="1.198in" draw:z-index="41"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAArcAAACLCAYAAAB7urGIAAAACXBIWXMAAAsTAAALEwEAmpwY
        AAAKT2lDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVNnVFPpFj333vRCS4iAlEtvUhUI
        IFJCi4AUkSYqIQkQSoghodkVUcERRUUEG8igiAOOjoCMFVEsDIoK2AfkIaKOg6OIisr74Xuj
@@ -8947,7 +8947,7 @@
    <text:p text:style-name="P13" loext:marker-style-name="T3"/>
    <text:p text:style-name="P13" loext:marker-style-name="T3"/>
    <text:p text:style-name="P50" loext:marker-style-name="T3"><text:span text:style-name="T5">Important</text:span><text:span text:style-name="T3">: If Reading App Builder was open while you installed aeneas, close it and start it again to ensure that it picks up the changes to your Path settings.</text:span></text:p>
-   <text:h text:style-name="P51" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc44918738"/><text:bookmark-start text:name="_Toc138058881"/>Linux<text:span text:style-name="T3"> Installation</text:span><text:bookmark-end text:name="_Toc44918738"/><text:bookmark-end text:name="_Toc138058881"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="P51" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc138058881"/><text:bookmark-start text:name="_Toc44918738"/>Linux<text:span text:style-name="T3"> Installation</text:span><text:bookmark-end text:name="_Toc138058881"/><text:bookmark-end text:name="_Toc44918738"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="P15" loext:marker-style-name="T3"/>
    <text:p text:style-name="P46" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">If you are using Ubuntu, the </text:span><text:span text:style-name="T10">aeneas</text:span><text:span text:style-name="T9"> software is a required dependency of Reading App Builder. This means that aeneas is automatically installed or updated along with Reading App Builder and you do not have to install it manually.</text:span></text:p>
    <text:p text:style-name="P11" loext:marker-style-name="T3"/>
@@ -8985,8 +8985,8 @@
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc138058885"/>Viewing and testing the timing files created by aeneas<text:bookmark-end text:name="_Toc138058885"/></text:h>
    <text:p text:style-name="P31" loext:marker-style-name="T3"><text:span text:style-name="T3">To view a generated timing file, select a row on the </text:span><text:span text:style-name="T6">Audio Files</text:span><text:span text:style-name="T3"> page, right-click, and select </text:span><text:span text:style-name="T6">View Timing File</text:span><text:span text:style-name="T3">.</text:span></text:p>
    <text:p text:style-name="P31" loext:marker-style-name="T3"><text:span text:style-name="T3">To test the generated timing files with the text and audio, select a row in the </text:span><text:span text:style-name="T6">Audio Files</text:span><text:span text:style-name="T3"> page, right-click and select </text:span><text:span text:style-name="T6">Export to HTML</text:span><text:span text:style-name="T3">.</text:span></text:p>
-   <text:h text:style-name="P33" text:outline-level="1"><text:bookmark-start text:name="_Toc44918743"/><text:bookmark-start text:name="_Toc138058886"/>Fine Tune Timings<text:bookmark-end text:name="_Toc44918743"/><text:bookmark-end text:name="_Toc138058886"/></text:h>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc44918744"/><text:bookmark-start text:name="_Toc138058887"/>Fine tune timing files using the Fine Tune Timings viewer<text:bookmark-end text:name="_Toc44918744"/><text:bookmark-end text:name="_Toc138058887"/></text:h>
+   <text:h text:style-name="P33" text:outline-level="1"><text:bookmark-start text:name="_Toc138058886"/><text:bookmark-start text:name="_Toc44918743"/>Fine Tune Timings<text:bookmark-end text:name="_Toc138058886"/><text:bookmark-end text:name="_Toc44918743"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc138058887"/><text:bookmark-start text:name="_Toc44918744"/>Fine tune timing files using the Fine Tune Timings viewer<text:bookmark-end text:name="_Toc138058887"/><text:bookmark-end text:name="_Toc44918744"/></text:h>
    <text:p text:style-name="P27" loext:marker-style-name="T3"><text:span text:style-name="T3">To fine tune a generated timing file:</text:span><text:span text:style-name="T3"/></text:p>
    <text:list text:style-name="WWNum23">
     <text:list-item>
@@ -12264,9 +12264,9 @@
    </text:list>
    <text:p text:style-name="P11" loext:marker-style-name="T3"/>
    <text:p text:style-name="P50" loext:marker-style-name="T8"><text:span text:style-name="T5">Important</text:span><text:span text:style-name="T8"><text:line-break/>For security reasons, your browser does not have permission to save the modified timing file in its original location. It will be saved to your default Downloads folder. Reading App Builder can watch this folder for modified files and move them back to your project data folder. Specify the Downloads folder to watch in </text:span><text:span text:style-name="T7">Settings</text:span><text:span text:style-name="T8"> </text:span><text:span text:style-name="T26"></text:span><text:span text:style-name="T8"> </text:span><text:span text:style-name="T7">Files</text:span><text:span text:style-name="T8">. Otherwise, you will need to move the modified files back to your project manually, e.g. using the </text:span><text:span text:style-name="T7">Add Timing Files</text:span><text:span text:style-name="T8"> button.</text:span></text:p>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc44918745"/><text:bookmark-start text:name="_Toc138058888"/>Changing audio speed when doing fine tuning<text:bookmark-end text:name="_Toc44918745"/><text:bookmark-end text:name="_Toc138058888"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc138058888"/><text:bookmark-start text:name="_Toc44918745"/>Changing audio speed when doing fine tuning<text:bookmark-end text:name="_Toc138058888"/><text:bookmark-end text:name="_Toc44918745"/></text:h>
    <text:p text:style-name="P29" loext:marker-style-name="T3"><text:span text:style-name="T3">If the audio is playing too quickly for you to fine tune accurately, you can slow down the playback speed using the speed selector at the bottom of the screen.</text:span><text:span text:style-name="T3"/></text:p>
-   <text:p text:style-name="P29" loext:marker-style-name="T3"><draw:custom-shape text:anchor-type="char" draw:z-index="4" draw:name="AutoShape 13" draw:style-name="gr7" draw:text-style-name="P116" svg:width="1.1161in" svg:height="0.2689in" draw:transform="rotate (2.30662713943571) translate (1.62638888888889in 5.32847222222222in)">
+   <text:p text:style-name="P29" loext:marker-style-name="T3"><draw:custom-shape text:anchor-type="char" draw:z-index="4" draw:name="AutoShape 13" draw:style-name="gr7" draw:text-style-name="P116" svg:width="1.1161in" svg:height="0.2689in" draw:transform="rotate (2.30662713943571) translate (1.62638888888889in 5.32708333333333in)">
      <text:p/>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="true" svg:viewBox="0 0 0 0" draw:glue-points="?f5 0 0 ?f7 ?f5 ?f14 ?f13 ?f7" draw:text-areas="?f12 ?f8 ?f13 ?f9" draw:type="ooxml-leftArrow" draw:modifiers="50000 91667" draw:enhanced-path="M 0 ?f7 L ?f5 0 ?f5 ?f8 ?f13 ?f8 ?f13 ?f9 ?f5 ?f9 ?f5 ?f14 Z N">
       <draw:equation draw:name="f0" draw:formula="min(logwidth,logheight)"/>
@@ -13980,7 +13980,7 @@
     </draw:custom-shape></text:p>
    <text:p text:style-name="P18" loext:marker-style-name="T3"/>
    <text:p text:style-name="P18" loext:marker-style-name="T3"/>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc44918746"/><text:bookmark-start text:name="_Toc138058889"/><text:soft-page-break/>Keyboard shortcuts when doing fine tuning<text:bookmark-end text:name="_Toc44918746"/><text:bookmark-end text:name="_Toc138058889"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc138058889"/><text:bookmark-start text:name="_Toc44918746"/><text:soft-page-break/>Keyboard shortcuts when doing fine tuning<text:bookmark-end text:name="_Toc138058889"/><text:bookmark-end text:name="_Toc44918746"/></text:h>
    <text:p text:style-name="P29" loext:marker-style-name="T3"><text:span text:style-name="T3">The following keyboard shortcuts are available in the Fine Tuning interface:</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P18" loext:marker-style-name="T3"/>
    <table:table table:name="Table1" table:style-name="Table1">
@@ -14069,7 +14069,7 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="P16" loext:marker-style-name="T3"/>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc44918747"/><text:bookmark-start text:name="_Toc138058890"/>Sending Fine Tuning files to others<text:bookmark-end text:name="_Toc44918747"/><text:bookmark-end text:name="_Toc138058890"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc138058890"/><text:bookmark-start text:name="_Toc44918747"/>Sending Fine Tuning files to others<text:bookmark-end text:name="_Toc138058890"/><text:bookmark-end text:name="_Toc44918747"/></text:h>
    <text:p text:style-name="P31" loext:marker-style-name="T3"><text:span text:style-name="T3">If you want to do fine tuning well, it can take a lot of time of concentrated listening. You might have friends and colleagues who are willing to help with this. It is possible to send them the Fine Tuning files to work on without them needing to install Reading App Builder.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P31" loext:marker-style-name="T3"><text:span text:style-name="T3">To do this:</text:span><text:span text:style-name="T3"/></text:p>
    <text:list text:style-name="WWNum32">
