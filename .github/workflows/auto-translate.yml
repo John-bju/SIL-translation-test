@@ -87,9 +87,9 @@ jobs:
 
       - name: Convert Other Language FODT files to PDF
         run: |
-          find docs -type f -name "*.odt" | while read file; do
+          for dir in $dirs; do
             dirs="$(ls docs/)"
-            for dir in $dirs; do
+            find docs -type f -name "*.odt" | while read file; do         
               #echo "Converting $file"
               outdir="$(dirname "$file")"
               project_dirname="$(basename "$outdir")"
