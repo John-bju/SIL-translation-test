@@ -115,7 +115,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -139,7 +139,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3111524</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3237545</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -172,7 +172,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Times New Roman1" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Times New Roman1" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -7989,7 +7989,7 @@ Description automatically generated</svg:desc>
    </table:table>
    <text:p text:style-name="P11" loext:marker-style-name="T3"/>
    <text:p text:style-name="P11" loext:marker-style-name="T3"/>
-   <text:h text:style-name="P31" text:outline-level="2"><text:bookmark-start text:name="_Toc44921079"/><text:bookmark-start text:name="_Toc227140712"/>Install<text:bookmark-end text:name="_Toc44921079"/>ing aeneas for audio-text synchronization<text:bookmark-end text:name="_Toc227140712"/></text:h>
+   <text:h text:style-name="P31" text:outline-level="2"><text:bookmark-start text:name="_Toc227140712"/><text:bookmark-start text:name="_Toc44921079"/>Install<text:bookmark-end text:name="_Toc44921079"/>ing aeneas for audio-text synchronization<text:bookmark-end text:name="_Toc227140712"/></text:h>
    <text:p text:style-name="P55" loext:marker-style-name="T21"><text:span text:style-name="T21">Scripture App Builder uses a tool called </text:span><text:span text:style-name="T24">aeneas</text:span><text:span text:style-name="T21"> to synchronise text and audio.</text:span></text:p>
    <text:p text:style-name="P56" loext:marker-style-name="T21"><text:span text:style-name="T21">To set up </text:span><text:span text:style-name="T23">aeneas</text:span><text:span text:style-name="T21"> on Windows, there are several programs and modules to download and install: FFmpeg, eSpeak, Python and aeneas. These are installed with a single setup program.</text:span></text:p>
    <text:list text:style-name="WWNum9">
@@ -8992,7 +8992,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P17" loext:marker-style-name="T3"/>
    <text:p text:style-name="P60" loext:marker-style-name="T3"><text:span text:style-name="T9">Important</text:span><text:span text:style-name="T3">: If Scripture App Builder was open while you installed aeneas, close it and start it again to ensure that it picks up the changes to your Path settings.</text:span></text:p>
    <text:p text:style-name="P11" loext:marker-style-name="T3"/>
-   <text:h text:style-name="P23" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc227140713"/><text:bookmark-start text:name="OLE_LINK5"/><text:bookmark-start text:name="OLE_LINK2"/><text:bookmark-start text:name="OLE_LINK1"/><text:span text:style-name="T3">Linux Installation</text:span><text:bookmark-end text:name="_Toc227140713"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="P23" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="OLE_LINK1"/><text:bookmark-start text:name="OLE_LINK2"/><text:bookmark-start text:name="OLE_LINK5"/><text:bookmark-start text:name="_Toc227140713"/><text:span text:style-name="T3">Linux Installation</text:span><text:bookmark-end text:name="_Toc227140713"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="P32" loext:marker-style-name="T3"><text:span text:style-name="T3">To run Scripture App Builder on Linux, you need to have 3 components installed on your computer:</text:span><text:span text:style-name="T3"/></text:p>
    <text:list text:style-name="WWNum5">
     <text:list-item>
@@ -9067,14 +9067,14 @@ Description automatically generated</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Command_20_Line" loext:marker-style-name="T33"><text:span text:style-name="T33">(. /etc/os-release &amp;&amp; sudo tee /etc/apt/sources.list.d/packages-sil-org.list&gt;/dev/null &lt;&lt;&lt; &quot;deb http://packages.sil.org/$ID $VERSION_CODENAME main&quot;)</text:span><text:span text:style-name="T33"/></text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="_Toc227140717"/>Installing all packages from the Internet<text:bookmark-end text:name="_Toc227140717"/><text:bookmark text:name="OLE_LINK10"/><text:bookmark text:name="OLE_LINK9"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="_Toc227140717"/>Installing all packages from the Internet<text:bookmark-end text:name="_Toc227140717"/><text:bookmark text:name="OLE_LINK9"/><text:bookmark text:name="OLE_LINK10"/></text:h>
    <text:p text:style-name="P61" loext:marker-style-name="T3"><text:span text:style-name="T3">To install all the required software from the command line, type:</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P62">sudo apt-get update</text:p>
    <text:p text:style-name="Command_20_Line">sudo apt-get install -y scripture-app-builder</text:p>
    <text:p text:style-name="P11" loext:marker-style-name="T3"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Note: </text:span><text:span text:style-name="T5">Wasta-Linux</text:span><text:span text:style-name="T3"> does not automatically install recommended packages. <text:s/>To get everything installed, also install android-sdk-installer.</text:span></text:p>
-   <text:p text:style-name="Command_20_Line"><text:bookmark-start text:name="OLE_LINK3"/><text:bookmark-start text:name="OLE_LINK4"/>sudo apt-get install -y scripture-app-builder android-sdk-installer</text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-end text:name="OLE_LINK3"/><text:bookmark-end text:name="OLE_LINK4"/><text:bookmark-start text:name="_Toc227140718"/><text:soft-page-break/>Downloading the Android SDK files prior to package installation<text:bookmark-end text:name="_Toc227140718"/></text:h>
+   <text:p text:style-name="Command_20_Line"><text:bookmark-start text:name="OLE_LINK4"/><text:bookmark-start text:name="OLE_LINK3"/>sudo apt-get install -y scripture-app-builder android-sdk-installer</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-end text:name="OLE_LINK4"/><text:bookmark-end text:name="OLE_LINK3"/><text:bookmark-start text:name="_Toc227140718"/><text:soft-page-break/>Downloading the Android SDK files prior to package installation<text:bookmark-end text:name="_Toc227140718"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">The </text:span><text:span text:style-name="T5">android-sdk-installer</text:span><text:span text:style-name="T3"> package simplifies downloading and installing the Android SDK. Its default behaviour is to download the appropriate files from Google’s Android software repository during the install. If this would be a problem due to bandwidth usage during the install, the files can be downloaded prior to installation.</text:span></text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc227140719"/><text:span text:style-name="T3">Downloading the Android SDK files</text:span><text:bookmark-end text:name="_Toc227140719"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">On a computer connected to the internet, use the following command line instructions to create a new folder and download 4 zip files (approximately 400MB). <text:s/></text:span><text:span text:style-name="T3"/></text:p>
@@ -9102,7 +9102,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P42">echo android-sdk-installer android-sdk-installer/accepted-android-sdk-eula boolean true | sudo debconf-set-selections</text:p>
    <text:p text:style-name="Command_20_Line">sudo apt-get install android-sdk-installer</text:p>
    <text:p text:style-name="P11" loext:marker-style-name="T3"/>
-   <text:h text:style-name="P30" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-end text:name="OLE_LINK1"/><text:bookmark-end text:name="OLE_LINK5"/><text:bookmark-end text:name="OLE_LINK2"/><text:bookmark-start text:name="_Toc227140723"/><text:span text:style-name="T3">How to build your first app</text:span><text:bookmark-end text:name="_Toc227140723"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="P30" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-end text:name="OLE_LINK2"/><text:bookmark-end text:name="OLE_LINK5"/><text:bookmark-end text:name="OLE_LINK1"/><text:bookmark-start text:name="_Toc227140723"/><text:span text:style-name="T3">How to build your first app</text:span><text:bookmark-end text:name="_Toc227140723"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">To build your first app with Scripture App Builder, follow the instructions in the first chapter of the document </text:span><text:span text:style-name="T4">‘Scripture App Builder – 2 Building Apps’</text:span><text:span text:style-name="T3">.</text:span></text:p>
    <text:p text:style-name="P11" loext:marker-style-name="T3"/>
    <text:p text:style-name="P65" loext:marker-style-name="T35"/>
