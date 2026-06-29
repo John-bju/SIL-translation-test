@@ -115,7 +115,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -139,7 +139,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">2746017</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2875604</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -171,7 +171,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Times New Roman2" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Times New Roman2" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -6179,7 +6179,7 @@
    <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc534360995"/><text:span text:style-name="T3">Before the workshop</text:span><text:bookmark-end text:name="_Toc534360995"/><text:span text:style-name="T3"/></text:h>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc534360996"/>Understand your participants<text:bookmark-end text:name="_Toc534360996"/></text:h>
    <text:p text:style-name="P16" loext:marker-style-name="T3"><text:span text:style-name="T3">Find out about each of the participants before they come:</text:span><text:span text:style-name="T3"/></text:p>
-   <text:list xml:id="list2853389477" text:style-name="WWNum42">
+   <text:list xml:id="list3364513266" text:style-name="WWNum42">
     <text:list-item>
      <text:p text:style-name="P41" loext:marker-style-name="T3"><text:span text:style-name="T3">their interest in building apps;</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
@@ -6254,7 +6254,7 @@
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc534360998"/>Prepare folders of files<text:bookmark-end text:name="_Toc534360998"/></text:h>
    <text:p text:style-name="P28" loext:marker-style-name="T3"><text:span text:style-name="T3">Prepare folders of files to distribute to the participants. </text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">Include the following items:</text:span><text:span text:style-name="T3"/></text:p>
-   <text:list text:continue-list="list2853389477" text:style-name="WWNum42">
+   <text:list text:continue-list="list3364513266" text:style-name="WWNum42">
     <text:list-item>
      <text:p text:style-name="P43" loext:marker-style-name="T5"><text:span text:style-name="T5">Instruction manuals:</text:span><text:span text:style-name="T5"/></text:p>
      <text:list>
@@ -6318,7 +6318,7 @@
    </text:list>
    <text:p text:style-name="P32" loext:marker-style-name="T17"><text:span text:style-name="T17">aeneas-windows-setup-1.7.3.exe</text:span><text:span text:style-name="T17"/></text:p>
    <text:p text:style-name="P33" loext:marker-style-name="T3"><text:span text:style-name="T3">Download the latest installer from the </text:span><text:a xlink:type="simple" xlink:href="http://software.sil.org/scriptureappbuilder/download/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">Scripture App Builder website</text:span></text:span></text:a><text:span text:style-name="T3">.</text:span></text:p>
-   <text:list xml:id="list201738407009892" text:continue-numbering="true" text:style-name="WWNum42">
+   <text:list xml:id="list204739289647542" text:continue-numbering="true" text:style-name="WWNum42">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -6353,7 +6353,7 @@
      <text:p text:style-name="P58" loext:marker-style-name="T3"><text:span text:style-name="T3">Enter “C:\gradle” and OK.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
    </text:list>
-   <text:list text:continue-list="list201738407009892" text:style-name="WWNum42">
+   <text:list text:continue-list="list204739289647542" text:style-name="WWNum42">
     <text:list-item>
      <text:p text:style-name="P45" loext:marker-style-name="T5"><text:span text:style-name="T5">Installation files for Mac:</text:span><text:span text:style-name="T5"/></text:p>
      <text:list>
@@ -6403,7 +6403,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P37" loext:marker-style-name="T3"><text:span text:style-name="T3">(download the latest installer from the </text:span><text:a xlink:type="simple" xlink:href="http://software.sil.org/dictionaryappbuilder/download/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">Dictionary App Builder website</text:span></text:span></text:a><text:span text:style-name="T3">).</text:span></text:p>
-   <text:list xml:id="list201739096764153" text:continue-numbering="true" text:style-name="WWNum42">
+   <text:list xml:id="list204740867747228" text:continue-numbering="true" text:style-name="WWNum42">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -6438,7 +6438,7 @@
    </text:list>
    <text:p text:style-name="P16" loext:marker-style-name="T5"><text:span text:style-name="T3"><text:line-break/></text:span><text:span text:style-name="T5">Equipment for participants</text:span></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Ask participants to bring the following equipment with them:</text:span><text:span text:style-name="T3"/></text:p>
-   <text:list xml:id="list201738195427496" text:continue-list="list201739096764153" text:style-name="WWNum42">
+   <text:list xml:id="list204740270911124" text:continue-list="list204740867747228" text:style-name="WWNum42">
     <text:list-item>
      <text:p text:style-name="P46" loext:marker-style-name="T3"><text:span text:style-name="T3">a laptop computer;</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
@@ -6459,7 +6459,7 @@
    <text:p text:style-name="P9" loext:marker-style-name="T3"/>
    <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc534361000"/><text:span text:style-name="T3">During the workshop</text:span><text:bookmark-end text:name="_Toc534361000"/><text:span text:style-name="T3"/></text:h>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc534361001"/>Installation tips<text:bookmark-end text:name="_Toc534361001"/></text:h>
-   <text:list xml:id="list201738861283609" text:continue-numbering="true" text:style-name="WWNum42">
+   <text:list xml:id="list204740021825243" text:continue-numbering="true" text:style-name="WWNum42">
     <text:list-item>
      <text:p text:style-name="P44" loext:marker-style-name="T3"><text:span text:style-name="T3">Explain clearly how to install the three main components: (i) Scripture App Builder, (ii) JDK, and (iii) Android SDK. For (i) and (ii), there are setup programs to run. For (iii), it is simply a matter of unzipping a file to a folder.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
@@ -6481,7 +6481,7 @@
    </text:list>
    <text:p text:style-name="P9" loext:marker-style-name="T3"/>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc534361002"/>Building app tips<text:bookmark-end text:name="_Toc534361002"/></text:h>
-   <text:list xml:id="list201738827760420" text:continue-numbering="true" text:style-name="WWNum42">
+   <text:list xml:id="list204739129904429" text:continue-numbering="true" text:style-name="WWNum42">
     <text:list-item>
      <text:p text:style-name="P44" loext:marker-style-name="T3"><text:span text:style-name="T3">Create an environment where participants are free to ask questions and are able to get help from the facilitator and participants. Consider creating partner pairs or small groups. Use open questions like, “What are your questions?” instead of “Does anyone have a question?” </text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
@@ -6528,7 +6528,7 @@
    <text:p text:style-name="P27" loext:marker-style-name="T3"><text:span text:style-name="T3">Remember, however, that an emulator is not a substitute for testing the apps on physical smartphone devices.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P9" loext:marker-style-name="T3"/>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc534361004"/>Tips for celebrating<text:bookmark-end text:name="_Toc534361004"/></text:h>
-   <text:list text:continue-list="list201738827760420" text:style-name="WWNum42">
+   <text:list text:continue-list="list204739129904429" text:style-name="WWNum42">
     <text:list-item>
      <text:p text:style-name="P44" loext:marker-style-name="T3"><text:span text:style-name="T3">Encourage participants to build a sample app that meets a need of their community/organization and “show &amp; tell” at a closing ceremony.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
