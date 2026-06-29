@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:title>Scripture App Builder - Installation Instructions</dc:title><meta:initial-creator>Richard Margetts</meta:initial-creator><meta:editing-cycles>10</meta:editing-cycles><meta:print-date>2019-01-04T10:26:00</meta:print-date><meta:creation-date>2025-09-02T14:30:00</meta:creation-date><dc:date>2026-06-29T14:24:11.342969678</dc:date><meta:editing-duration>PT12S</meta:editing-duration><meta:generator>LibreOffice/26.2.4.2$Linux_X86_64 LibreOffice_project/620$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="8" meta:object-count="0" meta:page-count="15" meta:paragraph-count="204" meta:word-count="2243" meta:character-count="14366" meta:non-whitespace-character-count="12348"/><meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
+ <office:meta><dc:title>Scripture App Builder - Installation Instructions</dc:title><meta:initial-creator>Richard Margetts</meta:initial-creator><meta:editing-cycles>10</meta:editing-cycles><meta:print-date>2019-01-04T10:26:00</meta:print-date><meta:creation-date>2025-09-02T14:30:00</meta:creation-date><dc:date>2026-06-29T15:06:55.571536947</dc:date><meta:editing-duration>PT45S</meta:editing-duration><meta:generator>LibreOffice/26.2.4.2$Linux_X86_64 LibreOffice_project/620$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="8" meta:object-count="0" meta:page-count="15" meta:paragraph-count="204" meta:word-count="2243" meta:character-count="14366" meta:non-whitespace-character-count="12348"/><meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">65883</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">32016</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">22386</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">32941</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">13414</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">8407</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">7888</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
      <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">65881</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">32015</config:config-item>
      <config:config-item config:name="VisibleBottom" config:type="long">22384</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
-     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">true</config:config-item>
      <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="WindowState" config:type="string">,,,;5;,,,;</config:config-item>
+     <config:config-item config:name="WindowState" config:type="string">0,0,1280,1006;1;,,,;</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
      <config:config-item config:name="LegacySingleLineFontwork" config:type="boolean">false</config:config-item>
      <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
@@ -123,7 +123,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -152,7 +152,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3559346</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3185723</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -2016,7 +2016,7 @@
    <text:p text:style-name="P2" loext:marker-style-name="T1"/>
    <text:p text:style-name="P2" loext:marker-style-name="T1"/>
    <text:p text:style-name="P2" loext:marker-style-name="T1"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T1"><draw:frame draw:style-name="fr2" draw:name="Picture 6" text:anchor-type="as-char" svg:width="5.9846in" svg:height="1.7689in" draw:z-index="21"><draw:image xlink:href="1.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:filter-name="&lt;All images&gt;" draw:mime-type="image/png"/>
+   <text:p text:style-name="P3" loext:marker-style-name="T1"><draw:frame draw:style-name="fr2" draw:name="Picture 6" text:anchor-type="as-char" svg:width="5.9846in" svg:height="1.7689in" draw:z-index="21"><draw:image xlink:href="Scripture-App-Builder-01-Installation-Instructions/1.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:filter-name="&lt;All images&gt;" draw:mime-type="image/png"/>
     </draw:frame></text:p>
    <text:p text:style-name="P2" loext:marker-style-name="T1"/>
    <text:p text:style-name="P2" loext:marker-style-name="T1"/>
@@ -6409,7 +6409,7 @@ Description automatically generated</svg:desc>
    </table:table>
    <text:p text:style-name="P7" loext:marker-style-name="T4"/>
    <text:p text:style-name="P7" loext:marker-style-name="T4"/>
-   <text:h text:style-name="P15" text:outline-level="2"><text:bookmark-start text:name="_Toc44921079"/><text:bookmark-start text:name="_Toc227140712"/>Install<text:bookmark-end text:name="_Toc44921079"/>ing aeneas for audio-text synchronization<text:bookmark-end text:name="_Toc227140712"/></text:h>
+   <text:h text:style-name="P15" text:outline-level="2"><text:bookmark-start text:name="_Toc227140712"/><text:bookmark-start text:name="_Toc44921079"/>Install<text:bookmark-end text:name="_Toc44921079"/>ing aeneas for audio-text synchronization<text:bookmark-end text:name="_Toc227140712"/></text:h>
    <text:p text:style-name="P53" loext:marker-style-name="T27"><text:span text:style-name="T27">Scripture App Builder uses a tool called </text:span><text:span text:style-name="T28">aeneas</text:span><text:span text:style-name="T27"> to synchronise text and audio.</text:span></text:p>
    <text:p text:style-name="P54" loext:marker-style-name="T27"><text:span text:style-name="T27">To set up </text:span><text:span text:style-name="T29">aeneas</text:span><text:span text:style-name="T27"> on Windows, there are several programs and modules to download and install: FFmpeg, eSpeak, Python and aeneas. These are installed with a single setup program.</text:span></text:p>
    <text:list text:style-name="WWNum9">
@@ -7412,7 +7412,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P40" loext:marker-style-name="T4"/>
    <text:p text:style-name="P64" loext:marker-style-name="T4"><text:span text:style-name="T21">Important</text:span><text:span text:style-name="T4">: If Scripture App Builder was open while you installed aeneas, close it and start it again to ensure that it picks up the changes to your Path settings.</text:span></text:p>
    <text:p text:style-name="P7" loext:marker-style-name="T4"/>
-   <text:h text:style-name="P11" text:outline-level="1" loext:marker-style-name="T4"><text:bookmark-start text:name="_Toc227140713"/><text:bookmark-start text:name="OLE_LINK5"/><text:bookmark-start text:name="OLE_LINK2"/><text:bookmark-start text:name="OLE_LINK1"/><text:span text:style-name="T4">Linux Installation</text:span><text:bookmark-end text:name="_Toc227140713"/><text:span text:style-name="T4"/></text:h>
+   <text:h text:style-name="P11" text:outline-level="1" loext:marker-style-name="T4"><text:bookmark-start text:name="OLE_LINK1"/><text:bookmark-start text:name="OLE_LINK2"/><text:bookmark-start text:name="OLE_LINK5"/><text:bookmark-start text:name="_Toc227140713"/><text:span text:style-name="T4">Linux Installation</text:span><text:bookmark-end text:name="_Toc227140713"/><text:span text:style-name="T4"/></text:h>
    <text:p text:style-name="P16" loext:marker-style-name="T4"><text:span text:style-name="T4">To run Scripture App Builder on Linux, you need to have 3 components installed on your computer:</text:span><text:span text:style-name="T4"/></text:p>
    <text:list text:style-name="WWNum5">
     <text:list-item>
@@ -7487,14 +7487,14 @@ Description automatically generated</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Command_20_Line" loext:marker-style-name="T33"><text:span text:style-name="T33">(. /etc/os-release &amp;&amp; sudo tee /etc/apt/sources.list.d/packages-sil-org.list&gt;/dev/null &lt;&lt;&lt; &quot;deb http://packages.sil.org/$ID $VERSION_CODENAME main&quot;)</text:span><text:span text:style-name="T33"/></text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="_Toc227140717"/>Installing all packages from the Internet<text:bookmark-end text:name="_Toc227140717"/><text:bookmark text:name="OLE_LINK10"/><text:bookmark text:name="OLE_LINK9"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="_Toc227140717"/>Installing all packages from the Internet<text:bookmark-end text:name="_Toc227140717"/><text:bookmark text:name="OLE_LINK9"/><text:bookmark text:name="OLE_LINK10"/></text:h>
    <text:p text:style-name="P72" loext:marker-style-name="T4"><text:span text:style-name="T4">To install all the required software from the command line, type:</text:span><text:span text:style-name="T4"/></text:p>
    <text:p text:style-name="P73">sudo apt-get update</text:p>
    <text:p text:style-name="Command_20_Line">sudo apt-get install -y scripture-app-builder</text:p>
    <text:p text:style-name="P7" loext:marker-style-name="T4"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T4"><text:span text:style-name="T4">Note: </text:span><text:span text:style-name="T15">Wasta-Linux</text:span><text:span text:style-name="T4"> does not automatically install recommended packages. <text:s/>To get everything installed, also install android-sdk-installer.</text:span></text:p>
-   <text:p text:style-name="Command_20_Line"><text:bookmark-start text:name="OLE_LINK3"/><text:bookmark-start text:name="OLE_LINK4"/>sudo apt-get install -y scripture-app-builder android-sdk-installer</text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-end text:name="OLE_LINK3"/><text:bookmark-end text:name="OLE_LINK4"/><text:bookmark-start text:name="_Toc227140718"/>Downloading the Android SDK files prior to package installation<text:bookmark-end text:name="_Toc227140718"/></text:h>
+   <text:p text:style-name="Command_20_Line"><text:bookmark-start text:name="OLE_LINK4"/><text:bookmark-start text:name="OLE_LINK3"/>sudo apt-get install -y scripture-app-builder android-sdk-installer</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-end text:name="OLE_LINK4"/><text:bookmark-end text:name="OLE_LINK3"/><text:bookmark-start text:name="_Toc227140718"/>Downloading the Android SDK files prior to package installation<text:bookmark-end text:name="_Toc227140718"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T4"><text:span text:style-name="T4">The </text:span><text:span text:style-name="T15">android-sdk-installer</text:span><text:span text:style-name="T4"> package simplifies downloading and installing the Android SDK. Its default behaviour is to download the appropriate files from Google’s Android software repository during the install. If this would be a problem due to bandwidth usage during the install, the files can be downloaded prior to installation.</text:span></text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T4"><text:bookmark-start text:name="_Toc227140719"/><text:span text:style-name="T4">Downloading the Android SDK files</text:span><text:bookmark-end text:name="_Toc227140719"/><text:span text:style-name="T4"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T4"><text:span text:style-name="T4">On a computer connected to the internet, use the following command line instructions to create a new folder and download 4 zip files (approximately 400MB). <text:s/></text:span><text:span text:style-name="T4"/></text:p>
@@ -7522,7 +7522,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P77">echo android-sdk-installer android-sdk-installer/accepted-android-sdk-eula boolean true | sudo debconf-set-selections</text:p>
    <text:p text:style-name="Command_20_Line">sudo apt-get install android-sdk-installer</text:p>
    <text:p text:style-name="P7" loext:marker-style-name="T4"/>
-   <text:h text:style-name="P78" text:outline-level="1" loext:marker-style-name="T4"><text:bookmark-end text:name="OLE_LINK1"/><text:bookmark-end text:name="OLE_LINK5"/><text:bookmark-end text:name="OLE_LINK2"/><text:bookmark-start text:name="_Toc227140723"/><text:span text:style-name="T4">How to build your first app</text:span><text:bookmark-end text:name="_Toc227140723"/><text:span text:style-name="T4"/></text:h>
+   <text:h text:style-name="P78" text:outline-level="1" loext:marker-style-name="T4"><text:bookmark-end text:name="OLE_LINK2"/><text:bookmark-end text:name="OLE_LINK5"/><text:bookmark-end text:name="OLE_LINK1"/><text:bookmark-start text:name="_Toc227140723"/><text:span text:style-name="T4">How to build your first app</text:span><text:bookmark-end text:name="_Toc227140723"/><text:span text:style-name="T4"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T4"><text:span text:style-name="T4">To build your first app with Scripture App Builder, follow the instructions in the first chapter of the document </text:span><text:span text:style-name="T3">‘Scripture App Builder – 2 Building Apps’</text:span><text:span text:style-name="T4">.</text:span></text:p>
    <text:p text:style-name="P7" loext:marker-style-name="T4"/>
    <text:p text:style-name="P79" loext:marker-style-name="T35"/>
