@@ -97,6 +97,20 @@ jobs:
             done
           done
 
+
+      - name: Convert Other Language ODT files to FODT
+        run: |
+          dirs="$(ls docs/)"
+          for dir in $dirs; do
+            find docs/$dir -type f -name "*.odt" | while read file; do         
+              echo "Converting $file"
+              outdir="$(dirname "$file")"
+              project_dirname="$(basename "$outdir")"
+              timeout 60s libreoffice --headless --convert-to fodt "$file" --outdir docs/$dir/fodt/$project_dirname
+            done
+          done
+
+
       - name: Upload PDFs as artifact
         uses: actions/upload-artifact@v4
         with:
