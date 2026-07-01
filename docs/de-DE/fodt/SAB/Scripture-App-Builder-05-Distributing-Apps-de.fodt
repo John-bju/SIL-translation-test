@@ -96,7 +96,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -120,7 +120,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">5039514</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">5148500</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -154,7 +154,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Times New Roman1" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Times New Roman1" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -3667,7 +3667,7 @@
    <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:vertical-pos="top" style:vertical-rel="baseline" fo:background-color="transparent" draw:fill="none" draw:fill-color="#729fcf" draw:secondary-fill-color="#729fcf" draw:gradient-step-count="0" draw:fill-hatch-solid="false" draw:opacity="100%" draw:fill-image-width="0in" draw:fill-image-height="0in" style:repeat="repeat" draw:fill-image-ref-point-x="0%" draw:fill-image-ref-point-y="0%" draw:fill-image-ref-point="center" draw:tile-repeat-offset="0% horizontal" fo:padding="0in" fo:border="none" style:mirror="none" fo:clip="rect(0in, 0.4154in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard" loext:decorative="false"/>
   </style:style>
   <style:style style:name="fr6" style:family="graphic" style:parent-style-name="OLE">
-   <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:visible-area-left="0in" draw:visible-area-top="0in" draw:visible-area-width="1.9866in" draw:visible-area-height="1.9866in" draw:ole-draw-aspect="1"/>
+   <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:visible-area-left="0in" draw:visible-area-top="0in" draw:visible-area-width="1.987in" draw:visible-area-height="1.987in" draw:ole-draw-aspect="1"/>
   </style:style>
   <style:style style:name="Sect1" style:family="section">
    <style:section-properties style:editable="false">
@@ -6211,7 +6211,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P59" loext:marker-style-name="T24"/>
    <text:p text:style-name="P59" loext:marker-style-name="T24"/>
    <text:h text:style-name="P6" text:outline-level="1" loext:marker-style-name="T4"><text:bookmark-start text:name="_Toc220666435"/><text:span text:style-name="T4">Introduction</text:span><text:bookmark-end text:name="_Toc220666435"/><text:span text:style-name="T4"/></text:h>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc459723999"/><text:bookmark-start text:name="_Toc220666436"/>Checking that your app is ready to publish<text:bookmark-end text:name="_Toc459723999"/><text:bookmark-end text:name="_Toc220666436"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc220666436"/><text:bookmark-start text:name="_Toc459723999"/>Checking that your app is ready to publish<text:bookmark-end text:name="_Toc220666436"/><text:bookmark-end text:name="_Toc459723999"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T15"><text:span text:style-name="T15">Before you distribute your app, please use the </text:span><text:span text:style-name="T17">App Publishing Checklist</text:span><text:span text:style-name="T15"> (available via the Help menu in SAB or on the SAB website) to verify that it is ready to publish.</text:span></text:p>
    <text:p text:style-name="P52" loext:marker-style-name="T15"/>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc220666437"/>Distribution options for Android apps<text:bookmark-end text:name="_Toc220666437"/></text:h>
@@ -19023,7 +19023,7 @@ Description automatically generated</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P40" loext:marker-style-name="T4"/>
-   <text:list xml:id="list212526510203730" text:continue-numbering="true" text:style-name="WWNum26">
+   <text:list xml:id="list214207212497839" text:continue-numbering="true" text:style-name="WWNum26">
     <text:list-item>
      <text:p text:style-name="P9" loext:marker-style-name="T4"><text:span text:style-name="T4">Select </text:span><text:span text:style-name="T11">Grow</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T38"></text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T11">Store presence</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T38"></text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T11">Main store listing</text:span><text:span text:style-name="T4"> from the menu on the left of the screen, and enter the following details:</text:span></text:p>
     </text:list-item>
@@ -19047,7 +19047,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P25" loext:marker-style-name="T4"><text:span text:style-name="T4">You must not include user testimonials, excessive details or long lists of keywords. See </text:span><text:a xlink:type="simple" xlink:href="https://play.google.com/about/storelisting-promotional/metadata/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T4">https://play.google.com/about/storelisting-promotional/metadata/</text:span></text:span></text:a><text:span text:style-name="T4"> for more details.</text:span></text:p>
    <text:p text:style-name="P13" loext:marker-style-name="T4"/>
    <text:p text:style-name="P17" loext:marker-style-name="T11"><text:span text:style-name="T11">Graphics</text:span><text:span text:style-name="T11"/></text:p>
-   <text:list xml:id="list212528121994306" text:continue-numbering="true" text:style-name="WWNum25">
+   <text:list xml:id="list214206883626014" text:continue-numbering="true" text:style-name="WWNum25">
     <text:list-item>
      <text:p text:style-name="P24" loext:marker-style-name="T4"><text:span text:style-name="T10">App icon</text:span><text:span text:style-name="T4"> (512 by 512 pixels)</text:span></text:p>
      <text:list>
@@ -19077,12 +19077,12 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P47" loext:marker-style-name="T4"/>
    <text:p text:style-name="P5" loext:marker-style-name="T4"><text:span text:style-name="T4">Click </text:span><text:span text:style-name="T11">Save</text:span><text:span text:style-name="T4"> at the bottom of the screen when you have finished.</text:span></text:p>
    <text:p text:style-name="P76" loext:marker-style-name="T4"><text:span text:style-name="T4"><text:line-break/> </text:span><text:span text:style-name="T4"/></text:p>
-   <text:list xml:id="list212527955200537" text:continue-list="list212526510203730" text:style-name="WWNum26">
+   <text:list xml:id="list214207486387926" text:continue-list="list214207212497839" text:style-name="WWNum26">
     <text:list-item>
      <text:p text:style-name="P9" loext:marker-style-name="T4"><text:span text:style-name="T4">Select </text:span><text:span text:style-name="T11">Store presence</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T38"></text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T11">Store settings</text:span><text:span text:style-name="T4"> from the menu on the left of the screen, and enter the following details:</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list text:continue-list="list212528121994306" text:style-name="WWNum25">
+   <text:list text:continue-list="list214206883626014" text:style-name="WWNum25">
     <text:list-item>
      <text:p text:style-name="P18" loext:marker-style-name="T4"><text:span text:style-name="T11">App Category</text:span><text:span text:style-name="T4">:</text:span></text:p>
      <text:list>
@@ -19114,13 +19114,13 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P40" loext:marker-style-name="T4"/>
    <text:p text:style-name="P5" loext:marker-style-name="T4"><text:span text:style-name="T4">Click </text:span><text:span text:style-name="T11">Save</text:span><text:span text:style-name="T4"> at the bottom of the screen when you have finished.</text:span></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T4"/>
-   <text:list text:continue-list="list212527955200537" text:style-name="WWNum26">
+   <text:list text:continue-list="list214207486387926" text:style-name="WWNum26">
     <text:list-item>
      <text:p text:style-name="P9" loext:marker-style-name="T4"><text:span text:style-name="T4">Select </text:span><text:span text:style-name="T11">Release</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T38"></text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T11">Production</text:span><text:span text:style-name="T4"> from the menu on the left of the screen, and click the button </text:span><text:span text:style-name="T11">Create new release</text:span><text:span text:style-name="T4"> at the top right of the screen.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P40" loext:marker-style-name="T4"/>
-   <text:list xml:id="list212527587802998" text:continue-numbering="true" text:style-name="WWNum26">
+   <text:list xml:id="list214206493142431" text:continue-numbering="true" text:style-name="WWNum26">
     <text:list-item>
      <text:p text:style-name="P9" loext:marker-style-name="T4"><text:soft-page-break/><text:span text:style-name="T4">In the </text:span><text:span text:style-name="T11">App Bundles</text:span><text:span text:style-name="T4"> section of the screen, upload the Android App Bundle (.aab) file for your app and give release a </text:span><text:span text:style-name="T11">Release name</text:span><text:span text:style-name="T4"> in the field below.</text:span></text:p>
     </text:list-item>
@@ -19139,7 +19139,7 @@ Description automatically generated</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P14" loext:marker-style-name="T4"/>
-   <text:list text:continue-list="list212527587802998" text:style-name="WWNum26">
+   <text:list text:continue-list="list214206493142431" text:style-name="WWNum26">
     <text:list-item>
      <text:p text:style-name="P9" loext:marker-style-name="T4"><text:span text:style-name="T4">Click the </text:span><text:span text:style-name="T11">Save </text:span><text:span text:style-name="T4">button and then </text:span><text:span text:style-name="T11">Review release</text:span><text:span text:style-name="T4"> button at the bottom right of the screen.</text:span></text:p>
     </text:list-item>
