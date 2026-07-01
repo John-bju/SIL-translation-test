@@ -102,10 +102,11 @@ jobs:
         run: |
           dirs="$(ls docs/)"
           for dir in $dirs; do
-            find docs/$dir -type f -name "*.odt" | while read file; do         
+            find docs/$dir -type f -name "*.odt" | while read file; do
               echo "Converting $file"
               outdir="$(dirname "$file")"
               project_dirname="$(basename "$outdir")"
+              mkdir -p docs/$dir/fodt
               timeout 60s libreoffice --headless --convert-to fodt "$file" --outdir docs/$dir/fodt/$project_dirname
             done
           done
