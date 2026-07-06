@@ -4,14 +4,14 @@
 This repo is for documentation of SAB, RAB, DAB, KAB. And translating them into other languages via crowdin.
 
 # How to Use
-### Submitting
+##### Submitting
 
-### Re-submitting
+##### Re-submitting
 
-### Crowdin Sync
+##### Crowdin Sync
 
-### File Conversions
+##### File Conversions
 
-### Images
+##### Images
 
-### Outputs
+##### Outputs
