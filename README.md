@@ -1,3 +1,7 @@
 # SIL Translation Test
 
-###### all documents are of .fodt type, please only edit those documents
+### This is a repository for all documentation regarding
+- Scripture App Builder
+- Reading App Builder
+- Keyboard App Builder
+- Dictionary App Builder
