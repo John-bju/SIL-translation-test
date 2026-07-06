@@ -23,4 +23,4 @@ The github will automatically convert the files between fodt, odt, and pdf.
 #### Images
 
 #### Outputs
-All translations will be pushed to the "translations" branch and all pdf's will be converted into an artifact.
+All pdf's will be converted into an artifact and all translations will be pushed to the "translations" branch. Which can either be merged into the main branch if the user wanted to put the most recent documentation front and center.
