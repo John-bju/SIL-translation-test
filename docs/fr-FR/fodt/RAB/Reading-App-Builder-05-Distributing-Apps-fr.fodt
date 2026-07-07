@@ -96,7 +96,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -120,7 +120,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3338686</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3329576</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -154,7 +154,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Times New Roman1" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Times New Roman1" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -6111,7 +6111,7 @@ Description générée automatiquement</svg:desc>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc78982837"/>Vérification que votre application est prête à être publiée<text:bookmark-end text:name="_Toc78982837"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T21"><text:span text:style-name="T21">Before you distribute your app, please use the </text:span><text:span text:style-name="T22">App Publishing Checklist</text:span><text:span text:style-name="T21"> (available via the Help menu in RAB or on the RAB website) to verify that it is ready to publish.</text:span></text:p>
    <text:p text:style-name="P51" loext:marker-style-name="T21"/>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc78982838"/><text:bookmark-start text:name="_Toc78982272"/>Options de distribution pour les applications Android<text:bookmark-end text:name="_Toc78982838"/><text:bookmark-end text:name="_Toc78982272"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc78982272"/><text:bookmark-start text:name="_Toc78982838"/>Options de distribution pour les applications Android<text:bookmark-end text:name="_Toc78982272"/><text:bookmark-end text:name="_Toc78982838"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Il existe plusieurs façons possibles de transférer des applications Android vers un smartphone. Celles-ci incluent à la fois les options en ligne et hors ligne : </text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P39" loext:marker-style-name="T3"/>
    <text:p text:style-name="P53" loext:marker-style-name="T6"><text:span text:style-name="T6">Distribution en ligne</text:span><text:span text:style-name="T6"/></text:p>
@@ -11780,7 +11780,7 @@ Description générée automatiquement</svg:desc>
    </table:table>
    <text:p text:style-name="P39" loext:marker-style-name="T3"/>
    <text:p text:style-name="P39" loext:marker-style-name="T3"/>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc78982839"/><text:bookmark-start text:name="_Toc78982273"/>Options de distribution pour les applications iOS<text:bookmark-end text:name="_Toc78982839"/><text:bookmark-end text:name="_Toc78982273"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc78982273"/><text:bookmark-start text:name="_Toc78982839"/>Options de distribution pour les applications iOS<text:bookmark-end text:name="_Toc78982273"/><text:bookmark-end text:name="_Toc78982839"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Pour les applications iOS, votre principale option pour la distribution d&apos;applications est l&apos;Apple App Store. Vous ne pouvez pas distribuer les applications iOS de votre téléphone hors ligne.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P39" loext:marker-style-name="T3"/>
    <table:table table:name="Table3" table:style-name="Table3">
@@ -15955,7 +15955,7 @@ Description générée automatiquement</svg:desc>
    </table:table>
    <text:p text:style-name="P39" loext:marker-style-name="T3"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Lorsque vous testez votre application iOS, il est possible de la partager avec un nombre limité de périphériques connus. Pour plus de détails sur la façon de le faire, veuillez consulter la documentation sur </text:span><text:span text:style-name="T5">Installation et Construction sur un Mac</text:span><text:span text:style-name="T3">.</text:span></text:p>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc78982840"/><text:bookmark-start text:name="_Toc78982274"/>Avantages et inconvénients de chaque méthode de distribution<text:bookmark-end text:name="_Toc78982840"/><text:bookmark-end text:name="_Toc78982274"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc78982274"/><text:bookmark-start text:name="_Toc78982840"/>Avantages et inconvénients de chaque méthode de distribution<text:bookmark-end text:name="_Toc78982274"/><text:bookmark-end text:name="_Toc78982840"/></text:h>
    <text:p text:style-name="P54" loext:marker-style-name="T3"><text:span text:style-name="T3">Le tableau suivant énumère certains avantages et inconvénients de chaque méthode de distribution.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P42" loext:marker-style-name="T3"/>
    <table:table table:name="Table4" table:style-name="Table4">
@@ -16098,7 +16098,7 @@ Description générée automatiquement</svg:desc>
    </table:table>
    <text:p text:style-name="P39" loext:marker-style-name="T3"/>
    <text:p text:style-name="P39" loext:marker-style-name="T3"/>
-   <text:h text:style-name="P6" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc78982841"/><text:bookmark-start text:name="_Toc78982275"/><text:span text:style-name="T3">Publier des applications sur Google Play</text:span><text:bookmark-end text:name="_Toc78982841"/><text:bookmark-end text:name="_Toc78982275"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="P6" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc78982275"/><text:bookmark-start text:name="_Toc78982841"/><text:span text:style-name="T3">Publier des applications sur Google Play</text:span><text:bookmark-end text:name="_Toc78982275"/><text:bookmark-end text:name="_Toc78982841"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">To publish an Android app on Google Play:</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P39" loext:marker-style-name="T3"><text:s/></text:p>
    <text:list text:style-name="WWNum34">
@@ -17025,7 +17025,7 @@ Description générée automatiquement</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P39" loext:marker-style-name="T3"/>
-   <text:list xml:id="list214257693845080" text:continue-numbering="true" text:style-name="WWNum34">
+   <text:list xml:id="list214011877647366" text:continue-numbering="true" text:style-name="WWNum34">
     <text:list-item>
      <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Select </text:span><text:span text:style-name="T9">Grow</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T24"></text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T9">Store presence</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T24"></text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T9">Main store listing</text:span><text:span text:style-name="T3"> from the menu on the left of the screen, and enter the following details:</text:span></text:p>
     </text:list-item>
@@ -17049,7 +17049,7 @@ Description générée automatiquement</svg:desc>
    <text:p text:style-name="P26" loext:marker-style-name="T3"><text:span text:style-name="T3">Vous ne devez pas inclure de témoignages d&apos;utilisateur, de détails excessifs ou de listes longues de mots clés. Voir </text:span><text:a xlink:type="simple" xlink:href="https://play.google.com/about/storelisting-promotional/metadata/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">https://play.google.com/about/storelisting-promotional/metadata/</text:span></text:span></text:a><text:span text:style-name="T3"> pour plus de détails.</text:span></text:p>
    <text:p text:style-name="P12" loext:marker-style-name="T3"/>
    <text:p text:style-name="P17" loext:marker-style-name="T9"><text:span text:style-name="T9">Graphiques</text:span><text:span text:style-name="T9"/></text:p>
-   <text:list xml:id="list214257032944667" text:continue-numbering="true" text:style-name="WWNum35">
+   <text:list xml:id="list214011595053814" text:continue-numbering="true" text:style-name="WWNum35">
     <text:list-item>
      <text:p text:style-name="P18" loext:marker-style-name="T3"><text:span text:style-name="T8">Icône</text:span><text:span text:style-name="T3"> (512 par 512 pixels)</text:span></text:p>
      <text:list>
@@ -17079,12 +17079,12 @@ Description générée automatiquement</svg:desc>
    <text:p text:style-name="P46" loext:marker-style-name="T3"/>
    <text:p text:style-name="P63" loext:marker-style-name="T3"><text:span text:style-name="T3">Cliquez sur </text:span><text:span text:style-name="T9">Enregistrer</text:span><text:span text:style-name="T3"> en bas de l&apos;écran lorsque vous avez terminé.</text:span></text:p>
    <text:p text:style-name="P56" loext:marker-style-name="T3"><text:span text:style-name="T3"><text:line-break/> </text:span><text:span text:style-name="T3"/></text:p>
-   <text:list xml:id="list214256803129756" text:continue-list="list214257693845080" text:style-name="WWNum34">
+   <text:list xml:id="list214012059990062" text:continue-list="list214011877647366" text:style-name="WWNum34">
     <text:list-item>
      <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Sélectionnez </text:span><text:span text:style-name="T9">Présence du magasin</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T9">Paramètres du magasin</text:span><text:span text:style-name="T3"> dans le menu à gauche de l&apos;écran. et entrez les détails suivants :</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list text:continue-list="list214257032944667" text:style-name="WWNum35">
+   <text:list text:continue-list="list214011595053814" text:style-name="WWNum35">
     <text:list-item>
      <text:p text:style-name="P20" loext:marker-style-name="T3"><text:span text:style-name="T9">Catégorie</text:span><text:span text:style-name="T3">:</text:span></text:p>
      <text:list>
@@ -17117,7 +17117,7 @@ Description générée automatiquement</svg:desc>
    <text:p text:style-name="P63" loext:marker-style-name="T3"><text:span text:style-name="T3">Cliquez sur </text:span><text:span text:style-name="T9">Enregistrer</text:span><text:span text:style-name="T3"> en bas de l&apos;écran lorsque vous avez terminé.</text:span></text:p>
    <text:p text:style-name="P47" loext:marker-style-name="T3"/>
    <text:p text:style-name="P47" loext:marker-style-name="T3"/>
-   <text:list text:continue-list="list214256803129756" text:style-name="WWNum34">
+   <text:list text:continue-list="list214012059990062" text:style-name="WWNum34">
     <text:list-item>
      <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Select </text:span><text:span text:style-name="T9">Policy</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T24"></text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T9">App content</text:span><text:span text:style-name="T3"> from the menu on the left of the screen, and follow the instructions on the screen to specify the privacy policy, app access, content ratings, etc. Cliquez sur </text:span><text:span text:style-name="T9">Enregistrez</text:span><text:span text:style-name="T3"> après avoir complété chaque page.</text:span></text:p>
     </text:list-item>
@@ -17129,7 +17129,7 @@ Description générée automatiquement</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P39" loext:marker-style-name="T3"/>
-   <text:list xml:id="list214258522008734" text:continue-numbering="true" text:style-name="WWNum34">
+   <text:list xml:id="list214011771394891" text:continue-numbering="true" text:style-name="WWNum34">
     <text:list-item>
      <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Dans la section </text:span><text:span text:style-name="T9">App Bundles</text:span><text:span text:style-name="T3"> de l&apos;écran, téléchargez le Pack d&apos;applications Android (. ab) fichier pour votre application et donner un </text:span><text:span text:style-name="T9">Nom de version</text:span><text:span text:style-name="T3"> dans le champ ci-dessous.</text:span></text:p>
     </text:list-item>
@@ -17148,7 +17148,7 @@ Description générée automatiquement</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P14" loext:marker-style-name="T3"><text:s/></text:p>
-   <text:list text:continue-list="list214258522008734" text:style-name="WWNum34">
+   <text:list text:continue-list="list214011771394891" text:style-name="WWNum34">
     <text:list-item>
      <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Cliquez sur le bouton </text:span><text:span text:style-name="T9">Enregistrer </text:span><text:span text:style-name="T3">puis </text:span><text:span text:style-name="T9">Revoir la version</text:span><text:span text:style-name="T3"> en bas à droite de l&apos;écran.</text:span></text:p>
     </text:list-item>
@@ -17165,7 +17165,7 @@ Description générée automatiquement</svg:desc>
    <text:p text:style-name="P64" loext:marker-style-name="T3"><text:span text:style-name="T11">Astuce</text:span><text:span text:style-name="T3">: Pour augmenter la visibilité de votre application sur l&apos;app store, Nous vous recommandons de vous familiariser avec les principes de </text:span><text:span text:style-name="T9">Optimisation de l&apos;App Store (ASO)</text:span><text:span text:style-name="T3">.</text:span></text:p>
    <text:p text:style-name="P39" loext:marker-style-name="T3"/>
    <text:p text:style-name="P39" loext:marker-style-name="T3"/>
-   <text:h text:style-name="P6" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc78982842"/><text:bookmark-start text:name="_Toc78982276"/><text:span text:style-name="T3">Distribuer des applications par carte mémoire</text:span><text:bookmark-end text:name="_Toc78982842"/><text:bookmark-end text:name="_Toc78982276"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="P6" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc78982276"/><text:bookmark-start text:name="_Toc78982842"/><text:span text:style-name="T3">Distribuer des applications par carte mémoire</text:span><text:bookmark-end text:name="_Toc78982276"/><text:bookmark-end text:name="_Toc78982842"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T21"><text:span text:style-name="T21">Copiez le fichier APK de l&apos;application Android sur des cartes mémoire </text:span><text:span text:style-name="T23">microSD</text:span><text:span text:style-name="T21">. Les gens insèrent la carte dans l&apos;emplacement de carte mémoire de leur téléphone, Naviguez pour cela dans une application d&apos;explorateur de fichiers et appuyez sur l&apos;APK pour l&apos;installer.</text:span></text:p>
    <text:p text:style-name="P51" loext:marker-style-name="T21"><text:soft-page-break/></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T21">La plupart des téléphones sont fournis avec une application d’explorateur de fichiers pré-installée, mais si ce n’est pas le cas, recherchez « Explorateur de fichiers » sur Google Play. Ces types d&apos;application vous permettent de parcourir les fichiers et dossiers sur le téléphone - à la fois la mémoire interne et les cartes mémoire externes.</text:span><text:span text:style-name="T3"/></text:p>
@@ -17196,7 +17196,7 @@ Description générée automatiquement</svg:desc>
    <text:p text:style-name="P65" loext:marker-style-name="T3"><text:span text:style-name="T3">Si vous obtenez une erreur à propos d&apos;un problème d&apos;analyse du paquet ou si l&apos;installation de l&apos;application se termine et dit que l&apos;application n&apos;a pas pu être installée, alors le téléphone est incapable d&apos;écrire les fichiers sur la carte mémoire. Quand cela se produit, vous devez retirer la carte mémoire du téléphone et la mettre dans un ordinateur ou un autre périphérique et écrire les fichiers directement sur la carte mémoire. Puis remettez la carte mémoire dans le téléphone et réessayez l&apos;installation. Il devrait fonctionner cette fois-ci.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P39" loext:marker-style-name="T3"/>
    <text:p text:style-name="P39" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
-   <text:h text:style-name="P7" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc78982843"/><text:bookmark-start text:name="_Toc78982277"/><text:span text:style-name="T3">Applications de partage par Bluetooth</text:span><text:bookmark-end text:name="_Toc78982843"/><text:bookmark-end text:name="_Toc78982277"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="P7" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc78982277"/><text:bookmark-start text:name="_Toc78982843"/><text:span text:style-name="T3">Applications de partage par Bluetooth</text:span><text:bookmark-end text:name="_Toc78982277"/><text:bookmark-end text:name="_Toc78982843"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="P66" loext:marker-style-name="T21"><text:span text:style-name="T21">Utilisez le Bluetooth pour transférer le fichier APK Android de votre téléphone vers un autre téléphone. Une fois que les gens ont reçu le fichier, ils appuient dessus pour l&apos;installer.</text:span><text:span text:style-name="T21"/></text:p>
    <text:p text:style-name="P52" loext:marker-style-name="T21"/>
    <text:p text:style-name="P66" loext:marker-style-name="T21"><text:span text:style-name="T3">Si vous avez des fichiers audio à distribuer avec l&apos;application, ceux-ci devront également être transférés.</text:span><text:span text:style-name="T21"/></text:p>
@@ -17204,7 +17204,7 @@ Description générée automatiquement</svg:desc>
    <text:p text:style-name="P54" loext:marker-style-name="T23"><text:span text:style-name="T23">Dépannage</text:span><text:span text:style-name="T23"/></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T21">Certains appareils Android vous empêchent d&apos;envoyer ou de recevoir des fichiers APK. Ceci est analogue à certains systèmes de messagerie vous empêchant d&apos;envoyer des fichiers .exe ou .zip en raison de problèmes de sécurité. Pour contourner ce problème, vous pouvez renommer l&apos;extension de fichier en MP3, l&apos;envoyer, puis la changer en APK avant de l&apos;installer.<text:line-break/></text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P39" loext:marker-style-name="T3"/>
-   <text:h text:style-name="P6" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc78982844"/><text:bookmark-start text:name="_Toc78982278"/><text:span text:style-name="T3">Partage d&apos;applications par transfert Wi-Fi</text:span><text:bookmark-end text:name="_Toc78982844"/><text:bookmark-end text:name="_Toc78982278"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="P6" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc78982278"/><text:bookmark-start text:name="_Toc78982844"/><text:span text:style-name="T3">Partage d&apos;applications par transfert Wi-Fi</text:span><text:bookmark-end text:name="_Toc78982278"/><text:bookmark-end text:name="_Toc78982844"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Si vous avez de gros fichiers APK Android à transférer du téléphone au téléphone ou si vous avez beaucoup de fichiers audio, Le Bluetooth peut être une méthode de transfert lente. Dans de tels cas, l&apos;utilisation d&apos;une application de transfert Wi-Fi peut vous donner le téléphone à des vitesses de transfert jusqu&apos;à 40 fois plus rapides que le Bluetooth.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P39" loext:marker-style-name="T3"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Les deux appareils (l&apos;expéditeur et le téléphone du récepteur) ont besoin d&apos;avoir une application de transfert Wi-Fi installée, et les deux doivent avoir le Wi-Fi allumé. </text:span><text:span text:style-name="T3"/></text:p>
