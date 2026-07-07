@@ -85,7 +85,7 @@
    <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
    <config:config-item config:name="JustifyLinesWithShrinking" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="RsidRoot" config:type="int">856605</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1571559</config:config-item>
    <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
@@ -152,7 +152,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">856605</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1571559</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -23136,7 +23136,7 @@
    <text:p text:style-name="P62" loext:marker-style-name="T8"><text:span text:style-name="T8"><text:tab/></text:span><text:span text:style-name="T8"/></text:p>
    <text:p text:style-name="List_20_Paragraph" loext:marker-style-name="T8"><text:span text:style-name="T8">Click </text:span><text:span text:style-name="T12">Next</text:span><text:span text:style-name="T8"> to move to the next page.</text:span></text:p>
    <text:p text:style-name="P10" loext:marker-style-name="T8"/>
-   <text:list xml:id="list123653000845859" text:continue-numbering="true" text:style-name="WWNum3">
+   <text:list xml:id="list162148976905089" text:continue-numbering="true" text:style-name="WWNum3">
     <text:list-item>
      <text:p text:style-name="P50" loext:marker-style-name="T8"><text:span text:style-name="T8">On the page of the wizard titled </text:span><text:span text:style-name="T12">Signing</text:span><text:span text:style-name="T8">, you need to specify the keystore and alias to use to sign the app. A keystore is a digital certificate file that ensures the app is legitimate. An app must be signed in this way so that it can installed on a phone.</text:span></text:p>
     </text:list-item>
@@ -23189,7 +23189,7 @@
    </text:list>
    <text:p text:style-name="P52" loext:marker-style-name="T8"><text:bookmark-end text:name="_Hlk66431771"/></text:p>
    <text:p text:style-name="P10" loext:marker-style-name="T8"/>
-   <text:list text:continue-list="list123653000845859" text:style-name="WWNum3">
+   <text:list text:continue-list="list162148976905089" text:style-name="WWNum3">
     <text:list-item>
      <text:p text:style-name="P50" loext:marker-style-name="T8"><text:span text:style-name="T8">Back on the </text:span><text:span text:style-name="T12">Signing</text:span><text:span text:style-name="T8"> page of the New App wizard, you need to specify the keystore password, select the key alias and enter the alias password--just as you </text:span><text:soft-page-break/><text:span text:style-name="T8">entered them in the step above. (You can modify your keystore settings later under </text:span><text:a xlink:type="simple" xlink:href="#_The_App_Signing" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T12">App</text:span></text:span><text:span text:style-name="Internet_20_link"><text:span text:style-name="T8"> </text:span></text:span><text:span text:style-name="Internet_20_link"><text:span text:style-name="T48"></text:span></text:span><text:span text:style-name="Internet_20_link"><text:span text:style-name="T8"> </text:span></text:span><text:span text:style-name="Internet_20_link"><text:span text:style-name="T12">App Signing</text:span></text:span></text:a><text:span text:style-name="T8">.)</text:span></text:p>
     </text:list-item>
@@ -32444,7 +32444,7 @@
    <text:p text:style-name="P10" loext:marker-style-name="T8"/>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark text:name="_What_information_should"/><text:bookmark-start text:name="_Toc233660100"/>What information should I include in the About page?<text:bookmark-end text:name="_Toc233660100"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T8"><text:span text:style-name="T8">The About page can contain any information. What you include is your choice, but commonly included items include:</text:span><text:span text:style-name="T8"/></text:p>
-   <text:list xml:id="list3342887780" text:style-name="WWNum5">
+   <text:list xml:id="list4166737947" text:style-name="WWNum5">
     <text:list-item>
      <text:p text:style-name="P139" loext:marker-style-name="T8"><text:span text:style-name="T8">The app name and version</text:span><text:span text:style-name="T8"/></text:p>
     </text:list-item>
@@ -56209,7 +56209,7 @@
    <text:p text:style-name="P167" loext:marker-style-name="T67"><text:span text:style-name="T67">{&quot;startTime&quot;:&quot;20180306T0835Z&quot;,&quot;period&quot;:1440,&quot;id&quot;:&quot;12db7e3f-93d9-4370-b12b-fe048804e4f5&quot;,&quot;package&quot;:&quot;org.sil.picturebooks.cuk&quot;,&quot;version_name&quot;:&quot;1.0.1&quot;,&quot;sessions&quot;:1,&quot;sessionMins&quot;:21,&quot;shares&quot;:3}</text:span><text:span text:style-name="T67"/></text:p>
    <text:p text:style-name="P118" loext:marker-style-name="T67"/>
    <text:p text:style-name="P168">This sample is comprised of the following fields:</text:p>
-   <text:list xml:id="list3282037415" text:style-name="WWNum26">
+   <text:list xml:id="list1305283791" text:style-name="WWNum26">
     <text:list-item>
      <text:p text:style-name="P169"><text:soft-page-break/>One day of activity (1440 minutes), starting on 2018-03-06</text:p>
     </text:list-item>
@@ -70877,12 +70877,12 @@
    </table:table>
    <text:p text:style-name="P191" loext:marker-style-name="T8"/>
    <text:p text:style-name="P88" loext:marker-style-name="T64"><text:span text:style-name="T64">Contents Menu Items</text:span><text:span text:style-name="T64"/></text:p>
-   <text:list xml:id="list1845663090" text:style-name="WWNum27">
+   <text:list xml:id="list570807379" text:style-name="WWNum27">
     <text:list-item>
      <text:p text:style-name="P192" loext:marker-style-name="T4"><text:span text:style-name="T4">For each contents menu item you want to add, click the </text:span><text:span text:style-name="T64">Add Item…</text:span><text:span text:style-name="T4"> button and follow the </text:span><text:span text:style-name="T64">Add Contents Menu Item</text:span><text:span text:style-name="T4"> wizard to add the item to the screen.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list123652891928098" text:continue-list="list3282037415" text:style-name="WWNum26">
+   <text:list xml:id="list162149148200698" text:continue-list="list1305283791" text:style-name="WWNum26">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -73948,7 +73948,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P101" loext:marker-style-name="T4"/>
-   <text:list text:continue-list="list123652891928098" text:style-name="WWNum26">
+   <text:list text:continue-list="list162149148200698" text:style-name="WWNum26">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -74006,7 +74006,7 @@
    </text:list>
    <text:p text:style-name="P207" loext:marker-style-name="T4"><text:span text:style-name="T4">To add a rotating horizontal set of items, choose </text:span><text:span text:style-name="T64">Carousel</text:span><text:span text:style-name="T4"> and click </text:span><text:span text:style-name="T64">Next</text:span><text:span text:style-name="T4">. You can then choose an optional heading (title and subtitle) above the row. Click </text:span><text:span text:style-name="T64">Next</text:span><text:span text:style-name="T4">. Then, on the </text:span><text:span text:style-name="T64">Carousel Menu Items</text:span><text:span text:style-name="T4"> screen, add items, one by one. Choose their target location, layout, image, title and subtitle.</text:span></text:p>
    <text:p text:style-name="P207" loext:marker-style-name="T4"><text:span text:style-name="T4">You can select several items in your contents menu, right-click and choose </text:span><text:span text:style-name="T64">Group into Carousel</text:span><text:span text:style-name="T4"> to facilitate creating a carousel of items. You can also select an already made carousel, right-click and choose </text:span><text:span text:style-name="T64">Ungroup to single items</text:span><text:span text:style-name="T4"> to split the items back into separate elements.</text:span></text:p>
-   <text:list xml:id="list123653951950819" text:continue-numbering="true" text:style-name="WWNum26">
+   <text:list xml:id="list162150171805644" text:continue-numbering="true" text:style-name="WWNum26">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -74020,7 +74020,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P207" loext:marker-style-name="T4"><text:span text:style-name="T4">To add one or more items from a </text:span><text:span text:style-name="T64">News Feed</text:span><text:span text:style-name="T4">, select </text:span><text:span text:style-name="T64">Feed</text:span><text:span text:style-name="T4">, then choose an available </text:span><text:a xlink:type="simple" xlink:href="#_Notifications" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T4">News Feed</text:span></text:span></text:a><text:span text:style-name="T4"> and the number of items from the feed you would like to display.</text:span></text:p>
-   <text:list text:continue-list="list1845663090" text:style-name="WWNum27">
+   <text:list text:continue-list="list570807379" text:style-name="WWNum27">
     <text:list-item>
      <text:p text:style-name="P192" loext:marker-style-name="T4"><text:span text:style-name="T4">You can reorder the items on the screen by selecting rows in the table and dragging up or down.</text:span><text:span text:style-name="T4"/></text:p>
     </text:list-item>
@@ -102102,7 +102102,7 @@
    <text:p text:style-name="P101" loext:marker-style-name="T4"/>
    <text:p text:style-name="P36" loext:marker-style-name="T64"><text:span text:style-name="T98">Audio file hosting</text:span><text:span text:style-name="T98"/></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T4"><text:span text:style-name="T4">Recommended storage locations for the files on the internet include:</text:span><text:span text:style-name="T4"/></text:p>
-   <text:list text:continue-list="list3342887780" text:style-name="WWNum5">
+   <text:list text:continue-list="list4166737947" text:style-name="WWNum5">
     <text:list-item>
      <text:p text:style-name="P139" loext:marker-style-name="T64"><text:span text:style-name="T12">A</text:span><text:span text:style-name="T64"> language-specific website</text:span></text:p>
     </text:list-item>
@@ -102110,7 +102110,7 @@
    <text:p text:style-name="P98" loext:marker-style-name="T4"><text:span text:style-name="T4">If you have a language-specific website for making resources available for download, you could place the audio files in a folder on the website.</text:span><text:span text:style-name="T4"/></text:p>
    <text:p text:style-name="P98" loext:marker-style-name="T4"><text:span text:style-name="T4">For example, if your website is called ‘www.ourlanguage.org’, you could upload the audio files to a folder called ‘audio’. The http address for your audio files would then be: http://www.ourlanguage.org/audio </text:span><text:span text:style-name="T4"/></text:p>
    <text:p text:style-name="P98" loext:marker-style-name="T4"><text:span text:style-name="T4">Your website administrator should be able to help you do this.</text:span><text:span text:style-name="T4"/></text:p>
-   <text:list xml:id="list123653381984428" text:continue-numbering="true" text:style-name="WWNum5">
+   <text:list xml:id="list162150774685394" text:continue-numbering="true" text:style-name="WWNum5">
     <text:list-item>
      <text:p text:style-name="P248" loext:marker-style-name="T64"><text:span text:style-name="T64">Cloud Storage Services</text:span><text:span text:style-name="T64"/></text:p>
     </text:list-item>
@@ -103415,7 +103415,7 @@
    <text:p text:style-name="P10" loext:marker-style-name="T8"/>
    <text:h text:style-name="P120" text:outline-level="3"><text:bookmark text:name="_How_can_I_5"/><text:bookmark-start text:name="_Toc233660191"/>How can I associate audio files with the text?<text:bookmark-end text:name="_Toc233660191"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T8"><text:span text:style-name="T8">Reading App Builder allows you to use two different types of audio file:</text:span><text:span text:style-name="T8"/></text:p>
-   <text:list xml:id="list1598449020" text:style-name="WWNum20">
+   <text:list xml:id="list3280043684" text:style-name="WWNum20">
     <text:list-item>
      <text:p text:style-name="P253" loext:marker-style-name="T8"><text:span text:style-name="T12">Audio files that correspond to a page of text in the app</text:span><text:span text:style-name="T8">, e.g. the audio recording of a page in a picture story book. These can be linked to timing files to enable synchronized highlighting of the text when the audio is playing.</text:span></text:p>
     </text:list-item>
@@ -103900,7 +103900,7 @@
     </draw:frame></text:p>
    <text:h text:style-name="P224" text:outline-level="3"><text:bookmark text:name="_How_can_I_4"/><text:bookmark-start text:name="_Toc233660196"/>How can I create subtitles from text and timing files?<text:bookmark-end text:name="_Toc233660196"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T79"><text:span text:style-name="T79">If you have text and timing files for audio synchronisation, Reading App Builder can create subtitle files for you. These can be of one of the following four formats:</text:span><text:span text:style-name="T79"/></text:p>
-   <text:list text:continue-list="list123653381984428" text:style-name="WWNum5">
+   <text:list text:continue-list="list162150774685394" text:style-name="WWNum5">
     <text:list-item>
      <text:p text:style-name="P268" loext:marker-style-name="T79"><text:span text:style-name="T79">SubRip SRT subtitles (.srt)</text:span><text:span text:style-name="T79"/></text:p>
     </text:list-item>
@@ -103920,7 +103920,7 @@
    <text:p text:style-name="Standard">Videos can be very powerful and engaging. However, they can also dramatically increase the size of your app if they are included in your app installer file. It is therefore recommended that you include links to online videos whenever possible.</text:p>
    <text:h text:style-name="P120" text:outline-level="3"><text:bookmark-start text:name="_Toc233660198"/>The <text:span text:style-name="T34">Videos</text:span> tab<text:bookmark-end text:name="_Toc233660198"/></text:h>
    <text:p text:style-name="P13" loext:marker-style-name="T8"><text:span text:style-name="T8">The app can handle two types of video:</text:span><text:span text:style-name="T8"/></text:p>
-   <text:list xml:id="list123655060189001" text:continue-list="list1598449020" text:style-name="WWNum20">
+   <text:list xml:id="list162150105030206" text:continue-list="list3280043684" text:style-name="WWNum20">
     <text:list-item>
      <text:p text:style-name="P254" loext:marker-style-name="T8"><text:span text:style-name="T12">Videos for offline use</text:span><text:span text:style-name="T8">--MP4 files which can be packaged within the app assets, distributed on memory cards, or downloaded from the internet for use and sharing offline.</text:span></text:p>
     </text:list-item>
@@ -104053,7 +104053,7 @@
    </text:list>
    <text:p text:style-name="P212" loext:marker-style-name="T79"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T79"><text:span text:style-name="T79">To specify where a video appears in a source book file, do the following:</text:span><text:span text:style-name="T79"/></text:p>
-   <text:list text:continue-list="list123655060189001" text:style-name="WWNum20">
+   <text:list text:continue-list="list162150105030206" text:style-name="WWNum20">
     <text:list-item>
      <text:p text:style-name="P253" loext:marker-style-name="T79"><text:span text:style-name="T110">Video markers in SFM book files</text:span><text:span text:style-name="T79">: Use the </text:span><text:span text:style-name="T114">\video</text:span><text:span text:style-name="T79"> marker, together with the ID of the video within an SFM book file, e.g.</text:span></text:p>
     </text:list-item>
@@ -105655,7 +105655,7 @@
    </text:list>
    <text:p text:style-name="List_20_Paragraph" loext:marker-style-name="T37"><text:span text:style-name="T37">You can specify from where the HTML Output retrieves any necessary audio files.</text:span><text:span text:style-name="T37"/></text:p>
    <text:p text:style-name="P250" loext:marker-style-name="T37"/>
-   <text:list xml:id="list123653950532812" text:continue-numbering="true" text:style-name="WWNum74">
+   <text:list xml:id="list162151120584159" text:continue-numbering="true" text:style-name="WWNum74">
     <text:list-item>
      <text:p text:style-name="P291" loext:marker-style-name="T103"><text:span text:style-name="T124">Progressive Web App</text:span><text:span text:style-name="T103"> tab</text:span></text:p>
     </text:list-item>
@@ -106120,7 +106120,7 @@
    <text:p text:style-name="P250" loext:marker-style-name="T37"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T103"><text:span text:style-name="T103">Export to HTML settings</text:span><text:span text:style-name="T103"/></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T37"><text:span text:style-name="T37">Selecting this displays the Export to HTML settings dialog box with two tabs:</text:span><text:span text:style-name="T37"/></text:p>
-   <text:list text:continue-list="list123653950532812" text:style-name="WWNum74">
+   <text:list text:continue-list="list162151120584159" text:style-name="WWNum74">
     <text:list-item>
      <text:p text:style-name="P291" loext:marker-style-name="T103"><text:span text:style-name="T124">Audio Files</text:span><text:span text:style-name="T103"> tab</text:span></text:p>
     </text:list-item>
@@ -124751,7 +124751,7 @@
    <text:p text:style-name="P10" loext:marker-style-name="T8"/>
    <text:h text:style-name="P111" text:outline-level="2" loext:marker-style-name="T8"><text:bookmark-start text:name="_Toc233660237"/><text:span text:style-name="T8">How do I define a picture story book?</text:span><text:bookmark-end text:name="_Toc233660237"/><text:span text:style-name="T8"/></text:h>
    <text:p text:style-name="P13" loext:marker-style-name="T4"><text:span text:style-name="T4">Picture story books can be defined in one of two formats:</text:span><text:span text:style-name="T4"/></text:p>
-   <text:list xml:id="list3164614675" text:style-name="WWNum7">
+   <text:list xml:id="list1721122727" text:style-name="WWNum7">
     <text:list-item>
      <text:p text:style-name="P304" loext:marker-style-name="T4"><text:a xlink:type="simple" xlink:href="#_What_do_picture" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T4">Microsoft Word (.docx) documents</text:span></text:span></text:a><text:span text:style-name="T4">, or</text:span></text:p>
     </text:list-item>
@@ -137297,7 +137297,7 @@
    <text:h text:style-name="P301" text:outline-level="1"><text:bookmark text:name="_Song_Books"/><text:bookmark-start text:name="_Toc233660246"/><text:bookmark-start text:name="_Ref459652851"/><text:soft-page-break/>Song Books<text:bookmark-end text:name="_Toc233660246"/><text:bookmark-end text:name="_Ref459652851"/></text:h>
    <text:h text:style-name="P111" text:outline-level="2" loext:marker-style-name="T8"><text:bookmark-start text:name="_Toc233660247"/><text:span text:style-name="T8">How do I define a song book?</text:span><text:bookmark-end text:name="_Toc233660247"/><text:span text:style-name="T8"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T8"><text:span text:style-name="T8">You can build a song book file similar to other book files, but with one song per &apos;page&apos;. </text:span><text:span text:style-name="T4">Song books are defined in one of two formats:</text:span></text:p>
-   <text:list text:continue-list="list3164614675" text:style-name="WWNum7">
+   <text:list text:continue-list="list1721122727" text:style-name="WWNum7">
     <text:list-item>
      <text:p text:style-name="P304" loext:marker-style-name="T4"><text:a xlink:type="simple" xlink:href="#_What_do_song" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T4">Microsoft Word (.docx) documents</text:span></text:span></text:a><text:span text:style-name="T4">, or</text:span></text:p>
     </text:list-item>
@@ -181979,7 +181979,7 @@
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
-   <text:list xml:id="list123654737621192" text:continue-numbering="true" text:style-name="WWNum11">
+   <text:list xml:id="list162150847690397" text:continue-numbering="true" text:style-name="WWNum11">
     <text:list-item>
      <text:p text:style-name="P331" loext:marker-style-name="T4"><text:span text:style-name="T4">Create the following paragraph styles:</text:span><text:span text:style-name="T4"/></text:p>
     </text:list-item>
@@ -182342,7 +182342,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P337" loext:marker-style-name="T4"><text:span text:style-name="T4">Do this for c, s, q1 and q2.</text:span><text:span text:style-name="T4"/></text:p>
-   <text:list xml:id="list123653576898888" text:continue-list="list123654737621192" text:style-name="WWNum11">
+   <text:list xml:id="list162149806926452" text:continue-list="list162150847690397" text:style-name="WWNum11">
     <text:list-item>
      <text:p text:style-name="P342" loext:marker-style-name="T4"><text:span text:style-name="T4">Apply the above styles to all the page numbers, song titles and the lines of the song lyrics. </text:span><text:span text:style-name="T4"/></text:p>
     </text:list-item>
@@ -227394,7 +227394,7 @@
    </table:table>
    <text:p text:style-name="P348" loext:marker-style-name="T8"/>
    <text:p text:style-name="P95" loext:marker-style-name="T8"><text:span text:style-name="T8">All of the songs are contained within a single Word document.</text:span><text:span text:style-name="T8"/></text:p>
-   <text:list text:continue-list="list123653576898888" text:style-name="WWNum11">
+   <text:list text:continue-list="list162149806926452" text:style-name="WWNum11">
     <text:list-item>
      <text:p text:style-name="P342" loext:marker-style-name="T4"><text:span text:style-name="T4">Save the document in </text:span><text:span text:style-name="T64">.docx</text:span><text:span text:style-name="T4"> format.</text:span></text:p>
     </text:list-item>
@@ -236532,7 +236532,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P10" loext:marker-style-name="T8"/>
-   <text:list xml:id="list123653903713340" text:continue-numbering="true" text:style-name="WWNum51">
+   <text:list xml:id="list162151390185477" text:continue-numbering="true" text:style-name="WWNum51">
     <text:list-item>
      <text:p text:style-name="P368" loext:marker-style-name="T8"><text:span text:style-name="T12">App Projects:</text:span><text:span text:style-name="T8"> RAB stores your app projects in this folder, with the subfolders named after each project. If you have a project selected in the Tree View, you can view its project folder by selecting </text:span><text:span text:style-name="T12">File</text:span><text:span text:style-name="T8"> </text:span><text:span text:style-name="T48"></text:span><text:span text:style-name="T8"> </text:span><text:span text:style-name="T12">View Project Folder</text:span><text:span text:style-name="T8">.</text:span></text:p>
     </text:list-item>
@@ -236551,7 +236551,7 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="P10" loext:marker-style-name="T8"/>
-   <text:list text:continue-list="list123653951950819" text:style-name="WWNum26">
+   <text:list text:continue-list="list162150171805644" text:style-name="WWNum26">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -236579,7 +236579,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P371" loext:marker-style-name="T8"><text:soft-page-break/></text:p>
-   <text:list text:continue-list="list123653903713340" text:style-name="WWNum51">
+   <text:list text:continue-list="list162151390185477" text:style-name="WWNum51">
     <text:list-item>
      <text:list>
       <text:list-item>
