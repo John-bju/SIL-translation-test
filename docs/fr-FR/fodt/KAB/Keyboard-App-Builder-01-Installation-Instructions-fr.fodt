@@ -6,10 +6,10 @@
 <meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">370628</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">65883</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">22386</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">44743</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">22782</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
   </config:config-item-set>
@@ -96,7 +96,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -120,7 +120,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">4291145</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4300286</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -155,7 +155,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Times New Roman1" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Times New Roman1" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -4415,7 +4415,7 @@
    <text:p text:style-name="P27" loext:marker-style-name="T1"/>
    <text:p text:style-name="P27" loext:marker-style-name="T1"/>
    <text:p text:style-name="P27" loext:marker-style-name="T1"/>
-   <text:p text:style-name="P28" loext:marker-style-name="T1"><draw:frame draw:style-name="fr3" draw:name="Picture 30" text:anchor-type="as-char" svg:width="5.3854in" svg:height="1.6709in" draw:z-index="0"><draw:image xlink:href="KAB01/1.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+   <text:p text:style-name="P28" loext:marker-style-name="T1"><draw:frame draw:style-name="fr3" draw:name="Picture 30" text:anchor-type="as-char" svg:width="5.3854in" svg:height="1.6709in" draw:z-index="0"><draw:image xlink:href="KAB01/1.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="P27" loext:marker-style-name="T1"/>
    <text:p text:style-name="P27" loext:marker-style-name="T1"/>
@@ -4432,7 +4432,7 @@
    <text:p text:style-name="P30" loext:marker-style-name="T4"/>
    <text:p text:style-name="P30" loext:marker-style-name="T4"/>
    <text:p text:style-name="P30" loext:marker-style-name="T4"/>
-   <text:p text:style-name="P28" loext:marker-style-name="T4"><draw:frame draw:style-name="fr2" draw:name="Picture 1" text:anchor-type="as-char" svg:width="1.2193in" svg:height="0.6646in" draw:z-index="0"><draw:image xlink:href="KAB01/2.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+   <text:p text:style-name="P28" loext:marker-style-name="T4"><draw:frame draw:style-name="fr2" draw:name="Picture 1" text:anchor-type="as-char" svg:width="1.2193in" svg:height="0.6646in" draw:z-index="0"><draw:image xlink:href="KAB01/2.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
      <svg:desc>Icône
 
 Description générée automatiquement</svg:desc>
@@ -4601,7 +4601,7 @@ Description générée automatiquement</svg:desc>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Pour construire une application, vous spécifiez les mises en page du clavier Keyman et les modèles lexicaux à utiliser, le nom de l&apos;application, les polices, les couleurs, les informations sur la boîte, les illustrations et les icônes. Keyboard App Builder va tout empaqueter ensemble et construire l&apos;application personnalisée pour vous. Vous l&apos;installerez ensuite sur votre appareil mobile, l&apos;envoyez aux autres par Bluetooth ou l&apos;application de transfert Wi-Fi, le partager sur des cartes mémoire microSD et le publier dans les magasins d&apos;applications sur Internet.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P31" loext:marker-style-name="T3"/>
    <text:p text:style-name="P31" loext:marker-style-name="T3"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T3"><draw:frame draw:style-name="fr2" draw:name="Image2" text:anchor-type="as-char" svg:width="6.0465in" svg:height="2.7563in" draw:z-index="0"><draw:image xlink:href="KAB01/3.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+   <text:p text:style-name="Standard" loext:marker-style-name="T3"><draw:frame draw:style-name="fr2" draw:name="Image2" text:anchor-type="as-char" svg:width="6.0465in" svg:height="2.7563in" draw:z-index="0"><draw:image xlink:href="KAB01/3.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="P42" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">To install Keyboard App Builder on </text:span><text:span text:style-name="T5">Windows</text:span><text:span text:style-name="T3">, please follow the instructions in section 2. Pour </text:span><text:span text:style-name="T5">Linux</text:span><text:span text:style-name="T3">, veuillez trouver les instructions dans la section 3.</text:span></text:p>
    <text:p text:style-name="P31" loext:marker-style-name="T3"/>
@@ -4647,7 +4647,7 @@ Description générée automatiquement</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P14" loext:marker-style-name="T3"><text:s/></text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc100826020"/><text:bookmark-start text:name="_Toc207703076"/><text:span text:style-name="T3">Installer le JDK à l&apos;aide de l&apos;assistant Installer JDK</text:span><text:bookmark-end text:name="_Toc100826020"/><text:bookmark-end text:name="_Toc207703076"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc207703076"/><text:bookmark-start text:name="_Toc100826020"/><text:span text:style-name="T3">Installer le JDK à l&apos;aide de l&apos;assistant Installer JDK</text:span><text:bookmark-end text:name="_Toc207703076"/><text:bookmark-end text:name="_Toc100826020"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="P46" loext:marker-style-name="T3"><text:span text:style-name="T3">The easiest way to install the Java Development Kit (JDK) is to use the Install JDK wizard within Keyboard App Builder:</text:span><text:span text:style-name="T3"/></text:p>
    <text:list text:style-name="WWNum45">
     <text:list-item>
@@ -4662,7 +4662,7 @@ Description générée automatiquement</svg:desc>
    </text:list>
    <text:p text:style-name="P47" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Si le JDK a été installé avec succès, sautez la section 2.2.2 et allez à la section 2.3 pour installer le SDK Android.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T3"/>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc100826021"/><text:bookmark-start text:name="_Toc207703077"/><text:span text:style-name="T3">Installation du JDK à partir du site web</text:span><text:bookmark-end text:name="_Toc100826021"/><text:bookmark-end text:name="_Toc207703077"/><text:bookmark-end text:name="_Hlk534311866"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc207703077"/><text:bookmark-start text:name="_Toc100826021"/><text:span text:style-name="T3">Installation du JDK à partir du site web</text:span><text:bookmark-end text:name="_Toc207703077"/><text:bookmark-end text:name="_Toc100826021"/><text:bookmark-end text:name="_Hlk534311866"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="P46" loext:marker-style-name="T3"><text:span text:style-name="T3">Nous vous recommandons d&apos;utiliser Zulu, qui est une distribution gratuite d&apos;OpenJDK d&apos;Azul.</text:span><text:span text:style-name="T3"/></text:p>
    <text:list text:style-name="WWNum41">
     <text:list-item>
@@ -4702,7 +4702,7 @@ Description générée automatiquement</svg:desc>
       <draw:handle draw:handle-range-y-maximum="100000" draw:handle-range-y-minimum="0" draw:handle-position="?f13 ?f8"/>
       <draw:handle draw:handle-range-x-maximum="?f1" draw:handle-range-x-minimum="0" draw:handle-position="?f5 0"/>
      </draw:enhanced-geometry>
-    </draw:custom-shape><draw:frame draw:style-name="fr2" draw:name="Image3" text:anchor-type="as-char" svg:width="5.9846in" svg:height="2.5575in" draw:z-index="0"><draw:image xlink:href="KAB01/4.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+    </draw:custom-shape><draw:frame draw:style-name="fr2" draw:name="Image3" text:anchor-type="as-char" svg:width="5.9846in" svg:height="2.5575in" draw:z-index="0"><draw:image xlink:href="KAB01/4.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
      <svg:desc>A screenshot of a computer
 
 Description automatically generated</svg:desc>
@@ -4746,7 +4746,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P21" loext:marker-style-name="T3"><text:span text:style-name="T3">Voir la version 2.3.2 pour plus de détails.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P31" loext:marker-style-name="T3"/>
    <text:p text:style-name="P31" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc77851809"/><text:bookmark-start text:name="_Toc207703079"/><text:bookmark-start text:name="_Toc77854175"/><text:span text:style-name="T3">Téléchargement des packages SDK Android depuis l&apos;internet</text:span><text:bookmark-end text:name="_Toc77851809"/><text:bookmark-end text:name="_Toc207703079"/><text:bookmark-end text:name="_Toc77854175"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc77854175"/><text:bookmark-start text:name="_Toc207703079"/><text:bookmark-start text:name="_Toc77851809"/><text:span text:style-name="T3">Téléchargement des packages SDK Android depuis l&apos;internet</text:span><text:bookmark-end text:name="_Toc77854175"/><text:bookmark-end text:name="_Toc207703079"/><text:bookmark-end text:name="_Toc77851809"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">To install the Android SDK from the internet: </text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P31" loext:marker-style-name="T3"><text:s/></text:p>
    <text:list text:style-name="WWNum28">
@@ -4787,7 +4787,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P37" loext:marker-style-name="T3"/>
    <text:p text:style-name="P55" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Si l&apos;installation a réussi, vous verrez les numéros de version affichés en vert.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P39" loext:marker-style-name="T5"/>
-   <text:p text:style-name="P28" loext:marker-style-name="T25"><draw:frame draw:style-name="fr2" draw:name="Picture 2" text:anchor-type="as-char" svg:width="5.9862in" svg:height="3.8543in" draw:z-index="0"><draw:image xlink:href="KAB01/5.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+   <text:p text:style-name="P28" loext:marker-style-name="T25"><draw:frame draw:style-name="fr2" draw:name="Picture 2" text:anchor-type="as-char" svg:width="5.9862in" svg:height="3.8543in" draw:z-index="0"><draw:image xlink:href="KAB01/5.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="P31" loext:marker-style-name="T3"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3"><text:line-break/>If any of the Build Tools, Platform Tools or Platform API is listed as “Not Found” (displayed in red), go to </text:span><text:span text:style-name="T6">Tools</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T22"></text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T6">Settings</text:span><text:span text:style-name="T3">, select the </text:span><text:span text:style-name="T6">Android SDK</text:span><text:span text:style-name="T3"> tab, and click the </text:span><text:span text:style-name="T6">Install Packages</text:span><text:span text:style-name="T3"> button to install them.</text:span></text:p>
@@ -4796,7 +4796,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P31" loext:marker-style-name="T3"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Vous pouvez sauter la section 2.3.2 et aller directement à la section 2.4.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc77851810"/><text:bookmark-start text:name="_Toc207703080"/><text:bookmark-start text:name="_Toc77854176"/><text:span text:style-name="T3">Copie des fichiers SDK Android de quelqu&apos;un d&apos;autre</text:span><text:bookmark-end text:name="_Toc77851810"/><text:bookmark-end text:name="_Toc207703080"/><text:bookmark-end text:name="_Toc77854176"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc77854176"/><text:bookmark-start text:name="_Toc207703080"/><text:bookmark-start text:name="_Toc77851810"/><text:span text:style-name="T3">Copie des fichiers SDK Android de quelqu&apos;un d&apos;autre</text:span><text:bookmark-end text:name="_Toc77854176"/><text:bookmark-end text:name="_Toc207703080"/><text:bookmark-end text:name="_Toc77851810"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Si vous connaissez quelqu&apos;un qui a déjà téléchargé et installé le SDK Android et qui est en train de construire des applications avec succès, vous pouvez copier tous leurs fichiers SDK Android dans un dossier sur votre ordinateur.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P59" loext:marker-style-name="T3"><text:span text:style-name="T3">You need to look for the top-level Android SDK folder, such as </text:span><text:span text:style-name="T5">c:\sdk</text:span><text:span text:style-name="T3">, and copy the whole folder and its contents to your computer. Un emplacement tel que c:\sdk est bon. Si cela vous facilite la tâche, vous pouvez zipper les dossiers et les décompresser sur votre ordinateur.</text:span></text:p>
    <text:p text:style-name="P59" loext:marker-style-name="T3"><text:span text:style-name="T3">Note that there is </text:span><text:span text:style-name="T7">no setup program to run</text:span><text:span text:style-name="T3">. La copie des fichiers d&apos;un ordinateur vers un autre est suffisante.</text:span></text:p>
@@ -4919,7 +4919,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P31" loext:marker-style-name="T3"><text:s/></text:p>
    <text:p text:style-name="P31" loext:marker-style-name="T3"/>
    <text:p text:style-name="P31" loext:marker-style-name="T3"/>
-   <text:h text:style-name="P6" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc103154863"/><text:bookmark-start text:name="OLE_LINK2"/><text:bookmark-start text:name="OLE_LINK1"/><text:bookmark-start text:name="_Toc207703081"/><text:span text:style-name="T3">Installation Linux</text:span><text:bookmark-end text:name="_Toc103154863"/><text:bookmark-end text:name="_Toc207703081"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="P6" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc207703081"/><text:bookmark-start text:name="OLE_LINK1"/><text:bookmark-start text:name="OLE_LINK2"/><text:bookmark-start text:name="_Toc103154863"/><text:span text:style-name="T3">Installation Linux</text:span><text:bookmark-end text:name="_Toc207703081"/><text:bookmark-end text:name="_Toc103154863"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="P45" loext:marker-style-name="T3"><text:span text:style-name="T3">To run Keyboard App Builder on Linux, you need to have 3 components installed on your computer:</text:span><text:span text:style-name="T3"/></text:p>
    <text:list text:style-name="WWNum33">
     <text:list-item>
@@ -4942,7 +4942,7 @@ Description automatically generated</svg:desc>
      <text:p text:style-name="P23" loext:marker-style-name="T3"><text:a xlink:type="simple" xlink:href="https://packages.sil.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">SIL repository for Ubuntu</text:span></text:span></text:a> <text:span text:style-name="T3">– available for some versions of Ubuntu-based distributions (including </text:span><text:a xlink:type="simple" xlink:href="https://www.wastalinux.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">Wasta-Linux</text:span></text:span></text:a><text:span text:style-name="T3">) </text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P10" text:outline-level="2"><text:bookmark-start text:name="_Toc207700814"/><text:bookmark-start text:name="_Toc207703082"/><text:soft-page-break/>Flathub<text:bookmark-end text:name="_Toc207700814"/><text:bookmark-end text:name="_Toc207703082"/></text:h>
+   <text:h text:style-name="P10" text:outline-level="2"><text:bookmark-start text:name="_Toc207703082"/><text:bookmark-start text:name="_Toc207700814"/><text:soft-page-break/>Flathub<text:bookmark-end text:name="_Toc207703082"/><text:bookmark-end text:name="_Toc207700814"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Flathub est requis pour Ubuntu 24.04 (Noble) et les distributions plus récentes ou autres distributions non-Ubuntu. Pour installer avec Flathub, suivez les instructions d&apos;installation à </text:span><text:a xlink:type="simple" xlink:href="https://flathub.org/setup" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">https://flathub.org/setup</text:span></text:span></text:a><text:span text:style-name="T3"> pour votre distribution spécifique. Recherchez le constructeur d&apos;applications Clavier dans la boutique spécifique à la distribution. Vous devrez installer le JDK et le SDK Android séparément. </text:span></text:p>
    <text:p text:style-name="P31" loext:marker-style-name="T3"/>
    <text:list text:style-name="WWNum48">
@@ -4953,7 +4953,7 @@ Description automatically generated</svg:desc>
      <text:p text:style-name="P24" loext:marker-style-name="T3"><text:span text:style-name="T3">Pour installer le SDK Android, voir la section 2.3.1 Téléchargement des paquets SDK Android depuis Internet.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P10" text:outline-level="2" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc207700815"/><text:bookmark-start text:name="_Toc207703083"/>Dépôt SIL pour Ubuntu<text:bookmark-end text:name="_Toc207700815"/><text:bookmark-end text:name="_Toc207703083"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="P10" text:outline-level="2" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc207703083"/><text:bookmark-start text:name="_Toc207700815"/>Dépôt SIL pour Ubuntu<text:bookmark-end text:name="_Toc207703083"/><text:bookmark-end text:name="_Toc207700815"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Le package Ubuntu pour Keyboard App Builder inclut déjà les dépendances sur le package pour OpenJDK et un package qui téléchargera le SDK Android à partir d&apos;Internet et l&apos;installera. </text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P31" loext:marker-style-name="T3"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:bookmark-start text:name="_Hlk534311954"/><text:span text:style-name="T3">Vous avez les options d&apos;installation suivantes pour l&apos;installation du SDK Android :</text:span><text:span text:style-name="T3"/></text:p>
@@ -4968,7 +4968,7 @@ Description automatically generated</svg:desc>
      <text:p text:style-name="P25" loext:marker-style-name="T3"><text:span text:style-name="T3">Suivez les instructions de la section 3.2.6 si vous avez déjà le SDK Android installé et que vous ne voulez pas qu&apos;une autre copie soit installée.</text:span><text:bookmark-end text:name="_Hlk534311954"/><text:span text:style-name="T3"/></text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="_Toc103154864"/><text:bookmark-start text:name="_Toc207703084"/>Ajouter un dépôt SIL pour Ubuntu<text:bookmark-end text:name="_Toc103154864"/><text:bookmark-end text:name="_Toc207703084"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="_Toc207703084"/><text:bookmark-start text:name="_Toc103154864"/>Ajouter un dépôt SIL pour Ubuntu<text:bookmark-end text:name="_Toc207703084"/><text:bookmark-end text:name="_Toc103154864"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Pour installer des paquets depuis le référentiel SIL pour Ubuntu, le référentiel doit être ajouté aux sources APT. </text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P31" loext:marker-style-name="T3"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T10">Note : </text:span><text:span text:style-name="T6">Wasta-Linux</text:span><text:span text:style-name="T3"> inclut déjà la configuration du dépôt SIL pour Ubuntu et vous pouvez ainsi sauter cette section.</text:span></text:p>
@@ -4994,16 +4994,16 @@ Description automatically generated</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Command_20_Line" loext:marker-style-name="T28"><text:span text:style-name="T28">(. /etc/os-release &amp;&amp; sudo tee /etc/apt/sources.list.d/packages-sil-org.list&gt;/dev/null &lt;&lt;&lt; &quot;deb http://packages.sil.org/$ID $VERSION_CODENAME main&quot;)</text:span><text:span text:style-name="T28"/></text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="_Toc103154865"/><text:bookmark-start text:name="_Toc207703085"/>Installation de tous les paquets à partir d&apos;Internet<text:bookmark-end text:name="_Toc103154865"/><text:bookmark-end text:name="_Toc207703085"/><text:bookmark text:name="OLE_LINK10"/><text:bookmark text:name="OLE_LINK9"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="_Toc207703085"/><text:bookmark-start text:name="_Toc103154865"/>Installation de tous les paquets à partir d&apos;Internet<text:bookmark-end text:name="_Toc207703085"/><text:bookmark-end text:name="_Toc103154865"/><text:bookmark text:name="OLE_LINK9"/><text:bookmark text:name="OLE_LINK10"/></text:h>
    <text:p text:style-name="P63" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">To install all the required software from the command line, type:</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P5">mise à jour de sudo apt-get</text:p>
    <text:p text:style-name="Command_20_Line">sudo apt-get install -y keyboard-app-builder</text:p>
    <text:p text:style-name="P31" loext:marker-style-name="T3"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Note : </text:span><text:span text:style-name="T5">Wasta-Linux</text:span><text:span text:style-name="T3"> n&apos;installe pas automatiquement les paquets recommandés. Pour tout installer, installez aussi l&apos;installateur android-sdk.</text:span></text:p>
-   <text:p text:style-name="Command_20_Line"><text:bookmark-start text:name="OLE_LINK3"/><text:bookmark-start text:name="OLE_LINK4"/>sudo apt-get install -y keyboard-app-builder android-sdk-installer\</text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-end text:name="OLE_LINK3"/><text:bookmark-end text:name="OLE_LINK4"/><text:bookmark-start text:name="_Toc207703086"/><text:bookmark-start text:name="_Toc103154866"/>Téléchargement des fichiers SDK Android avant l&apos;installation du paquet<text:bookmark-end text:name="_Toc207703086"/><text:bookmark-end text:name="_Toc103154866"/></text:h>
+   <text:p text:style-name="Command_20_Line"><text:bookmark-start text:name="OLE_LINK4"/><text:bookmark-start text:name="OLE_LINK3"/>sudo apt-get install -y keyboard-app-builder android-sdk-installer\</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-end text:name="OLE_LINK4"/><text:bookmark-end text:name="OLE_LINK3"/><text:bookmark-start text:name="_Toc103154866"/><text:bookmark-start text:name="_Toc207703086"/>Téléchargement des fichiers SDK Android avant l&apos;installation du paquet<text:bookmark-end text:name="_Toc103154866"/><text:bookmark-end text:name="_Toc207703086"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Le paquet </text:span><text:span text:style-name="T5">android-sdk-installer</text:span><text:span text:style-name="T3"> simplifie le téléchargement et l&apos;installation du SDK Android. Son comportement par défaut est de télécharger les fichiers appropriés depuis le dépôt de logiciels Android de Google pendant l&apos;installation. Si cela pose problème en raison de l&apos;utilisation de la bande passante pendant l&apos;installation, les fichiers peuvent être téléchargés avant l&apos;installation.</text:span></text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc103154867"/><text:bookmark-start text:name="_Toc207703087"/>Télécharger<text:span text:style-name="T3"> les fichiers SDK Android</text:span><text:bookmark-end text:name="_Toc103154867"/><text:bookmark-end text:name="_Toc207703087"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc207703087"/><text:bookmark-start text:name="_Toc103154867"/>Télécharger<text:span text:style-name="T3"> les fichiers SDK Android</text:span><text:bookmark-end text:name="_Toc207703087"/><text:bookmark-end text:name="_Toc103154867"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Sur un ordinateur connecté à Internet, utilisez les instructions de ligne de commande suivantes pour créer un nouveau dossier et télécharger 4 fichiers zip (environ 400Mo). </text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="Command_20_Line">mkdir -p ~/Téléchargements/android-sdk-zips</text:p>
    <text:p text:style-name="Command_20_Line">cd ~/Téléchargements/android-sdk-zips</text:p>
@@ -5011,22 +5011,22 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P64" loext:marker-style-name="T29"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Note : l&apos;option -c permettra de reprendre les téléchargements en cas d&apos;échec partiel.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P64" loext:marker-style-name="T29"/>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc103154868"/><text:bookmark-start text:name="_Toc207703088"/><text:span text:style-name="T3">Fournir des fichiers zip pendant l&apos;installation du paquet</text:span><text:bookmark-end text:name="_Toc103154868"/><text:bookmark-end text:name="_Toc207703088"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc207703088"/><text:bookmark-start text:name="_Toc103154868"/><text:span text:style-name="T3">Fournir des fichiers zip pendant l&apos;installation du paquet</text:span><text:bookmark-end text:name="_Toc207703088"/><text:bookmark-end text:name="_Toc103154868"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="P65" loext:marker-style-name="T3"><text:span text:style-name="T3">Use </text:span><text:span text:style-name="T5">debconf</text:span><text:span text:style-name="T3"> to pre-seed the package with the location of the files and install the package.</text:span></text:p>
    <text:p text:style-name="Command_20_Line"><text:soft-page-break/>echo android-sdk-installer android-sdk-installer/dldir string ~/Downloads/android-sdk-zips | sudo debconf-set-selections</text:p>
    <text:p text:style-name="Command_20_Line">sudo apt-get install android-sdk-installer</text:p>
    <text:p text:style-name="Command_20_Line">echo android-sdk-installer android-sdk-installer/dldir string | sudo debconf-set-selections</text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="_Toc103154869"/><text:bookmark-start text:name="_Toc207703089"/>Installation sans SDK Android<text:bookmark-end text:name="_Toc103154869"/><text:bookmark-end text:name="_Toc207703089"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="_Toc207703089"/><text:bookmark-start text:name="_Toc103154869"/>Installation sans SDK Android<text:bookmark-end text:name="_Toc207703089"/><text:bookmark-end text:name="_Toc103154869"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">The </text:span><text:span text:style-name="T5">android-sdk-installer</text:span><text:span text:style-name="T3"> package is a recommended package for the </text:span><text:span text:style-name="T5">keyboard-app-builder</text:span><text:span text:style-name="T3"> package. Si le SDK Android est déjà installé, Keyboard App Builder peut utiliser l&apos;installation actuelle.</text:span></text:p>
    <text:p text:style-name="Command_20_Line">mise à jour de sudo apt-get</text:p>
    <text:p text:style-name="Command_20_Line">sudo apt-get install keyboard-app-builder --no-install-recommends</text:p>
    <text:p text:style-name="P66" loext:marker-style-name="T3"><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Définissez la variable d&apos;environnement ANDROID_HOME sur le chemin de l&apos;installation Android SDK pour permettre au constructeur d&apos;applications de Clavier de le trouver automatiquement. Otherwise you can use the </text:span><text:span text:style-name="T5">Tools</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T22"></text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T5">Settings</text:span><text:span text:style-name="T3"> dialog in Keyboard App Builder to specify the path.</text:span></text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="_Toc103154870"/><text:bookmark-start text:name="_Toc207703090"/><text:soft-page-break/>Automatisation de l&apos;installation d&apos;Android SDK<text:bookmark-end text:name="_Toc103154870"/><text:bookmark-end text:name="_Toc207703090"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="_Toc207703090"/><text:bookmark-start text:name="_Toc103154870"/><text:soft-page-break/>Automatisation de l&apos;installation d&apos;Android SDK<text:bookmark-end text:name="_Toc207703090"/><text:bookmark-end text:name="_Toc103154870"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Le </text:span><text:span text:style-name="T5">android-sdk-installer</text:span><text:span text:style-name="T3"> vous invitera à accepter la licence pour le SDK Android. Pour automatiser l&apos;installation (par exemple dans un livre de lecture Ansible), pré-ensemencez la réponse à cette question.</text:span></text:p>
    <text:p text:style-name="P3">echo android-sdk-installer android-sdk-installer/accepted-android-sdk-eula boolean true | sudo debconf-set-selections</text:p>
    <text:p text:style-name="Command_20_Line">sudo apt-get install android-sdk-installer</text:p>
-   <text:p text:style-name="P31" loext:marker-style-name="T3"><text:bookmark-end text:name="OLE_LINK1"/><text:bookmark-end text:name="OLE_LINK2"/></text:p>
+   <text:p text:style-name="P31" loext:marker-style-name="T3"><text:bookmark-end text:name="OLE_LINK2"/><text:bookmark-end text:name="OLE_LINK1"/></text:p>
    <text:p text:style-name="P31" loext:marker-style-name="T3"/>
    <text:h text:style-name="P7" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc207703091"/><text:span text:style-name="T3">Comment construire votre première application</text:span><text:bookmark-end text:name="_Toc207703091"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">To build your first app with Keyboard App Builder, follow the instructions in the first chapter of the document </text:span><text:span text:style-name="T4">‘</text:span><text:span text:style-name="T3">Keyboard </text:span><text:span text:style-name="T4">App Builder – 2 Building Apps’</text:span><text:span text:style-name="T3">.</text:span></text:p>
