@@ -96,7 +96,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -120,7 +120,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">5963365</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">6154371</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -154,7 +154,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Calibri" fo:font-size="11pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Calibri2" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="DejaVu Sans" style:font-size-complex="11pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -55201,7 +55201,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="https://www.youtube.com/watch?v=oY3BrpoVbGI&amp;list=PLoDMmx9LIxpPcT2qrXQXAkda5pcvuWIdh" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:soft-page-break/><text:span text:style-name="Internet_20_link">Jesus calms the storm – in the Juni Kuin language of Peru</text:span></text:a></text:p>
    <text:p text:style-name="Standard"><text:line-break/>The videos are MP4 files which can be shared with others, uploaded to YouTube or Vimeo, or integrated within a Scripture app.</text:p>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list213906126777419" text:continue-numbering="true" text:style-name="WWNum17">
+   <text:list xml:id="list164419969059499" text:continue-numbering="true" text:style-name="WWNum17">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -55220,7 +55220,7 @@ Description automatically generated</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
-   <text:list text:continue-list="list213906126777419" text:style-name="WWNum17">
+   <text:list text:continue-list="list164419969059499" text:style-name="WWNum17">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -55285,7 +55285,7 @@ Description automatically generated</svg:desc>
    </table:table>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list213904987728531" text:continue-numbering="true" text:style-name="WWNum17">
+   <text:list xml:id="list164418727416283" text:continue-numbering="true" text:style-name="WWNum17">
     <text:list-item>
      <text:h text:style-name="P23" text:outline-level="1"><text:bookmark-start text:name="_Toc112848940"/>Setting up slideshow videos<text:bookmark-end text:name="_Toc112848940"/> </text:h>
     </text:list-item>
@@ -55301,7 +55301,7 @@ Description automatically generated</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list213905775107531" text:continue-list="list213904987728531" text:style-name="WWNum17">
+   <text:list xml:id="list164419372799703" text:continue-list="list164418727416283" text:style-name="WWNum17">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -55719,7 +55719,7 @@ Description automatically generated</svg:desc>
    </text:list>
    <text:p text:style-name="P7">The installation process will allow you to set the folder where the templates will be located on your computer. Once installed, this folder will appear in the <text:span text:style-name="T11">Slideshow Templates </text:span>settings.</text:p>
    <text:p text:style-name="P8"><text:line-break/> </text:p>
-   <text:list xml:id="list213906845135547" text:continue-list="list213905775107531" text:style-name="WWNum17">
+   <text:list xml:id="list164420437715900" text:continue-list="list164419372799703" text:style-name="WWNum17">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -55742,7 +55742,7 @@ Description automatically generated</svg:desc>
    </text:list>
    <text:p text:style-name="P19" loext:marker-style-name="T4"/>
    <text:p text:style-name="P19" loext:marker-style-name="T4"/>
-   <text:list text:continue-list="list213906845135547" text:style-name="WWNum17">
+   <text:list text:continue-list="list164420437715900" text:style-name="WWNum17">
     <text:list-item>
      <text:h text:style-name="P24" text:outline-level="1"><text:bookmark-start text:name="_Toc112848943"/>Preparing an app project for slideshow videos<text:bookmark-end text:name="_Toc112848943"/></text:h>
     </text:list-item>
@@ -56083,7 +56083,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="Standard">Use <text:span text:style-name="T11">Fine Tune Timings</text:span> to verify that the timings are correct.</text:p>
    <text:p text:style-name="Standard"><text:soft-page-break/></text:p>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list213907004355475" text:continue-numbering="true" text:style-name="WWNum17">
+   <text:list xml:id="list164419365874853" text:continue-numbering="true" text:style-name="WWNum17">
     <text:list-item>
      <text:h text:style-name="P25" text:outline-level="1"><text:bookmark-start text:name="_Toc112848944"/>Running the Create Slideshow Wizard<text:bookmark-end text:name="_Toc112848944"/></text:h>
     </text:list-item>
@@ -57359,7 +57359,7 @@ Description automatically generated</svg:desc>
    </text:list>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
-   <text:list text:continue-list="list213907004355475" text:style-name="WWNum17">
+   <text:list text:continue-list="list164419365874853" text:style-name="WWNum17">
     <text:list-item>
      <text:h text:style-name="P24" text:outline-level="1"><text:bookmark-start text:name="_Toc112848945"/><text:soft-page-break/>Distributing and using the videos<text:bookmark-end text:name="_Toc112848945"/></text:h>
     </text:list-item>
