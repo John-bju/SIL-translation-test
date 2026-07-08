@@ -1,16 +1,16 @@
 # SIL Translation Test
-#
+
 ### Description
 This repo is for documentation of SAB, RAB, DAB, KAB which aims to keep a version history of all documents and translate all documents into a multitiude of languages via crowdin.
-#
-#
-#
+
+
+
 # How to Use
 ### Submitting
 Documents can be submitted into the main branch and all submittions should be fodt files and be added (or modifed) in docs-en/fodt/<app builder name>/<file> for example "docs-en/fodt/SAB"
-#
-#
-#
+
+
+
 ### Crowdin Sync
 Crowdin devoloped a github intergration allowing Github Workflows to sned and recive files with Crowdin projects. This intergration is used to sync this github repo and the Crowdin project allowing translations to be created downloaded into a seperate branch named "translations". 
 
