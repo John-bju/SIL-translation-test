@@ -83,7 +83,7 @@ jobs:
               echo "Converting $file"
               outdir="$(dirname "$file")"
               project_dirname="$(basename "$outdir")"
-              cp "$file" "docs/$dir/fodt/$project_dirname"
+              cp "$file" "docs/fr-FR/fodt/$project_dirname"
             done
           done
 
