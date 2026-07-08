@@ -74,6 +74,11 @@ jobs:
             timeout 60s libreoffice --headless --invisible "macro:///Standard.Module1.SaveAndExitDocument" "$file"
           done
 
+
+      - name: Copy image folders
+        run: |
+          echo hi
+
           
       - name: Convert English FODT files to PDF
         run: |
