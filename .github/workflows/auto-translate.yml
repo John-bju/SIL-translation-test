@@ -81,7 +81,7 @@ jobs:
             #echo "Converting $file"
             outdir="$(dirname "$file")"
             project_dirname="$(basename "$outdir")"
-            echo "$file" "$project_dirname"
+            echo "$file" $outdir "$project_dirname"
           done
 
 
