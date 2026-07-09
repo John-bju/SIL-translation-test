@@ -77,11 +77,14 @@ jobs:
 
       - name: Copy image folders
         run: |
-          find images -type f -name "*" | while read file; do
-            #echo "Converting $file"
-            outdir="$(dirname "$file")"
-            project_dirname="$(basename "$outdir")"
-            echo "$file" $outdir "$project_dirname"
+          dirs="$(ls docs/)"
+          for dir in $dirs; do
+            find images -type f -name "*" | while read file; do
+              #echo "Converting $file"
+              outdir="$(dirname "$file")"
+              project_dirname="$(basename "$outdir")"
+              echo "$file" $outdir "$project_dirname" $dir
+            done
           done
 
 
