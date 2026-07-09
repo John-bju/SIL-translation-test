@@ -96,7 +96,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -120,7 +120,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">4973079</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">5172992</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">true</config:config-item>
@@ -152,7 +152,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Times New Roman1" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Times New Roman1" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -4468,7 +4468,7 @@
    </text:table-of-content>
    <text:p text:style-name="P50" loext:marker-style-name="T22"/>
    <text:p text:style-name="P51" loext:marker-style-name="T22"/>
-   <text:list xml:id="list2385429495" text:style-name="WWNum13">
+   <text:list xml:id="list3616838925" text:style-name="WWNum13">
     <text:list-item>
      <text:h text:style-name="P7" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc500235211"/><text:span text:style-name="T3">Introduction</text:span><text:bookmark-end text:name="_Toc500235211"/><text:span text:style-name="T3"/></text:h>
     </text:list-item>
@@ -4626,7 +4626,7 @@
    <text:p text:style-name="P25" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
    <text:p text:style-name="P25" loext:marker-style-name="T3"><text:s/></text:p>
    <text:p text:style-name="P25" loext:marker-style-name="T3"/>
-   <text:list xml:id="list213224066641766" text:continue-list="list2385429495" text:style-name="WWNum13">
+   <text:list xml:id="list220032408188383" text:continue-list="list3616838925" text:style-name="WWNum13">
     <text:list-item>
      <text:h text:style-name="P7" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc500235212"/><text:span text:style-name="T3">Démarrer</text:span><text:bookmark-end text:name="_Toc500235212"/><text:span text:style-name="T3"/></text:h>
      <text:list>
@@ -4796,7 +4796,7 @@
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">You can define which characters are recognised as phrase ending characters in the </text:span><text:span text:style-name="T7">Features</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T35"></text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T7">Audio</text:span><text:span text:style-name="T3"> page of Scripture App Builder. Par défaut, il est : un point d&apos;arrêt complet (.), un point d&apos;interrogation (?), un point d&apos;exclamation (!), un point virgule (:) et une virgule (,).</text:span></text:p>
    <text:p text:style-name="P25" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
    <text:p text:style-name="P25" loext:marker-style-name="T3"/>
-   <text:list text:continue-list="list213224066641766" text:style-name="WWNum13">
+   <text:list text:continue-list="list220032408188383" text:style-name="WWNum13">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4942,7 +4942,7 @@
      </draw:image>
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="P25" loext:marker-style-name="T3"/>
-   <text:list xml:id="list213225556415659" text:continue-numbering="true" text:style-name="WWNum13">
+   <text:list xml:id="list220033326830910" text:continue-numbering="true" text:style-name="WWNum13">
     <text:list-item>
      <text:h text:style-name="P10" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc500235215"/><text:span text:style-name="T3">Produire des fichiers de Timing</text:span><text:bookmark-end text:name="_Toc500235215"/><text:span text:style-name="T3"/></text:h>
     </text:list-item>
@@ -10068,7 +10068,7 @@
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Le fichier de timing est maintenant prêt à être utilisé dans une application.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P25" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
    <text:p text:style-name="P25" loext:marker-style-name="T3"><text:s/></text:p>
-   <text:list xml:id="list213224112675296" text:continue-list="list213225556415659" text:style-name="WWNum13">
+   <text:list xml:id="list220033991341267" text:continue-list="list220033326830910" text:style-name="WWNum13">
     <text:list-item>
      <text:h text:style-name="P8" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc500235216"/><text:span text:style-name="T3">Assistant</text:span><text:bookmark-end text:name="_Toc500235216"/><text:span text:style-name="T3"/></text:h>
     </text:list-item>
@@ -10132,7 +10132,7 @@
      <text:p text:style-name="P87" loext:marker-style-name="T3"><text:span text:style-name="T3">Cliquez sur l&apos;icône dans la barre des tâches et sélectionnez </text:span><text:span text:style-name="T8">Quitter</text:span><text:span text:style-name="T3">.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list213225459661327" text:continue-list="list213224112675296" text:style-name="WWNum13">
+   <text:list xml:id="list220032893887487" text:continue-list="list220033991341267" text:style-name="WWNum13">
     <text:list-item>
      <text:h text:style-name="P9" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc500235217"/><text:span text:style-name="T3">Conseils d&apos;utilisation</text:span><text:bookmark-end text:name="_Toc500235217"/><text:span text:style-name="T3"/></text:h>
      <text:list>
@@ -10723,7 +10723,7 @@
    </text:list>
    <text:p text:style-name="P39" loext:marker-style-name="T3"/>
    <text:p text:style-name="P34" loext:marker-style-name="T3"><text:s/></text:p>
-   <text:list xml:id="list213224743092396" text:continue-list="list213225459661327" text:style-name="WWNum13">
+   <text:list xml:id="list220034125419449" text:continue-list="list220032893887487" text:style-name="WWNum13">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -11664,7 +11664,7 @@
    </text:list>
    <text:p text:style-name="P25" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
    <text:p text:style-name="P25" loext:marker-style-name="T3"><text:s/></text:p>
-   <text:list text:continue-list="list213224743092396" text:style-name="WWNum13">
+   <text:list text:continue-list="list220034125419449" text:style-name="WWNum13">
     <text:list-item>
      <text:h text:style-name="P9" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc500235220"/><text:span text:style-name="T3">FAQ</text:span><text:bookmark-end text:name="_Toc500235220"/><text:span text:style-name="T3"/></text:h>
      <text:list>
@@ -11679,7 +11679,7 @@
    <text:p text:style-name="P40" loext:marker-style-name="T7"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Vous pouvez ajouter des caractères Unicode ici en utilisant le format \uABCD où ABCD est le point de code hexadécimal Unicode, e. . \u061F pour un point d&apos;interrogation arabe, \u1362 pour un arrêt complet éthiopien.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T7"/>
-   <text:list xml:id="list213224147078800" text:continue-numbering="true" text:style-name="WWNum13">
+   <text:list xml:id="list220032520650443" text:continue-numbering="true" text:style-name="WWNum13">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -11722,7 +11722,7 @@
    <text:p text:style-name="P40" loext:marker-style-name="T7"/>
    <text:p text:style-name="P40" loext:marker-style-name="T7"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Dans cette chanson, étiquetez l&apos;audio comme suit :</text:span><text:span text:style-name="T3"/></text:p>
-   <text:list xml:id="list4286203572" text:style-name="WWNum8">
+   <text:list xml:id="list775888004" text:style-name="WWNum8">
     <text:list-item>
      <text:p text:style-name="P92" loext:marker-style-name="T3"><text:span text:style-name="T27">An Fa Ala, Dubatigi, </text:span><text:span text:style-name="T32">(étiqueté « a »)</text:span></text:p>
     </text:list-item>
@@ -11756,7 +11756,7 @@
    <text:p text:style-name="P25" loext:marker-style-name="T3"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Pour un chapitre plus long, vous allez bientôt manquer de lettres de l&apos;alphabet. Lorsque vous arrivez à “z”, l’étiquette suivante que vous devez utiliser est “aa”, puis “ab”, “ac”, “ad”, etc. Lorsque vous arrivez à “az”, l’étiquette suivante que vous devez utiliser est “ba”, puis “bb”, “bc”, “bd”, etc. En d&apos;autres termes, cela suit une convention de nommage similaire aux noms de colonnes dans une feuille de calcul.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T7"/>
-   <text:list xml:id="list213224877340867" text:continue-list="list213224147078800" text:style-name="WWNum13">
+   <text:list xml:id="list220034064185453" text:continue-list="list220032520650443" text:style-name="WWNum13">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -11778,7 +11778,7 @@
     </draw:frame><text:span text:style-name="T6">Exemple :</text:span><text:span text:style-name="T6"/></text:p>
    <text:p text:style-name="P25" loext:marker-style-name="T3"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">In this chapter, verse 1 can be split into two sections, split by the “.” in the middle:</text:span><text:span text:style-name="T3"/></text:p>
-   <text:list text:continue-list="list4286203572" text:style-name="WWNum8">
+   <text:list text:continue-list="list775888004" text:style-name="WWNum8">
     <text:list-item>
      <text:p text:style-name="P92" loext:marker-style-name="T3"><text:span text:style-name="T27">Yesu ya se Zhude fiige ki ni, Bɛtilɛhɛmu ni, saannaa Hɛrɔdi caŋa ɲii ni. </text:span><text:span text:style-name="T27"/></text:p>
     </text:list-item>
@@ -11812,7 +11812,7 @@
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Unless the comma has been added to the normal phrase-ending characters in </text:span><text:span text:style-name="T7">Features</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T35"></text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T7">Audio, </text:span><text:span text:style-name="T3">verse 2 will revert to being treated as a whole (labelled as “2”) or split into three with the normal characters. Il peut être divisé en six sections si vous commencez par l&apos;étiquette « 2 ».</text:span></text:p>
    <text:p text:style-name="P25" loext:marker-style-name="T3"/>
    <text:p text:style-name="P40" loext:marker-style-name="T7"/>
-   <text:list text:continue-list="list213224877340867" text:style-name="WWNum13">
+   <text:list text:continue-list="list220034064185453" text:style-name="WWNum13">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -12100,7 +12100,7 @@
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="P25" loext:marker-style-name="T3"/>
    <text:p text:style-name="P40" loext:marker-style-name="T7"/>
-   <text:list xml:id="list213223997341199" text:continue-numbering="true" text:style-name="WWNum13">
+   <text:list xml:id="list220034155730200" text:continue-numbering="true" text:style-name="WWNum13">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -13213,7 +13213,7 @@
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Pour créer une plage d&apos;étiquettes, faites glisser la partie &lt; ou &gt; du marqueur d&apos;étiquette.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P25" loext:marker-style-name="T3"><text:s/></text:p>
    <text:p text:style-name="P25" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
-   <text:list text:continue-list="list213223997341199" text:style-name="WWNum13">
+   <text:list text:continue-list="list220034155730200" text:style-name="WWNum13">
     <text:list-item>
      <text:list>
       <text:list-item>
