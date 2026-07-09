@@ -77,18 +77,15 @@ jobs:
 
       - name: Copy image folders
         run: |
-          dirs="$(ls images/)"
-          for dir in $dirs; do
-            find images -type f -name "*" | while read file; do
-              #echo "Converting $file"
-              outdir="$(dirname "$file")"
-              project_dirname="$(basename "$outdir")"
-              #cp "$file" "docs/fr-FR/fodt/$project_dirname"
-              echo $dir $outdir $project_dirname
-            done
+          find images -type f -name "*" | while read file; do
+            #echo "Converting $file"
+            outdir="$(dirname "$file")"
+            project_dirname="$(basename "$outdir")"
+            echo "$file" "$project_dirname"
           done
 
-          
+
+
       - name: Convert English FODT files to PDF
         run: |
           find docs-en -type f -name "*.fodt" | while read file; do
