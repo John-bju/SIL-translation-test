@@ -80,10 +80,11 @@ jobs:
           dirs="$(ls docs/)"
           for dir in $dirs; do
             find images -type f -name "*" | while read file; do
-              #echo "Converting $file"
+              echo "Converting $file"
               outdir="$(dirname "$file")"
               project_dirname="$(basename "$outdir")"
-              echo "$file" $outdir "$project_dirname" $dir
+              mkdir -p docs/$dir/fodt/$project_dirname
+              cp $file docs/$dir/fodt/$project_dirname
             done
           done
 
