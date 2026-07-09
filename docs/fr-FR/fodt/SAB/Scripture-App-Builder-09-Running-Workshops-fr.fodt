@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:title>Constructeur d&apos;applications bibliques - Ateliers en cours</dc:title>
+ <office:meta><dc:title>Scripture App Builder - Running Workshops</dc:title>
 <meta:initial-creator>Richard Margetts</meta:initial-creator><dc:creator>Richard Margetts</dc:creator><meta:editing-cycles>151</meta:editing-cycles><meta:print-date>2019-01-04T10:27:00</meta:print-date><meta:creation-date>2015-08-15T09:35:00</meta:creation-date><dc:date>2019-01-04T10:28:00</dc:date><meta:editing-duration>PT17H42M</meta:editing-duration><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="2" meta:object-count="0" meta:page-count="12" meta:paragraph-count="150" meta:word-count="1836" meta:character-count="10960" meta:non-whitespace-character-count="9346"/>
 <meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
@@ -96,7 +96,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -120,7 +120,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3935434</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3986646</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -152,7 +152,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Times New Roman2" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Times New Roman2" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -5832,10 +5832,10 @@
    <text:p text:style-name="P29" loext:marker-style-name="T1"/>
    <text:p text:style-name="P29" loext:marker-style-name="T1"/>
    <text:p text:style-name="P29" loext:marker-style-name="T1"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T2"><text:span text:style-name="T2">Ateliers en cours</text:span><text:span text:style-name="T2"/></text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T2"><text:span text:style-name="T2">Running Workshops</text:span><text:span text:style-name="T2"/></text:p>
    <text:p text:style-name="P32" loext:marker-style-name="T4"/>
    <text:p text:style-name="P32" loext:marker-style-name="T4"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T6"><text:soft-page-break/><text:span text:style-name="T6">Astuces pour faire fonctionner des ateliers de formation App Builder</text:span><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T6"><text:soft-page-break/><text:span text:style-name="T6">Tips on running App Builder training workshops</text:span><text:span text:style-name="T6"/></text:p>
    <text:p text:style-name="P32" loext:marker-style-name="T4"/>
    <text:p text:style-name="P32" loext:marker-style-name="T4"/>
    <text:p text:style-name="P32" loext:marker-style-name="T4"/>
@@ -5907,26 +5907,26 @@
    <text:p text:style-name="P38" loext:marker-style-name="T7"/>
    <text:p text:style-name="P38" loext:marker-style-name="T7"/>
    <text:p text:style-name="P38" loext:marker-style-name="T7"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T7"><text:span text:style-name="T7">Éditeur d&apos;applications bibliques :</text:span>en cours d&apos;Ateliers</text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T7"><text:span text:style-name="T7">Scripture App Builder: Running Workshops</text:span><text:span text:style-name="T7"/></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T3"><text:span text:style-name="T3">©️ 2019, SIL International</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T3"><text:span text:style-name="T3">© 2019, SIL International</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
-   <text:p text:style-name="P3" loext:marker-style-name="T9"><text:span text:style-name="T9">Dernière mise à jour : 4 Janvier 2019</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T9"><text:span text:style-name="T9">Last updated: 4 January 2019</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T3"/>
    <text:p text:style-name="P34" loext:marker-style-name="T3"/>
    <text:p text:style-name="P34" loext:marker-style-name="T3"/>
    <text:p text:style-name="P34" loext:marker-style-name="T3"/>
    <text:p text:style-name="P34" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P3">Vous êtes libre d&apos;imprimer ce manuel pour un usage personnel et pour des ateliers de formation.</text:p>
+   <text:p text:style-name="P3">You are free to print this manual for personal use and for training workshops.</text:p>
    <text:p text:style-name="P3"><text:s/></text:p>
-   <text:p text:style-name="P3">La dernière version est disponible à</text:p>
+   <text:p text:style-name="P3">The latest version is available at</text:p>
    <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="http://software.sil.org/scriptureappbuilder/resources/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">http://software.sil.org/scriptureappbuilder/resources/</text:span></text:a> </text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T3"><text:span text:style-name="T3">et dans le menu Aide du constructeur d&apos;applications bibliques.</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T3"><text:span text:style-name="T3">and on the Help menu of Scripture App Builder.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P32" loext:marker-style-name="T4"><text:soft-page-break/></text:p>
    <text:p text:style-name="P35" loext:marker-style-name="T3"/>
    <text:p text:style-name="P35" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P31" loext:marker-style-name="T8"><text:span text:style-name="T8">Contenu</text:span><text:span text:style-name="T8"/></text:p>
+   <text:p text:style-name="P31" loext:marker-style-name="T8"><text:span text:style-name="T8">Contents</text:span><text:span text:style-name="T8"/></text:p>
    <text:p text:style-name="P39" loext:marker-style-name="T8"><text:bookmark-start text:name="_GoBack"/></text:p>
    <text:table-of-content text:style-name="Sect1" text:protected="true" text:name="Table of Contents1">
     <text:table-of-content-source text:outline-level="3" text:use-index-marks="false">
@@ -6023,105 +6023,105 @@
     </text:table-of-content-source>
     <text:index-body>
      <text:p text:style-name="Contents_20_1" loext:marker-style-name="T10"><text:a xlink:type="simple" xlink:href="#_Toc534360994" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:bookmark-end text:name="_GoBack"/><text:span text:style-name="T3">1.</text:span><text:span text:style-name="T12"> </text:span><text:span text:style-name="T3">Introduction</text:span><text:span text:style-name="T14"> 4</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T10"><text:a xlink:type="simple" xlink:href="#_Toc534360995" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T3">2.</text:span><text:span text:style-name="T12"> </text:span><text:span text:style-name="T3">Avant l&apos;atelier</text:span><text:span text:style-name="T14"> 4</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T10"><text:a xlink:type="simple" xlink:href="#_Toc534360995" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T3">2.</text:span><text:span text:style-name="T12"> </text:span><text:span text:style-name="T3">Before the workshop</text:span><text:span text:style-name="T14"> 4</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T11"><text:a xlink:type="simple" xlink:href="#_Toc534360996" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">2.1.<text:span text:style-name="T13"> </text:span>Understand your participants<text:span text:style-name="T14"> 4</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T11"><text:a xlink:type="simple" xlink:href="#_Toc534360997" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">2.2.<text:span text:style-name="T13"> </text:span>Prepare the course content<text:span text:style-name="T14"> 4</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T11"><text:a xlink:type="simple" xlink:href="#_Toc534360998" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">2.3.<text:span text:style-name="T13"> </text:span>Préparer les dossiers des fichiers<text:span text:style-name="T14"> 5</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T11"><text:a xlink:type="simple" xlink:href="#_Toc534360998" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">2.3.<text:span text:style-name="T13"> </text:span>Prepare folders of files<text:span text:style-name="T14"> 5</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T11"><text:a xlink:type="simple" xlink:href="#_Toc534360999" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">2.4.<text:span text:style-name="T13"> </text:span>Equipment needs<text:span text:style-name="T14"> 7</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T10"><text:a xlink:type="simple" xlink:href="#_Toc534361000" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T3">3.</text:span><text:span text:style-name="T12"> </text:span><text:span text:style-name="T3">Pendant l&apos;atelier</text:span><text:span text:style-name="T14"> 8</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T11"><text:a xlink:type="simple" xlink:href="#_Toc534361001" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.1.<text:span text:style-name="T13"> </text:span>Conseils d&apos;installation<text:span text:style-name="T14"> 8</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T11"><text:a xlink:type="simple" xlink:href="#_Toc534361002" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.2.<text:span text:style-name="T13"> </text:span>Astuce pour construire une application<text:span text:style-name="T14"> 8</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T11"><text:a xlink:type="simple" xlink:href="#_Toc534361003" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.3.<text:span text:style-name="T13"> </text:span>Utilisation d&apos;émulateurs Android<text:span text:style-name="T14"> 9</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T11"><text:a xlink:type="simple" xlink:href="#_Toc534361004" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.4.<text:span text:style-name="T13"> </text:span>Conseils pour célébrer<text:span text:style-name="T14"> 9</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T10"><text:a xlink:type="simple" xlink:href="#_Toc534361000" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T3">3.</text:span><text:span text:style-name="T12"> </text:span><text:span text:style-name="T3">During the workshop</text:span><text:span text:style-name="T14"> 8</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T11"><text:a xlink:type="simple" xlink:href="#_Toc534361001" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.1.<text:span text:style-name="T13"> </text:span>Installation tips<text:span text:style-name="T14"> 8</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T11"><text:a xlink:type="simple" xlink:href="#_Toc534361002" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.2.<text:span text:style-name="T13"> </text:span>Building app tips<text:span text:style-name="T14"> 8</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T11"><text:a xlink:type="simple" xlink:href="#_Toc534361003" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.3.<text:span text:style-name="T13"> </text:span>Using Android emulators<text:span text:style-name="T14"> 9</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T11"><text:a xlink:type="simple" xlink:href="#_Toc534361004" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.4.<text:span text:style-name="T13"> </text:span>Tips for celebrating<text:span text:style-name="T14"> 9</text:span></text:a></text:p>
     </text:index-body>
    </text:table-of-content>
    <text:p text:style-name="P35" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
    <text:p text:style-name="P35" loext:marker-style-name="T3"/>
    <text:h text:style-name="P4" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc534360994"/><text:span text:style-name="T3">Introduction</text:span><text:bookmark-end text:name="_Toc534360994"/><text:span text:style-name="T3"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Ce document contient des conseils que vous pouvez trouver utiles si vous dirigez un atelier de formation pour le constructeur d&apos;applications bibliques.</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">This document contains advice you may find useful if you are running a training workshop for Scripture App Builder.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P35" loext:marker-style-name="T3"/>
    <text:p text:style-name="P35" loext:marker-style-name="T3"/>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc534360995"/><text:span text:style-name="T3">Avant l&apos;atelier</text:span><text:bookmark-end text:name="_Toc534360995"/><text:span text:style-name="T3"/></text:h>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc534360996"/>Comprendre vos participants<text:bookmark-end text:name="_Toc534360996"/></text:h>
-   <text:p text:style-name="P40" loext:marker-style-name="T3"><text:span text:style-name="T3">Découvrez chacun des participants avant leur arrivée :</text:span><text:span text:style-name="T3"/></text:p>
-   <text:list xml:id="list3833066792" text:style-name="WWNum42">
+   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc534360995"/><text:span text:style-name="T3">Before the workshop</text:span><text:bookmark-end text:name="_Toc534360995"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc534360996"/>Understand your participants<text:bookmark-end text:name="_Toc534360996"/></text:h>
+   <text:p text:style-name="P40" loext:marker-style-name="T3"><text:span text:style-name="T3">Find out about each of the participants before they come:</text:span><text:span text:style-name="T3"/></text:p>
+   <text:list xml:id="list2306644773" text:style-name="WWNum42">
     <text:list-item>
-     <text:p text:style-name="P5" loext:marker-style-name="T3"><text:span text:style-name="T3">leur intérêt pour la construction d&apos;applications;</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P5" loext:marker-style-name="T3"><text:span text:style-name="T3">their interest in building apps;</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P5" loext:marker-style-name="T3"><text:span text:style-name="T3">their desired outcomes as a result of the workshop;</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P5" loext:marker-style-name="T3"><text:span text:style-name="T3">leur niveau de compétence informatique;</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P5" loext:marker-style-name="T3"><text:span text:style-name="T3">their computer skill level;</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P5" loext:marker-style-name="T3"><text:span text:style-name="T3">quel type d&apos;ordinateur ils viendront, c.-à-d. Windows, Linux ou Mac ;</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P5" loext:marker-style-name="T3"><text:span text:style-name="T3">what type of computer they will come with, i.e. Windows, Linux or Mac;</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P5" loext:marker-style-name="T3"><text:span text:style-name="T3">quel impact ont-ils sur leur organisation/communauté après leur départ, etc.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P5" loext:marker-style-name="T3"><text:span text:style-name="T3">what impact on their organization/community do they expect to see after they leave, etc.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P15" loext:marker-style-name="T3"/>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc534360997"/><text:soft-page-break/>Préparer le contenu du cours<text:bookmark-end text:name="_Toc534360997"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc534360997"/><text:soft-page-break/>Prepare the course content<text:bookmark-end text:name="_Toc534360997"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">As you prepare the contents of the course, consider including sessions on the following:</text:span><text:span text:style-name="T3"/></text:p>
    <text:list text:style-name="WWNum44">
     <text:list-item>
-     <text:p text:style-name="P16" loext:marker-style-name="T3"><text:span text:style-name="T3">Une introduction aux smartphones et aux applications pour smartphones – et comment ils sont utilisés dans votre partie du monde. Quels changements voyez-vous?</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P16" loext:marker-style-name="T3"><text:span text:style-name="T3">An introduction to smartphones and smartphone apps – and how they are being used in your part of the world. What changes are you seeing?</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">Comment installer Scripture App Builder et ses composants.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">How to install Scripture App Builder and its components.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">Comment créer votre première application biblique à partir d&apos;exemples de fichiers Paratext.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">How to create your first Scripture app from sample Paratext files.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">Comment nettoyer vos propres fichiers Paratext à utiliser dans une application. (Ceci pourrait être combiné à des sessions sur la façon de préparer les livres traduits à soumettre à la bibliothèque biblique numérique.)</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">How to clean up your own Paratext files for use in an app. (This could be combined with sessions on how to prepare translated books for submission to the Digital Bible Library.)</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">Comment configurer votre application avec les couleurs, les frontières, les icônes, l&apos;écran de démarrage, etc.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">How to configure your app with colors, borders, icons, splash screen, etc.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">Comment créer une application avec du texte et de l&apos;audio synchronisés - en utilisant Audacity et/ou aeneas. (Vous aurez probablement besoin de plus d&apos;une session pour cela.)</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">How to create an app with synchronized text and audio – using Audacity and/or aeneas. (You are likely to need more than one session for this.)</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">Comment créer une application avec plusieurs collections de livres, par exemple une ou plusieurs langues locales, plus une traduction anglaise ou française.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">How to create an app with multiple book collections, e.g. one or more local languages, plus an English or French translation.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">Comment créer une application de livre de chansons.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">How to create a song book app.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">Comment créer une application pour l&apos;histoire de l&apos;image.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">How to create a picture story app.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">Comment créer une application avec un menu de contenu.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">How to create an app with a contents menu.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">Comment créer une application avec une date d&apos;expiration.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">How to create an app with an expiry date.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Comment obtenir le droit de l&apos;information À propos de la boîte : comprendre le droit d&apos;auteur et la licence.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">How to get the About Box information right: understanding copyright and licensing.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">Comment enregistrer de l&apos;audio pour des portions bibliques en utilisant HearThis et l&apos;utiliser dans une application.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">How to record audio for Scripture portions using HearThis and use in an app.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">Comment vérifier qu&apos;une application est prête à être publiée (à l&apos;aide de la liste de contrôle de publication de l&apos;application).</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">How to check that an app is ready to publish (using the App Publishing Checklist).</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">Comment distribuer vos applications : Google Play, carte mémoire, Bluetooth, application de partage Wifi (SHAREit, Xender), BibleBox, Lightstream, etc.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">How to distribute your apps: Google Play, memory card, Bluetooth, Wifi sharing app (SHAREit, Xender), BibleBox, Lightstream, etc.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">Comment promouvoir vos applications sur les réseaux sociaux, par exemple Facebook. Comment faire l&apos;enregistrement d&apos;écran sur smartphone pour que vous puissiez inclure de courts clips vidéo de l&apos;application à utiliser sur votre page Facebook.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">How to market your apps on social media, e.g. Facebook. How to do smartphone screen-recording so you can include short video clips of the app to use on your Facebook page.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P42" loext:marker-style-name="T3"><text:span text:style-name="T3"><text:line-break/>Assurez-vous que chaque session a des objectifs d&apos;apprentissage clairs avec suffisamment de temps pour que les participants s&apos;entraînent à construire des applications.</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P42" loext:marker-style-name="T3"><text:span text:style-name="T3"><text:line-break/>Make sure each session has clear learning objectives with plenty of time for the participants to practice building apps.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc534360998"/>Préparer les dossiers des fichiers<text:bookmark-end text:name="_Toc534360998"/></text:h>
-   <text:p text:style-name="P43" loext:marker-style-name="T3"><text:span text:style-name="T3">Préparez les dossiers des fichiers à distribuer aux participants. </text:span><text:span text:style-name="T3"/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc534360998"/>Prepare folders of files<text:bookmark-end text:name="_Toc534360998"/></text:h>
+   <text:p text:style-name="P43" loext:marker-style-name="T3"><text:span text:style-name="T3">Prepare folders of files to distribute to the participants. </text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P41" loext:marker-style-name="T3"><text:span text:style-name="T3">Include the following items:</text:span><text:span text:style-name="T3"/></text:p>
-   <text:list text:continue-list="list3833066792" text:style-name="WWNum42">
+   <text:list text:continue-list="list2306644773" text:style-name="WWNum42">
     <text:list-item>
-     <text:p text:style-name="P7" loext:marker-style-name="T5"><text:span text:style-name="T5">Manuels d&apos;instructions :</text:span><text:span text:style-name="T5"/></text:p>
+     <text:p text:style-name="P7" loext:marker-style-name="T5"><text:span text:style-name="T5">Instruction manuals:</text:span><text:span text:style-name="T5"/></text:p>
      <text:list>
       <text:list-item>
        <text:p text:style-name="P10" loext:marker-style-name="T3"><text:span text:style-name="T3">Download each of the manuals in PDF format here: </text:span><text:a xlink:type="simple" xlink:href="http://software.sil.org/scriptureappbuilder/resources/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">http://software.sil.org/scriptureappbuilder/resources/</text:span></text:span></text:a><text:span text:style-name="T3"> </text:span></text:p>
@@ -6129,7 +6129,7 @@
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P6" loext:marker-style-name="T5"><text:span text:style-name="T5">Tutoriels vidéo :</text:span><text:span text:style-name="T5"/></text:p>
+     <text:p text:style-name="P6" loext:marker-style-name="T5"><text:span text:style-name="T5">Video tutorials:</text:span><text:span text:style-name="T5"/></text:p>
      <text:list>
       <text:list-item>
        <text:p text:style-name="P10" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Download the videos from the SIL Language Technology Vimeo channel: </text:span><text:a xlink:type="simple" xlink:href="https://vimeo.com/channels/967640" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">https://vimeo.com/channels/967640</text:span></text:span></text:a><text:span text:style-name="T3"> </text:span></text:p>
@@ -6137,112 +6137,112 @@
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P6" loext:marker-style-name="T5"><text:span text:style-name="T5">Fichiers d&apos;installation pour Windows :</text:span><text:span text:style-name="T5"/></text:p>
+     <text:p text:style-name="P6" loext:marker-style-name="T5"><text:span text:style-name="T5">Installation files for Windows:</text:span><text:span text:style-name="T5"/></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P10" loext:marker-style-name="T3"><text:span text:style-name="T3">Programme de configuration de Scripture App Builder :</text:span><text:span text:style-name="T3"/></text:p>
+       <text:p text:style-name="P10" loext:marker-style-name="T3"><text:span text:style-name="T3">Scripture App Builder setup program:</text:span><text:span text:style-name="T3"/></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P18" loext:marker-style-name="T3"><text:span text:style-name="T17">Scripture-App-Builder-5.0-Setup.exe</text:span><text:span text:style-name="T16">, </text:span><text:span text:style-name="T3">ou une version ultérieure.</text:span></text:p>
+   <text:p text:style-name="P18" loext:marker-style-name="T3"><text:span text:style-name="T17">Scripture-App-Builder-5.0-Setup.exe</text:span><text:span text:style-name="T16">, </text:span><text:span text:style-name="T3">or a later version.</text:span></text:p>
    <text:p text:style-name="P19" loext:marker-style-name="T3"><text:span text:style-name="T3">Download the latest installer from the </text:span><text:a xlink:type="simple" xlink:href="http://software.sil.org/scriptureappbuilder/download/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">Scripture App Builder website</text:span></text:span></text:a><text:span text:style-name="T3">.</text:span></text:p>
    <text:list text:continue-numbering="true" text:style-name="WWNum42">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P11" loext:marker-style-name="T3"><text:span text:style-name="T3">Installateur JDK : inclut les versions 64 bits et 32 bits</text:span><text:span text:style-name="T3"/></text:p>
+       <text:p text:style-name="P11" loext:marker-style-name="T3"><text:span text:style-name="T3">JDK installer: include both 64-bit and 32-bit versions</text:span><text:span text:style-name="T3"/></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P19" loext:marker-style-name="T3"><text:bookmark-start text:name="jdk-8u101-oth-JPRXXXjdk-8u101-windows-i5"/><text:span text:style-name="T18">jdk-8u191-windows-i586.exe</text:span><text:bookmark-end text:name="jdk-8u101-oth-JPRXXXjdk-8u101-windows-i5"/><text:span text:style-name="T15"> </text:span>- pour Windows 32 bits</text:p>
+   <text:p text:style-name="P19" loext:marker-style-name="T3"><text:bookmark-start text:name="jdk-8u101-oth-JPRXXXjdk-8u101-windows-i5"/><text:span text:style-name="T18">jdk-8u191-windows-i586.exe</text:span><text:bookmark-end text:name="jdk-8u101-oth-JPRXXXjdk-8u101-windows-i5"/><text:span text:style-name="T15"> </text:span>- for 32-bit Windows</text:p>
    <text:p text:style-name="P19" loext:marker-style-name="T3"><text:span text:style-name="T17">jdk-8u191-windows-x64.exe</text:span><text:span text:style-name="T16"> </text:span><text:span text:style-name="T3">– for 64-bit Windows</text:span></text:p>
    <text:p text:style-name="P19" loext:marker-style-name="T3"><text:span text:style-name="T3">Download the latest files from the </text:span><text:a xlink:type="simple" xlink:href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">JDK 8 Downloads website</text:span></text:span></text:a><text:span text:style-name="T3">.</text:span></text:p>
    <text:list text:continue-numbering="true" text:style-name="WWNum42">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P11" loext:marker-style-name="T3"><text:span text:style-name="T3">SDK Android :</text:span><text:span text:style-name="T3"/></text:p>
+       <text:p text:style-name="P11" loext:marker-style-name="T3"><text:span text:style-name="T3">Android SDK:</text:span><text:span text:style-name="T3"/></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P20" loext:marker-style-name="T3"><text:span text:style-name="T3">Au lieu de demander aux participants de l&apos;atelier d&apos;installer le SDK Android à partir du programme de configuration des outils de ligne de commande puis de télécharger les composants supplémentaires à partir d&apos;Internet, Il est plus facile d&apos;empaqueter tous vos fichiers SDK Android en un seul fichier zip.</text:span><text:span text:style-name="T3"/></text:p>
-   <text:p text:style-name="P20" loext:marker-style-name="T3"><text:span text:style-name="T3">Pour ce faire, en supposant que vous ayez déjà installé le SDK Android vous-même, trouver le dossier SDK Android sur votre ordinateur avec tous les fichiers déjà téléchargés. Zip le contenu du dossier incluant tous ses sous-dossiers.</text:span><text:span text:style-name="T3"/></text:p>
-   <text:p text:style-name="P20" loext:marker-style-name="T3"><text:span text:style-name="T3">Les participants devront décompresser ce fichier sur leurs disques durs, par exemple sur c:\sdk. Il n&apos;y a pas de programme d&apos;installation à exécuter, pas besoin d&apos;utiliser SDK Manager et pas besoin d&apos;accéder à Internet.</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P20" loext:marker-style-name="T3"><text:span text:style-name="T3">Instead of asking the workshop participants to install the Android SDK from the command line tools setup program and then download the additional components from the internet, it is easier to package all of your Android SDK files as a single zip file.</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P20" loext:marker-style-name="T3"><text:span text:style-name="T3">To do this, assuming you have already installed the Android SDK yourself, find the Android SDK folder on your computer with all of the files already downloaded. Zip the contents of the folder including all of its sub-folders.</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P20" loext:marker-style-name="T3"><text:span text:style-name="T3">The participants will need to unzip this file onto their hard disks, e.g. to c:\sdk. There is no setup program to run, no need to use SDK Manager and no need to access the internet.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P20" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">For more details, please see the Android SDK section of the </text:span><text:span text:style-name="T4">Installation Instructions</text:span><text:span text:style-name="T3"> manual.</text:span></text:p>
    <text:list text:continue-numbering="true" text:style-name="WWNum42">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P11" loext:marker-style-name="T3"><text:span text:style-name="T3">Aeneas outils programme de configuration :</text:span><text:span text:style-name="T3"/></text:p>
+       <text:p text:style-name="P11" loext:marker-style-name="T3"><text:span text:style-name="T3">aeneas tools setup program:</text:span><text:span text:style-name="T3"/></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P18" loext:marker-style-name="T17"><text:span text:style-name="T17">aeneas-windows-setup-1.7.3.exe</text:span><text:span text:style-name="T17"/></text:p>
    <text:p text:style-name="P19" loext:marker-style-name="T3"><text:span text:style-name="T3">Download the latest installer from the </text:span><text:a xlink:type="simple" xlink:href="http://software.sil.org/scriptureappbuilder/download/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">Scripture App Builder website</text:span></text:span></text:a><text:span text:style-name="T3">.</text:span></text:p>
-   <text:list xml:id="list220033531956909" text:continue-numbering="true" text:style-name="WWNum42">
+   <text:list xml:id="list222608165613975" text:continue-numbering="true" text:style-name="WWNum42">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P12" loext:marker-style-name="T3"><text:span text:style-name="T3">Répertoire Gradle de cache :</text:span><text:span text:style-name="T3"/></text:p>
+       <text:p text:style-name="P12" loext:marker-style-name="T3"><text:span text:style-name="T3">Gradle cache folder:</text:span><text:span text:style-name="T3"/></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P21" loext:marker-style-name="T3"><text:span text:style-name="T3">Scripture App Builder a normalement besoin d&apos;un accès à internet la première fois que vous construisez une application. Il téléchargera un ensemble de bibliothèques utilisées par le compilateur Gradle. Si vous voulez permettre aux participants de l&apos;atelier de construire des applications sans avoir besoin d&apos;un accès à Internet, il est possible de copier les fichiers cache Gradle dans un dossier sur leur ordinateur et de dire ensuite à SAB où il y a à trouver.</text:span><text:span text:style-name="T3"/></text:p>
-   <text:p text:style-name="P20" loext:marker-style-name="T3"><text:span text:style-name="T3">Mais cela ne fonctionnera que si le chemin absolu vers les fichiers est exactement le même sur l&apos;ordinateur à partir duquel les fichiers sont pris comme sur l&apos;ordinateur du participant, par ex. “C:\gradle” sur l&apos;ordinateur A et “C:\gradle” sur l&apos;ordinateur B. Il ne fonctionnera pas si vous avez “C:\Users\John\. radle ou ordinateur A et &quot;C:\Users\Jenny\.gradle&quot; sur l&apos;ordinateur B (qui est le dossier de cache Gradle par défaut).</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P21" loext:marker-style-name="T3"><text:span text:style-name="T3">Scripture App Builder normally needs internet access the first time you build an app. It will download a set of libraries used by the Gradle compiler. If you want to enable workshop participants to build apps without needing internet access, it is possible to copy the Gradle cache files to a folder on their computer and then tell SAB where there are to be found.</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P20" loext:marker-style-name="T3"><text:span text:style-name="T3">This will only work, however, if the absolute path to the files is exactly the same on the computer from which the files are taken as on the participant’s computer, e.g. “C:\gradle” on computer A and “C:\gradle” on computer B. It will not work if you have “C:\Users\John\.gradle” or computer A and “C:\Users\Jenny\.gradle” on computer B (which is the default Gradle cache folder).</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P20" loext:marker-style-name="T3"><text:span text:style-name="T3">So, on computer A, to get the cache files to distribute:</text:span><text:span text:style-name="T3"/></text:p>
    <text:list text:style-name="WWNum47">
     <text:list-item>
-     <text:p text:style-name="P22" loext:marker-style-name="T3"><text:span text:style-name="T3">Allez dans Outils &gt; Réglages &gt; Réglages de construction &gt; Dossier de cache Gradle.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P22" loext:marker-style-name="T3"><text:span text:style-name="T3">Go to Tools &gt; Settings &gt; Build Settings &gt; Gradle Cache Folder.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P22" loext:marker-style-name="T3"><text:span text:style-name="T3">Entrez “C:\gradle” et OK.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P22" loext:marker-style-name="T3"><text:span text:style-name="T3">Enter “C:\gradle” and OK.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P22" loext:marker-style-name="T3"><text:span text:style-name="T3">Construire une application. Les fichiers de cache Gradle seront téléchargés sur C:\gradle.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P22" loext:marker-style-name="T3"><text:span text:style-name="T3">Build an app. The Gradle cache files will be downloaded to C:\gradle.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P20" loext:marker-style-name="T3"><text:span text:style-name="T3">Ensuite, sur ordinateur B :</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P20" loext:marker-style-name="T3"><text:span text:style-name="T3">Then, on computer B:</text:span><text:span text:style-name="T3"/></text:p>
    <text:list text:continue-numbering="true" text:style-name="WWNum47">
     <text:list-item>
-     <text:p text:style-name="P23" loext:marker-style-name="T3"><text:span text:style-name="T3">Copiez le dossier C:\gradle de l&apos;ordinateur A vers C:\gradle.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P23" loext:marker-style-name="T3"><text:span text:style-name="T3">Copy the C:\gradle folder from computer A to C:\gradle.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P22" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Allez dans Outils &gt; Réglages &gt; Réglages de construction &gt; Dossier de cache Gradle.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P22" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Go to Tools &gt; Settings &gt; Build Settings &gt; Gradle Cache Folder.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P22" loext:marker-style-name="T3"><text:span text:style-name="T3">Entrez “C:\gradle” et OK.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P22" loext:marker-style-name="T3"><text:span text:style-name="T3">Enter “C:\gradle” and OK.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
    </text:list>
-   <text:list text:continue-list="list220033531956909" text:style-name="WWNum42">
+   <text:list text:continue-list="list222608165613975" text:style-name="WWNum42">
     <text:list-item>
-     <text:p text:style-name="P9" loext:marker-style-name="T5"><text:span text:style-name="T5">Fichiers d&apos;installation pour Mac :</text:span><text:span text:style-name="T5"/></text:p>
+     <text:p text:style-name="P9" loext:marker-style-name="T5"><text:span text:style-name="T5">Installation files for Mac:</text:span><text:span text:style-name="T5"/></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P10" loext:marker-style-name="T5"><text:span text:style-name="T3">Si certains de vos participants viendront avec des ordinateurs Apple Mac, incluez les fichiers d&apos;installation appropriés de Scripture App Builder pour Mac. Reportez-vous au document </text:span><text:span text:style-name="T4">Installer et construire des applications sur un Mac</text:span><text:span text:style-name="T3"> pour plus de détails.</text:span></text:p>
+       <text:p text:style-name="P10" loext:marker-style-name="T5"><text:span text:style-name="T3">If some of your participants will come with Apple Mac computers, include the relevant Scripture App Builder installation files for Mac. Refer to the document </text:span><text:span text:style-name="T4">Installing and Building Apps on a Mac</text:span><text:span text:style-name="T3"> for more details.</text:span></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P9" loext:marker-style-name="T5"><text:span text:style-name="T5">Exemple de fichiers :</text:span><text:span text:style-name="T5"/></text:p>
+     <text:p text:style-name="P9" loext:marker-style-name="T5"><text:span text:style-name="T5">Sample files:</text:span><text:span text:style-name="T5"/></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P10" loext:marker-style-name="T3"><text:span text:style-name="T3">Exemple de fichiers d&apos;Écritures Paratext</text:span><text:span text:style-name="T3"/></text:p>
+       <text:p text:style-name="P10" loext:marker-style-name="T3"><text:span text:style-name="T3">Sample Paratext Scripture files</text:span><text:span text:style-name="T3"/></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P10" loext:marker-style-name="T3"><text:span text:style-name="T3">Exemple de chansons au format texte et audio</text:span><text:span text:style-name="T3"/></text:p>
+       <text:p text:style-name="P10" loext:marker-style-name="T3"><text:span text:style-name="T3">Sample songs in text and audio format</text:span><text:span text:style-name="T3"/></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P10" loext:marker-style-name="T3"><text:span text:style-name="T3">Exemple de texte d&apos;histoire biblique, images et fichiers audio</text:span><text:span text:style-name="T3"/></text:p>
+       <text:p text:style-name="P10" loext:marker-style-name="T3"><text:span text:style-name="T3">Sample Bible story text, pictures and audio files</text:span><text:span text:style-name="T3"/></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P9" loext:marker-style-name="T5"><text:span text:style-name="T5">Logiciel supplémentaire :</text:span><text:span text:style-name="T5"/></text:p>
+     <text:p text:style-name="P9" loext:marker-style-name="T5"><text:span text:style-name="T5">Extra software:</text:span><text:span text:style-name="T5"/></text:p>
      <text:list>
       <text:list-item>
        <text:p text:style-name="P10" loext:marker-style-name="T3"><text:span text:style-name="T3">Notepad++ - </text:span><text:a xlink:type="simple" xlink:href="https://notepad-plus-plus.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">https://notepad-plus-plus.org</text:span></text:span></text:a><text:span text:style-name="T3"> </text:span></text:p>
@@ -6259,16 +6259,16 @@
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P9" loext:marker-style-name="T5"><text:soft-page-break/><text:span text:style-name="T5">Autres constructeurs d&apos;applications:</text:span><text:span text:style-name="T5"/></text:p>
+     <text:p text:style-name="P9" loext:marker-style-name="T5"><text:soft-page-break/><text:span text:style-name="T5">Other App Builders:</text:span><text:span text:style-name="T5"/></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P13" loext:marker-style-name="T3"><text:span text:style-name="T3">Dictionary App Builder :</text:span><text:span text:style-name="T3"/></text:p>
+       <text:p text:style-name="P13" loext:marker-style-name="T3"><text:span text:style-name="T3">Dictionary App Builder:</text:span><text:span text:style-name="T3"/></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P24" loext:marker-style-name="T3"><text:span text:style-name="T3">(download the latest installer from the </text:span><text:a xlink:type="simple" xlink:href="http://software.sil.org/dictionaryappbuilder/download/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">Dictionary App Builder website</text:span></text:span></text:a><text:span text:style-name="T3">).</text:span></text:p>
-   <text:list xml:id="list220032614824308" text:continue-numbering="true" text:style-name="WWNum42">
+   <text:list xml:id="list222607079101636" text:continue-numbering="true" text:style-name="WWNum42">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -6279,135 +6279,135 @@
    </text:list>
    <text:p text:style-name="P25" loext:marker-style-name="T3"><text:span text:style-name="T3">(download the latest installer from the </text:span><text:a xlink:type="simple" xlink:href="http://software.sil.org/readingappbuilder/download/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">Reading App Builder website</text:span></text:span></text:a><text:span text:style-name="T3">).</text:span></text:p>
    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc534360999"/>Besoin d&apos;équipement<text:bookmark-end text:name="_Toc534360999"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc534360999"/>Equipment needs<text:bookmark-end text:name="_Toc534360999"/></text:h>
    <text:p text:style-name="P40" loext:marker-style-name="T3"><text:span text:style-name="T3">You will need:</text:span><text:span text:style-name="T3"/></text:p>
    <text:list text:style-name="WWNum45">
     <text:list-item>
-     <text:p text:style-name="P26" loext:marker-style-name="T3"><text:span text:style-name="T3">A </text:span><text:span text:style-name="T5">projecteur de données</text:span><text:span text:style-name="T3"> et </text:span><text:span text:style-name="T5">écran</text:span><text:span text:style-name="T3">.</text:span></text:p>
+     <text:p text:style-name="P26" loext:marker-style-name="T3"><text:span text:style-name="T3">A </text:span><text:span text:style-name="T5">data projector</text:span><text:span text:style-name="T3"> and </text:span><text:span text:style-name="T5">screen</text:span><text:span text:style-name="T3">.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P27" loext:marker-style-name="T3"><text:span text:style-name="T5">Accès Internet</text:span><text:span text:style-name="T3">: requis pour la construction de la première application (sauf si vous copiez le dossier Gradle cache entre les ordinateurs). </text:span></text:p>
+     <text:p text:style-name="P27" loext:marker-style-name="T3"><text:span text:style-name="T5">Internet access</text:span><text:span text:style-name="T3">: required for the build of the first app (unless you copy the Gradle cache folder between computers). </text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P27" loext:marker-style-name="T3"><text:span text:style-name="T3">A </text:span><text:span text:style-name="T5">smartphone with a data package</text:span><text:span text:style-name="T3">: this can be very useful in case it is needed as an emergency hotspot (such as to install Java for a computer that doesn’t have it already). Certains ateliers luttent si une salle de personnes essaie de se connecter à Internet en même temps.</text:span></text:p>
+     <text:p text:style-name="P27" loext:marker-style-name="T3"><text:span text:style-name="T3">A </text:span><text:span text:style-name="T5">smartphone with a data package</text:span><text:span text:style-name="T3">: this can be very useful in case it is needed as an emergency hotspot (such as to install Java for a computer that doesn’t have it already). Some workshop locations struggle if a room of people are trying to connect to the internet at once.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P27" loext:marker-style-name="T3"><text:span text:style-name="T5">Reparer les câbles USB et les adaptateurs</text:span><text:span text:style-name="T3"> pour les participants qui ne les accompagnent pas.</text:span></text:p>
+     <text:p text:style-name="P27" loext:marker-style-name="T3"><text:span text:style-name="T5">Spare USB cables and adapters</text:span><text:span text:style-name="T3"> for those participants who do not come with them.</text:span></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P27" loext:marker-style-name="T3"><text:span text:style-name="T3">A </text:span><text:span text:style-name="T5">means of distributing files</text:span><text:span text:style-name="T3"> to the participants: </text:span><text:a xlink:type="simple" xlink:href="http://www.biblebox.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">BibleBox</text:span></text:span></text:a><text:span text:style-name="T3">, </text:span><text:a xlink:type="simple" xlink:href="http://www.renewoutreach.com/lightstreams/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">LightStream</text:span></text:span></text:a><text:span text:style-name="T3">, USB memory sticks, etc.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P27" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">A </text:span><text:span text:style-name="T5">Google Chromecast</text:span><text:span text:style-name="T3"> pour afficher un écran smartphone sur le projecteur de données. Cela nécessitera un port HDMI sur le projecteur.</text:span></text:p>
+     <text:p text:style-name="P27" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">A </text:span><text:span text:style-name="T5">Google Chromecast</text:span><text:span text:style-name="T3"> device to display a smartphone screen on the data projector. This will require an HDMI port on the projector.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P40" loext:marker-style-name="T5"><text:span text:style-name="T3"><text:line-break/></text:span><text:span text:style-name="T5">Equipement pour les participants</text:span></text:p>
+   <text:p text:style-name="P40" loext:marker-style-name="T5"><text:span text:style-name="T3"><text:line-break/></text:span><text:span text:style-name="T5">Equipment for participants</text:span></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Ask participants to bring the following equipment with them:</text:span><text:span text:style-name="T3"/></text:p>
-   <text:list xml:id="list220032291712244" text:continue-list="list220032614824308" text:style-name="WWNum42">
+   <text:list xml:id="list222608277615618" text:continue-list="list222607079101636" text:style-name="WWNum42">
     <text:list-item>
-     <text:p text:style-name="P10" loext:marker-style-name="T3"><text:span text:style-name="T3">un ordinateur portable ;</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P10" loext:marker-style-name="T3"><text:span text:style-name="T3">a laptop computer;</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P10" loext:marker-style-name="T3"><text:span text:style-name="T3">un smartphone ou une tablette Android;</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P10" loext:marker-style-name="T3"><text:span text:style-name="T3">an Android smartphone or tablet;</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P10" loext:marker-style-name="T3"><text:span text:style-name="T3">un câble USB pour connecter leur téléphone à leur ordinateur ;</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P10" loext:marker-style-name="T3"><text:span text:style-name="T3">a USB cable to connect their phone to their computer;</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P10" loext:marker-style-name="T3"><text:span text:style-name="T3">carte microSD et carte microSD ;</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P10" loext:marker-style-name="T3"><text:span text:style-name="T3">microSD card and microSD card adapter;</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P10" loext:marker-style-name="T3"><text:span text:style-name="T3">un casque avec microphone pour l&apos;enregistrement.</text:span><text:span text:style-name="T3"/></text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P42" loext:marker-style-name="T3"><text:span text:style-name="T3">La liste détaillée des fichiers d&apos;installation dans la section ci-dessus suppose que les participants viendront avec des ordinateurs portables Windows. Si vous avez des ordinateurs Linux ou Mac, vous devrez rechercher si et comment vous pouvez les aider à installer SAB.</text:span><text:span text:style-name="T3"/></text:p>
-   <text:p text:style-name="P35" loext:marker-style-name="T3"/>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc534361000"/><text:span text:style-name="T3">Pendant l&apos;atelier</text:span><text:bookmark-end text:name="_Toc534361000"/><text:span text:style-name="T3"/></text:h>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc534361001"/>Astuces d&apos;installation<text:bookmark-end text:name="_Toc534361001"/></text:h>
-   <text:list xml:id="list220032875810816" text:continue-numbering="true" text:style-name="WWNum42">
-    <text:list-item>
-     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Expliquez clairement comment installer les trois principaux composants : (i) Scripture App Builder, (ii) JDK et (iii) Android SDK. Pour (i) et (ii), il y a des programmes d&apos;installation à exécuter. Pour (iii), il s&apos;agit simplement de décompresser un fichier dans un dossier.</text:span><text:span text:style-name="T3"/></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Fournissez des instructions d’installation imprimées et encouragez les participants à vérifier chaque étape au fur et à mesure qu’ils la complètent. Ils pourraient travailler en paires durant ce processus.</text:span><text:span text:style-name="T3"/></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Distribuer des composants logiciels via BibleBox, Pirate Box, LightStream, partage de fichiers Windows, etc.</text:span><text:span text:style-name="T3"/></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Si vous utilisez une BibleBox, une Pirate Box ou un LightStream pour le partage de fichiers, passer quelques minutes pour expliquer l&apos;interface de sorte que le concept n&apos;est pas seulement présenté, mais démontré et utilisé. </text:span><text:span text:style-name="T3"/></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Il peut être utile pour les participants de redémarrer leur ordinateur immédiatement après l&apos;installation de Scripture App Builder.</text:span><text:span text:style-name="T3"/></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Les participants peuvent installer les composants soit avant leur arrivée soit en soirée/temps libre.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P10" loext:marker-style-name="T3"><text:span text:style-name="T3">a headset with microphone for recording.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
    </text:list>
+   <text:p text:style-name="P42" loext:marker-style-name="T3"><text:span text:style-name="T3">The detailed list of installation files in the section above assumes participants will come with Windows laptops. If any have Linux or Mac computers, you will need to research if and how you can assist them in installing SAB.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P35" loext:marker-style-name="T3"/>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc534361002"/>Astuces sur la construction de l&apos;application<text:bookmark-end text:name="_Toc534361002"/></text:h>
-   <text:list xml:id="list220032318100040" text:continue-numbering="true" text:style-name="WWNum42">
+   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc534361000"/><text:span text:style-name="T3">During the workshop</text:span><text:bookmark-end text:name="_Toc534361000"/><text:span text:style-name="T3"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc534361001"/>Installation tips<text:bookmark-end text:name="_Toc534361001"/></text:h>
+   <text:list xml:id="list222607129132355" text:continue-numbering="true" text:style-name="WWNum42">
     <text:list-item>
-     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Créez un environnement où les participants sont libres de poser des questions et peuvent obtenir de l&apos;aide de l&apos;animateur et des participants. Envisagez de créer des paires de partenaires ou de petits groupes. Utilisez des questions ouvertes comme « Quelles sont vos questions?» au lieu de « Quelqu&apos;un a-t-il une question?» </text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Explain clearly how to install the three main components: (i) Scripture App Builder, (ii) JDK, and (iii) Android SDK. For (i) and (ii), there are setup programs to run. For (iii), it is simply a matter of unzipping a file to a folder.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Gérez le temps et le développement des compétences en observant le travail des participants. Attendez-vous à ajuster le calendrier. Demander un feedback chaque jour.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Provide printed installation instructions and encourage the participants to check each step as they complete it. They could work in pairs during this process.</text:span><text:span text:style-name="T3"/></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Distribute software components via BibleBox, Pirate Box, LightStream, Windows File-sharing, etc.</text:span><text:span text:style-name="T3"/></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">If using a BibleBox, Pirate Box, or LightStream for file-sharing, spend a few minutes to explain the interface so the concept is not only presented, but demonstrated and used. </text:span><text:span text:style-name="T3"/></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">It can be helpful for participants to reboot their computers immediately after installing Scripture App Builder.</text:span><text:span text:style-name="T3"/></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Participants could install the components either before they come or in the evening/free time.</text:span><text:span text:style-name="T3"/></text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P35" loext:marker-style-name="T3"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc534361002"/>Building app tips<text:bookmark-end text:name="_Toc534361002"/></text:h>
+   <text:list xml:id="list222608620155674" text:continue-numbering="true" text:style-name="WWNum42">
+    <text:list-item>
+     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Create an environment where participants are free to ask questions and are able to get help from the facilitator and participants. Consider creating partner pairs or small groups. Use open questions like, “What are your questions?” instead of “Does anyone have a question?” </text:span><text:span text:style-name="T3"/></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Manage time and skill development by observing participants work. Expect to adjust the schedule. Ask for feedback each day.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Use </text:span><text:span text:style-name="T5">Paratext Basic Checks</text:span><text:span text:style-name="T3"> to ensure Scripture text and markers are clean before building a Scripture app.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Demandez aux participants de lire les informations (peut-être à voix haute) dans chaque fenêtre de l&apos;assistant pendant le processus de construction et vérifiez la compréhension.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Ask participants read the information (perhaps out loud) in each window of the wizard during the build process and check for understanding.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Expliquez clairement le choix du nom du paquet.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Explain the package name choice clearly.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Donner des conseils sur les droits d&apos;auteur et les licences, y compris donner un exemple de fichier de licence dans la langue officielle du pays.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Give guidance on copyright and licensing, including giving a sample license file in the official language of the country.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Demandez aux participants d&apos;observer chaque option, à partir du menu de l&apos;arborescence à gauche et des onglets à droite, et de faire les corrections nécessaires.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Have participants observe each option, from the tree menu on the left and tabs on the right, and make any corrections if needed.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Have participants click </text:span><text:span text:style-name="T5">Tools</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T19"></text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T5">Settings</text:span><text:span text:style-name="T3"> and look at each tab, making corrections if needed.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Démontrer comment partager le cache Gradle entre les ordinateurs pour éviter d&apos;avoir besoin d&apos;une connexion internet pour la première fois qu&apos;ils compilent une application. Voir les instructions ci-dessus à propos du dossier Gradle Cache dans « Préparer les dossiers des fichiers».</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Demonstrate how to share the Gradle cache between computers to avoid the need for an internet connection for the first-time they compile an app. See the instructions above about the Gradle Cache folder in ‘Prepare folders of files’.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P35" loext:marker-style-name="T3"/>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc534361003"/>Utilisation d&apos;émulateurs Android<text:bookmark-end text:name="_Toc534361003"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc534361003"/>Using Android emulators<text:bookmark-end text:name="_Toc534361003"/></text:h>
    <text:p text:style-name="P40" loext:marker-style-name="T3"><text:span text:style-name="T3">You may want to use an Android emulator to test apps on the computer, such as:</text:span><text:span text:style-name="T3"/></text:p>
    <text:list text:style-name="WWNum49">
     <text:list-item>
-     <text:p text:style-name="P28" loext:marker-style-name="T3"><text:span text:style-name="T3">ARC Welder plug-in pour Chrome (interface anglaise seulement), </text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P28" loext:marker-style-name="T3"><text:span text:style-name="T3">ARC Welder plug-in for Chrome (English interface only), </text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P28" loext:marker-style-name="T3"><text:span text:style-name="T3">Genymotion (www.genymotion.com), ou </text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P28" loext:marker-style-name="T3"><text:span text:style-name="T3">Genymotion (www.genymotion.com), or </text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P28" loext:marker-style-name="T3"><text:span text:style-name="T3">Andy (www.andyroid.net). </text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P42" loext:marker-style-name="T3"><text:span text:style-name="T3">Il est utile si les participants peuvent télécharger l&apos;émulateur avant l&apos;atelier. Sinon, il doit y avoir une bonne connexion internet à l&apos;emplacement.</text:span><text:span text:style-name="T3"/></text:p>
-   <text:p text:style-name="P42" loext:marker-style-name="T3"><text:span text:style-name="T3">Rappelez-vous toutefois qu&apos;un émulateur n&apos;est pas un substitut pour tester les applications sur des appareils physiques.</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P42" loext:marker-style-name="T3"><text:span text:style-name="T3">It is helpful if participants can download the emulator prior to the workshop. Otherwise, there needs to be a good internet connection on location.</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P42" loext:marker-style-name="T3"><text:span text:style-name="T3">Remember, however, that an emulator is not a substitute for testing the apps on physical smartphone devices.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P35" loext:marker-style-name="T3"/>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc534361004"/>Conseils pour célébrer<text:bookmark-end text:name="_Toc534361004"/></text:h>
-   <text:list text:continue-list="list220032318100040" text:style-name="WWNum42">
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="_Toc534361004"/>Tips for celebrating<text:bookmark-end text:name="_Toc534361004"/></text:h>
+   <text:list text:continue-list="list222608620155674" text:style-name="WWNum42">
     <text:list-item>
-     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Encouragez les participants à construire un exemple d&apos;application qui répond aux besoins de leur communauté/organisation et « show &amp; tell » lors d&apos;une cérémonie de clôture.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Encourage participants to build a sample app that meets a need of their community/organization and “show &amp; tell” at a closing ceremony.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Invitez des collègues, des pasteurs locaux et des chefs laïcs, des dirigeants de la communauté et des officiels à votre cérémonie « show and tell ». Invitez l&apos;un d&apos;eux à clore la cérémonie.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Invite colleagues, local pastors and lay leaders, community leaders and officials to your “show and tell” ceremony. Invite one of them to close the ceremony.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Demandez à chaque participant ou à chaque paire de démontrer son application sur le projecteur à l&apos;aide d&apos;un émulateur d&apos;applications Android ou d&apos;un appareil d&apos;émission d&apos;écran tel que Google Chromecast.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Have each participant or pair demonstrate their app on the projector using an Android app emulator or a screen casting device such as Google Chromecast.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Envisagez de donner des certificats de participation, le cas échéant.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Consider giving certificates of participation, if appropriate.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Célébrez avec de la nourriture.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P8" loext:marker-style-name="T3"><text:span text:style-name="T3">Celebrate with food.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
    </text:list>
   </office:text>

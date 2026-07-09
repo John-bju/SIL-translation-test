@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:title>Lecture du constructeur d&apos;applications - Liste de contrôle de publication des applications</dc:title>
+ <office:meta><dc:title>Reading App Builder - App Publishing Checklist</dc:title>
 <meta:initial-creator>Richard Margetts</meta:initial-creator><dc:creator>Richard Margetts</dc:creator><meta:editing-cycles>149</meta:editing-cycles><meta:creation-date>2016-08-09T15:51:00</meta:creation-date><dc:date>2019-08-06T18:14:00</dc:date><meta:editing-duration>P1DT3H11M</meta:editing-duration><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:document-statistic meta:table-count="3" meta:image-count="1" meta:object-count="0" meta:page-count="2" meta:paragraph-count="164" meta:word-count="2611" meta:character-count="14779" meta:non-whitespace-character-count="12396"/>
 <meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
@@ -96,7 +96,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -120,7 +120,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">5069610</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">5149998</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -151,7 +151,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Calibri" fo:font-size="11pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Calibri2" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -1616,8 +1616,8 @@
     <table:table-column table:style-name="Table1.B"/>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P2" loext:marker-style-name="T9"><text:span text:style-name="T10">Liste de contrôle de publication d&apos;applis</text:span><text:span text:style-name="T11"> </text:span></text:p>
-      <text:p text:style-name="P9" loext:marker-style-name="T12"><text:span text:style-name="T13">Votre application est-elle prête à être publiée ?</text:span><text:span text:style-name="T13"/></text:p>
+      <text:p text:style-name="P2" loext:marker-style-name="T9"><text:span text:style-name="T10">App Publishing Checklist</text:span><text:span text:style-name="T11"> </text:span></text:p>
+      <text:p text:style-name="P9" loext:marker-style-name="T12"><text:span text:style-name="T13">Is your app ready to publish?</text:span><text:span text:style-name="T13"/></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
       <text:p text:style-name="P16" loext:marker-style-name="T14"><draw:frame draw:style-name="fr1" draw:name="Picture 1" text:anchor-type="as-char" svg:width="2.4335in" svg:height="0.7598in" draw:z-index="0"><draw:image draw:mime-type="image/png">
@@ -2466,7 +2466,7 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P17" loext:marker-style-name="T1"><text:span text:style-name="T1">Avant de libérer votre application et de la mettre à disposition des utilisateurs pour l&apos;installer et la partager, voici une liste de choses à vérifier. Cette liste de contrôle peut être utilisée par les responsables de la vérification des publications numériques dans votre organisation.</text:span><text:span text:style-name="T1"/></text:p>
+   <text:p text:style-name="P17" loext:marker-style-name="T1"><text:span text:style-name="T1">Before you release your app and make it available for users to install and share, here is a list of things to check. This checklist can be used by those responsible for checking digital publications in your organisation.</text:span><text:span text:style-name="T1"/></text:p>
    <table:table table:name="Table2" table:style-name="Table2">
     <table:table-column table:style-name="Table2.A"/>
     <table:table-column table:style-name="Table2.B"/>
@@ -2476,30 +2476,30 @@
       <text:p text:style-name="P7">☐</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:list xml:id="list3675842557" text:style-name="WWNum6">
+      <text:list xml:id="list3369695656" text:style-name="WWNum6">
        <text:list-item>
-        <text:h text:style-name="P23" text:outline-level="1">Vérifications de contenu</text:h>
+        <text:h text:style-name="P23" text:outline-level="1">Content Checks</text:h>
        </text:list-item>
       </text:list>
       <text:p text:style-name="P9" loext:marker-style-name="T1"><text:span text:style-name="T1">Ensure that the app content has passed through the checks required by your organisation: </text:span><text:span text:style-name="T1"/></text:p>
-      <text:list xml:id="list609969" text:style-name="WWNum1">
+      <text:list xml:id="list1174444843" text:style-name="WWNum1">
        <text:list-item>
-        <text:p text:style-name="P25" loext:marker-style-name="T1"><text:span text:style-name="T1">A-t-il été la preuve des erreurs d&apos;orthographe et de ponctuation ? </text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P25" loext:marker-style-name="T1"><text:span text:style-name="T1">Has it been proof-read for spelling mistakes and punctuation? </text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P26" loext:marker-style-name="T1"><text:span text:style-name="T1">Y a-t-il eu une vérification de la pertinence et de la clarté des illustrations ?</text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P26" loext:marker-style-name="T1"><text:span text:style-name="T1">Have any illustrations been checked for appropriateness and clarity?</text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P26" loext:marker-style-name="T1"><text:span text:style-name="T1">Le formatage est-il cohérent, par exemple l&apos;utilisation de styles de titres, l&apos;espacement des lignes, etc.? </text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P26" loext:marker-style-name="T1"><text:span text:style-name="T1">Is the formatting consistent, e.g. use of heading styles, line spacing, etc.? </text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P26" loext:marker-style-name="T1"><text:span text:style-name="T1">Le contenu a-t-il été approuvé pour publication?</text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P26" loext:marker-style-name="T1"><text:span text:style-name="T1">Has the content been approved for publication?</text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P26" loext:marker-style-name="T1"><text:span text:style-name="T1">Utilisez-vous une orthographe approuvée?</text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P26" loext:marker-style-name="T1"><text:span text:style-name="T1">Are you using an approved orthography?</text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P5">Si vous utilisez RAB pour créer des applications pour un nombre limité d&apos;utilisateurs, comme le comité des évaluateurs de la communauté, ou s&apos;il s&apos;agit d&apos;une orthographie d&apos;essai que vous voudrez mettre à jour dans quelques mois, veuillez consulter la section ci-dessous sur « Date d’expiration ou Distribution limitée de périphériques ».</text:p>
+      <text:p text:style-name="P5">If you are using RAB to create apps to be used by a limited number of users, such as a community reviewers’ committee, or if it is a trial orthography which you will want to update in a few months, please see the section below on ‘Expiry Date or Limited Device Distribution’.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
@@ -2507,34 +2507,34 @@
       <text:p text:style-name="P7">☐</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:list xml:id="list220027036631989" text:continue-list="list3675842557" text:style-name="WWNum6">
+      <text:list xml:id="list222603265936116" text:continue-list="list3369695656" text:style-name="WWNum6">
        <text:list-item>
-        <text:h text:style-name="P23" text:outline-level="1">Permission de distribuer du contenu</text:h>
+        <text:h text:style-name="P23" text:outline-level="1">Permission to Distribute Content</text:h>
        </text:list-item>
       </text:list>
       <text:p text:style-name="P9" loext:marker-style-name="T1"><text:span text:style-name="T1">Ensure that you have the necessary permissions to distribute the content in the app:</text:span><text:span text:style-name="T1"/></text:p>
-      <text:list text:continue-list="list609969" text:style-name="WWNum1">
+      <text:list text:continue-list="list1174444843" text:style-name="WWNum1">
        <text:list-item>
-        <text:p text:style-name="P25" loext:marker-style-name="T1"><text:span text:style-name="T1">Avez-vous la permission de distribuer le texte?</text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P25" loext:marker-style-name="T1"><text:span text:style-name="T1">Do you have permission to distribute the text?</text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P26" loext:marker-style-name="T1"><text:span text:style-name="T1">Avez-vous la permission de distribuer les fichiers audio, le cas échéant?</text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P26" loext:marker-style-name="T1"><text:span text:style-name="T1">Do you have permission to distribute the audio files, if any?</text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P26" loext:marker-style-name="T1"><text:span text:style-name="T1">Avez-vous la permission de distribuer chacune des images, le cas échéant?</text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P26" loext:marker-style-name="T1"><text:span text:style-name="T1">Do you have permission to distribute each of the images, if any?</text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P11" loext:marker-style-name="T14"><text:span text:style-name="T1">Rappelez-vous que pour les textes, les sons et les images, les droits d&apos;auteur peuvent être détenus par différents propriétaires. Vous devez avoir la permission pour chacun.</text:span><text:span text:style-name="T4"/></text:p>
+      <text:p text:style-name="P11" loext:marker-style-name="T14"><text:span text:style-name="T1">Remember that for text, audio and images, the copyright can be held by different owners. You must have permission for each.</text:span><text:span text:style-name="T4"/></text:p>
       <text:p text:style-name="P11" loext:marker-style-name="T1"><text:span text:style-name="T1">You will have permission if:</text:span><text:span text:style-name="T1"/></text:p>
-      <text:list xml:id="list220026163845901" text:continue-numbering="true" text:style-name="WWNum1">
+      <text:list xml:id="list222601594764835" text:continue-numbering="true" text:style-name="WWNum1">
        <text:list-item>
         <text:p text:style-name="P27" loext:marker-style-name="T1"><text:span text:style-name="T1">You are the owner (intellectual property rights holder) of the content, or</text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P26" loext:marker-style-name="T1"><text:span text:style-name="T1">Vous avez obtenu l&apos;autorisation du détenteur des droits de distribuer leur contenu. Une telle permission peut être accordée : (i) dans une licence, telle qu&apos;une licence Creative Commons, ou (ii) dans un accord spécifique signé entre vous et le détenteur des droits. </text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P26" loext:marker-style-name="T1"><text:span text:style-name="T1">You have been given permission from the rights holder to distribute their content. Such permission may be granted: (i) in a license, such as a Creative Commons license, or (ii) in a specific agreement signed between you and the rights holder. </text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P11" loext:marker-style-name="T1"><text:span text:style-name="T1">It is important to know whether you have permission to distribute the content in </text:span><text:span text:style-name="T5">digital</text:span><text:span text:style-name="T1"> publications. Par exemple, si vous savez que vous avez la permission d&apos;utiliser une certaine image dans un livret imprimé, vous devrez également vérifier si vous avez la permission de l&apos;utiliser dans une application.</text:span></text:p>
+      <text:p text:style-name="P11" loext:marker-style-name="T1"><text:span text:style-name="T1">It is important to know whether you have permission to distribute the content in </text:span><text:span text:style-name="T5">digital</text:span><text:span text:style-name="T1"> publications. For example, if you know you have the permission to use a certain image in a printed booklet, you will also need to check whether you have permission to use it in an app.</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
@@ -2542,24 +2542,24 @@
       <text:p text:style-name="P7">☐</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:list xml:id="list220027933870907" text:continue-list="list220027036631989" text:style-name="WWNum6">
+      <text:list xml:id="list222603080793725" text:continue-list="list222603265936116" text:style-name="WWNum6">
        <text:list-item>
-        <text:h text:style-name="P23" text:outline-level="1">Installation et navigation des applications</text:h>
+        <text:h text:style-name="P23" text:outline-level="1">App Installation and Navigation</text:h>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P9" loext:marker-style-name="T1"><text:span text:style-name="T1">Installez l&apos;application sur au moins deux smartphones différents avec différentes versions d&apos;Android. Choisissez des modèles de téléphones appartenant à des utilisateurs typiques, c.-à-d. tester sur les téléphones à faible et moyen portée et pas simplement les téléphones les plus rapides et les plus coûteux que vous pouvez trouver.</text:span><text:span text:style-name="T1"/></text:p>
+      <text:p text:style-name="P9" loext:marker-style-name="T1"><text:span text:style-name="T1">Install the app on at least two different smartphones with different Android versions. Choose models of phones that are owned by typical users, i.e. test on low and mid-range phones and not simply the fastest and most expensive phones you can find.</text:span><text:span text:style-name="T1"/></text:p>
       <text:list text:style-name="WWNum5">
        <text:list-item>
-        <text:p text:style-name="P51">L&apos;application s&apos;installe-t-elle correctement ?</text:p>
+        <text:p text:style-name="P51">Does the app install OK?</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P52">Êtes-vous en mesure de naviguer dans l&apos;application sans aucun problème ? Essayez de sélectionner des livres, de jouer des livres d&apos;histoires, de faire défiler, de glisser entre les pages, de rechercher des mots, etc.</text:p>
+        <text:p text:style-name="P52">Are you able to navigate around the app without any problems? Try selecting books, playing picture story books, scrolling, swiping between pages, searching for words, etc.</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P52">La mise en surbrillance du texte est-elle synchronisée correctement lorsque l&apos;audio est en cours de lecture ?</text:p>
+        <text:p text:style-name="P52">Is text highlighting synchronized correctly when the audio is playing?</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P52">Êtes-vous en mesure de voir le contenu de la boîte À propos ?</text:p>
+        <text:p text:style-name="P52">Are you able to view the contents of the about box?</text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
@@ -2569,27 +2569,27 @@
       <text:p text:style-name="P7">☐</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:list xml:id="list220026172330011" text:continue-list="list220027933870907" text:style-name="WWNum6">
+      <text:list xml:id="list222602250455785" text:continue-list="list222603080793725" text:style-name="WWNum6">
        <text:list-item>
-        <text:h text:style-name="P23" text:outline-level="1">Nom de l&apos;application</text:h>
+        <text:h text:style-name="P23" text:outline-level="1">App Name</text:h>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P9" loext:marker-style-name="T14"><text:span text:style-name="T1">Il s&apos;agit du titre principal de l&apos;application, affiché sur le téléphone de l&apos;utilisateur sous l&apos;icône de l&apos;application.</text:span><text:span text:style-name="T4"/></text:p>
+      <text:p text:style-name="P9" loext:marker-style-name="T14"><text:span text:style-name="T1">This is the main title of the app, displayed on the user’s phone under the app icon.</text:span><text:span text:style-name="T4"/></text:p>
       <text:list text:style-name="WWNum3">
        <text:list-item>
-        <text:p text:style-name="P36" loext:marker-style-name="T3"><text:span text:style-name="T3">Le nom est-il assez court, par exemple “Giryama Stories” plutôt que “A Collection of Short Stories in the Giryama Language”? Sinon, une partie du nom sera coupée lorsqu&apos;elle sera affichée sur le téléphone.</text:span><text:span text:style-name="T3"/></text:p>
+        <text:p text:style-name="P36" loext:marker-style-name="T3"><text:span text:style-name="T3">Is the name short enough, e.g. “Giryama Stories” rather than “A Collection of Short Stories in the Giryama Language”? Otherwise some of the name will be cut off when displayed on the phone.</text:span><text:span text:style-name="T3"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P36" loext:marker-style-name="T3"><text:span text:style-name="T3">Le nom est-il clair et compréhensible par les locuteurs de la langue? Est-il préférable d&apos;utiliser un nom dans une langue de communication plus large ou un nom dans la langue locale?</text:span><text:span text:style-name="T3"/></text:p>
+        <text:p text:style-name="P36" loext:marker-style-name="T3"><text:span text:style-name="T3">Is the name clear and understandable by speakers of the language? Is it better to use a name in a language of wider communication or a name in the local language?</text:span><text:span text:style-name="T3"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P36" loext:marker-style-name="T3"><text:span text:style-name="T3">Le cas mixte est-il utilisé, par exemple “Tharaka Stories”, pas “THARAKA STORIES”?</text:span><text:span text:style-name="T3"/></text:p>
+        <text:p text:style-name="P36" loext:marker-style-name="T3"><text:span text:style-name="T3">Is mixed case used, e.g. “Tharaka Stories”, not “THARAKA STORIES”?</text:span><text:span text:style-name="T3"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P37" loext:marker-style-name="T3"><text:span text:style-name="T3">N&apos;oubliez pas que les noms des applications seront affichés en utilisant la police système et non la police de l&apos;application. Les caractères spéciaux sont-ils évités dans le nom qui nécessiterait une police spéciale ?</text:span><text:span text:style-name="T3"/></text:p>
+        <text:p text:style-name="P37" loext:marker-style-name="T3"><text:span text:style-name="T3">Remember that app names will be displayed using the system font and not the app font. Are special characters avoided in the name which would require a special font?</text:span><text:span text:style-name="T3"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P36"><text:span text:style-name="T3">If</text:span><text:span text:style-name="T1"> the app will be used in different countries with different official languages, have you provided translations of the app name, where appropriate? Par ex. si vous voulez que le nom de l&apos;application soit &apos;Suba Stories&apos; dans les pays anglophones et &apos;Contes en suba&apos; dans les pays francophones.</text:span></text:p>
+        <text:p text:style-name="P36"><text:span text:style-name="T3">If</text:span><text:span text:style-name="T1"> the app will be used in different countries with different official languages, have you provided translations of the app name, where appropriate? E.g. if you want the app name to be ‘Suba Stories’ in English-speaking countries and ‘Contes en suba’ in French-speaking countries.</text:span></text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
@@ -2599,54 +2599,27 @@
       <text:p text:style-name="P7">☐</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:list xml:id="list220026784885655" text:continue-list="list220026172330011" text:style-name="WWNum6">
+      <text:list xml:id="list222603336001075" text:continue-list="list222602250455785" text:style-name="WWNum6">
        <text:list-item>
-        <text:h text:style-name="P23" text:outline-level="1">Icône de l&apos;application</text:h>
+        <text:h text:style-name="P23" text:outline-level="1">App Icon</text:h>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P9" loext:marker-style-name="T14"><text:span text:style-name="T1">L&apos;icône de l&apos;application est l&apos;icône qui représente l&apos;application sur le smartphone ou la tablette d&apos;un utilisateur.</text:span><text:span text:style-name="T4"/></text:p>
-      <text:list xml:id="list220027144962308" text:continue-list="list220026163845901" text:style-name="WWNum1">
+      <text:p text:style-name="P9" loext:marker-style-name="T14"><text:span text:style-name="T1">The app icon is the icon that represents the app on a user’s smartphone or tablet.</text:span><text:span text:style-name="T4"/></text:p>
+      <text:list xml:id="list222602601333792" text:continue-list="list222601594764835" text:style-name="WWNum1">
        <text:list-item>
-        <text:p text:style-name="P27" loext:marker-style-name="T1"><text:span text:style-name="T1">L&apos;image est-elle claire et non floue?</text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P27" loext:marker-style-name="T1"><text:span text:style-name="T1">Is the image clear and not blurred?</text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P27" loext:marker-style-name="T1"><text:span text:style-name="T1">Les utilisateurs typiques comprendront-ils ce qu&apos;il représente ?</text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P27" loext:marker-style-name="T1"><text:span text:style-name="T1">Will typical users understand what it represents?</text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P34" loext:marker-style-name="T1"><text:span text:style-name="T1">Est-il culturellement approprié?</text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P34" loext:marker-style-name="T1"><text:span text:style-name="T1">Is it culturally appropriate?</text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P34" loext:marker-style-name="T1"><text:span text:style-name="T1">La qualité du design est-elle suffisamment professionnelle ?</text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P34" loext:marker-style-name="T1"><text:span text:style-name="T1">Is the quality of the design sufficiently professional?</text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P34" loext:marker-style-name="T1"><text:span text:style-name="T1">Avez-vous défini des icônes adaptatives pour Android ainsi que des icônes héritées?</text:span><text:span text:style-name="T1"/></text:p>
-       </text:list-item>
-      </text:list>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table2.1">
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P7">☐</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:list xml:id="list220026060527040" text:continue-list="list220026784885655" text:style-name="WWNum6">
-       <text:list-item>
-        <text:h text:style-name="P23" text:outline-level="1">Écran de démarrage</text:h>
-       </text:list-item>
-      </text:list>
-      <text:p text:style-name="P9" loext:marker-style-name="T14"><text:span text:style-name="T1">L&apos;écran de démarrage est l&apos;image qui apparaît en plein écran lors du chargement de l&apos;application. Il est facultatif, mais s&apos;il est inclus :</text:span><text:span text:style-name="T4"/></text:p>
-      <text:list xml:id="list220026005435894" text:continue-list="list220027144962308" text:style-name="WWNum1">
-       <text:list-item>
-        <text:p text:style-name="P27" loext:marker-style-name="T1"><text:span text:style-name="T1">L&apos;image est-elle claire et non floue?</text:span><text:span text:style-name="T1"/></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P27" loext:marker-style-name="T1"><text:span text:style-name="T1">Les utilisateurs typiques comprendront-ils ce qu&apos;il représente ?</text:span><text:span text:style-name="T1"/></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P34" loext:marker-style-name="T1"><text:span text:style-name="T1">Est-il culturellement approprié?</text:span><text:span text:style-name="T1"/></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P34" loext:marker-style-name="T1"><text:span text:style-name="T1">La qualité du design est-elle suffisamment professionnelle ?</text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P34" loext:marker-style-name="T1"><text:span text:style-name="T1">Have you defined adaptive icons for Android as well as legacy icons?</text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
@@ -2656,24 +2629,24 @@
       <text:p text:style-name="P7">☐</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:list xml:id="list220027467306058" text:continue-list="list220026060527040" text:style-name="WWNum6">
+      <text:list xml:id="list222603565797177" text:continue-list="list222603336001075" text:style-name="WWNum6">
        <text:list-item>
-        <text:h text:style-name="P23" text:outline-level="1">Image du tiroir de navigation</text:h>
+        <text:h text:style-name="P23" text:outline-level="1">Splash Screen</text:h>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P9" loext:marker-style-name="T14"><text:span text:style-name="T1">L&apos;image du tiroir de navigation s&apos;affiche en haut du tiroir qui glisse du côté de l&apos;écran lorsque l&apos;utilisateur appuie sur l&apos;icône hamburger ou glisse vers le côté de l&apos;appareil.</text:span><text:span text:style-name="T4"/></text:p>
-      <text:list xml:id="list220026668969323" text:continue-list="list220026005435894" text:style-name="WWNum1">
+      <text:p text:style-name="P9" loext:marker-style-name="T14"><text:span text:style-name="T1">The splash screen is the image that appears full screen when the app is loading. It is optional, but if it is included:</text:span><text:span text:style-name="T4"/></text:p>
+      <text:list xml:id="list222603304806127" text:continue-list="list222602601333792" text:style-name="WWNum1">
        <text:list-item>
-        <text:p text:style-name="P27" loext:marker-style-name="T1"><text:span text:style-name="T1">L&apos;image est-elle claire et non floue?</text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P27" loext:marker-style-name="T1"><text:span text:style-name="T1">Is the image clear and not blurred?</text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P27" loext:marker-style-name="T1"><text:span text:style-name="T1">Les utilisateurs typiques comprendront-ils ce qu&apos;il représente ?</text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P27" loext:marker-style-name="T1"><text:span text:style-name="T1">Will typical users understand what it represents?</text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P34" loext:marker-style-name="T1"><text:span text:style-name="T1">Est-il culturellement approprié?</text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P34" loext:marker-style-name="T1"><text:span text:style-name="T1">Is it culturally appropriate?</text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P34" loext:marker-style-name="T1"><text:span text:style-name="T1">La qualité du design est-elle suffisamment professionnelle ?</text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P34" loext:marker-style-name="T1"><text:span text:style-name="T1">Is the quality of the design sufficiently professional?</text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
@@ -2683,14 +2656,26 @@
       <text:p text:style-name="P7">☐</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:list text:continue-list="list220027467306058" text:style-name="WWNum6">
+      <text:list xml:id="list222602466497394" text:continue-list="list222603565797177" text:style-name="WWNum6">
        <text:list-item>
-        <text:h text:style-name="P23" text:outline-level="1">Polices</text:h>
+        <text:h text:style-name="P23" text:outline-level="1">Navigation Drawer Image</text:h>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P9" loext:marker-style-name="T1"><text:span text:style-name="T1">Les polices sont-elles lisibles et adaptées à la langue et au contenu de l&apos;application? Les caractères spéciaux sont-ils affichés correctement ?</text:span><text:span text:style-name="T1"/></text:p>
-      <text:p text:style-name="P9" loext:marker-style-name="T1"><text:span text:style-name="T1">La taille de la police par défaut est-elle raisonnable ? c&apos;est-à-dire la taille du texte lorsque quelqu&apos;un lance l&apos;application pour la première fois. Si vous avez un script arabe, vous devrez peut-être spécifier une taille de police par défaut plus grande que la taille par défaut de la police de caractères typique du script romain.</text:span><text:span text:style-name="T1"/></text:p>
-      <text:p text:style-name="P9" loext:marker-style-name="T14"><text:span text:style-name="T1">Si vous utilisez une police avec un script non-romain (comme l&apos;arabe, l&apos;Éthiopie, la Thaïlande), ou si vous utilisez un script romain avec la combinaison de la diacritique (&lt;unk&gt; ́, &lt;unk&gt; °), vérifiez que les téléphones avec différentes versions d&apos;Android les affichent correctement. En particulier, les versions 4.3 et inférieures d&apos;Android auront besoin d&apos;activer Grandroid dans l&apos;application, sinon les caractères ne seront pas affichés correctement.</text:span><text:span text:style-name="T4"/></text:p>
+      <text:p text:style-name="P9" loext:marker-style-name="T14"><text:span text:style-name="T1">The navigation drawer image is displayed at the top of the drawer that slides in from the side of the screen when the user taps the hamburger icon or swipes in from the side of the device.</text:span><text:span text:style-name="T4"/></text:p>
+      <text:list xml:id="list222602521786458" text:continue-list="list222603304806127" text:style-name="WWNum1">
+       <text:list-item>
+        <text:p text:style-name="P27" loext:marker-style-name="T1"><text:span text:style-name="T1">Is the image clear and not blurred?</text:span><text:span text:style-name="T1"/></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P27" loext:marker-style-name="T1"><text:span text:style-name="T1">Will typical users understand what it represents?</text:span><text:span text:style-name="T1"/></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P34" loext:marker-style-name="T1"><text:span text:style-name="T1">Is it culturally appropriate?</text:span><text:span text:style-name="T1"/></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P34" loext:marker-style-name="T1"><text:span text:style-name="T1">Is the quality of the design sufficiently professional?</text:span><text:span text:style-name="T1"/></text:p>
+       </text:list-item>
+      </text:list>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
@@ -2698,21 +2683,36 @@
       <text:p text:style-name="P7">☐</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:list xml:id="list220028016426136" text:continue-numbering="true" text:style-name="WWNum6">
+      <text:list text:continue-list="list222602466497394" text:style-name="WWNum6">
        <text:list-item>
-        <text:h text:style-name="P23" text:outline-level="1">Nom du paquet</text:h>
+        <text:h text:style-name="P23" text:outline-level="1">Fonts</text:h>
        </text:list-item>
       </text:list>
-      <text:h text:style-name="P24" text:outline-level="1" loext:marker-style-name="T7"><text:span text:style-name="T7">Le nom du package identifie de manière unique l&apos;application. C&apos;est une chaîne séparée par des minuscules par des points sans espaces, comme </text:span><text:span text:style-name="T15">org.mamara.stories</text:span><text:span text:style-name="T7">.</text:span></text:h>
+      <text:p text:style-name="P9" loext:marker-style-name="T1"><text:span text:style-name="T1">Are the font(s) readable and suitable for the language and app content? Are special characters displayed correctly?</text:span><text:span text:style-name="T1"/></text:p>
+      <text:p text:style-name="P9" loext:marker-style-name="T1"><text:span text:style-name="T1">Is the default font size reasonable? i.e. the size of the text when someone launches the app for the first time. If you have an Arabic script, you may need to specify a default font size that is larger than the typical default Roman script font size.</text:span><text:span text:style-name="T1"/></text:p>
+      <text:p text:style-name="P9" loext:marker-style-name="T14"><text:span text:style-name="T1">If you use a font with a non-Roman script (such as Arabic, Ethiopic, Thai), or if you use a Roman script with combining diacritics (ɔ́, ɛ̀), check that phones with different Android versions are displaying these correctly. In particular, Android versions 4.3 and lower will need Grandroid enabled within the app, otherwise the characters will not be displayed properly.</text:span><text:span text:style-name="T4"/></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table2.1">
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P7">☐</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:list xml:id="list222601764227165" text:continue-numbering="true" text:style-name="WWNum6">
+       <text:list-item>
+        <text:h text:style-name="P23" text:outline-level="1">Package Name</text:h>
+       </text:list-item>
+      </text:list>
+      <text:h text:style-name="P24" text:outline-level="1" loext:marker-style-name="T7"><text:span text:style-name="T7">The package name uniquely identifies the app. It is a lowercase dot-separated string without spaces, such as </text:span><text:span text:style-name="T15">org.mamara.stories</text:span><text:span text:style-name="T7">.</text:span></text:h>
       <text:list text:style-name="WWNum7">
        <text:list-item>
-        <text:p text:style-name="P54">Est-ce que le nom du package commence par le nom du site web de votre organisation inversé ? Par exemple, « org.mamara » plutôt que « mamara.org ». Assurez-vous que vous avez le droit d’utiliser l’adresse de cette organisation.</text:p>
+        <text:p text:style-name="P54">Does the package name begin with your organisation’s website name reversed? E.g “org.mamara” rather than “mamara.org”. Ensure you have the right to use this organisation’s address.</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P53">Les autres composants du nom du paquet sont-ils bien choisis ? C’est une bonne idée d’inclure le nom de la langue ou le code (par exemple « mamara » ou « myk ») et le type de publication (« histoires »).</text:p>
+        <text:p text:style-name="P53">Are the other components of the package name well chosen? It is a good idea to include the language name or code (e.g. ‘mamara’ or ‘myk’) and the type of publication (‘stories’).</text:p>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P11" loext:marker-style-name="T1"><text:span text:style-name="T1">Le nom du package peut être vu par les utilisateurs lorsqu&apos;ils consultent les détails de la boutique dans Google Play. Il est donc important de bien le choisir. Vous ne pouvez pas changer le nom du package d&apos;une application à l&apos;avenir si vous voulez mettre à jour la même application.</text:span><text:span text:style-name="T1"/></text:p>
+      <text:p text:style-name="P11" loext:marker-style-name="T1"><text:span text:style-name="T1">The package name can be seen by users when they view the app’s store details in Google Play so it is important to chose it well. You cannot change an app’s package name in the future if you want to update the same app.</text:span><text:span text:style-name="T1"/></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
@@ -2720,56 +2720,56 @@
       <text:p text:style-name="P7">☐</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:list xml:id="list220026547167167" text:continue-list="list220028016426136" text:style-name="WWNum6">
+      <text:list xml:id="list222601621020214" text:continue-list="list222601764227165" text:style-name="WWNum6">
        <text:list-item>
-        <text:h text:style-name="P23" text:outline-level="1">À propos de Box</text:h>
+        <text:h text:style-name="P23" text:outline-level="1">About Box Information</text:h>
        </text:list-item>
       </text:list>
       <text:p text:style-name="P9" loext:marker-style-name="T14"><text:span text:style-name="T1">Check that the About box of the app has the following information, where appropriate:</text:span><text:span text:style-name="T4"/></text:p>
-      <text:list text:continue-list="list220026668969323" text:style-name="WWNum1">
+      <text:list text:continue-list="list222602521786458" text:style-name="WWNum1">
        <text:list-item>
         <text:p text:style-name="P29" loext:marker-style-name="T1"><text:span text:style-name="T1">The </text:span><text:span text:style-name="T4">title</text:span><text:span text:style-name="T1"> of the app.</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P30" loext:marker-style-name="T1"><text:span text:style-name="T1">A </text:span><text:span text:style-name="T4">description</text:span><text:span text:style-name="T1"> de l&apos;application, par exemple</text:span></text:p>
+        <text:p text:style-name="P30" loext:marker-style-name="T1"><text:span text:style-name="T1">A </text:span><text:span text:style-name="T4">description</text:span><text:span text:style-name="T1"> of the app, e.g.</text:span></text:p>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P12" loext:marker-style-name="T16"><text:span text:style-name="T16">Histoires dans la langue Mamara du Mali</text:span><text:span text:style-name="T16"/></text:p>
+      <text:p text:style-name="P12" loext:marker-style-name="T16"><text:span text:style-name="T16">Stories in the Mamara Language of Mali</text:span><text:span text:style-name="T16"/></text:p>
       <text:list text:continue-numbering="true" text:style-name="WWNum1">
        <text:list-item>
         <text:p text:style-name="P32" loext:marker-style-name="T1"><text:span text:style-name="T4">Contact information</text:span><text:span text:style-name="T1"> for your organisation, <text:line-break/> e.g. your website address, telephone number, postal address, etc.</text:span></text:p>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P38" loext:marker-style-name="T1"><text:span text:style-name="T1">Sont des liens hypertexte utilisés pour les sites Web et les numéros de téléphone afin que l&apos;utilisateur puisse appuyer sur l&apos;adresse Web pour accéder au site, ou appuyez sur le numéro de téléphone pour lancer le téléphone ?</text:span><text:span text:style-name="T1"/></text:p>
+      <text:p text:style-name="P38" loext:marker-style-name="T1"><text:span text:style-name="T1">Are hyperlinks used for websites and phone numbers so that the user can tap on the web address to go to the site, or tap on the phone number to launch the phone dialer?</text:span><text:span text:style-name="T1"/></text:p>
       <text:list text:continue-numbering="true" text:style-name="WWNum1">
        <text:list-item>
-        <text:p text:style-name="P33" loext:marker-style-name="T1"><text:span text:style-name="T4">Informations sur les droits d&apos;auteur pour le texte</text:span><text:span text:style-name="T1"> tel que requis par le détenteur des droits, par exemple</text:span></text:p>
+        <text:p text:style-name="P33" loext:marker-style-name="T1"><text:span text:style-name="T4">Copyright information for the text</text:span><text:span text:style-name="T1"> as required by the rights holder, e.g.</text:span></text:p>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P12" loext:marker-style-name="T16"><text:span text:style-name="T16">Text: ©️ 2014 Association pour la promotion de la langue Mamara.</text:span><text:span text:style-name="T16"/></text:p>
+      <text:p text:style-name="P12" loext:marker-style-name="T16"><text:span text:style-name="T16">Text: © 2014 Association pour la promotion de la langue Mamara.</text:span><text:span text:style-name="T16"/></text:p>
       <text:list text:continue-numbering="true" text:style-name="WWNum1">
        <text:list-item>
-        <text:p text:style-name="P32" loext:marker-style-name="T1"><text:span text:style-name="T4">Informations sur les droits d&apos;auteur pour la</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">requises par le détenteur des droits, par exemple</text:span></text:p>
+        <text:p text:style-name="P32" loext:marker-style-name="T1"><text:span text:style-name="T4">Copyright information for the</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T4">audio</text:span><text:span text:style-name="T1"> as required by the rights holder, e.g.</text:span></text:p>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P41" loext:marker-style-name="T16"><text:span text:style-name="T16">Audio: &lt;unk&gt; 2015 Association pour la promotion de la langue Mamara.</text:span><text:span text:style-name="T16"/></text:p>
-      <text:p text:style-name="P39" loext:marker-style-name="T1"><text:span text:style-name="T1">Le symbole &lt;unk&gt; est utilisé pour représenter le copyright d&apos;un enregistrement sonore. Si la police que vous utilisez n&apos;inclut pas &lt;unk&gt; , vous pouvez utiliser (P) à la place.</text:span><text:span text:style-name="T1"/></text:p>
+      <text:p text:style-name="P41" loext:marker-style-name="T16"><text:span text:style-name="T16">Audio: ℗ 2015 Association pour la promotion de la langue Mamara.</text:span><text:span text:style-name="T16"/></text:p>
+      <text:p text:style-name="P39" loext:marker-style-name="T1"><text:span text:style-name="T1">The ℗ symbol is used to represent the copyright of a sound recording. If the font you are using does not include ℗, you could use (P) instead.</text:span><text:span text:style-name="T1"/></text:p>
       <text:list text:continue-numbering="true" text:style-name="WWNum1">
        <text:list-item>
-        <text:p text:style-name="P32" loext:marker-style-name="T1"><text:span text:style-name="T4">Informations sur les droits d&apos;auteur pour les images</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">requises par le détenteur des droits, par exemple</text:span></text:p>
+        <text:p text:style-name="P32" loext:marker-style-name="T1"><text:span text:style-name="T4">Copyright information for the</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T4">images</text:span><text:span text:style-name="T1"> as required by the rights holder, e.g.</text:span></text:p>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P41" loext:marker-style-name="T1"><text:span text:style-name="T16">Illustrations: ©️ 2015 Ousmane Diarra. Utilisé avec permission.</text:span><text:span text:style-name="T16"/></text:p>
-      <text:list xml:id="list220027610336579" text:continue-numbering="true" text:style-name="WWNum1">
+      <text:p text:style-name="P41" loext:marker-style-name="T1"><text:span text:style-name="T16">Illustrations: © 2015 Ousmane Diarra. Used with permission.</text:span><text:span text:style-name="T16"/></text:p>
+      <text:list xml:id="list222602221369167" text:continue-numbering="true" text:style-name="WWNum1">
        <text:list-item>
-        <text:p text:style-name="P33" loext:marker-style-name="T1"><text:span text:style-name="T4">Licence</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T4">Informations</text:span><text:span text:style-name="T1">: dites aux utilisateurs de l&apos;application ce qu&apos;ils peuvent faire avec l&apos;application, e. . Si vous voulez qu&apos;ils puissent le distribuer librement:</text:span></text:p>
+        <text:p text:style-name="P33" loext:marker-style-name="T1"><text:span text:style-name="T4">License</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T4">information</text:span><text:span text:style-name="T1">: tell the users of the app what they can do with the app, e.g. if you want them to be able to distribute it freely:</text:span></text:p>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P41" loext:marker-style-name="T16"><text:span text:style-name="T16">Cette application est mise à votre disposition sous les termes de la licence Creative Commons : Attribution-Noncommercial-No Derivative Works. http://creativecommons.org/licenses/by-nc-nd/4.0/</text:span><text:span text:style-name="T16"/></text:p>
+      <text:p text:style-name="P41" loext:marker-style-name="T16"><text:span text:style-name="T16">This app is made available to you under the terms of the Creative Commons License: Attribution-Noncommercial-No Derivative Works. http://creativecommons.org/licenses/by-nc-nd/4.0/</text:span><text:span text:style-name="T16"/></text:p>
       <text:p text:style-name="P4"/>
-      <text:p text:style-name="P4" loext:marker-style-name="T1"><text:span text:style-name="T4">Choix de la langue : <text:line-break/></text:span><text:span text:style-name="T1">Assurez-vous que les informations relatives à la boîte sont dans une langue que bon nombre de vos utilisateurs et des membres de la communauté dans son ensemble comprendront. Pensez à la façon dont vous utiliseriez une langue officielle sur la page</text:span><text:span text:style-name="T8"> de copyright</text:span><text:span text:style-name="T1"> d&apos;un livre de langue locale imprimé. Par exemple, pour les applications de langue sud-américaine, fournissez la licence en espagnol ou en portugais plutôt qu&apos;en anglais (ou aussi). Le libellé de la licence Creative Commons en plusieurs langues est disponible via des liens sur le site Web Creative Commons.</text:span></text:p>
-      <text:p text:style-name="P11" loext:marker-style-name="T1"><text:span text:style-name="T4">IMPORTANT : <text:line-break/></text:span><text:span text:style-name="T1">Si vous n&apos;êtes pas sûr de l&apos;un de ces détails, veuillez ne pas les deviner. Veuillez contacter les responsables de la publication numérique dans votre organisation pour obtenir des conseils et des suggestions de formulation.</text:span></text:p>
-      <text:p text:style-name="P9" loext:marker-style-name="T1"><text:span text:style-name="T1">Ne copiez pas simplement l&apos;information À propos de la boîte à partir d&apos;une copie imprimée du texte. Les informations sur l&apos;éditeur, les licences, la date de publication que vous trouvez sur une page de couverture imprimée sont souvent différentes de ce qui est nécessaire pour une application. Une publication numérique n&apos;est pas la même chose qu&apos;une publication imprimée.</text:span><text:span text:style-name="T1"/></text:p>
+      <text:p text:style-name="P4" loext:marker-style-name="T1"><text:span text:style-name="T4">Choice of language: <text:line-break/></text:span><text:span text:style-name="T1">Ensure that the about box information is in a language that many of your users and members of the wider community will understand. Think of the way in which you would use an official language on the copyright</text:span><text:span text:style-name="T8"> page</text:span><text:span text:style-name="T1"> of a printed local language book. For example, for South American language apps, provide the license in Spanish or Portuguese rather than (or as well as) English. Creative Commons license wording in several languages is available via links on the Creative Commons website.</text:span></text:p>
+      <text:p text:style-name="P11" loext:marker-style-name="T1"><text:span text:style-name="T4">IMPORTANT: <text:line-break/></text:span><text:span text:style-name="T1">If you are unsure about any of these details, please do not guess them. Please contact those responsible for digital publishing in your organisation for advice and suggested wording.</text:span></text:p>
+      <text:p text:style-name="P9" loext:marker-style-name="T1"><text:span text:style-name="T1">Do not simply copy the About Box information from a printed copy of the text. The publisher information, licences, publishing date you find on a printed front matter page will often be different from what is needed for an app. A digital publication is not the same as a printed publication.</text:span><text:span text:style-name="T1"/></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
@@ -2777,19 +2777,19 @@
       <text:p text:style-name="P7">☐</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:list xml:id="list220027389429647" text:continue-list="list220026547167167" text:style-name="WWNum6">
+      <text:list xml:id="list222601708748393" text:continue-list="list222601621020214" text:style-name="WWNum6">
        <text:list-item>
-        <text:h text:style-name="P23" text:outline-level="1">Noms de livres et de livres</text:h>
+        <text:h text:style-name="P23" text:outline-level="1">Books and Book Names</text:h>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P9" loext:marker-style-name="T1"><text:span text:style-name="T1">Est-ce que tous les livres inclus doivent être inclus ? Assurez-vous de ne pas manquer un livre par accident.</text:span><text:span text:style-name="T1"/></text:p>
+      <text:p text:style-name="P9" loext:marker-style-name="T1"><text:span text:style-name="T1">Are all the books included that should be included? Make sure that you are not missing out a book by accident.</text:span><text:span text:style-name="T1"/></text:p>
       <text:p text:style-name="P3" loext:marker-style-name="T14"><text:span text:style-name="T1">Look at the list of book names for the app:</text:span><text:span text:style-name="T4"/></text:p>
-      <text:list xml:id="list220026393307318" text:continue-list="list220027610336579" text:style-name="WWNum1">
+      <text:list xml:id="list222603362381839" text:continue-list="list222602221369167" text:style-name="WWNum1">
        <text:list-item>
-        <text:p text:style-name="P28" loext:marker-style-name="T1"><text:span text:style-name="T1">Sont-ils cohérents, c&apos;est-à-dire pas un mélange de noms complets et d&apos;abréviations ? </text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P28" loext:marker-style-name="T1"><text:span text:style-name="T1">Are they consistent, i.e. not a mixture of full names and abbreviations? </text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P27" loext:marker-style-name="T1"><text:span text:style-name="T1">Le cas mixte est-il utilisé, par exemple « Poulet et Millipede », pas « CHICKEN ET MILLIPEDE » ?</text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P27" loext:marker-style-name="T1"><text:span text:style-name="T1">Is mixed case used, i.e. “Chicken and Millipede”, not “CHICKEN AND MILLIPEDE”?</text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
@@ -2799,18 +2799,18 @@
       <text:p text:style-name="P7">☐</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:list xml:id="list220027254229559" text:continue-list="list220027389429647" text:style-name="WWNum6">
+      <text:list xml:id="list222602747455569" text:continue-list="list222601708748393" text:style-name="WWNum6">
        <text:list-item>
-        <text:h text:style-name="P23" text:outline-level="1">Chercher</text:h>
+        <text:h text:style-name="P23" text:outline-level="1">Search</text:h>
        </text:list-item>
       </text:list>
       <text:p text:style-name="P9" loext:marker-style-name="T1"><text:span text:style-name="T1">If Search is enabled in the app:</text:span><text:span text:style-name="T1"/></text:p>
       <text:list text:style-name="WWNum10">
        <text:list-item>
-        <text:p text:style-name="P42" loext:marker-style-name="T4"><text:span text:style-name="T1">La recherche fonctionne-t-elle correctement ?</text:span><text:span text:style-name="T4"/></text:p>
+        <text:p text:style-name="P42" loext:marker-style-name="T4"><text:span text:style-name="T1">Is search working OK?</text:span><text:span text:style-name="T4"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P43" loext:marker-style-name="T4"><text:span text:style-name="T1">Les boutons de saisie de caractères spéciaux ont-ils été spécifiés pour l&apos;écran de recherche ? Ce sont les boutons que l’utilisateur peut appuyer en plus du clavier système du téléphone.</text:span><text:span text:style-name="T4"/></text:p>
+        <text:p text:style-name="P43" loext:marker-style-name="T4"><text:span text:style-name="T1">Have special character input buttons been specified for the search screen? These are the buttons that a user can press in addition to the phone’s system keyboard.</text:span><text:span text:style-name="T4"/></text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
@@ -2820,18 +2820,18 @@
       <text:p text:style-name="P7">☐</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:list xml:id="list220027060367282" text:continue-list="list220027254229559" text:style-name="WWNum6">
+      <text:list xml:id="list222602659244140" text:continue-list="list222602747455569" text:style-name="WWNum6">
        <text:list-item>
-        <text:h text:style-name="P23" text:outline-level="1">Langue et traductions de l&apos;interface</text:h>
+        <text:h text:style-name="P23" text:outline-level="1">Interface Language and Translations</text:h>
        </text:list-item>
       </text:list>
       <text:p text:style-name="P9" loext:marker-style-name="T14"><text:span text:style-name="T1">Look at the language used for the interface menu items and search screen, e.g. “Search”, “About”, “Match whole words”, etc.:</text:span><text:span text:style-name="T4"/></text:p>
-      <text:list xml:id="list220026846714549" text:continue-list="list220026393307318" text:style-name="WWNum1">
+      <text:list xml:id="list222602433149588" text:continue-list="list222603362381839" text:style-name="WWNum1">
        <text:list-item>
-        <text:p text:style-name="P27" loext:marker-style-name="T1"><text:span text:style-name="T1">Un choix de langues d’interface appropriées est-il prévu pour les utilisateurs typiques? Quelle est la langue par défaut de l&apos;interface lorsque les utilisateurs installent l&apos;application pour la première fois? Est-il préférable d&apos;utiliser par défaut l&apos;anglais, le français, le chinois, une langue locale, etc.? </text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P27" loext:marker-style-name="T1"><text:span text:style-name="T1">Is a choice of appropriate interface languages provided for typical users? What is the default interface language when users first install the app? Is it best to default to using English, French, Chinese, a local language, etc.? </text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P26" loext:marker-style-name="T1"><text:span text:style-name="T1">Si les éléments de l&apos;interface ont été traduits dans une langue locale, ont-ils été vérifiés pour la compréhension ?</text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P26" loext:marker-style-name="T1"><text:span text:style-name="T1">If the interface elements have been translated into a local language, have they been checked for comprehension?</text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
@@ -2841,18 +2841,18 @@
       <text:p text:style-name="P7">☐</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:list xml:id="list220026485513452" text:continue-list="list220027060367282" text:style-name="WWNum6">
+      <text:list xml:id="list222601962230936" text:continue-list="list222602659244140" text:style-name="WWNum6">
        <text:list-item>
-        <text:h text:style-name="P23" text:outline-level="1">KeyStore pour la signature de l&apos;application</text:h>
+        <text:h text:style-name="P23" text:outline-level="1">KeyStore for App Signing</text:h>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P3" loext:marker-style-name="T1"><text:span text:style-name="T1">Toutes les applications Android sont signées avec une touche de clé. Vous pouvez utiliser le même magasin de clés pour plusieurs applications, ou un magasin de clés différent pour chaque application.</text:span><text:span text:style-name="T1"/></text:p>
+      <text:p text:style-name="P3" loext:marker-style-name="T1"><text:span text:style-name="T1">All Android apps are signed with a keystore key. You can use the same keystore for multiple apps, or a different keystore for each app.</text:span><text:span text:style-name="T1"/></text:p>
       <text:list text:style-name="WWNum4">
        <text:list-item>
-        <text:p text:style-name="P44" loext:marker-style-name="T1"><text:span text:style-name="T1">L&apos;application a-t-elle été signée avec un Keystore que vous avez généré pour la publication ? c&apos;est-à-dire, le magasin de clés contient-il certains détails de votre organisation plutôt que d&apos;être un simple magasin de clés temporaire que vous avez créé rapidement pour des tests internes ?</text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P44" loext:marker-style-name="T1"><text:span text:style-name="T1">Has the app been signed with a Keystore that you have generated for publishing? i.e. does the keystore contain some of your organisational details rather than being just a temporary keystore that you created quickly for in-house testing?</text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P45" loext:marker-style-name="T1"><text:span text:style-name="T4">IMPORTANT:</text:span><text:span text:style-name="T1"> Le fichier du magasin de clés est-il en sécurité quelque part ? Lorsque vous mettez à jour votre application, vous devrez utiliser exactement le même fichier de stockage de clés.</text:span></text:p>
+        <text:p text:style-name="P45" loext:marker-style-name="T1"><text:span text:style-name="T4">IMPORTANT:</text:span><text:span text:style-name="T1"> Is the keystore file being kept safe somewhere? When you update your app, you will need to use exactly the same keystore file.</text:span></text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
@@ -2862,13 +2862,13 @@
       <text:p text:style-name="P7">☐</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:list text:continue-list="list220026485513452" text:style-name="WWNum6">
+      <text:list text:continue-list="list222601962230936" text:style-name="WWNum6">
        <text:list-item>
-        <text:h text:style-name="P23" text:outline-level="1">Synchronisation du texte audio</text:h>
+        <text:h text:style-name="P23" text:outline-level="1">Audio-Text Synchronization</text:h>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P9" loext:marker-style-name="T1"><text:span text:style-name="T1">Si vous utilisez la synchronisation de texte audio pour mettre en surbrillance le texte phrase par phrase lors de la lecture de l&apos;audio, le surlignement fonctionne-t-il correctement?</text:span><text:span text:style-name="T1"/></text:p>
-      <text:p text:style-name="P9" loext:marker-style-name="T1"><text:span text:style-name="T1">Si l&apos;application contient des livres d&apos;histoires de photos, les pages avançent-elles au bon moment avec l&apos;audio?</text:span><text:span text:style-name="T1"/></text:p>
+      <text:p text:style-name="P9" loext:marker-style-name="T1"><text:span text:style-name="T1">If you are using audio-text synchronization to highlight the text phrase-by-phrase as the audio is playing, is the highlighting working accurately?</text:span><text:span text:style-name="T1"/></text:p>
+      <text:p text:style-name="P9" loext:marker-style-name="T1"><text:span text:style-name="T1">If the app contains picture story books, are the pages advancing at the right moments in time with the audio?</text:span><text:span text:style-name="T1"/></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
@@ -2876,21 +2876,21 @@
       <text:p text:style-name="P7">☐</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:list xml:id="list220027168859057" text:continue-numbering="true" text:style-name="WWNum6">
+      <text:list xml:id="list222601645107545" text:continue-numbering="true" text:style-name="WWNum6">
        <text:list-item>
-        <text:h text:style-name="P23" text:outline-level="1">Distribution du fichier audio</text:h>
+        <text:h text:style-name="P23" text:outline-level="1">Audio File Distribution</text:h>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P9" loext:marker-style-name="T1"><text:span text:style-name="T1">Si votre application utilise l&apos;audio, comment avez-vous décidé de distribuer les fichiers audio ?</text:span><text:span text:style-name="T1"/></text:p>
-      <text:list xml:id="list1761061920" text:style-name="WWNum8">
+      <text:p text:style-name="P9" loext:marker-style-name="T1"><text:span text:style-name="T1">If your app uses audio, how have you decided to distribute the audio files?</text:span><text:span text:style-name="T1"/></text:p>
+      <text:list xml:id="list1585321696" text:style-name="WWNum8">
        <text:list-item>
-        <text:p text:style-name="P46" loext:marker-style-name="T6"><text:span text:style-name="T6">Package dans l&apos;application: </text:span><text:span text:style-name="T1">Vérifiez que la taille de l&apos;application n&apos;est pas trop grande. La limite pour publier une application sur Google Play est de 100Mo. Si vous voulez que les utilisateurs puissent partager l&apos;application via Bluetooth, il vaudrait mieux qu&apos;elle soit beaucoup plus petite que cela.</text:span></text:p>
+        <text:p text:style-name="P46" loext:marker-style-name="T6"><text:span text:style-name="T6">Package inside the app: </text:span><text:span text:style-name="T1">Check that the app size is not too large. The limit for publishing an app on Google Play is 100MB. If you want users to be able to share the app via Bluetooth, it would be better if it was much smaller than this.</text:span></text:p>
        </text:list-item>
        <text:list-item>
         <text:p text:style-name="P48" loext:marker-style-name="T6"><text:span text:style-name="T6">Distribute in an external folder: </text:span><text:span text:style-name="T1">Do you have a good distributation strategy for making the audio files available to people?</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P48" loext:marker-style-name="T6"><text:span text:style-name="T6">Download from the internet: </text:span><text:span text:style-name="T1">Are you hosting the audio files on a reliable server? Teste que ce téléchargement fonctionne lorsque tu essaies de lire un fichier audio dans l&apos;application.</text:span></text:p>
+        <text:p text:style-name="P48" loext:marker-style-name="T6"><text:span text:style-name="T6">Download from the internet: </text:span><text:span text:style-name="T1">Are you hosting the audio files on a reliable server? Test that this download works when you try to play an audio file in the app.</text:span></text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
@@ -2900,30 +2900,30 @@
       <text:p text:style-name="P7">☐</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:list xml:id="list220027778186121" text:continue-list="list220027168859057" text:style-name="WWNum6">
+      <text:list xml:id="list222602744240887" text:continue-list="list222601645107545" text:style-name="WWNum6">
        <text:list-item>
-        <text:h text:style-name="P23" text:outline-level="1">Date d&apos;expiration ou distribution limitée de l&apos;appareil</text:h>
+        <text:h text:style-name="P23" text:outline-level="1">Expiry Date or Limited Device Distribution</text:h>
        </text:list-item>
       </text:list>
       <text:p text:style-name="P3" loext:marker-style-name="T1"><text:span text:style-name="T1">If you want to limit the lifetime of the app, e.g. it is a trial version:</text:span><text:span text:style-name="T1"/></text:p>
-      <text:list text:continue-list="list1761061920" text:style-name="WWNum8">
+      <text:list text:continue-list="list1585321696" text:style-name="WWNum8">
        <text:list-item>
-        <text:p text:style-name="P47" loext:marker-style-name="T1"><text:span text:style-name="T1">Une date d&apos;expiration a-t-elle été spécifiée ? </text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P47" loext:marker-style-name="T1"><text:span text:style-name="T1">Has an expiry date been specified? </text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P49" loext:marker-style-name="T1"><text:span text:style-name="T1">Quel message sera affiché à l&apos;utilisateur lorsque la date d&apos;expiration sera atteinte ?</text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P49" loext:marker-style-name="T1"><text:span text:style-name="T1">What message will be displayed to the user when the expiry date is reached?</text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P49" loext:marker-style-name="T1"><text:span text:style-name="T1">Les utilisateurs pourront-ils continuer à utiliser l&apos;application après avoir vu le message d&apos;expiration ?</text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P49" loext:marker-style-name="T1"><text:span text:style-name="T1">Will users continue to be able to use the app after seeing the expiry message?</text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
       </text:list>
       <text:p text:style-name="P11" loext:marker-style-name="T1"><text:span text:style-name="T1">If you want to limit the devices that can install the app, e.g. you want a restricted team to be able to use it:</text:span><text:span text:style-name="T1"/></text:p>
       <text:list text:continue-numbering="true" text:style-name="WWNum8">
        <text:list-item>
-        <text:p text:style-name="P46" loext:marker-style-name="T1"><text:span text:style-name="T1">Avez-vous spécifié une liste de numéros IMEI approuvés dans l&apos;application ?</text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P46" loext:marker-style-name="T1"><text:span text:style-name="T1">Have you specified a list of approved device IMEI numbers in the app?</text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P49" loext:marker-style-name="T1"><text:span text:style-name="T1">Si vous essayez d&apos;exécuter l&apos;application sur un appareil qui n&apos;est pas inclus dans cette liste, est-ce qu&apos;elle affiche un message d&apos;erreur ?</text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P49" loext:marker-style-name="T1"><text:span text:style-name="T1">If you try to run the app on a device which is not included in this list, does it show an error message?</text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
@@ -2933,9 +2933,9 @@
       <text:p text:style-name="P7">☐</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:list text:continue-list="list220027778186121" text:style-name="WWNum6">
+      <text:list text:continue-list="list222602744240887" text:style-name="WWNum6">
        <text:list-item>
-        <text:h text:style-name="P23" text:outline-level="1">Archivage</text:h>
+        <text:h text:style-name="P23" text:outline-level="1">Archiving</text:h>
        </text:list-item>
       </text:list>
       <text:p text:style-name="P3"><text:span text:style-name="T1">If you are the rights holder of the app content, have you followed your organisation’s guidelines, if any, regarding archiving the text, images and recorded audio</text:span>.</text:p>
@@ -2946,27 +2946,27 @@
       <text:p text:style-name="P7">☐</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:list xml:id="list220027599177463" text:continue-numbering="true" text:style-name="WWNum6">
+      <text:list xml:id="list222601725800712" text:continue-numbering="true" text:style-name="WWNum6">
        <text:list-item>
-        <text:h text:style-name="P23" text:outline-level="1">Stratégie de publication, de distribution et de marketing</text:h>
+        <text:h text:style-name="P23" text:outline-level="1">Publishing, Distribution and Marketing Strategy</text:h>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P2" loext:marker-style-name="T1"><text:span text:style-name="T1">Où allez-vous rendre votre application disponible ? Quel compte développeur d&apos;applications serait le plus stratégique ? </text:span><text:span text:style-name="T1"/></text:p>
-      <text:list xml:id="list220026168742893" text:continue-list="list220026846714549" text:style-name="WWNum1">
+      <text:p text:style-name="P2" loext:marker-style-name="T1"><text:span text:style-name="T1">Where are you going to make your app available? Which app store developer account would be the most strategic? </text:span><text:span text:style-name="T1"/></text:p>
+      <text:list xml:id="list222602209643415" text:continue-list="list222602433149588" text:style-name="WWNum1">
        <text:list-item>
-        <text:p text:style-name="P27" loext:marker-style-name="T1"><text:span text:style-name="T1">Allez-vous publier votre application sur une page de magasin avec d&apos;autres applications du monde entier ? </text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P27" loext:marker-style-name="T1"><text:span text:style-name="T1">Will you publish your app on a store page together with other apps from around the world? </text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P27" loext:marker-style-name="T1"><text:span text:style-name="T1">Ou sur une page de l&apos;app store avec des applications de votre pays ou de votre région? </text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P27" loext:marker-style-name="T1"><text:span text:style-name="T1">Or on an app store page together with apps from your country or region? </text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P27" loext:marker-style-name="T1"><text:span text:style-name="T1">Ou une page de magasin avec d&apos;autres types d&apos;applications pour la même langue (ex: applications de dictionnaire)? </text:span><text:span text:style-name="T1"/></text:p>
+        <text:p text:style-name="P27" loext:marker-style-name="T1"><text:span text:style-name="T1">Or a store page together with other kinds of apps for the same language (e.g. dictionary apps)? </text:span><text:span text:style-name="T1"/></text:p>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P9" loext:marker-style-name="T1"><text:span text:style-name="T1">Avez-vous besoin de créer un nouveau compte développeur?</text:span><text:span text:style-name="T1"/></text:p>
-      <text:p text:style-name="P9" loext:marker-style-name="T1"><text:span text:style-name="T1">Allez-vous également distribuer vos applications hors ligne, par exemple en utilisant une BibleBox ou un Lightstream, ou via des cartes mémoire ?</text:span><text:span text:style-name="T1"/></text:p>
-      <text:p text:style-name="P6">Comment allez-vous informer les gens de votre application ? Allez-vous utiliser les réseaux sociaux (par exemple Facebook) de marketing? Avez-vous un budget pour la publicité payante, par exemple en utilisant les publicités Facebook ?</text:p>
-      <text:p text:style-name="P2"><text:span text:style-name="T4">IMPORTANT:</text:span><text:span text:style-name="T1"> Veuillez prendre au sérieux ce sujet de la stratégie marketing d&apos;applications. Il ne suffit pas de créer et de publier une application : nous voulons la voir utilisée !</text:span></text:p>
+      <text:p text:style-name="P9" loext:marker-style-name="T1"><text:span text:style-name="T1">Do you need to create a new developer account?</text:span><text:span text:style-name="T1"/></text:p>
+      <text:p text:style-name="P9" loext:marker-style-name="T1"><text:span text:style-name="T1">Will you also distribute your apps offline, e.g. using a BibleBox or Lightstream, or via memory cards?</text:span><text:span text:style-name="T1"/></text:p>
+      <text:p text:style-name="P6">How are you going to let people know about your app? Will you use social media (e.g. Facebook) marketing? Do you have a budget for paid advertising, e.g. using Facebook Ads?</text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T4">IMPORTANT:</text:span><text:span text:style-name="T1"> Please take this subject of app marketing strategy seriously. It is not enough to create and publish an app: we want to see it used!</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
@@ -2974,49 +2974,49 @@
       <text:p text:style-name="P7">☐</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:list xml:id="list220027745201062" text:continue-list="list220027599177463" text:style-name="WWNum6">
+      <text:list xml:id="list222602184320884" text:continue-list="list222601725800712" text:style-name="WWNum6">
        <text:list-item>
-        <text:h text:style-name="P23" text:outline-level="1">Détails du Google Play Store</text:h>
+        <text:h text:style-name="P23" text:outline-level="1">Google Play Store Details</text:h>
        </text:list-item>
       </text:list>
       <text:p text:style-name="P9" loext:marker-style-name="T1"><text:span text:style-name="T1">If the app will be published on the Google Play store, check the following store details:</text:span><text:span text:style-name="T1"/></text:p>
-      <text:list text:continue-list="list220026168742893" text:style-name="WWNum1">
+      <text:list text:continue-list="list222602209643415" text:style-name="WWNum1">
        <text:list-item>
-        <text:p text:style-name="P30" loext:marker-style-name="T6"><text:span text:style-name="T6">Titre de l&apos;app</text:span><text:span text:style-name="T6"/></text:p>
+        <text:p text:style-name="P30" loext:marker-style-name="T6"><text:span text:style-name="T6">App title</text:span><text:span text:style-name="T6"/></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P30" loext:marker-style-name="T1"><text:span text:style-name="T6">Descriptions courtes et complètes :</text:span><text:span text:style-name="T1"> Celles-ci doivent décrire clairement l&apos;application à l&apos;auditoire cible dans la(les) langue(s) la plus appropriée(s). Mentionnez le pays et les noms de langues alternatifs pour augmenter la possibilité pour les utilisateurs de trouver l&apos;application lorsqu&apos;ils recherchent sur Google Play. </text:span></text:p>
+        <text:p text:style-name="P30" loext:marker-style-name="T1"><text:span text:style-name="T6">Short and full descriptions:</text:span><text:span text:style-name="T1"> These should describe the app clearly to the target audience in the most appropriate language(s). Mention the country and alternative language names to increase the chance of users finding the app when they search on Google Play. </text:span></text:p>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P40" loext:marker-style-name="T1"><text:span text:style-name="T1">Google vous encourage à « mettre en valeur ce qui est formidable dans votre application. Partagez des faits intéressants et passionnants sur votre application pour aider les utilisateurs à comprendre ce qui rend votre application spéciale. » Vous ne devez pas inclure de témoignages d&apos;utilisateur, de détails excessifs ou de listes longues de mots clés. Voir </text:span><text:a xlink:type="simple" xlink:href="https://play.google.com/about/storelisting-promotional/metadata/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T1">https://play.google.com/about/storelisting-promotional/metadata/</text:span></text:span></text:a><text:span text:style-name="T1"> pour plus de détails.</text:span></text:p>
+      <text:p text:style-name="P40" loext:marker-style-name="T1"><text:span text:style-name="T1">Google encourages you to “highlight what&apos;s great about your app. Share interesting and exciting facts about your app to help users understand what makes your app special.” You must not include user testimonials, excessive details or long lists of keywords. See </text:span><text:a xlink:type="simple" xlink:href="https://play.google.com/about/storelisting-promotional/metadata/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T1">https://play.google.com/about/storelisting-promotional/metadata/</text:span></text:span></text:a><text:span text:style-name="T1"> for more details.</text:span></text:p>
       <text:list text:continue-numbering="true" text:style-name="WWNum1">
        <text:list-item>
-        <text:p text:style-name="P30" loext:marker-style-name="T1"><text:span text:style-name="T6">Icône d&apos;application haute résolution :</text:span><text:span text:style-name="T1"> Cela devrait être la même que l&apos;icône de l&apos;application mais une version 512x512 plus élevée. Assurez-vous qu&apos;elle soit claire et non floue, c&apos;est-à-dire qu&apos;elle pourrait ne pas fonctionner correctement pour prendre une icône de 144x144 et l&apos;étendre à 512x512.</text:span></text:p>
+        <text:p text:style-name="P30" loext:marker-style-name="T1"><text:span text:style-name="T6">High-res app icon:</text:span><text:span text:style-name="T1"> This should be the same as the app icon but a higher resolution 512x512 version. Ensure it is clear and not blurred, i.e. it might not work well to take a 144x144 icon and stretch it to 512x512.</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P35" loext:marker-style-name="T6"><text:span text:style-name="T6">Fonctionnalité graphique : </text:span><text:span text:style-name="T1">Le graphique de fonctionnalité est affiché en haut de la page de liste de votre boutique dans l&apos;application Play Store. N&apos;incluez aucune copie ou information visuelle importante près des bordures de l&apos;image - en particulier près du tiers inférieur du cadre. Essayez de centrer n&apos;importe quel logo ou information au centre vertical et horizontal du cadre.</text:span></text:p>
+        <text:p text:style-name="P35" loext:marker-style-name="T6"><text:span text:style-name="T6">Feature graphic: </text:span><text:span text:style-name="T1">The feature graphic is displayed at the top of your store listing page in the Play Store app. Do not include any copy or important visual information near the borders of the image - specifically near the bottom third of the frame. Try to center align any logo or information in the vertical and horizontal center of the frame.</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P35" loext:marker-style-name="T6"><text:span text:style-name="T6">Captures d&apos;écran : </text:span><text:span text:style-name="T1">Vous devez spécifier au moins 2 captures d&apos;écran de l&apos;application exécutée sur un smartphone. Vous pouvez ajouter jusqu&apos;à 8 captures d&apos;écran pour chaque type d&apos;appareil : téléphone, tablette de 7 pouces et tablette de 10 pouces. Les captures d&apos;écran ont-elles été bien choisies pour démontrer les fonctionnalités de l&apos;application?</text:span></text:p>
+        <text:p text:style-name="P35" loext:marker-style-name="T6"><text:span text:style-name="T6">Screenshots: </text:span><text:span text:style-name="T1">You need to specify at least 2 screenshots of the app running on a smartphone. You can add up to 8 screenshots for each device type: phone, 7-inch tablet and 10-inch tablet. Have the screenshots been chosen well to demonstrate the app’s features?</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P31" loext:marker-style-name="T6"><text:span text:style-name="T6">Adresse e-mail de support : </text:span><text:span text:style-name="T1">Avez-vous une adresse e-mail appropriée à publier sur la page de la boutique de l&apos;application pour les questions et les commentaires de support ?</text:span></text:p>
+        <text:p text:style-name="P31" loext:marker-style-name="T6"><text:span text:style-name="T6">Support email address: </text:span><text:span text:style-name="T1">Do you have an appropriate email address to publish on the app’s store page for support questions and feedback?</text:span></text:p>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P50" loext:marker-style-name="T1"><text:span text:style-name="T1">Évitez d&apos;utiliser une adresse e-mail personnelle telle que john.smith@gmail.com ou un compte de messagerie professionnelle qui n&apos;est pas lié à la publication de vos applications. Il serait peut-être préférable de créer une nouvelle adresse e-mail à cette fin.</text:span><text:span text:style-name="T1"/></text:p>
+      <text:p text:style-name="P50" loext:marker-style-name="T1"><text:span text:style-name="T1">Avoid using a personal email address such as john.smith@gmail.com, or a work email account that is unrelated to the publishing of your apps. It might be best to create a new email address for this purpose.</text:span><text:span text:style-name="T1"/></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P4" loext:marker-style-name="T17"><text:span text:style-name="T17">&lt;unk&gt;</text:span><text:span text:style-name="T17"/></text:p>
+      <text:p text:style-name="P4" loext:marker-style-name="T17"><text:span text:style-name="T17">☐</text:span><text:span text:style-name="T17"/></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:list text:continue-list="list220027745201062" text:style-name="WWNum6">
+      <text:list text:continue-list="list222602184320884" text:style-name="WWNum6">
        <text:list-item>
-        <text:h text:style-name="P23" text:outline-level="1">Tests utilisateur</text:h>
+        <text:h text:style-name="P23" text:outline-level="1">User Testing</text:h>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P9" loext:marker-style-name="T3"><text:span text:style-name="T3">Demandez à quelques personnes d&apos;installer l&apos;application et de vous donner leurs commentaires avant de la mettre à disposition du monde.</text:span><text:span text:style-name="T3"/></text:p>
+      <text:p text:style-name="P9" loext:marker-style-name="T3"><text:span text:style-name="T3">Ask a few people to install the app and give you their feedback before you make it available to the world.</text:span><text:span text:style-name="T3"/></text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -3026,15 +3026,15 @@
     <table:table-column table:style-name="Table3.B"/>
     <table:table-row table:style-name="Table3.1">
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P14" loext:marker-style-name="T17"><text:span text:style-name="T17">&lt;unk&gt;</text:span><text:span text:style-name="T17"/></text:p>
+      <text:p text:style-name="P14" loext:marker-style-name="T17"><text:span text:style-name="T17">☐</text:span><text:span text:style-name="T17"/></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
       <text:list text:continue-numbering="true" text:style-name="WWNum6">
        <text:list-item>
-        <text:h text:style-name="P23" text:outline-level="1">Approbation finale</text:h>
+        <text:h text:style-name="P23" text:outline-level="1">Final Approval</text:h>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P15" loext:marker-style-name="T3"><text:span text:style-name="T3">Après avoir terminé cette liste de vérification, avez-vous eu la possibilité de publier l&apos;application par la personne responsable de l&apos;approbation des publications numériques dans votre organisation ?<text:line-break/></text:span><text:span text:style-name="T3"/></text:p>
+      <text:p text:style-name="P15" loext:marker-style-name="T3"><text:span text:style-name="T3">After completing this checklist, have you been given the go ahead to publish the app by the person responsible for approving digital publications in your organisation?<text:line-break/></text:span><text:span text:style-name="T3"/></text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -3042,7 +3042,7 @@
    <text:p text:style-name="P19" loext:marker-style-name="T1"/>
    <text:p text:style-name="P19" loext:marker-style-name="T1"><text:bookmark text:name="_GoBack"/></text:p>
    <text:p text:style-name="P19" loext:marker-style-name="T1"/>
-   <text:p text:style-name="P21" loext:marker-style-name="T1"><text:span text:style-name="T1">Dernière mise à jour : 06 août 2019</text:span><text:span text:style-name="T1"/></text:p>
+   <text:p text:style-name="P21" loext:marker-style-name="T1"><text:span text:style-name="T1">Last updated: 06 August 2019</text:span><text:span text:style-name="T1"/></text:p>
    <text:p text:style-name="P20" loext:marker-style-name="T1"/>
   </office:text>
  </office:body>

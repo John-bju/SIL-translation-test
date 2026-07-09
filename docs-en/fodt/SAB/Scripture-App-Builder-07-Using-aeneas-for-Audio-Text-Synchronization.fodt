@@ -115,7 +115,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -139,7 +139,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">4118769</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4160461</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -175,7 +175,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Times New Roman1" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Times New Roman1" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -8896,7 +8896,7 @@
    <text:p text:style-name="Standard" loext:marker-style-name="T12"><text:soft-page-break/><text:span text:style-name="T12"><text:s text:c="3"/>…are mapped against the input audio file to find phrase breaks.</text:span><text:span text:style-name="T12"/></text:p>
    <text:p text:style-name="P26" loext:marker-style-name="T12"/>
    <text:p text:style-name="P36" loext:marker-style-name="T12"><text:span text:style-name="T12">Best results are obtained:</text:span><text:span text:style-name="T12"/></text:p>
-   <text:list xml:id="list3422480943" text:style-name="WWNum11">
+   <text:list xml:id="list1815587967" text:style-name="WWNum11">
     <text:list-item>
      <text:p text:style-name="P85" loext:marker-style-name="T12"><text:span text:style-name="T12">if you have a clearly spoken recording,</text:span><text:span text:style-name="T12"/></text:p>
     </text:list-item>
@@ -10154,7 +10154,7 @@
    <text:p text:style-name="P14" loext:marker-style-name="T4"><text:soft-page-break/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T4"/>
    <text:p text:style-name="P73" loext:marker-style-name="T4"><text:span text:style-name="T7">Important</text:span><text:span text:style-name="T4">: If Scripture App Builder was open while you installed aeneas, close it and start it again to ensure that it picks up the changes to your Path settings.</text:span></text:p>
-   <text:h text:style-name="P74" text:outline-level="1" loext:marker-style-name="T4"><text:bookmark-start text:name="_Toc217376500"/><text:bookmark-start text:name="_Hlk44919138"/>Linux<text:span text:style-name="T4"> Installation</text:span><text:bookmark-end text:name="_Toc217376500"/><text:span text:style-name="T4"/></text:h>
+   <text:h text:style-name="P74" text:outline-level="1" loext:marker-style-name="T4"><text:bookmark-start text:name="_Hlk44919138"/><text:bookmark-start text:name="_Toc217376500"/>Linux<text:span text:style-name="T4"> Installation</text:span><text:bookmark-end text:name="_Toc217376500"/><text:span text:style-name="T4"/></text:h>
    <text:p text:style-name="P16" loext:marker-style-name="T4"/>
    <text:p text:style-name="P44" loext:marker-style-name="T12"><text:span text:style-name="T12">If you are using Ubuntu, the </text:span><text:span text:style-name="T15">aeneas</text:span><text:span text:style-name="T12"> software is a required dependency of Scripture App Builder. This means that aeneas is automatically installed or updated along with Scripture App Builder and you do not have to install it manually.</text:span><text:bookmark-end text:name="_Hlk44919138"/></text:p>
    <text:p text:style-name="P12" loext:marker-style-name="T4"/>
@@ -10175,7 +10175,7 @@
    </table:table>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark text:name="_Preparing_Your_Audio"/><text:bookmark-start text:name="_Toc217376502"/>Preparing Your Audio Files<text:bookmark-end text:name="_Toc217376502"/></text:h>
    <text:p text:style-name="P36" loext:marker-style-name="T12"><text:span text:style-name="T12">As mentioned above, the best results are obtained:</text:span><text:span text:style-name="T12"/></text:p>
-   <text:list text:continue-list="list3422480943" text:style-name="WWNum11">
+   <text:list text:continue-list="list1815587967" text:style-name="WWNum11">
     <text:list-item>
      <text:p text:style-name="P85" loext:marker-style-name="T12"><text:soft-page-break/><text:span text:style-name="T12">if you have a clearly spoken recording,</text:span><text:span text:style-name="T12"/></text:p>
     </text:list-item>
@@ -15721,7 +15721,7 @@
    <text:p text:style-name="P21" loext:marker-style-name="T4"/>
    <text:p text:style-name="P72" loext:marker-style-name="T4"><text:span text:style-name="T4">You can also use the </text:span><text:span text:style-name="T9">N</text:span><text:span text:style-name="T4"> keyboard shortcut to move to the next row.</text:span></text:p>
    <text:p text:style-name="P21" loext:marker-style-name="T4"/>
-   <text:list xml:id="list215640891469867" text:continue-numbering="true" text:style-name="WWNum23">
+   <text:list xml:id="list222246479015565" text:continue-numbering="true" text:style-name="WWNum23">
     <text:list-item>
      <text:p text:style-name="P106" loext:marker-style-name="T4"><text:span text:style-name="T4">If you hear that the timing for a row needs to be fine-tuned, you can move it backwards or forwards by increments:</text:span><text:span text:style-name="T4"/></text:p>
     </text:list-item>
@@ -16859,7 +16859,7 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="List_20_Paragraph"/>
-   <text:list text:continue-list="list215640891469867" text:style-name="WWNum23">
+   <text:list text:continue-list="list222246479015565" text:style-name="WWNum23">
     <text:list-item>
      <text:p text:style-name="P106" loext:marker-style-name="T4"><text:span text:style-name="T4">When you are happy with the current row, continue clicking on the subsequent rows in the same way, fine tuning those that need adjusting.</text:span><text:span text:style-name="T4"/></text:p>
     </text:list-item>
