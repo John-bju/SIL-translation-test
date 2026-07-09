@@ -84,7 +84,7 @@ jobs:
               outdir="$(dirname "$file")"
               project_dirname="$(basename "$outdir")"
               mkdir -p docs/$dir/fodt/$project_dirname || echo folder already exists, skipping
-              cp $outdir docs/$dir/fodt/$project_dirname
+              cp -r $outdir docs/$dir/fodt/$project_dirname
             done
           done
 
