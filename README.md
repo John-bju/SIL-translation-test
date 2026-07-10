@@ -7,15 +7,15 @@ This repo is for documentation of SAB, RAB, DAB, KAB which aims to keep a versio
 
 # How to Use
 ### Submitting
-All submittions should be put into the main branch
+All submittions should be put into the main branch of the github repo.
 
-Documents can be .fodt files and be added (or modifed) in docs-en/fodt/"app builder name"/"file" for example "docs-en/fodt/SAB"
+Documents can be .fodt files and be added (or modifed) in docs-en/fodt/(app builder name)/(file) for example "docs-en/fodt/SAB".
 
-Images can be submitted to images/"language"/"app builder name"/"image folder" for example "images/en-EN/KAB/KAB02"
+Images can be submitted to images/(language)/(app builder name)/(image folder) for example "images/en-EN/KAB/KAB02".
 
 
 ### Crowdin Sync
-Crowdin devoloped a github intergration allowing Github Workflows to sned and recive files with Crowdin projects. This intergration is used to sync this github repo and the Crowdin project allowing translations to be created downloaded into a seperate branch named "translations".
+Crowdin devoloped a github intergration allowing Github Workflows to send and recieve files with Crowdin projects. This intergration is used to sync this github repo and the Crowdin project allowing translations to be created downloaded into a seperate branch named "translations".
 
 ###### Tokens
 In order to setup the github inergration there are three tokens that need to be entered into the github secretes tab in the settings of the repo.
