@@ -23,9 +23,16 @@ Crowdin devoloped a github intergration allowing Github Workflows to send and re
 In order to setup the github inergration there are three tokens that need to be entered into the github secretes tab in the settings of the repo.
 
 
-`CROWDIN_PERSONAL_TOKEN:` This can be created by clicking on the user's profile picture and selecting "settings", then find the "API" tab and clicking on it. Then selecting "New Token" under "Personal Access Tokens" and a token will be generated.
+`CROWDIN_PERSONAL_TOKEN:` This can be created by clicking on the user's profile picture and selecting "settings".
 
-![Description](README_pics/1.png)
+![Description](README_pics/Screenshot_20260710_145503.png)
+
+Then find the "API" tab and clicking on it
+
+![Description](README_pics/Screenshot_20260710_145646.png)
+
+Then selecting "New Token" under "Personal Access Tokens" and a token will be generated.
+
 
 `CROWDIN_PROJECT_ID:` This can be found on the crowdin project webpage on the right hand side under the "dashboard" tab.
 
