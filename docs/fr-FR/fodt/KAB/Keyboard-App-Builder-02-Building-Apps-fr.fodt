@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:title>Constructeur d&apos;applications de clavier: construction d&apos;applications</dc:title>
+ <office:meta><dc:title>Keyboard App Builder: Building Apps</dc:title>
 <meta:initial-creator>Richard Margetts</meta:initial-creator><dc:creator>Richard Margetts</dc:creator><meta:editing-cycles>278</meta:editing-cycles><meta:print-date>2019-01-04T10:21:00</meta:print-date><meta:creation-date>2015-05-15T16:24:00</meta:creation-date><dc:date>2023-07-19T08:42:00</dc:date><meta:editing-duration>P0D</meta:editing-duration><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="0" meta:object-count="0" meta:page-count="16" meta:paragraph-count="152" meta:word-count="2289" meta:character-count="12469" meta:non-whitespace-character-count="10293"/>
 <meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
@@ -96,7 +96,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -120,7 +120,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">4667330</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4669933</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">true</config:config-item>
@@ -152,7 +152,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Times New Roman2" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Times New Roman2" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -2622,15 +2622,12 @@
    <style:text-properties style:font-name="Wingdings" fo:language="en" fo:country="GB" style:font-name-asian="Wingdings1" style:font-name-complex="Wingdings1"/>
   </style:style>
   <style:style style:name="T29" style:family="text">
-   <style:text-properties style:font-name="Wingdings" fo:language="en" fo:country="GB" style:font-name-asian="Wingdings1" style:font-name-complex="Calibri1"/>
-  </style:style>
-  <style:style style:name="T30" style:family="text">
    <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:font-style-asian="italic" style:font-name-complex="Calibri1" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="T31" style:family="text">
+  <style:style style:name="T30" style:family="text">
    <style:text-properties fo:color="#0070c0" loext:opacity="100%" fo:language="en" fo:country="US"/>
   </style:style>
-  <style:style style:name="T32" style:family="text">
+  <style:style style:name="T31" style:family="text">
    <style:text-properties fo:font-size="10pt" fo:language="en" fo:country="GB" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="GB"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
@@ -3799,7 +3796,7 @@
    <text:p text:style-name="P16" loext:marker-style-name="T1"/>
    <text:p text:style-name="P16" loext:marker-style-name="T1"/>
    <text:p text:style-name="P16" loext:marker-style-name="T1"><text:soft-page-break/></text:p>
-   <text:p text:style-name="P3" loext:marker-style-name="T2"><text:span text:style-name="T2">Construire des applications</text:span><text:span text:style-name="T2"/></text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T2"><text:span text:style-name="T2">Building Apps</text:span><text:span text:style-name="T2"/></text:p>
    <text:p text:style-name="P21" loext:marker-style-name="T4"/>
    <text:p text:style-name="P21" loext:marker-style-name="T4"/>
    <text:p text:style-name="P21" loext:marker-style-name="T4"/>
@@ -3905,7 +3902,7 @@
    <text:p text:style-name="P24" loext:marker-style-name="T3"/>
    <text:p text:style-name="P3" loext:marker-style-name="T12"><text:span text:style-name="T12">Keyboard App Builder: Building Apps</text:span><text:span text:style-name="T12"/></text:p>
    <text:p text:style-name="P24" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T3"><text:span text:style-name="T3">©️ 2023, SIL International</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T3"><text:span text:style-name="T3">© 2023, SIL International</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P24" loext:marker-style-name="T3"/>
    <text:p text:style-name="P3" loext:marker-style-name="T14"><text:span text:style-name="T14">Last updated: 19 July 2023</text:span><text:span text:style-name="T14"/></text:p>
    <text:p text:style-name="P24" loext:marker-style-name="T3"/>
@@ -3913,17 +3910,17 @@
    <text:p text:style-name="P24" loext:marker-style-name="T3"><text:s/></text:p>
    <text:p text:style-name="P24" loext:marker-style-name="T3"/>
    <text:p text:style-name="P24" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P3">Vous êtes libre d&apos;imprimer ce manuel pour un usage personnel et pour des ateliers de formation.</text:p>
+   <text:p text:style-name="P3">You are free to print this manual for personal use and for training workshops.</text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3">La dernière version est disponible à</text:p>
+   <text:p text:style-name="P3">The latest version is available at</text:p>
    <text:p text:style-name="P3" loext:marker-style-name="T3"><text:a xlink:type="simple" xlink:href="http://software.sil.org/keyboardappbuilder/resources/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">http://software.sil.org/keyboardappbuilder/resources/</text:span></text:span></text:a><text:span text:style-name="T3"> </text:span></text:p>
    <text:p text:style-name="P24" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T3"><text:span text:style-name="T3">et dans le menu Aide du constructeur d&apos;applications du clavier.</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T3"><text:span text:style-name="T3">and on the Help menu of Keyboard App Builder.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"><text:soft-page-break/></text:p>
    <text:p text:style-name="P21" loext:marker-style-name="T4"/>
    <text:p text:style-name="P16" loext:marker-style-name="T1"/>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:p text:style-name="P18" loext:marker-style-name="T22"><text:span text:style-name="T22">Contenu</text:span><text:span text:style-name="T22"/></text:p>
+   <text:p text:style-name="P18" loext:marker-style-name="T22"><text:span text:style-name="T22">Contents</text:span><text:span text:style-name="T22"/></text:p>
    <text:p text:style-name="P39" loext:marker-style-name="T13"/>
    <text:p text:style-name="P39" loext:marker-style-name="T13"/>
    <text:table-of-content text:style-name="Sect1" text:protected="true" text:name="Table of Contents1">
@@ -4020,49 +4017,49 @@
      </text:table-of-content-entry-template>
     </text:table-of-content-source>
     <text:index-body>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc129968039" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T17">1.</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T17">Préparation du contenu pour votre application</text:span><text:span text:style-name="T23"> 4</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc129968040" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T17">2.</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T17">Comment construire votre première application</text:span><text:span text:style-name="T23"> 4</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc129968041" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.<text:span text:style-name="T15"> </text:span>Installation de l&apos;application sur votre téléphone<text:span text:style-name="T23"> 6</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc129968039" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T17">1.</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T17">Preparing content for your app</text:span><text:span text:style-name="T23"> 4</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc129968040" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T17">2.</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T17">How to build your first app</text:span><text:span text:style-name="T23"> 4</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc129968041" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.<text:span text:style-name="T15"> </text:span>Installing the app on your phone<text:span text:style-name="T23"> 6</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc129968042" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T17">4.</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T17">App Creation Basics</text:span><text:span text:style-name="T23"> 10</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc129968043" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">4.1.<text:span text:style-name="T16"> </text:span>How should I choose the app package name?<text:span text:style-name="T23"> 10</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc129968044" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">4.2.<text:span text:style-name="T16"> </text:span>Do I have to create a new keystore for each app, or can I reuse the same keystore for several of my apps?<text:span text:style-name="T23"> 11</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc129968045" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">4.3.<text:span text:style-name="T16"> </text:span>Can I build apps when I do not have internet access?<text:span text:style-name="T23"> 11</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc129968046" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:soft-page-break/><text:span text:style-name="T17">5.</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T17">Accueil et Configuration des écrans</text:span><text:span text:style-name="T23"> 11</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc129968047" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">5.1.<text:span text:style-name="T16"> </text:span>Écran d&apos;accueil<text:span text:style-name="T23"> 11</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc129968048" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">5.2.<text:span text:style-name="T16"> </text:span>Écran de configuration<text:span text:style-name="T23"> 12</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc129968049" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T17">6.</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T17">tiroir de navigation</text:span><text:span text:style-name="T23"> 17</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc129968046" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:soft-page-break/><text:span text:style-name="T17">5.</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T17">Home and Setup Screens</text:span><text:span text:style-name="T23"> 11</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc129968047" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">5.1.<text:span text:style-name="T16"> </text:span>Home Screen<text:span text:style-name="T23"> 11</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc129968048" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">5.2.<text:span text:style-name="T16"> </text:span>Setup Screen<text:span text:style-name="T23"> 12</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc129968049" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T17">6.</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T17">Navigation Drawer</text:span><text:span text:style-name="T23"> 17</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc129968050" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T17">7.</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T17">Distribution</text:span><text:span text:style-name="T23"> 17</text:span></text:a></text:p>
     </text:index-body>
    </text:table-of-content>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:h text:style-name="P5" text:outline-level="1" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc452459025"/><text:bookmark-start text:name="_Toc129968039"/><text:bookmark-start text:name="_Toc468106959"/><text:span text:style-name="T17">Préparation du contenu pour votre application</text:span><text:bookmark-end text:name="_Toc452459025"/><text:bookmark-end text:name="_Toc129968039"/><text:bookmark-end text:name="_Toc468106959"/><text:span text:style-name="T17"/></text:h>
+   <text:h text:style-name="P5" text:outline-level="1" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc468106959"/><text:bookmark-start text:name="_Toc129968039"/><text:bookmark-start text:name="_Toc452459025"/><text:span text:style-name="T17">Preparing content for your app</text:span><text:bookmark-end text:name="_Toc468106959"/><text:bookmark-end text:name="_Toc129968039"/><text:bookmark-end text:name="_Toc452459025"/><text:span text:style-name="T17"/></text:h>
    <text:p text:style-name="P40" loext:marker-style-name="T17"><text:span text:style-name="T17">Before you build an app with Keyboard App Builder (KAB), you need:</text:span><text:span text:style-name="T17"/></text:p>
    <text:list text:style-name="WWNum25">
     <text:list-item>
-     <text:p text:style-name="P41" loext:marker-style-name="T17"><text:span text:style-name="T17">un </text:span><text:span text:style-name="T19">fichier de disposition de clavier Keyman</text:span><text:span text:style-name="T17"> (.kmp).</text:span></text:p>
+     <text:p text:style-name="P41" loext:marker-style-name="T17"><text:span text:style-name="T17">a </text:span><text:span text:style-name="T19">Keyman keyboard layout file</text:span><text:span text:style-name="T17"> (.kmp).</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P40" loext:marker-style-name="T17"><text:span text:style-name="T17">et en option :</text:span><text:span text:style-name="T17"/></text:p>
-   <text:list xml:id="list220013045222367" text:continue-numbering="true" text:style-name="WWNum25">
+   <text:p text:style-name="P40" loext:marker-style-name="T17"><text:span text:style-name="T17">and optionally:</text:span><text:span text:style-name="T17"/></text:p>
+   <text:list xml:id="list222550497511443" text:continue-numbering="true" text:style-name="WWNum25">
     <text:list-item>
-     <text:p text:style-name="P43" loext:marker-style-name="T17"><text:span text:style-name="T17">un </text:span><text:span text:style-name="T19">un fichier de modčle lexical Keyman</text:span><text:span text:style-name="T17"> (.model.kmp), pour le texte prédictif et autocorrect.</text:span></text:p>
+     <text:p text:style-name="P43" loext:marker-style-name="T17"><text:span text:style-name="T17">a </text:span><text:span text:style-name="T19">Keyman lexical model file</text:span><text:span text:style-name="T17"> (.model.kmp), for predictive text and autocorrect.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P4"><text:span text:style-name="T17">These files are created using </text:span><text:span text:style-name="T19">Keyman Developer</text:span><text:span text:style-name="T17"> (</text:span><text:a xlink:type="simple" xlink:href="https://keyman.com/developer/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">https://keyman.com/developer/</text:span></text:a>).</text:p>
-   <text:p text:style-name="P4" loext:marker-style-name="T17">Il est possible d&apos;inclure plus d&apos;un clavier dans une seule application.<text:span text:style-name="T17"/></text:p>
+   <text:p text:style-name="P4" loext:marker-style-name="T17">It is possible to include more than one keyboard layout in a single app.<text:span text:style-name="T17"/></text:p>
    <text:p text:style-name="P31" loext:marker-style-name="T17"/>
-   <text:h text:style-name="P6" text:outline-level="1" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc129968040"/><text:span text:style-name="T17">Comment construire votre première application</text:span><text:bookmark-end text:name="_Toc129968040"/><text:span text:style-name="T17"/></text:h>
+   <text:h text:style-name="P6" text:outline-level="1" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc129968040"/><text:span text:style-name="T17">How to build your first app</text:span><text:bookmark-end text:name="_Toc129968040"/><text:span text:style-name="T17"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">To build your first app with Keyboard App Builder:</text:span><text:span text:style-name="T17"/></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"><text:soft-page-break/></text:p>
    <text:list text:style-name="WWNum4">
     <text:list-item>
-     <text:p text:style-name="P46" loext:marker-style-name="T17"><text:span text:style-name="T17">Lancez </text:span><text:span text:style-name="T18">Keyboard App Builder</text:span><text:span text:style-name="T17"> à partir de son icône sur le bureau.</text:span></text:p>
+     <text:p text:style-name="P46" loext:marker-style-name="T17"><text:span text:style-name="T17">Launch </text:span><text:span text:style-name="T18">Keyboard App Builder</text:span><text:span text:style-name="T17"> from its icon on the desktop.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P32" loext:marker-style-name="T17"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
-     <text:p text:style-name="P46" loext:marker-style-name="T17"><text:span text:style-name="T17">Cliquez sur </text:span><text:span text:style-name="T18">Nouvelle application</text:span><text:span text:style-name="T17"> sur la barre d&apos;outils. L&apos;assistant de nouvelle application va apparaître.</text:span></text:p>
+     <text:p text:style-name="P46" loext:marker-style-name="T17"><text:span text:style-name="T17">Click </text:span><text:span text:style-name="T18">New App</text:span><text:span text:style-name="T17"> on the toolbar. The New App wizard will appear.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
@@ -4071,34 +4068,34 @@
      <text:p text:style-name="P46" loext:marker-style-name="T17"><text:span text:style-name="T17">On the first page of the wizard titled </text:span><text:span text:style-name="T18">App Name</text:span><text:span text:style-name="T17">, specify the </text:span><text:span text:style-name="T18">App Name</text:span><text:span text:style-name="T17">, such as “Dogon Keyboard”, “Mamara Keyboard”, etc. </text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P47" loext:marker-style-name="T17"><text:span text:style-name="T17">Ceci est le titre principal de votre application et sera vu par l&apos;utilisateur. N&apos;incluez pas les tirets bas ou les abréviations difficiles à comprendre.</text:span><text:span text:style-name="T17"/></text:p>
+   <text:p text:style-name="P47" loext:marker-style-name="T17"><text:span text:style-name="T17">This is the main title of your app and will be seen by the user. Do not include underscores or hard to understand abbreviations.</text:span><text:span text:style-name="T17"/></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:p text:style-name="P48" loext:marker-style-name="T17"><text:span text:style-name="T17">Cliquez sur </text:span><text:span text:style-name="T17">pour passer à la page suivante.</text:span></text:p>
+   <text:p text:style-name="P48" loext:marker-style-name="T17"><text:span text:style-name="T17">Click </text:span><text:span text:style-name="T18">Next</text:span><text:span text:style-name="T17"> to move to the next page.</text:span></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:p text:style-name="P46" loext:marker-style-name="T17"><text:soft-page-break/><text:span text:style-name="T17">On the page of the wizard titled </text:span><text:span text:style-name="T18">Package</text:span><text:span text:style-name="T17">, specify the </text:span><text:span text:style-name="T18">Package Name</text:span><text:span text:style-name="T17">, a dot-separated string which uniquely identifies your app. </text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P49" loext:marker-style-name="T17"><text:span text:style-name="T17">More details about choosing a good package name can be found in section </text:span><text:span text:style-name="T21">4</text:span><text:span text:style-name="T20">.1. Comment choisir le nom du package de l&apos;application?</text:span></text:p>
+   <text:p text:style-name="P49" loext:marker-style-name="T17"><text:span text:style-name="T17">More details about choosing a good package name can be found in section </text:span><text:span text:style-name="T21">4</text:span><text:span text:style-name="T20">.1. How should I choose the app package name?</text:span></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:p text:style-name="P48" loext:marker-style-name="T17"><text:span text:style-name="T17">Cliquez sur </text:span><text:span text:style-name="T17">pour passer à la page suivante.</text:span></text:p>
+   <text:p text:style-name="P48" loext:marker-style-name="T17"><text:span text:style-name="T17">Click </text:span><text:span text:style-name="T18">Next</text:span><text:span text:style-name="T17"> to move to the next page.</text:span></text:p>
    <text:p text:style-name="P33" loext:marker-style-name="T17"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
-     <text:p text:style-name="P46" loext:marker-style-name="T17"><text:span text:style-name="T17">On the next page of the wizard titled </text:span><text:span text:style-name="T18">Keyboard</text:span><text:span text:style-name="T17">, click </text:span><text:span text:style-name="T18">Browse… </text:span><text:span text:style-name="T17">et sélectionnez le fichier de disposition de clavier Keyman que vous souhaitez utiliser dans l&apos;application. </text:span></text:p>
+     <text:p text:style-name="P46" loext:marker-style-name="T17"><text:span text:style-name="T17">On the next page of the wizard titled </text:span><text:span text:style-name="T18">Keyboard</text:span><text:span text:style-name="T17">, click </text:span><text:span text:style-name="T18">Browse… </text:span><text:span text:style-name="T17">and select the Keyman keyboard layout file you want to use in the app. </text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:p text:style-name="P48" loext:marker-style-name="T17"><text:span text:style-name="T17">Cliquez sur </text:span><text:span text:style-name="T17">pour passer à la page suivante.</text:span></text:p>
+   <text:p text:style-name="P48" loext:marker-style-name="T17"><text:span text:style-name="T17">Click </text:span><text:span text:style-name="T18">Next</text:span><text:span text:style-name="T17"> to move to the next page.</text:span></text:p>
    <text:p text:style-name="P33" loext:marker-style-name="T17"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
-     <text:p text:style-name="P46" loext:marker-style-name="T17"><text:span text:style-name="T17">On the next page of the wizard titled </text:span><text:span text:style-name="T18">Lexical Model</text:span><text:span text:style-name="T17">, click </text:span><text:span text:style-name="T18">Browse… </text:span><text:span text:style-name="T17">et sélectionnez le fichier de modèle de lexique Keyman que vous souhaitez utiliser dans l&apos;application. Ceci est optionnel ; vous n&apos;avez pas besoin de spécifier un modèle lexical.</text:span></text:p>
+     <text:p text:style-name="P46" loext:marker-style-name="T17"><text:span text:style-name="T17">On the next page of the wizard titled </text:span><text:span text:style-name="T18">Lexical Model</text:span><text:span text:style-name="T17">, click </text:span><text:span text:style-name="T18">Browse… </text:span><text:span text:style-name="T17">and select the Keyman lexical model file you want to use in the app. This is optional; you do not need to specify a lexical model.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P33" loext:marker-style-name="T17"><text:soft-page-break/></text:p>
-   <text:p text:style-name="P48" loext:marker-style-name="T3"><text:span text:style-name="T17">Cliquez sur </text:span><text:span text:style-name="T17">pour passer à la page suivante.</text:span></text:p>
+   <text:p text:style-name="P48" loext:marker-style-name="T3"><text:span text:style-name="T17">Click </text:span><text:span text:style-name="T18">Next</text:span><text:span text:style-name="T17"> to move to the next page.</text:span></text:p>
    <text:p text:style-name="P33" loext:marker-style-name="T17"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
@@ -4106,15 +4103,15 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P26" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P48" loext:marker-style-name="T17"><text:span text:style-name="T17">Cliquez sur </text:span><text:span text:style-name="T17">pour passer à la page suivante.</text:span></text:p>
+   <text:p text:style-name="P48" loext:marker-style-name="T17"><text:span text:style-name="T17">Click </text:span><text:span text:style-name="T18">Next</text:span><text:span text:style-name="T17"> to move to the next page.</text:span></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
-     <text:p text:style-name="P46" loext:marker-style-name="T17"><text:span text:style-name="T17">On the page of the wizard titled </text:span><text:span text:style-name="T18">Default Interface Language</text:span><text:span text:style-name="T17">, choose the language you want users to see when they first enter the app. Cela peut être la langue actuelle du système.</text:span></text:p>
+     <text:p text:style-name="P46" loext:marker-style-name="T17"><text:span text:style-name="T17">On the page of the wizard titled </text:span><text:span text:style-name="T18">Default Interface Language</text:span><text:span text:style-name="T17">, choose the language you want users to see when they first enter the app. This can be the current system language.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:p text:style-name="P48" loext:marker-style-name="T17"><text:span text:style-name="T17">Cliquez sur </text:span><text:span text:style-name="T17">pour passer à la page suivante.</text:span></text:p>
+   <text:p text:style-name="P48" loext:marker-style-name="T17"><text:span text:style-name="T17">Click </text:span><text:span text:style-name="T18">Next</text:span><text:span text:style-name="T17"> to move to the next page.</text:span></text:p>
    <text:p text:style-name="P33" loext:marker-style-name="T17"><text:soft-page-break/></text:p>
    <text:list text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
@@ -4122,38 +4119,38 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P30" loext:marker-style-name="T17"><text:s/></text:p>
-   <text:p text:style-name="P48" loext:marker-style-name="T17"><text:span text:style-name="T17">Cliquez sur </text:span><text:span text:style-name="T17">pour passer à la page suivante.</text:span></text:p>
+   <text:p text:style-name="P48" loext:marker-style-name="T17"><text:span text:style-name="T17">Click </text:span><text:span text:style-name="T18">Next</text:span><text:span text:style-name="T17"> to move to the next page.</text:span></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
-     <text:p text:style-name="P46" loext:marker-style-name="T17"><text:span text:style-name="T17">On the page of the wizard titled </text:span><text:span text:style-name="T18">Icon</text:span><text:span text:style-name="T17">, choose the application launcher icon. Vous pouvez sélectionner une des images dans le tableau ou si vous avez vos propres fichiers image PNG pour l&apos;icône, cliquez sur </text:span><text:span text:style-name="T18">Parcourir</text:span><text:span text:style-name="T17"> et sélectionnez-les.</text:span></text:p>
+     <text:p text:style-name="P46" loext:marker-style-name="T17"><text:span text:style-name="T17">On the page of the wizard titled </text:span><text:span text:style-name="T18">Icon</text:span><text:span text:style-name="T17">, choose the application launcher icon. You can select one of the images in the table or if you have your own PNG image files for the icon, click </text:span><text:span text:style-name="T18">Browse</text:span><text:span text:style-name="T17"> and select them.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:p text:style-name="P48" loext:marker-style-name="T17"><text:span text:style-name="T17">Cliquez sur </text:span><text:span text:style-name="T17">pour passer à la page suivante.</text:span></text:p>
+   <text:p text:style-name="P48" loext:marker-style-name="T17"><text:span text:style-name="T17">Click </text:span><text:span text:style-name="T18">Next</text:span><text:span text:style-name="T17"> to move to the next page.</text:span></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:list xml:id="list220011090969401" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list222549106084898" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
-     <text:p text:style-name="P46" loext:marker-style-name="T17"><text:span text:style-name="T17">On the page of the wizard titled </text:span><text:span text:style-name="T18">Signing</text:span><text:span text:style-name="T17">, you need to specify the keystore and alias to use to sign the app. Une application doit être signée de cette manière afin qu&apos;elle puisse être installée sur un appareil Android.</text:span></text:p>
+     <text:p text:style-name="P46" loext:marker-style-name="T17"><text:span text:style-name="T17">On the page of the wizard titled </text:span><text:span text:style-name="T18">Signing</text:span><text:span text:style-name="T17">, you need to specify the keystore and alias to use to sign the app. An app must be signed in this way so that it can installed on an Android device.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P30" loext:marker-style-name="T17"><text:soft-page-break/></text:p>
    <text:p text:style-name="P48" loext:marker-style-name="T24"><text:span text:style-name="T24">If you do not already have a keystore file (which you are unlikely to have if this is your first time using the program):</text:span><text:span text:style-name="T24"/></text:p>
    <text:list text:style-name="WWNum5">
     <text:list-item>
-     <text:p text:style-name="P51" loext:marker-style-name="T24"><text:span text:style-name="T24">Cliquez sur </text:span><text:span text:style-name="T26">Créer un KeyStore</text:span><text:span text:style-name="T24">.</text:span></text:p>
+     <text:p text:style-name="P51" loext:marker-style-name="T24"><text:span text:style-name="T24">Click </text:span><text:span text:style-name="T26">Create KeyStore</text:span><text:span text:style-name="T24">.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P52" loext:marker-style-name="T24"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum5">
     <text:list-item>
-     <text:p text:style-name="P50" loext:marker-style-name="T24"><text:span text:style-name="T24">Entrez un nouveau nom de fichier pour le keystore, comme « keystore1 » ou quelque chose comme ça. Spécifiez un mot de passe. Click </text:span><text:span text:style-name="T26">Next</text:span><text:span text:style-name="T24"> to continue.</text:span></text:p>
+     <text:p text:style-name="P50" loext:marker-style-name="T24"><text:span text:style-name="T24">Enter a new filename for the keystore, such as “keystore1” or something like that. Specify a password. Click </text:span><text:span text:style-name="T26">Next</text:span><text:span text:style-name="T24"> to continue.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P53" loext:marker-style-name="T24"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum5">
     <text:list-item>
-     <text:p text:style-name="P50" loext:marker-style-name="T24"><text:span text:style-name="T24">Entrez un nom d&apos;alias pour une clé à créer dans votre nouveau magasin de clés, comme « clé ». Spécifiez un mot de passe, qui peut être le même que le mot de passe que vous avez entré sur la page précédente. Click </text:span><text:span text:style-name="T26">Next</text:span><text:span text:style-name="T24"> to continue.</text:span></text:p>
+     <text:p text:style-name="P50" loext:marker-style-name="T24"><text:span text:style-name="T24">Enter an alias name for a key to create within your new keystore, such as “key”. Specify a password, which can be the same as the password you entered on the previous page. Click </text:span><text:span text:style-name="T26">Next</text:span><text:span text:style-name="T24"> to continue.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P9" loext:marker-style-name="T24"/>
@@ -4165,29 +4162,29 @@
    <text:p text:style-name="P53" loext:marker-style-name="T24"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum5">
     <text:list-item>
-     <text:p text:style-name="P50" loext:marker-style-name="T24"><text:soft-page-break/><text:span text:style-name="T24">Un nouveau magasin de clés sera créé pour vous. Cliquez sur </text:span><text:span text:style-name="T26">Fermez</text:span><text:span text:style-name="T24">.</text:span></text:p>
+     <text:p text:style-name="P50" loext:marker-style-name="T24"><text:soft-page-break/><text:span text:style-name="T24">A new keystore will be created for you. Click </text:span><text:span text:style-name="T26">Close</text:span><text:span text:style-name="T24">.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:list text:continue-list="list220011090969401" text:style-name="WWNum4">
+   <text:list text:continue-list="list222549106084898" text:style-name="WWNum4">
     <text:list-item>
      <text:p text:style-name="P46" loext:marker-style-name="T17"><text:span text:style-name="T17">Back on the </text:span><text:span text:style-name="T18">Signing</text:span><text:span text:style-name="T17"> page of the New App wizard, you need to specify the keystore password, select the alias and enter the alias password (just as you entered them in the step above).</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P32" loext:marker-style-name="T17"><text:s/></text:p>
-   <text:p text:style-name="P48" loext:marker-style-name="T17"><text:span text:style-name="T17">Cliquez </text:span><text:span text:style-name="T17">pour continuer.</text:span></text:p>
+   <text:p text:style-name="P48" loext:marker-style-name="T17"><text:span text:style-name="T17">Click </text:span><text:span text:style-name="T18">Next</text:span><text:span text:style-name="T17"> to continue.</text:span></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
-     <text:p text:style-name="P46" loext:marker-style-name="T17"><text:span text:style-name="T17">On the page of the wizard titled </text:span><text:span text:style-name="T18">Project</text:span><text:span text:style-name="T17">, you can enter modify the project name and add an optional description of the app project. Aucun de ces éléments ne sera visible par l&apos;utilisateur de votre application. Ils sont juste pour votre propre utilisation et peuvent vous aider à distinguer entre plusieurs projets d&apos;applications.</text:span></text:p>
+     <text:p text:style-name="P46" loext:marker-style-name="T17"><text:span text:style-name="T17">On the page of the wizard titled </text:span><text:span text:style-name="T18">Project</text:span><text:span text:style-name="T17">, you can enter modify the project name and add an optional description of the app project. Neither of these will be visible to the user of your app. They are just for your own use and might help you distinguish between multiple app projects.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:p text:style-name="P48" loext:marker-style-name="T17"><text:span text:style-name="T17">Cliquez sur </text:span><text:span text:style-name="T17">pour continuer. L&apos;assistant de nouvelle application se fermera et la définition de l&apos;application sera ajoutée à l&apos;arborescence à gauche de l&apos;écran.</text:span></text:p>
+   <text:p text:style-name="P48" loext:marker-style-name="T17"><text:span text:style-name="T17">Click </text:span><text:span text:style-name="T18">Next</text:span><text:span text:style-name="T17"> to continue. The New App wizard will close, and the app definition will be added to the tree view on the left of the screen.</text:span></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
-     <text:p text:style-name="P46" loext:marker-style-name="T17"><text:soft-page-break/><text:span text:style-name="T17">Jetez un coup d&apos;œil à chacune des pages de configuration de l&apos;application en les sélectionnant dans l&apos;arborescence à gauche. Regardez dans chacun des onglets de chaque page pour vérifier que vous avez les paramètres que vous voulez. Vous pouvez toujours y revenir plus tard pour les modifier si vous trouvez que vous devez apporter des modifications aux polices, couleurs, styles, etc.</text:span><text:span text:style-name="T17"/></text:p>
+     <text:p text:style-name="P46" loext:marker-style-name="T17"><text:soft-page-break/><text:span text:style-name="T17">Take a look at each of the app configuration pages by selecting them in the tree view on the left. Look in each of the tabs on each page to verify that you have the settings you want. You can always go back to them later to change them if you find you need to make modifications to fonts, colors, styles, etc.</text:span><text:span text:style-name="T17"/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
@@ -4197,34 +4194,34 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:p text:style-name="P48" loext:marker-style-name="T17"><text:span text:style-name="T17">Si quelque chose n&apos;est pas configuré correctement pour que la compilation fonctionne, vous en serez averti. </text:span><text:span text:style-name="T17"/></text:p>
+   <text:p text:style-name="P48" loext:marker-style-name="T17"><text:span text:style-name="T17">If something is not configured correctly for the build to work, you will be notified of this. </text:span><text:span text:style-name="T17"/></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
-     <text:p text:style-name="P46" loext:marker-style-name="T17"><text:span text:style-name="T17">Une boîte de commande noire apparaîtra. Attendez environ une minute pendant la compilation de l&apos;application.</text:span><text:span text:style-name="T17"/></text:p>
+     <text:p text:style-name="P46" loext:marker-style-name="T17"><text:span text:style-name="T17">A black command box will appear. Wait about a minute while the app is compiled.</text:span><text:span text:style-name="T17"/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:p text:style-name="P57" loext:marker-style-name="T17"><text:span text:style-name="T17">La première fois que le processus de compilation est lancé, le compilateur doit se connecter à Internet pour télécharger des fichiers. Après cela, les versions ultérieures des applications ne nécessiteront pas l&apos;accès à Internet. Voir </text:span><text:span text:style-name="T18">Outils</text:span><text:span text:style-name="T17"> </text:span><text:span text:style-name="T18">Paramètres…</text:span><text:span text:style-name="T17"> </text:span><text:span text:style-name="T28">&lt;unk&gt;</text:span><text:span text:style-name="T17"> </text:span><text:span text:style-name="T18">Paramètres de compilation</text:span><text:span text:style-name="T17"> pour activer le mode hors ligne après la première version de l&apos;application.</text:span></text:p>
+   <text:p text:style-name="P57" loext:marker-style-name="T17"><text:span text:style-name="T17">The first time the build process is run, the compiler needs to connect to the internet to download some files. After this, subsequent app builds will not require internet access. See </text:span><text:span text:style-name="T18">Tools</text:span><text:span text:style-name="T17"> </text:span><text:span text:style-name="T28"></text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T18">Settings…</text:span><text:span text:style-name="T17"> </text:span><text:span text:style-name="T28"></text:span><text:span text:style-name="T17"> </text:span><text:span text:style-name="T18">Build Settings</text:span><text:span text:style-name="T17"> to turn on offline mode after the first app build.</text:span></text:p>
    <text:p text:style-name="P32" loext:marker-style-name="T17"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
-     <text:p text:style-name="P46" loext:marker-style-name="T24"><text:soft-page-break/><text:span text:style-name="T24">Si le build réussit, vous aurez un nouveau fichier APK - le fichier d&apos;installation pour une application Android.</text:span><text:span text:style-name="T24"/></text:p>
+     <text:p text:style-name="P46" loext:marker-style-name="T24"><text:soft-page-break/><text:span text:style-name="T24">If the build succeeds, you will have a new APK file – the installation file for an Android app.</text:span><text:span text:style-name="T24"/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P53" loext:marker-style-name="T24"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T24"><text:span text:style-name="T24">La section suivante décrit comment copier ce fichier APK sur votre téléphone et lancer l&apos;application.</text:span><text:span text:style-name="T24"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T24"><text:span text:style-name="T24">The next section describes how to copy this APK file to your phone and launch the app.</text:span><text:span text:style-name="T24"/></text:p>
    <text:p text:style-name="P53" loext:marker-style-name="T24"/>
    <text:p text:style-name="P53" loext:marker-style-name="T24"><text:s/></text:p>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="_Toc66108082"/><text:bookmark-start text:name="_Toc129968041"/><text:bookmark-start text:name="_Toc66431885"/>Installation de l&apos;application sur votre téléphone<text:bookmark-end text:name="_Toc66108082"/><text:bookmark-end text:name="_Toc129968041"/><text:bookmark-end text:name="_Toc66431885"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="_Toc66431885"/><text:bookmark-start text:name="_Toc129968041"/><text:bookmark-start text:name="_Toc66108082"/>Installing the app on your phone<text:bookmark-end text:name="_Toc66431885"/><text:bookmark-end text:name="_Toc129968041"/><text:bookmark-end text:name="_Toc66108082"/></text:h>
    <text:p text:style-name="P54" loext:marker-style-name="T24"/>
-   <text:p text:style-name="P58" loext:marker-style-name="T24"><text:span text:style-name="T24">Dans la section ci-dessus, vous avez vu comment compiler une application Android. Le résultat est un fichier APK, le fichier d&apos;installation d&apos;une application Android. Vous devez maintenant copier ce fichier APK sur votre téléphone, l&apos;installer et lancer l&apos;application.</text:span><text:span text:style-name="T24"/></text:p>
+   <text:p text:style-name="P58" loext:marker-style-name="T24"><text:span text:style-name="T24">In the above section, you have seen how to compile an Android app. The result is an APK file, the installation file for an Android app. You now need to copy this APK file to your phone, install it and launch the app.</text:span><text:span text:style-name="T24"/></text:p>
    <text:p text:style-name="P53" loext:marker-style-name="T24"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T24"><text:span text:style-name="T24">Here is how to do this:</text:span><text:span text:style-name="T24"/></text:p>
    <text:p text:style-name="P53" loext:marker-style-name="T24"><text:soft-page-break/></text:p>
    <text:list text:style-name="WWNum26">
     <text:list-item>
-     <text:p text:style-name="P12" loext:marker-style-name="T24"><text:span text:style-name="T24">Connectez votre téléphone Android à votre ordinateur à l&apos;aide d&apos;un câble de données </text:span><text:span text:style-name="T24">. </text:span></text:p>
+     <text:p text:style-name="P12" loext:marker-style-name="T24"><text:span text:style-name="T24">Connect your Android phone to your computer using a </text:span><text:span text:style-name="T27">USB data cable</text:span><text:span text:style-name="T24">. </text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P9" loext:marker-style-name="T24"/>
@@ -4232,19 +4229,19 @@
    <text:p text:style-name="P10" loext:marker-style-name="T24"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum26">
     <text:list-item>
-     <text:p text:style-name="P12" loext:marker-style-name="T24"><text:span text:style-name="T24">Assurez-vous que les options </text:span><text:span text:style-name="T27">Développeur </text:span><text:span text:style-name="T28">&lt;unk&gt;</text:span><text:span text:style-name="T6"> </text:span><text:span text:style-name="T8">USB Debogging</text:span><text:span text:style-name="T24"> est activé sur votre téléphone. Par défaut, sur les nouveaux téléphones, les options développeur sont désactivées. Voici comment vous pouvez l&apos;activer :</text:span></text:p>
+     <text:p text:style-name="P12" loext:marker-style-name="T24"><text:span text:style-name="T24">Ensure that </text:span><text:span text:style-name="T27">Developer Options </text:span><text:span text:style-name="T28"></text:span><text:span text:style-name="T6"> </text:span><text:span text:style-name="T8">USB Debugging</text:span><text:span text:style-name="T24"> is enabled on your phone. By default, on new phones, Developer Options is turned off. This is how you can enable it:</text:span></text:p>
      <text:list>
       <text:list-item>
        <text:p text:style-name="P13" loext:marker-style-name="T24"><text:span text:style-name="T24">Open the </text:span><text:span text:style-name="T27">Settings </text:span><text:span text:style-name="T24">menu of your phone.</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P13" loext:marker-style-name="T24"><text:span text:style-name="T24">Faites défiler vers le bas du menu et appuyez sur </text:span><text:span text:style-name="T27">À propos du téléphone</text:span><text:span text:style-name="T24">.</text:span></text:p>
+       <text:p text:style-name="P13" loext:marker-style-name="T24"><text:span text:style-name="T24">Scroll down to the bottom of the menu and tap on </text:span><text:span text:style-name="T27">About Phone</text:span><text:span text:style-name="T24">.</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P13" loext:marker-style-name="T24"><text:span text:style-name="T24">Find the </text:span><text:span text:style-name="T27">Build Number</text:span><text:span text:style-name="T24">. Cela pourrait se trouver sur la page À propos du téléphone ou dans un sous-menu tel que « Informations sur le logiciel ».</text:span></text:p>
+       <text:p text:style-name="P13" loext:marker-style-name="T24"><text:span text:style-name="T24">Find the </text:span><text:span text:style-name="T27">Build Number</text:span><text:span text:style-name="T24">. This could be on the About Phone page, or under a sub-menu such as ‘Software Information’.</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P13" loext:marker-style-name="T24"><text:span text:style-name="T24">Tap on the Build Number </text:span><text:span text:style-name="T27">seven times</text:span><text:span text:style-name="T24">. Comme vous le faites, vous verrez apparaître une série de messages : « Vous êtes maintenant à 3 étapes de votre développement », « Vous êtes maintenant à 2 étapes de votre développement », « Vous êtes maintenant à 1 étape de votre développement », « Vous êtes maintenant un développeur !</text:span></text:p>
+       <text:p text:style-name="P13" loext:marker-style-name="T24"><text:span text:style-name="T24">Tap on the Build Number </text:span><text:span text:style-name="T27">seven times</text:span><text:span text:style-name="T24">. As you do this, you will see a series of messages appearing: “You are now 3 steps away from being a developer”, “You are now 2 steps away from being a developer”, “You are now 1 step away from being a developer”, “You are now a developer!”.</text:span></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
@@ -5990,7 +5987,7 @@
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P13" loext:marker-style-name="T24"><text:span text:style-name="T24">Revenez maintenant au menu Configuration de votre téléphone. Recherchez l&apos;élément de menu Options Développeur. Vous pouvez voir les options </text:span><text:span text:style-name="T27">Développeur</text:span><text:span text:style-name="T24"> au-dessus du menu </text:span><text:span text:style-name="T27">À propos du téléphone</text:span><text:span text:style-name="T24">. Si vous ne le voyez pas ici, il pourrait être dans les paramètres </text:span><text:span text:style-name="T27">Système</text:span><text:span text:style-name="T24"> , sous </text:span><text:span text:style-name="T27">Avancé</text:span><text:span text:style-name="T24">. Différents téléphones placent les options développeur à différents endroits, alors regardez autour de votre menu de configuration jusqu&apos;à ce que vous le trouviez.</text:span></text:p>
+       <text:p text:style-name="P13" loext:marker-style-name="T24"><text:span text:style-name="T24">Now return to the Configuration menu of your phone. Look for the Developer Options menu item. You might see </text:span><text:span text:style-name="T27">Developer Options</text:span><text:span text:style-name="T24"> above the </text:span><text:span text:style-name="T27">About Phone</text:span><text:span text:style-name="T24"> menu item. If you do not see it here, it could be in </text:span><text:span text:style-name="T27">System</text:span><text:span text:style-name="T24"> settings, under </text:span><text:span text:style-name="T27">Advanced</text:span><text:span text:style-name="T24">. Different phones place Developer Options in different places, so look around your Configuration menu until you find it.</text:span></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
@@ -6889,10 +6886,10 @@
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P13" loext:marker-style-name="T24"><text:span text:style-name="T24">Appuyez sur </text:span><text:span text:style-name="T27">Options développeur</text:span><text:span text:style-name="T24"> et assurez-vous qu&apos;il est activé.</text:span></text:p>
+       <text:p text:style-name="P13" loext:marker-style-name="T24"><text:span text:style-name="T24">Tap on </text:span><text:span text:style-name="T27">Developer Options</text:span><text:span text:style-name="T24"> and ensure that it is turned on.</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P13" loext:marker-style-name="T24"><text:span text:style-name="T24">Faites défiler vers le bas la page Options du développeur et trouvez </text:span><text:span text:style-name="T27">USB Debugging</text:span><text:span text:style-name="T24">. Activer ce paramètre. </text:span></text:p>
+       <text:p text:style-name="P13" loext:marker-style-name="T24"><text:span text:style-name="T24">Scroll down the Developer Options page and find </text:span><text:span text:style-name="T27">USB Debugging</text:span><text:span text:style-name="T24">. Enable this setting. </text:span></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
@@ -8474,7 +8471,7 @@
      </draw:image>
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="P11" loext:marker-style-name="T24"/>
-   <text:p text:style-name="P15" loext:marker-style-name="T24"><text:span text:style-name="T24">Lorsque vous faites cela, vous recevrez probablement un message « Autoriser le débogage USB ? ». Appuyez sur </text:span><text:span text:style-name="T27">OK</text:span><text:span text:style-name="T24">.</text:span></text:p>
+   <text:p text:style-name="P15" loext:marker-style-name="T24"><text:span text:style-name="T24">When you do this, you will probably get a message “Allow USB Debugging?”. Tap </text:span><text:span text:style-name="T27">OK</text:span><text:span text:style-name="T24">.</text:span></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T24"><draw:custom-shape text:anchor-type="char" draw:z-index="8" draw:name="Shape4" draw:style-name="gr3" draw:text-style-name="P66" svg:width="0.5953in" svg:height="0.3024in" draw:transform="rotate (-2.68571265296887) translate (4.64861111111111in 2.27569444444444in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
@@ -11815,61 +11812,61 @@
    <text:p text:style-name="P56" loext:marker-style-name="T24"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum26">
     <text:list-item>
-     <text:p text:style-name="P12" loext:marker-style-name="T24"><text:span text:style-name="T24">Dans le constructeur d&apos;applications du clavier, cliquez sur le bouton </text:span><text:span text:style-name="T27">Installer APK</text:span><text:span text:style-name="T24"> sur la barre d&apos;outils en haut à droite de l&apos;écran.</text:span></text:p>
+     <text:p text:style-name="P12" loext:marker-style-name="T24"><text:span text:style-name="T24">In Keyboard App Builder, click the </text:span><text:span text:style-name="T27">Install APK</text:span><text:span text:style-name="T24"> button on the toolbar at the top right of the screen.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P9" loext:marker-style-name="T24"/>
-   <text:p text:style-name="List_20_Paragraph" loext:marker-style-name="T24"><text:span text:style-name="T24">Une fenêtre de commande s&apos;ouvrira et le fichier APK sera copié sur votre téléphone, installé et l&apos;application sera lancée. </text:span><text:span text:style-name="T24"/></text:p>
+   <text:p text:style-name="List_20_Paragraph" loext:marker-style-name="T24"><text:span text:style-name="T24">A command window will open and the APK file will be copied to your phone, installed and the app will be launched. </text:span><text:span text:style-name="T24"/></text:p>
    <text:p text:style-name="P9" loext:marker-style-name="T24"/>
-   <text:p text:style-name="List_20_Paragraph" loext:marker-style-name="T24"><text:soft-page-break/><text:span text:style-name="T24">Si cela ne fonctionne pas, regardez la fenêtre de commande pour voir s&apos;il y a un message d&apos;erreur. Si vous voyez un message tel que « Aucun appareil/émulateur trouvé », cela signifie que votre téléphone et votre ordinateur ne sont pas connectés correctement ou que vous n&apos;avez pas activé le débogage USB sur votre téléphone.</text:span><text:span text:style-name="T24"/></text:p>
+   <text:p text:style-name="List_20_Paragraph" loext:marker-style-name="T24"><text:soft-page-break/><text:span text:style-name="T24">If this does not work, look at the command window to see if there is an error message. If you see a message such as “No devices/emulators found”, it means that your phone and computer are not connected correctly or that you have not enabled USB debugging on your phone.</text:span><text:span text:style-name="T24"/></text:p>
    <text:p text:style-name="P53" loext:marker-style-name="T24"/>
    <text:p text:style-name="P53" loext:marker-style-name="T24"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T30"><text:span text:style-name="T30">Note :</text:span><text:span text:style-name="T30"/></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T24"><text:span text:style-name="T24">La description ci-dessus est un processus en deux étapes : </text:span><text:span text:style-name="T27">Build App</text:span><text:span text:style-name="T24"> et </text:span><text:span text:style-name="T27">Installer APK</text:span><text:span text:style-name="T24">. Si vous préférez, vous pouvez dire à Keyboard App Builder de le faire en une étape, c.-à-d. pour que l&apos;APK soit installé et lancé automatiquement après la construction d&apos;une application. Voir </text:span><text:span text:style-name="T26">Outils</text:span><text:span text:style-name="T24"> </text:span><text:span text:style-name="T26">Paramètres…</text:span><text:span text:style-name="T24"> </text:span><text:span text:style-name="T28">&lt;unk&gt;</text:span><text:span text:style-name="T24"> </text:span><text:span text:style-name="T26">Après la compilation</text:span><text:span text:style-name="T24"> pour activer cette fonctionnalité.</text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T29"><text:span text:style-name="T29">Note:</text:span><text:span text:style-name="T29"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T24"><text:span text:style-name="T24">Described above is a two-step process: </text:span><text:span text:style-name="T27">Build App</text:span><text:span text:style-name="T24"> and then </text:span><text:span text:style-name="T27">Install APK</text:span><text:span text:style-name="T24">. If you prefer, you can tell Keyboard App Builder to do this in one step, i.e. for the APK to be installed and launched automatically after building an app. See </text:span><text:span text:style-name="T26">Tools</text:span><text:span text:style-name="T24"> </text:span><text:span text:style-name="T28"></text:span><text:span text:style-name="T6"> </text:span><text:span text:style-name="T26">Settings…</text:span><text:span text:style-name="T24"> </text:span><text:span text:style-name="T28"></text:span><text:span text:style-name="T24"> </text:span><text:span text:style-name="T26">After Build</text:span><text:span text:style-name="T24"> to enable this feature.</text:span></text:p>
    <text:p text:style-name="P53" loext:marker-style-name="T24"/>
    <text:p text:style-name="P30" loext:marker-style-name="T17"><text:s/></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
    <text:h text:style-name="P6" text:outline-level="1" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc129968042"/><text:span text:style-name="T17">App Creation Basics</text:span><text:bookmark-end text:name="_Toc129968042"/><text:span text:style-name="T17"/></text:h>
-   <text:h text:style-name="P7" text:outline-level="2" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc129968043"/><text:span text:style-name="T17">Comment choisir le nom du package de l&apos;application?</text:span><text:bookmark-end text:name="_Toc129968043"/><text:span text:style-name="T17"/></text:h>
+   <text:h text:style-name="P7" text:outline-level="2" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc129968043"/><text:span text:style-name="T17">How should I choose the app package name?</text:span><text:bookmark-end text:name="_Toc129968043"/><text:span text:style-name="T17"/></text:h>
    <text:p text:style-name="P58" loext:marker-style-name="T17"><text:soft-page-break/><text:span text:style-name="T17">The standard for an app package name is to begin with the reversed web address of the publishing organisation, e.g. if it is SIL, the package name could begin with: </text:span><text:span text:style-name="T17"/></text:p>
-   <text:p text:style-name="P60" loext:marker-style-name="T31"><text:span text:style-name="T31">org.sil</text:span><text:span text:style-name="T31"/></text:p>
+   <text:p text:style-name="P60" loext:marker-style-name="T30"><text:span text:style-name="T30">org.sil</text:span><text:span text:style-name="T30"/></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T17"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">et sera suivi par quelque chose qui identifie la langue, le pays et le type de publication, p. ex.</text:span><text:span text:style-name="T17"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">and will be followed by something identifying the language, country, and type of publication, e.g.</text:span><text:span text:style-name="T17"/></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:p text:style-name="P61" loext:marker-style-name="T31"><text:span text:style-name="T31">org.sil.niger.keyboard</text:span><text:span text:style-name="T31"/></text:p>
+   <text:p text:style-name="P61" loext:marker-style-name="T30"><text:span text:style-name="T30">org.sil.niger.keyboard</text:span><text:span text:style-name="T30"/></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">Si vous travaillez pour une organisation universitaire ou linguistique, vous pourriez avoir des normes à suivre pour les noms de paquets, alors veuillez contacter votre coordinateur de publications numériques pour obtenir des conseils à ce sujet.</text:span><text:span text:style-name="T17"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">If you work for a university or linguistics organisation, you might have standards to follow for package names, so please contact your digital publications coordinator for advice on this.</text:span><text:span text:style-name="T17"/></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">Une fois que vous avez publié votre application dans un magasin d&apos;applications, vous ne pouvez pas changer son nom de paquet plus tard si vous voulez que les utilisateurs continuent à recevoir des mises à jour. Le nom du package identifie de manière unique l&apos;application dans le monde Android. Ceux qui installeront l&apos;application pourront trouver son nom de paquet sur leur appareil. Il apparaîtra également dans l&apos;adresse Web de votre application si vous le rendez disponible sur Google Play.</text:span><text:span text:style-name="T17"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">Once you publish your app on an app store, you cannot change its package name later if you want users to continue to receive updates. The package name uniquely identifies the app in the Android world. Those who install the app will be able to find its package name on their device. It will also appear in the web address for your app if you make it available on Google Play.</text:span><text:span text:style-name="T17"/></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"><text:soft-page-break/></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">If you are building apps for </text:span><text:span text:style-name="T18">test purposes </text:span><text:span text:style-name="T17">on your devices, you can use a package name beginning with com.example, e.g.</text:span></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T31"><text:span text:style-name="T31">com.example.test.app123</text:span><text:span text:style-name="T31"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T30"><text:span text:style-name="T30">com.example.test.app123</text:span><text:span text:style-name="T30"/></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">Mais n&apos;oubliez pas de le modifier avant de publier l&apos;application.</text:span><text:span text:style-name="T17"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">But remember to change it before you publish the app.</text:span><text:span text:style-name="T17"/></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:h text:style-name="P7" text:outline-level="2" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc129968044"/><text:span text:style-name="T17">Dois-je créer un nouveau magasin de clés pour chaque application, ou puis-je réutiliser le même magasin de clés pour plusieurs de mes applications ?</text:span><text:bookmark-end text:name="_Toc129968044"/><text:span text:style-name="T17"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">Vous pouvez utiliser le même magasin de clés et l&apos;alias de clé pour toutes ou plusieurs de vos applications.</text:span><text:span text:style-name="T17"/></text:p>
+   <text:h text:style-name="P7" text:outline-level="2" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc129968044"/><text:span text:style-name="T17">Do I have to create a new keystore for each app, or can I reuse the same keystore for several of my apps?</text:span><text:bookmark-end text:name="_Toc129968044"/><text:span text:style-name="T17"/></text:h>
+   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">You can use the same keystore and key alias for all or several of your apps.</text:span><text:span text:style-name="T17"/></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:p text:style-name="P40" loext:marker-style-name="T17"><text:soft-page-break/><text:span text:style-name="T17">Voir ici pour plus de détails : </text:span><text:span text:style-name="T17"/></text:p>
+   <text:p text:style-name="P40" loext:marker-style-name="T17"><text:soft-page-break/><text:span text:style-name="T17">See here for more details: </text:span><text:span text:style-name="T17"/></text:p>
    <text:p text:style-name="P61" loext:marker-style-name="T17"><text:a xlink:type="simple" xlink:href="http://developer.android.com/tools/publishing/app-signing.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T17">http://developer.android.com/tools/publishing/app-signing.html</text:span></text:span></text:a><text:span text:style-name="T17"> </text:span></text:p>
    <text:p text:style-name="P35" loext:marker-style-name="T17"/>
-   <text:h text:style-name="P7" text:outline-level="2" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc129968045"/><text:span text:style-name="T17">Puis-je construire des applications quand je n&apos;ai pas accès à internet ?</text:span><text:bookmark-end text:name="_Toc129968045"/><text:span text:style-name="T17"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">La première fois que vous construisez une application, vous devrez être connecté à Internet, sinon le compilateur échouera. Après cela, vous pouvez définir la version &apos;hors ligne&apos; dans les paramètres </text:span><text:span text:style-name="T17">pour que vous puissiez travailler hors ligne.</text:span></text:p>
+   <text:h text:style-name="P7" text:outline-level="2" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc129968045"/><text:span text:style-name="T17">Can I build apps when I do not have internet access?</text:span><text:bookmark-end text:name="_Toc129968045"/><text:span text:style-name="T17"/></text:h>
+   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">The first time you build an app, you will need to be connected to the internet otherwise the compiler will fail. After that you can set the &apos;offline&apos; version in </text:span><text:span text:style-name="T18">Settings</text:span><text:span text:style-name="T17"> so you can work offline.</text:span></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc129968046"/><text:bookmark-start text:name="_Toc500152989"/><text:bookmark-start text:name="_Toc498952700"/><text:span text:style-name="T17">Écrans d&apos;accueil et de configuration</text:span><text:bookmark-end text:name="_Toc129968046"/><text:span text:style-name="T17"/></text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc498952700"/><text:bookmark-start text:name="_Toc500152989"/><text:bookmark-start text:name="_Toc129968046"/><text:span text:style-name="T17">Home and Setup Screens</text:span><text:bookmark-end text:name="_Toc129968046"/><text:span text:style-name="T17"/></text:h>
    <text:p text:style-name="P62" loext:marker-style-name="T17"><text:span text:style-name="T17">There are two main screens in an app built with Keyboard App Builder: </text:span><text:span text:style-name="T17"/></text:p>
-   <text:list text:continue-list="list220013045222367" text:style-name="WWNum25">
+   <text:list text:continue-list="list222550497511443" text:style-name="WWNum25">
     <text:list-item>
-     <text:p text:style-name="P42" loext:marker-style-name="T17"><text:span text:style-name="T17">l&apos;écran d&apos;accueil et</text:span><text:span text:style-name="T17"/></text:p>
+     <text:p text:style-name="P42" loext:marker-style-name="T17"><text:span text:style-name="T17">the Home screen, and</text:span><text:span text:style-name="T17"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44" loext:marker-style-name="T17"><text:span text:style-name="T17">l&apos;écran d&apos;installation.</text:span><text:span text:style-name="T17"/></text:p>
+     <text:p text:style-name="P44" loext:marker-style-name="T17"><text:span text:style-name="T17">the Setup screen.</text:span><text:span text:style-name="T17"/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P36" loext:marker-style-name="T17"><text:soft-page-break/></text:p>
-   <text:h text:style-name="P7" text:outline-level="2" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc129968047"/><text:span text:style-name="T17">Écran d&apos;accueil</text:span><text:bookmark-end text:name="_Toc129968047"/><text:span text:style-name="T17"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">L&apos;écran d&apos;accueil est affiché lorsque l&apos;utilisateur lance l&apos;application. Il contient une image optionnelle en haut, suivie d&apos;un titre et d&apos;un texte d&apos;introduction. Ci-dessous se trouve le bouton </text:span><text:span text:style-name="T19">Configurer le Clavier</text:span><text:span text:style-name="T17"> et puis quelques textes supplémentaires.</text:span></text:p>
+   <text:h text:style-name="P7" text:outline-level="2" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc129968047"/><text:span text:style-name="T17">Home Screen</text:span><text:bookmark-end text:name="_Toc129968047"/><text:span text:style-name="T17"/></text:h>
+   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">The Home screen is shown when the user launches the app. It contains an optional picture at the top, followed by a heading and some introductory text. Below this is the </text:span><text:span text:style-name="T19">Set Up Keyboard</text:span><text:span text:style-name="T17"> button, and then some more text.</text:span></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
    <text:p text:style-name="P3" loext:marker-style-name="T17"><draw:frame text:anchor-type="as-char" draw:z-index="19" draw:name="Shape6" draw:style-name="gr1" draw:text-style-name="P65" svg:width="2.2606in" svg:height="4.7295in">
      <draw:image draw:mime-type="image/png">
@@ -15194,10 +15191,10 @@
      </draw:image>
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T17">To configure the image and text on the Home screen, select </text:span><text:span text:style-name="T19">Screens</text:span><text:span text:style-name="T17"> from the tree view on the left of the KAB program window and select the </text:span><text:span text:style-name="T9">Home Screen</text:span><text:span text:style-name="T3"> tab. Suivez les instructions à l&apos;écran.</text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T17">To configure the image and text on the Home screen, select </text:span><text:span text:style-name="T19">Screens</text:span><text:span text:style-name="T17"> from the tree view on the left of the KAB program window and select the </text:span><text:span text:style-name="T9">Home Screen</text:span><text:span text:style-name="T3"> tab. Follow the instructions on the screen.</text:span></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:h text:style-name="P8" text:outline-level="2" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc129968048"/><text:span text:style-name="T17">Écran de configuration</text:span><text:bookmark-end text:name="_Toc129968048"/><text:span text:style-name="T17"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">L&apos;écran de configuration est affiché après que l&apos;utilisateur ait tapé le bouton </text:span><text:span text:style-name="T19">Configurer le clavier</text:span><text:span text:style-name="T17"> sur l&apos;écran d&apos;accueil. Il contient un texte d&apos;introduction, puis deux ou trois étapes. </text:span></text:p>
+   <text:h text:style-name="P8" text:outline-level="2" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc129968048"/><text:span text:style-name="T17">Setup Screen</text:span><text:bookmark-end text:name="_Toc129968048"/><text:span text:style-name="T17"/></text:h>
+   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">The Setup screen is shown after the user taps the </text:span><text:span text:style-name="T19">Set Up Keyboard</text:span><text:span text:style-name="T17"> button on the Home screen. It contains some introductory text and then two or three steps. </text:span></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"><text:soft-page-break/></text:p>
    <text:p text:style-name="P3" loext:marker-style-name="T17"><draw:frame text:anchor-type="as-char" draw:z-index="20" draw:name="Shape7" draw:style-name="gr1" draw:text-style-name="P65" svg:width="2.2295in" svg:height="4.7295in">
      <draw:image draw:mime-type="image/png">
@@ -23759,28 +23756,28 @@
       <text:p text:style-name="P30" loext:marker-style-name="T17"/>
       <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T19">Step 1:</text:span><text:span text:style-name="T17"> Enable keyboard</text:span></text:p>
       <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-      <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T19">Étape 2 :</text:span><text:span text:style-name="T17"> Changer le clavier</text:span></text:p>
+      <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T19">Step 2:</text:span><text:span text:style-name="T17"> Change keyboard</text:span></text:p>
       <text:p text:style-name="P30" loext:marker-style-name="T17"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
       <text:p text:style-name="P30" loext:marker-style-name="T17"/>
       <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T19">Step 1:</text:span><text:span text:style-name="T17"> Choose keyboard</text:span></text:p>
       <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-      <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T19">Étape 2 :</text:span><text:span text:style-name="T17"> Activer le clavier</text:span></text:p>
+      <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T19">Step 2:</text:span><text:span text:style-name="T17"> Enable keyboard</text:span></text:p>
       <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-      <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T19">Étape 3:</text:span><text:span text:style-name="T17"> Changer le clavier</text:span></text:p>
+      <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T19">Step 3:</text:span><text:span text:style-name="T17"> Change keyboard</text:span></text:p>
       <text:p text:style-name="P30" loext:marker-style-name="T17"/>
      </table:table-cell>
     </table:table-row>
    </table:table>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T17">To configure the image and text on the Setup screen, select </text:span><text:span text:style-name="T19">Screens</text:span><text:span text:style-name="T17"> from the tree view on the left of the KAB program window and select the </text:span><text:span text:style-name="T9">Setup Screen</text:span><text:span text:style-name="T3"> tab. Suivez les instructions à l&apos;écran.</text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T17">To configure the image and text on the Setup screen, select </text:span><text:span text:style-name="T19">Screens</text:span><text:span text:style-name="T17"> from the tree view on the left of the KAB program window and select the </text:span><text:span text:style-name="T9">Setup Screen</text:span><text:span text:style-name="T3"> tab. Follow the instructions on the screen.</text:span></text:p>
    <text:p text:style-name="P27" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P58" loext:marker-style-name="T5"><text:span text:style-name="T5">Choisissez le clavier</text:span><text:span text:style-name="T5"/></text:p>
-   <text:p text:style-name="P58" loext:marker-style-name="T3"><text:span text:style-name="T3">When the user taps the </text:span><text:span text:style-name="T9">Choose Keyboards</text:span><text:span text:style-name="T3"> button, the Choose Keyboards screen will appear. Un ou plusieurs claviers doivent être choisis.</text:span></text:p>
+   <text:p text:style-name="P58" loext:marker-style-name="T5"><text:span text:style-name="T5">Choose Keyboard</text:span><text:span text:style-name="T5"/></text:p>
+   <text:p text:style-name="P58" loext:marker-style-name="T3"><text:span text:style-name="T3">When the user taps the </text:span><text:span text:style-name="T9">Choose Keyboards</text:span><text:span text:style-name="T3"> button, the Choose Keyboards screen will appear. One or more keyboards should be chosen.</text:span></text:p>
    <text:p text:style-name="P27" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P58" loext:marker-style-name="T3"><text:span text:style-name="T3">Par exemple, dans l&apos;image ci-dessous, l&apos;application permet à l&apos;utilisateur de choisir entre un clavier QWERTY et une disposition AZERTY.</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P58" loext:marker-style-name="T3"><text:span text:style-name="T3">For example, in the image below, the app allows the user to choose between a QWERTY and an AZERTY keyboard layout.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P27" loext:marker-style-name="T3"/>
    <text:p text:style-name="P20" loext:marker-style-name="T3"><draw:custom-shape text:anchor-type="char" draw:z-index="5" draw:name="Shape9" draw:style-name="gr4" draw:text-style-name="P67" svg:width="0.5941in" svg:height="0.3335in" draw:transform="rotate (-3.14159265358979) translate (5.97291666666667in 1.44791666666667in)">
      <text:p/>
@@ -29851,10 +29848,10 @@
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="P25" loext:marker-style-name="T3"/>
    <text:p text:style-name="P23" loext:marker-style-name="T3"><text:s/></text:p>
-   <text:p text:style-name="P58" loext:marker-style-name="T5"><text:soft-page-break/><text:span text:style-name="T5">Activer le clavier</text:span><text:span text:style-name="T5"/></text:p>
-   <text:p text:style-name="P58" loext:marker-style-name="T3"><text:span text:style-name="T3">When the user taps the </text:span><text:span text:style-name="T9">Enable Keyboard</text:span><text:span text:style-name="T3"> button, the phone’s </text:span><text:span text:style-name="T9">Manage keyboards</text:span><text:span text:style-name="T3"> screen will appear. Ils doivent appuyer sur le nouveau clavier pour l&apos;activer.</text:span></text:p>
+   <text:p text:style-name="P58" loext:marker-style-name="T5"><text:soft-page-break/><text:span text:style-name="T5">Enable Keyboard</text:span><text:span text:style-name="T5"/></text:p>
+   <text:p text:style-name="P58" loext:marker-style-name="T3"><text:span text:style-name="T3">When the user taps the </text:span><text:span text:style-name="T9">Enable Keyboard</text:span><text:span text:style-name="T3"> button, the phone’s </text:span><text:span text:style-name="T9">Manage keyboards</text:span><text:span text:style-name="T3"> screen will appear. They need to tap on the new keyboard to enable it.</text:span></text:p>
    <text:p text:style-name="P27" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P58" loext:marker-style-name="T3"><text:span text:style-name="T3">Quand ils le feront, Android les avertira que cette méthode de saisie pourrait être dangereuse. Ils ne devraient pas s&apos;inquiéter : un clavier Keyman ne collecte aucune donnée personnelle.</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P58" loext:marker-style-name="T3"><text:span text:style-name="T3">When they do this, Android will warn them that this input method could be dangerous. They should not worry: a Keyman keyboard does not collect any personal data.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P36" loext:marker-style-name="T17"/>
    <text:p text:style-name="P36" loext:marker-style-name="T17"/>
    <text:p text:style-name="P20" loext:marker-style-name="T17"><draw:custom-shape text:anchor-type="char" draw:z-index="6" draw:name="Shape13" draw:style-name="gr4" draw:text-style-name="P67" svg:width="0.5941in" svg:height="0.3335in" draw:transform="rotate (-3.14159265358979) translate (5.98541666666667in 1.425in)">
@@ -36243,8 +36240,8 @@
    <text:p text:style-name="P36" loext:marker-style-name="T17"/>
    <text:p text:style-name="P36" loext:marker-style-name="T17"/>
    <text:p text:style-name="P23" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P63" loext:marker-style-name="T5"><text:soft-page-break/><text:span text:style-name="T5">Changer le clavier</text:span><text:span text:style-name="T5"/></text:p>
-   <text:p text:style-name="P63" loext:marker-style-name="T3"><text:span text:style-name="T3">When the user taps the </text:span><text:span text:style-name="T9">Change Keyboard</text:span><text:span text:style-name="T3"> button, the phone’s </text:span><text:span text:style-name="T9">Change Keyboard</text:span><text:span text:style-name="T3"> dialog box will appear. Ils doivent appuyer sur le nouveau clavier pour en faire le clavier actuel.</text:span></text:p>
+   <text:p text:style-name="P63" loext:marker-style-name="T5"><text:soft-page-break/><text:span text:style-name="T5">Change Keyboard</text:span><text:span text:style-name="T5"/></text:p>
+   <text:p text:style-name="P63" loext:marker-style-name="T3"><text:span text:style-name="T3">When the user taps the </text:span><text:span text:style-name="T9">Change Keyboard</text:span><text:span text:style-name="T3"> button, the phone’s </text:span><text:span text:style-name="T9">Change Keyboard</text:span><text:span text:style-name="T3"> dialog box will appear. They need to tap on the new keyboard to make it the current one.</text:span></text:p>
    <text:p text:style-name="P28" loext:marker-style-name="T3"/>
    <text:p text:style-name="P37" loext:marker-style-name="T17"/>
    <text:p text:style-name="P3" loext:marker-style-name="T17"><draw:custom-shape text:anchor-type="char" draw:z-index="4" draw:name="Shape17" draw:style-name="gr4" draw:text-style-name="P67" svg:width="0.5941in" svg:height="0.3335in" draw:transform="rotate (-3.14159265358979) translate (5.67083333333333in 2.75277777777778in)">
@@ -44151,10 +44148,10 @@
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="P38" loext:marker-style-name="T17"/>
    <text:p text:style-name="P38" loext:marker-style-name="T17"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">Après avoir complété chacune des deux ou trois étapes, le clavier est prêt à être utilisé dans d&apos;autres applications telles que WhatsApp, Gmail et Facebook.</text:span><text:span text:style-name="T17"/></text:p>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc129968049"/><text:span text:style-name="T17">Navigation Drawer</text:span><text:bookmark-end text:name="_Toc129968049"/><text:bookmark-end text:name="_Toc500152989"/><text:bookmark-end text:name="_Toc498952700"/><text:span text:style-name="T17"/></text:h>
-   <text:p text:style-name="P64" loext:marker-style-name="T32"/>
-   <text:p text:style-name="P58" loext:marker-style-name="T11"><text:soft-page-break/><text:span text:style-name="T11">Vous pouvez personnaliser l&apos;image qui apparaît en haut du panneau de navigation. Il peut s&apos;agir d&apos;une photo, du logo de votre organisation ou de tout autre design graphique pertinent.</text:span><text:span text:style-name="T11"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">After completing each of the two or three steps, the keyboard is ready to be used in other apps such as WhatsApp, Gmail and Facebook.</text:span><text:span text:style-name="T17"/></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc129968049"/><text:span text:style-name="T17">Navigation Drawer</text:span><text:bookmark-end text:name="_Toc129968049"/><text:bookmark-end text:name="_Toc498952700"/><text:bookmark-end text:name="_Toc500152989"/><text:span text:style-name="T17"/></text:h>
+   <text:p text:style-name="P64" loext:marker-style-name="T31"/>
+   <text:p text:style-name="P58" loext:marker-style-name="T11"><text:soft-page-break/><text:span text:style-name="T11">You can customise the image that appears at the top of the navigation drawer. It can be a photo, your organisation’s logo or any relevant graphic design.</text:span><text:span text:style-name="T11"/></text:p>
    <text:p text:style-name="P29" loext:marker-style-name="T11"/>
    <text:p text:style-name="P29" loext:marker-style-name="T11"/>
    <text:p text:style-name="P20" loext:marker-style-name="T11"><draw:custom-shape text:anchor-type="char" draw:z-index="0" draw:name="Shape21" draw:style-name="gr3" draw:text-style-name="P66" svg:width="0.5953in" svg:height="0.3024in" draw:transform="rotate (0.678409480250196) translate (0.0756944444444444in 1.66388888888889in)">
@@ -76212,7 +76209,7 @@
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
    <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc129968050"/><text:soft-page-break/><text:span text:style-name="T17">Distribution</text:span><text:bookmark-end text:name="_Toc129968050"/><text:span text:style-name="T17"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">Les applications Android construites avec Keyboard App Builder peuvent être publiées sur le Google Play Store, distribué sur des cartes mémoire, partagé par Bluetooth ou transfert Wi-Fi, téléversé sur des sites Web ou envoyé par courriel.</text:span><text:span text:style-name="T17"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">Android apps built with Keyboard App Builder can be published on the Google Play store, distributed on memory cards, shared by Bluetooth or Wi-Fi transfer, uploaded to websites, or sent out by email.</text:span><text:span text:style-name="T17"/></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T17"><text:span text:style-name="T17">For more information, please see the user manual: </text:span><text:span text:style-name="T20">Distributing Apps</text:span><text:span text:style-name="T17">.</text:span></text:p>
   </office:text>

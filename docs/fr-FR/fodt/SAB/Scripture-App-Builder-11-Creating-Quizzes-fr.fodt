@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:title>Éditeur d&apos;applications bibliques : Création de questionnaires</dc:title>
+ <office:meta><dc:title>Scripture App Builder: Creating Quizzes</dc:title>
 <meta:initial-creator>Richard Margetts</meta:initial-creator><dc:creator>Microsoft account</dc:creator><meta:editing-cycles>58</meta:editing-cycles><meta:print-date>2026-06-10T22:45:00</meta:print-date><meta:creation-date>2021-11-30T16:34:00</meta:creation-date><dc:date>2026-06-10T22:45:00</dc:date><meta:editing-duration>PT7H27M</meta:editing-duration><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="7" meta:object-count="0" meta:page-count="22" meta:paragraph-count="192" meta:word-count="1522" meta:character-count="8430" meta:non-whitespace-character-count="7021"/>
 <meta:user-defined meta:name="AppVersion">15.0000</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
@@ -96,7 +96,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -120,7 +120,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1113364</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1269243</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -151,7 +151,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Calibri1" fo:font-size="11pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Calibri2" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Noto Sans Devanagari1" style:font-size-complex="11pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -2418,11 +2418,11 @@
      </draw:image>
      <svg:desc>Logo
 
-Description générée automatiquement</svg:desc>
+Description automatically generated</svg:desc>
     </draw:frame></text:p>
    <text:p text:style-name="P9" loext:marker-style-name="T1"/>
    <text:p text:style-name="P9" loext:marker-style-name="T1"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T2"><text:soft-page-break/><text:span text:style-name="T2">Créer des applications <text:line-break/>avec des questionnaires</text:span><text:span text:style-name="T2"/></text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T2"><text:soft-page-break/><text:span text:style-name="T2">Creating Apps <text:line-break/>with Quizzes</text:span><text:span text:style-name="T2"/></text:p>
    <text:p text:style-name="P12" loext:marker-style-name="T3"/>
    <text:p text:style-name="P12" loext:marker-style-name="T3"/>
    <text:p text:style-name="P12" loext:marker-style-name="T3"/>
@@ -2502,9 +2502,9 @@ Description générée automatiquement</svg:desc>
        Oa5MedmZIoccV8ihfvH/AQOC33XWy7O0AAAAAElFTkSuQmCC
       </office:binary-data>
      </draw:image>
-     <svg:desc>Icône
+     <svg:desc>Icon
 
-Description générée automatiquement</svg:desc>
+Description automatically generated</svg:desc>
     </draw:frame></text:p>
    <text:p text:style-name="P13" loext:marker-style-name="T4"/>
    <text:p text:style-name="P14" loext:marker-style-name="T4"/>
@@ -2515,19 +2515,19 @@ Description générée automatiquement</svg:desc>
    <text:p text:style-name="P14" loext:marker-style-name="T4"/>
    <text:p text:style-name="P14" loext:marker-style-name="T4"/>
    <text:p text:style-name="P14" loext:marker-style-name="T4"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T4"><text:soft-page-break/><text:span text:style-name="T4">Éditeur d&apos;applications bibliques : </text:span><text:span text:style-name="T4"/></text:p>
-   <text:p text:style-name="P3" loext:marker-style-name="T4"><text:span text:style-name="T4">Créer des applications avec des questionnaires</text:span><text:span text:style-name="T4"/></text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T4"><text:soft-page-break/><text:span text:style-name="T4">Scripture App Builder: </text:span><text:span text:style-name="T4"/></text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T4"><text:span text:style-name="T4">Creating Apps with Quizzes</text:span><text:span text:style-name="T4"/></text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T7">©️ <text:span text:style-name="T7">2026, SIL International</text:span><text:span text:style-name="T7"/></text:p>
-   <text:p text:style-name="P3" loext:marker-style-name="T16"><text:span text:style-name="T8">10 Juin 2026</text:span><text:span text:style-name="T16"/></text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T7">© <text:span text:style-name="T7">2026, SIL International</text:span><text:span text:style-name="T7"/></text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T16"><text:span text:style-name="T8">10 June 2026</text:span><text:span text:style-name="T16"/></text:p>
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T7"><text:span text:style-name="T7">Vous êtes libre d&apos;imprimer ce manuel pour un usage personnel et pour des ateliers de formation.</text:span><text:span text:style-name="T7"/></text:p>
-   <text:p text:style-name="P3" loext:marker-style-name="T7"><text:span text:style-name="T7">La dernière version est disponible à</text:span><text:span text:style-name="T7"/></text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T7"><text:span text:style-name="T7">You are free to print this manual for personal use and for training workshops.</text:span><text:span text:style-name="T7"/></text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T7"><text:span text:style-name="T7">The latest version is available at</text:span><text:span text:style-name="T7"/></text:p>
    <text:p text:style-name="P3" loext:marker-style-name="T7"><text:a xlink:type="simple" xlink:href="http://software.sil.org/scriptureappbuilder/resources/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:soft-page-break/><text:span text:style-name="Internet_20_link"><text:span text:style-name="T7">http://software.sil.org/scriptureappbuilder/resources/</text:span></text:span></text:a><text:span text:style-name="T7"> </text:span></text:p>
-   <text:p text:style-name="P3" loext:marker-style-name="T7"><text:span text:style-name="T7">et dans le menu Aide du constructeur d&apos;applications bibliques.</text:span><text:span text:style-name="T7"/></text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T7"><text:span text:style-name="T7">and on the Help menu of Scripture App Builder.</text:span><text:span text:style-name="T7"/></text:p>
    <text:p text:style-name="P17" loext:marker-style-name="T17"/>
-   <text:p text:style-name="P11" loext:marker-style-name="T17"><text:span text:style-name="T17">Contenu</text:span><text:span text:style-name="T17"/></text:p>
+   <text:p text:style-name="P11" loext:marker-style-name="T17"><text:span text:style-name="T17">Contents</text:span><text:span text:style-name="T17"/></text:p>
    <text:p text:style-name="P17" loext:marker-style-name="T17"/>
    <text:table-of-content text:style-name="Sect1" text:protected="true" text:name="Table of Contents1">
     <text:table-of-content-source text:outline-level="3" text:use-index-marks="false">
@@ -2623,55 +2623,55 @@ Description générée automatiquement</svg:desc>
      </text:table-of-content-entry-template>
     </text:table-of-content-source>
     <text:index-body>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc231996894" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">1.<text:span text:style-name="T18"> </text:span>Fichiers de quiz<text:span text:style-name="T19"> 4</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc231996895" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">2.<text:span text:style-name="T18"> </text:span>Questions et réponses en mots<text:span text:style-name="T19"> 6</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc231996896" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.<text:span text:style-name="T18"> </text:span>Question avec image, et réponses en mots<text:span text:style-name="T19"> 7</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc231996897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">4.<text:span text:style-name="T18"> </text:span>Question en mots, et réponses en images<text:span text:style-name="T19"> 8</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc231996898" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">5.<text:span text:style-name="T18"> </text:span>Question et répondez en mots, avec un son<text:span text:style-name="T19"> de 9</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc231996894" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">1.<text:span text:style-name="T18"> </text:span>Quiz files<text:span text:style-name="T19"> 4</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc231996895" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">2.<text:span text:style-name="T18"> </text:span>Questions and answers in words<text:span text:style-name="T19"> 6</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc231996896" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.<text:span text:style-name="T18"> </text:span>Question with picture, and answers in words<text:span text:style-name="T19"> 7</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc231996897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">4.<text:span text:style-name="T18"> </text:span>Question in words, and answers in pictures<text:span text:style-name="T19"> 8</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc231996898" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">5.<text:span text:style-name="T18"> </text:span>Question and answer in words, with audio<text:span text:style-name="T19"> 9</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_1" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc231996899" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">6.<text:span text:style-name="T18"> </text:span>Question and answer in words, with explanations<text:span text:style-name="T19"> 10</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_1" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc231996900" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">7.<text:span text:style-name="T18"> </text:span>Question and answer in words, with explanations and audio<text:span text:style-name="T19"> 11</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc231996901" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:soft-page-break/>8.<text:span text:style-name="T18"> </text:span>Effets sonores pour les bonnes et mauvaises réponses<text:span text:style-name="T19"> 12</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc231996902" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T20">9.</text:span><text:span text:style-name="T18"> </text:span><text:span text:style-name="T20">Configuration de votre quiz</text:span><text:span text:style-name="T19"> 13</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc231996901" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:soft-page-break/>8.<text:span text:style-name="T18"> </text:span>Sound effects for right and wrong answers<text:span text:style-name="T19"> 12</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc231996902" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T20">9.</text:span><text:span text:style-name="T18"> </text:span><text:span text:style-name="T20">Configuring Your Quiz</text:span><text:span text:style-name="T19"> 13</text:span></text:a></text:p>
     </text:index-body>
    </text:table-of-content>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="P15" loext:marker-style-name="T5"/>
-   <text:h text:style-name="P4" text:outline-level="1"><text:bookmark-start text:name="_Toc89893446"/><text:bookmark-start text:name="_Toc231996894"/>Fichiers Quiz<text:bookmark-end text:name="_Toc89893446"/><text:bookmark-end text:name="_Toc231996894"/> </text:h>
+   <text:h text:style-name="P4" text:outline-level="1"><text:bookmark-start text:name="_Toc231996894"/><text:bookmark-start text:name="_Toc89893446"/>Quiz files<text:bookmark-end text:name="_Toc231996894"/><text:bookmark-end text:name="_Toc89893446"/> </text:h>
    <text:p text:style-name="P18" loext:marker-style-name="T21"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T10"><text:span text:style-name="T10">Les questionnaires peuvent constituer une partie importante d&apos;une stratégie d&apos;engagement ou d&apos;apprentissage, confirmant si les utilisateurs comprennent le matériel. Les quiz peuvent être assez simples Vrai/Faux ou des ensembles de questions à choix multiples, ou être un peu plus complexe avec des explications pour aider les utilisateurs à apprendre de leurs erreurs.</text:span><text:span text:style-name="T10"/></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T10"><text:span text:style-name="T10">Les questionnaires sont développés à l&apos;aide de </text:span><text:span text:style-name="T12">fichiers texte </text:span><text:span text:style-name="T10">(.txt), créés avec un éditeur de texte tel que </text:span><text:span text:style-name="T12">Bloc-notes</text:span><text:span text:style-name="T10">. Ils suivent la structure de base des autres fichiers SFM (marqueur de format standard) utilisés avec le constructeur d&apos;applications bibliques. N&apos;utilisez pas un traitement de texte tel que Word ou LibreOffice pour les créer.</text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T10"><text:span text:style-name="T10">Quizzes can form an important part of a Scripture Engagement or learning strategy, confirming whether users are understanding the material. Quizzes can be quite simple True/False or multiple choice sets of questions, or be slightly more complex with explanations to help users learn from their mistakes.</text:span><text:span text:style-name="T10"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T10"><text:span text:style-name="T10">Quizzes are developed using </text:span><text:span text:style-name="T12">text files </text:span><text:span text:style-name="T10">(.txt), created with a text editor such as </text:span><text:span text:style-name="T12">Notepad</text:span><text:span text:style-name="T10">. They follow the basic structure of other SFM (standard format marker) files used with Scripture App Builder. Do not use a word processor such as Word or LibreOffice to create them.</text:span></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T10"><text:span text:style-name="T10">A quiz file contains :</text:span><text:span text:style-name="T10"/></text:p>
    <text:list text:style-name="WWNum2">
     <text:list-item>
-     <text:p text:style-name="P6" loext:marker-style-name="T10"><text:span text:style-name="T10">Quelques informations au début : ID, nom, nom abrégé ;</text:span><text:span text:style-name="T10"/></text:p>
+     <text:p text:style-name="P6" loext:marker-style-name="T10"><text:span text:style-name="T10">Some information at the beginning: ID, name, short name;</text:span><text:span text:style-name="T10"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P6" loext:marker-style-name="T10"><text:span text:style-name="T10">Questions: au moins une question (il n&apos;y a pas de limite au nombre de questions).</text:span><text:span text:style-name="T10"/></text:p>
+     <text:p text:style-name="P6" loext:marker-style-name="T10"><text:span text:style-name="T10">Questions: at least one question (there is no limit to the number of questions).</text:span><text:span text:style-name="T10"/></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Standard" loext:marker-style-name="T10"><text:span text:style-name="T22"><text:line-break/></text:span><text:span text:style-name="T10">Dans le constructeur d&apos;applications bibliques, vous ajoutez des fichiers de quiz comme vous le faites avec d&apos;autres types de livres sur la page </text:span><text:span text:style-name="T12">Livres </text:span><text:span text:style-name="T10">. Cliquez sur </text:span><text:span text:style-name="T12">Ajouter un livre... </text:span><text:span text:style-name="T10">et sélectionnez le fichier. Si vous mettez correctement le marqueur </text:span><text:span text:style-name="T11">\quiz</text:span><text:span text:style-name="T10"> dans le fichier du livre (voir ci-dessous), le type de livre doit automatiquement être défini à </text:span><text:span text:style-name="T11">Quiz.</text:span><text:span text:style-name="T10"><text:line-break/></text:span></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Codes à utiliser en haut du fichier du livre de quiz</text:span><text:span text:style-name="T23"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T10"><text:span text:style-name="T22"><text:line-break/></text:span><text:span text:style-name="T10">In Scripture App Builder, you add quiz files as you do with other kinds of books on the </text:span><text:span text:style-name="T12">Books </text:span><text:span text:style-name="T10">page. Click </text:span><text:span text:style-name="T12">Add Book... </text:span><text:span text:style-name="T10">and select the file. If you correctly put the </text:span><text:span text:style-name="T11">\quiz</text:span><text:span text:style-name="T10"> marker in the book file (see below), the book type should automatically be set to </text:span><text:span text:style-name="T11">Quiz.</text:span><text:span text:style-name="T10"><text:line-break/></text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Codes to use at the top of the quiz book file</text:span><text:span text:style-name="T23"/></text:p>
    <text:p text:style-name="P19" loext:marker-style-name="T25"><text:soft-page-break/></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T42"><text:span text:style-name="T28">\id </text:span><text:span text:style-name="T29">abc </text:span><text:span text:style-name="T42">quiz ID</text:span></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T42"><text:span text:style-name="T28">\quiz </text:span><text:span text:style-name="T42">Spécifiez que ce fichier est un quiz</text:span></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T42"><text:span text:style-name="T28">\id </text:span><text:span text:style-name="T29">abc </text:span><text:span text:style-name="T42">Quiz ID</text:span></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T42"><text:span text:style-name="T28">\quiz </text:span><text:span text:style-name="T42">Specify that this file is a quiz</text:span></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T42"><text:span text:style-name="T28">\qn</text:span><text:span text:style-name="T30"> xyz</text:span><text:span text:style-name="T42"> Quiz Name</text:span></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T31"><text:span text:style-name="T28">\qs </text:span><text:span text:style-name="T29">hjk </text:span><text:span text:style-name="T42">Nom court ou abréviation</text:span></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T31"><text:span text:style-name="T28">\qs </text:span><text:span text:style-name="T29">hjk </text:span><text:span text:style-name="T42">Short name or abbreviation</text:span></text:p>
    <text:p text:style-name="P21" loext:marker-style-name="T26"/>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T24"><text:span text:style-name="T24">Exemple 1</text:span><text:span text:style-name="T24"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T24"><text:span text:style-name="T24">Example 1</text:span><text:span text:style-name="T24"/></text:p>
    <text:p text:style-name="P22" loext:marker-style-name="T27"><text:s/></text:p>
    <text:p text:style-name="P35" loext:marker-style-name="T32"><text:soft-page-break/><text:span text:style-name="T33">\id </text:span><text:span text:style-name="T32">QUIZ1</text:span></text:p>
    <text:p text:style-name="P35" loext:marker-style-name="T33"><text:span text:style-name="T33">\quiz</text:span><text:span text:style-name="T33"/></text:p>
-   <text:p text:style-name="P35" loext:marker-style-name="T32"><text:span text:style-name="T33">\qn </text:span><text:span text:style-name="T32">Quiz sur le Mali</text:span></text:p>
+   <text:p text:style-name="P35" loext:marker-style-name="T32"><text:span text:style-name="T33">\qn </text:span><text:span text:style-name="T32">Quiz on Mali</text:span></text:p>
    <text:p text:style-name="P35" loext:marker-style-name="T33"><text:span text:style-name="T33">\qs </text:span><text:span text:style-name="T32">Mali</text:span></text:p>
    <text:p text:style-name="P22" loext:marker-style-name="T27"/>
    <text:p text:style-name="P23" loext:marker-style-name="T32"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T24"><text:span text:style-name="T24">Exemple 2</text:span><text:span text:style-name="T24"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T24"><text:span text:style-name="T24">Example 2</text:span><text:span text:style-name="T24"/></text:p>
    <text:p text:style-name="P22" loext:marker-style-name="T27"/>
    <text:p text:style-name="P35" loext:marker-style-name="T32"><text:span text:style-name="T33">\id </text:span><text:span text:style-name="T32">Q123</text:span></text:p>
    <text:p text:style-name="P35" loext:marker-style-name="T33"><text:soft-page-break/><text:span text:style-name="T33">\quiz</text:span><text:span text:style-name="T33"/></text:p>
-   <text:p text:style-name="P35" loext:marker-style-name="T30"><text:span text:style-name="T28">\qn </text:span><text:span text:style-name="T30">Les villes du monde</text:span></text:p>
-   <text:p text:style-name="P35" loext:marker-style-name="T28"><text:span text:style-name="T28">\qs </text:span><text:span text:style-name="T30">Villes</text:span></text:p>
+   <text:p text:style-name="P35" loext:marker-style-name="T30"><text:span text:style-name="T28">\qn </text:span><text:span text:style-name="T30">The cities of the world</text:span></text:p>
+   <text:p text:style-name="P35" loext:marker-style-name="T28"><text:span text:style-name="T28">\qs </text:span><text:span text:style-name="T30">Cities</text:span></text:p>
    <text:p text:style-name="P19" loext:marker-style-name="T25"/>
    <text:p text:style-name="Standard"><text:bookmark-start text:name="_Toc89893447"/></text:p>
    <table:table table:name="Table1" table:style-name="Table1">
@@ -2679,16 +2679,16 @@ Description générée automatiquement</svg:desc>
     <table:table-column table:style-name="Table1.B"/>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P36" loext:marker-style-name="T43"><text:span text:style-name="T44">&lt;unk&gt;</text:span><text:span text:style-name="T43"> </text:span></text:p>
+      <text:p text:style-name="P36" loext:marker-style-name="T43"><text:span text:style-name="T44"></text:span><text:span text:style-name="T43"> </text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.B1" office:value-type="string">
-      <text:p text:style-name="P37" loext:marker-style-name="T45"><text:span text:style-name="T45">Notez que les identifiants ne doivent contenir que des lettres, des chiffres et des tirets bas. N&apos;utilisez pas un identifiant identique à n&apos;importe quel autre livre dans votre application, ou un identifiant réservé du livre biblique. Voir </text:span><text:a xlink:type="simple" xlink:href="https://ubsicap.github.io/usfm/v3.0.0/identification/books.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T45">Identificateurs de livre — Documentation</text:span></text:span></text:a></text:p>
+      <text:p text:style-name="P37" loext:marker-style-name="T45"><text:span text:style-name="T45">Note that ids must only contain letters, numbers and underscores. Do not use an id that is the same as any other book in your app, or is a reserved Scripture book id. See </text:span><text:a xlink:type="simple" xlink:href="https://ubsicap.github.io/usfm/v3.0.0/identification/books.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T45">Book Identifiers — Unified Standard Formal Markers 3.0.0 documentation</text:span></text:span></text:a></text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:h text:style-name="P4" text:outline-level="1"><text:bookmark-start text:name="_Toc231996895"/>Questions et réponses en mots<text:bookmark-end text:name="_Toc231996895"/><text:bookmark-end text:name="_Toc89893447"/> </text:h>
+   <text:h text:style-name="P4" text:outline-level="1"><text:bookmark-start text:name="_Toc231996895"/>Questions and answers in words<text:bookmark-end text:name="_Toc231996895"/><text:bookmark-end text:name="_Toc89893447"/> </text:h>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P38" loext:marker-style-name="T7"><text:span text:style-name="T7">Les questions les plus faciles à écrire ont une question en mots suivis de quelques réponses en mots. Vous devez fournir une bonne réponse et une ou plusieurs mauvaises réponses. L&apos;ordre des réponses sera automatiquement mélangé dans l&apos;application. Vous pouvez avoir deux réponses, comme &quot;Vrai&quot; et &quot;Faux&quot;, ou trois ou quatre réponses, ou encore plus selon la question.</text:span><text:span text:style-name="T7"/></text:p>
+   <text:p text:style-name="P38" loext:marker-style-name="T7"><text:span text:style-name="T7">The easiest questions to write have one question in words followed by a few answers in words. You need to provide one right answer and one or more wrong answers. The order of the answers will be automatically mixed up in the app. You can have two answers, like &quot;True&quot; and &quot;False&quot;, or three or four answers, or even more depending on the question.</text:span><text:span text:style-name="T7"/></text:p>
    <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Picture 1" text:anchor-type="as-char" svg:width="3.1201in" svg:height="2.9898in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAU4AAAFACAYAAADTWZUZAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAC4/SURBVHhe7d0HeBTV3gbwd9OFAAkg
@@ -2914,30 +2914,30 @@ Description générée automatiquement</svg:desc>
        AAAAAElFTkSuQmCC
       </office:binary-data>
      </draw:image>
-     <svg:desc>Interface utilisateur graphique, graphique
+     <svg:desc>Graphical user interface, chart
 
-Description générée automatiquement avec la confiance moyenne</svg:desc>
+Description automatically generated with medium confidence</svg:desc>
     </draw:frame></text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Codes pour utiliser</text:span><text:span text:style-name="T23"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Codes to use</text:span><text:span text:style-name="T23"/></text:p>
    <text:p text:style-name="P19" loext:marker-style-name="T25"/>
-   <text:p text:style-name="P34" loext:marker-style-name="T28"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T42">Question</text:span></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\ar </text:span><text:span text:style-name="T30">xyz </text:span><text:span text:style-name="T42">Réponse droite (une = “réponse”, r = &quot;droite&quot;)</text:span></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T42"><text:soft-page-break/><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">xyz </text:span><text:span text:style-name="T42">Mauvaise réponse (une = « réponse », w = « mauvaise »)</text:span></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T28"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T29">abc </text:span><text:span text:style-name="T42">Question</text:span></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\ar </text:span><text:span text:style-name="T30">xyz </text:span><text:span text:style-name="T42">Right answer (a = “answer”, r = &quot;right&quot;)</text:span></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T42"><text:soft-page-break/><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">xyz </text:span><text:span text:style-name="T42">Wrong answer (a = “answer”, w = &quot;wrong&quot;)</text:span></text:p>
    <text:p text:style-name="P21" loext:marker-style-name="T26"/>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Exemple </text:span><text:span text:style-name="T23"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Example </text:span><text:span text:style-name="T23"/></text:p>
    <text:p text:style-name="P19" loext:marker-style-name="T25"/>
-   <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T30">Qu&apos;est-ce que la capitale du Mali?</text:span></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T30">What is the capital city of Mali?</text:span></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\ar </text:span><text:span text:style-name="T30">Bamako</text:span></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">Abidjan</text:span></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">Ouagadougou</text:span></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T30"><text:soft-page-break/><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">Dakar</text:span></text:p>
    <text:p text:style-name="P24" loext:marker-style-name="T34"/>
-   <text:h text:style-name="P4" text:outline-level="1"><text:bookmark-start text:name="_Toc89893448"/><text:bookmark-start text:name="_Toc231996896"/>Question avec image et réponses en mots<text:bookmark-end text:name="_Toc89893448"/><text:bookmark-end text:name="_Toc231996896"/> </text:h>
+   <text:h text:style-name="P4" text:outline-level="1"><text:bookmark-start text:name="_Toc231996896"/><text:bookmark-start text:name="_Toc89893448"/>Question with picture, and answers in words<text:bookmark-end text:name="_Toc231996896"/><text:bookmark-end text:name="_Toc89893448"/> </text:h>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T7"><text:span text:style-name="T7">Nous avons ici une question avec une image et un texte, et les réponses sont en paroles.</text:span><text:span text:style-name="T7"/></text:p>
-   <text:p text:style-name="P38" loext:marker-style-name="T7"><text:span text:style-name="T7">En </text:span><text:span text:style-name="T10">Écriture </text:span><text:span text:style-name="T7">Créateur d&apos;applications, vous devez mettre l&apos;image (un fichier JPG ou PNG) dans l&apos;onglet </text:span><text:span text:style-name="T15">Illustrations </text:span><text:span text:style-name="T7">pour le livre du quiz.</text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T7"><text:span text:style-name="T7">Here we have a question with an image and text, and the answers are in words.</text:span><text:span text:style-name="T7"/></text:p>
+   <text:p text:style-name="P38" loext:marker-style-name="T7"><text:span text:style-name="T7">In </text:span><text:span text:style-name="T10">Scripture </text:span><text:span text:style-name="T7">App Builder, you need to put the image (a JPG or PNG file) in the </text:span><text:span text:style-name="T15">Illustrations </text:span><text:span text:style-name="T7">tab for the quiz book.</text:span></text:p>
    <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Picture 6" text:anchor-type="as-char" svg:width="2.8126in" svg:height="3.3543in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAUcAAAGGCAYAAADo/UN6AAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAP+lSURBVHhe7P0JkLVNdtcHZu37XvWu
@@ -4356,28 +4356,28 @@ Description générée automatiquement avec la confiance moyenne</svg:desc>
        xwoQ+f9Dxwf/mEcvlwAAAABJRU5ErkJggg==
       </office:binary-data>
      </draw:image>
-     <svg:desc>Interface utilisateur graphique
+     <svg:desc>Graphical user interface
 
-Description générée automatiquement</svg:desc>
+Description automatically generated</svg:desc>
     </draw:frame><text:line-break/></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Codes pour utiliser</text:span><text:span text:style-name="T23"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Codes to use</text:span><text:span text:style-name="T23"/></text:p>
    <text:p text:style-name="P26" loext:marker-style-name="T35"/>
-   <text:p text:style-name="P34" loext:marker-style-name="T42"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T29">abc </text:span><text:span text:style-name="T42">Question en mots</text:span></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T42"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T30">qq.jpg </text:span><text:span text:style-name="T42">Image à afficher dans la question (un fichier JPG ou PNG)</text:span></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T42"><text:soft-page-break/><text:span text:style-name="T28">\ar </text:span><text:span text:style-name="T30">xyz </text:span><text:span text:style-name="T42">Réponse droite</text:span></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T36"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">xyz </text:span><text:span text:style-name="T42">Mauvaise réponse</text:span><text:span text:style-name="T9"><text:line-break/></text:span></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23"><text:line-break/>Exemple </text:span><text:span text:style-name="T23"/></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T42"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T29">abc </text:span><text:span text:style-name="T42">Question in words</text:span></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T42"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T30">qqq.jpg </text:span><text:span text:style-name="T42">Image to be displayed in the question (a JPG or PNG filename)</text:span></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T42"><text:soft-page-break/><text:span text:style-name="T28">\ar </text:span><text:span text:style-name="T30">xyz </text:span><text:span text:style-name="T42">Right answer</text:span></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T36"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">xyz </text:span><text:span text:style-name="T42">Wrong answer</text:span><text:span text:style-name="T9"><text:line-break/></text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23"><text:line-break/>Example </text:span><text:span text:style-name="T23"/></text:p>
    <text:p text:style-name="P26" loext:marker-style-name="T35"/>
-   <text:p text:style-name="P39" loext:marker-style-name="T30"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T30">Quelle est la ville ?</text:span></text:p>
+   <text:p text:style-name="P39" loext:marker-style-name="T30"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T30">Which city is this?</text:span></text:p>
    <text:p text:style-name="P39" loext:marker-style-name="T28"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T30">city.jpg</text:span></text:p>
-   <text:p text:style-name="P39" loext:marker-style-name="T30"><text:span text:style-name="T28">\ar </text:span><text:span text:style-name="T30">Londres</text:span></text:p>
+   <text:p text:style-name="P39" loext:marker-style-name="T30"><text:span text:style-name="T28">\ar </text:span><text:span text:style-name="T30">London</text:span></text:p>
    <text:p text:style-name="P39" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">Paris</text:span></text:p>
    <text:p text:style-name="P39" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">New York</text:span></text:p>
    <text:p text:style-name="P39" loext:marker-style-name="T30"><text:soft-page-break/><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">Sydney</text:span></text:p>
    <text:p text:style-name="P24" loext:marker-style-name="T34"/>
-   <text:h text:style-name="P4" text:outline-level="1"><text:bookmark-start text:name="_Toc89893449"/><text:bookmark-start text:name="_Toc231996897"/>Question en mots, et réponses en images<text:bookmark-end text:name="_Toc89893449"/><text:bookmark-end text:name="_Toc231996897"/> </text:h>
+   <text:h text:style-name="P4" text:outline-level="1"><text:bookmark-start text:name="_Toc231996897"/><text:bookmark-start text:name="_Toc89893449"/>Question in words, and answers in pictures<text:bookmark-end text:name="_Toc231996897"/><text:bookmark-end text:name="_Toc89893449"/> </text:h>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P38" loext:marker-style-name="T7"><text:span text:style-name="T7">Nous avons ici une question en mots, et les réponses sont des images.</text:span><text:span text:style-name="T7"/></text:p>
+   <text:p text:style-name="P38" loext:marker-style-name="T7"><text:span text:style-name="T7">Here we have a question in words, and the answers are pictures.</text:span><text:span text:style-name="T7"/></text:p>
    <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Picture 8" text:anchor-type="as-char" svg:width="3.4583in" svg:height="3.8654in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAUwAAAFzCAYAAABVQjAnAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAP+lSURBVHhe7P0HeCxJdt+JHrhCoVAF
@@ -6701,30 +6701,30 @@ Description générée automatiquement</svg:desc>
        5l2ZiP8PXCC1db3Q88kAAAAASUVORK5CYII=
       </office:binary-data>
      </draw:image>
-     <svg:desc>Une image contenant du texte, différent, varié, éléments
+     <svg:desc>A picture containing text, different, various, items
 
-Description générée automatiquement</svg:desc>
+Description automatically generated</svg:desc>
     </draw:frame></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Codes pour utiliser</text:span><text:span text:style-name="T23"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Codes to use</text:span><text:span text:style-name="T23"/></text:p>
    <text:p text:style-name="P27" loext:marker-style-name="T36"/>
    <text:p text:style-name="P34" loext:marker-style-name="T46"><text:span text:style-name="T28">\qu</text:span><text:span text:style-name="T30"> </text:span><text:span text:style-name="T29">abc </text:span><text:span text:style-name="T42">Question in words</text:span></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T42"><text:span text:style-name="T28">\ar </text:span><text:span text:style-name="T29">xyz.jpg </text:span><text:span text:style-name="T42">Réponse droite - Fichier image (JPG ou PNG)</text:span></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T42"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T29">xyz.jpg </text:span><text:span text:style-name="T42">Mauvaise réponse - fichier image (JPG ou PNG)</text:span></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T42"><text:span text:style-name="T28">\ar </text:span><text:span text:style-name="T29">xyz.jpg </text:span><text:span text:style-name="T42">Right answer - image file (JPG or PNG)</text:span></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T42"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T29">xyz.jpg </text:span><text:span text:style-name="T42">Wrong answer - image file (JPG or PNG)</text:span></text:p>
    <text:p text:style-name="P28" loext:marker-style-name="T37"><text:soft-page-break/></text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Exemple </text:span><text:span text:style-name="T23"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Example </text:span><text:span text:style-name="T23"/></text:p>
    <text:p text:style-name="P19" loext:marker-style-name="T25"/>
-   <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T30">Quelle photo a été prise à Bamako, Mali?</text:span></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T30">Which photo was taken in Bamako, Mali?</text:span></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">dakar.jpg</text:span></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">abidjan.jpg</text:span></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">ouaga.jpg</text:span></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\ar </text:span><text:span text:style-name="T30">bamako.jpg</text:span></text:p>
    <text:p text:style-name="P29" loext:marker-style-name="T38"><text:soft-page-break/></text:p>
    <text:p text:style-name="P16" loext:marker-style-name="T6"/>
-   <text:h text:style-name="P5" text:outline-level="1"><text:bookmark-start text:name="_Toc89893450"/><text:bookmark-start text:name="_Toc231996898"/>Question et réponse en mots, avec audio<text:bookmark-end text:name="_Toc89893450"/><text:bookmark-end text:name="_Toc231996898"/> </text:h>
+   <text:h text:style-name="P5" text:outline-level="1"><text:bookmark-start text:name="_Toc231996898"/><text:bookmark-start text:name="_Toc89893450"/>Question and answer in words, with audio<text:bookmark-end text:name="_Toc231996898"/><text:bookmark-end text:name="_Toc89893450"/> </text:h>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T7"><text:span text:style-name="T7">Vous pouvez fournir un enregistrement audio pour la question et pour chaque réponse. L&apos;enregistrement peut être fait dans un programme comme Audacity (</text:span><text:a xlink:type="simple" xlink:href="https://www.audacityteam.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T7">https://www.audacityteam.org</text:span></text:span></text:a><text:span text:style-name="T7">). Utilisez </text:span><text:span text:style-name="T15">Fichier</text:span><text:span text:style-name="T7"> &gt; </text:span><text:span text:style-name="T15">Exporter</text:span><text:span text:style-name="T7"> &gt; </text:span><text:span text:style-name="T15">Exporter l&apos;audio sélectionné</text:span><text:span text:style-name="T7">.</text:span></text:p>
-   <text:p text:style-name="P38" loext:marker-style-name="T7"><text:span text:style-name="T7">En </text:span><text:span text:style-name="T10">Écriture </text:span><text:span text:style-name="T7">Créateur d&apos;applications, vous devez mettre le clip audio (fichier MP3) dans l&apos;onglet </text:span><text:span text:style-name="T15">Audio Clips </text:span><text:span text:style-name="T7">pour le livre du quiz.</text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T7"><text:span text:style-name="T7">You can provide an audio recording for the question and for each answer. The recording can be done in a program like Audacity (</text:span><text:a xlink:type="simple" xlink:href="https://www.audacityteam.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T7">https://www.audacityteam.org</text:span></text:span></text:a><text:span text:style-name="T7">). Use </text:span><text:span text:style-name="T15">File</text:span><text:span text:style-name="T7"> &gt; </text:span><text:span text:style-name="T15">Export</text:span><text:span text:style-name="T7"> &gt; </text:span><text:span text:style-name="T15">Export Selected Audio</text:span><text:span text:style-name="T7">.</text:span></text:p>
+   <text:p text:style-name="P38" loext:marker-style-name="T7"><text:span text:style-name="T7">In </text:span><text:span text:style-name="T10">Scripture </text:span><text:span text:style-name="T7">App Builder, you need to put the audio clip (MP3 file) in the </text:span><text:span text:style-name="T15">Audio Clips </text:span><text:span text:style-name="T7">tab for the quiz book.</text:span></text:p>
    <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Picture 10" text:anchor-type="as-char" svg:width="2.2398in" svg:height="2.1457in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAU4AAAFACAYAAADTWZUZAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAC4/SURBVHhe7d0HeBTV3gbwd9OFAAkg
@@ -6950,24 +6950,24 @@ Description générée automatiquement</svg:desc>
        AAAAAElFTkSuQmCC
       </office:binary-data>
      </draw:image>
-     <svg:desc>Interface utilisateur graphique, graphique
+     <svg:desc>Graphical user interface, chart
 
-Description générée automatiquement avec la confiance moyenne</svg:desc>
+Description automatically generated with medium confidence</svg:desc>
     </draw:frame></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Codes pour utiliser</text:span><text:span text:style-name="T23"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Codes to use</text:span><text:span text:style-name="T23"/></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T38"/>
-   <text:p text:style-name="P40" loext:marker-style-name="T42"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T42">Question</text:span></text:p>
-   <text:p text:style-name="P40" loext:marker-style-name="T42"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T29">abc.mp3 </text:span><text:span text:style-name="T42">Enregistrement audio de la question (fichier audio MP3)</text:span></text:p>
-   <text:p text:style-name="P40" loext:marker-style-name="T42"><text:soft-page-break/><text:span text:style-name="T28">\ar </text:span><text:span text:style-name="T30">xyz </text:span><text:span text:style-name="T42">Réponse droite</text:span></text:p>
-   <text:p text:style-name="P40" loext:marker-style-name="T42"><text:span text:style-name="T28">\ar </text:span><text:span text:style-name="T29">xyz.mp3 </text:span><text:span text:style-name="T42">Enregistrement audio de la bonne réponse (fichier audio MP3)</text:span></text:p>
-   <text:p text:style-name="P40" loext:marker-style-name="T42"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">xyz </text:span><text:span text:style-name="T42">Mauvaise réponse</text:span></text:p>
-   <text:p text:style-name="P40" loext:marker-style-name="T42"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T29">xyz.mp3 </text:span><text:span text:style-name="T42">Enregistrement audio de la mauvaise réponse (fichier audio MP3)</text:span></text:p>
+   <text:p text:style-name="P40" loext:marker-style-name="T42"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T29">abc </text:span><text:span text:style-name="T42">Question</text:span></text:p>
+   <text:p text:style-name="P40" loext:marker-style-name="T42"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T29">abc.mp3 </text:span><text:span text:style-name="T42">Audio recording of the question (MP3 audio file)</text:span></text:p>
+   <text:p text:style-name="P40" loext:marker-style-name="T42"><text:soft-page-break/><text:span text:style-name="T28">\ar </text:span><text:span text:style-name="T30">xyz </text:span><text:span text:style-name="T42">Right answer</text:span></text:p>
+   <text:p text:style-name="P40" loext:marker-style-name="T42"><text:span text:style-name="T28">\ar </text:span><text:span text:style-name="T29">xyz.mp3 </text:span><text:span text:style-name="T42">Audio recording of the right answer (MP3 audio file)</text:span></text:p>
+   <text:p text:style-name="P40" loext:marker-style-name="T42"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">xyz </text:span><text:span text:style-name="T42">Wrong answer</text:span></text:p>
+   <text:p text:style-name="P40" loext:marker-style-name="T42"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T29">xyz.mp3 </text:span><text:span text:style-name="T42">Audio recording of the wrong answer (MP3 audio file)</text:span></text:p>
    <text:p text:style-name="P31" loext:marker-style-name="T39"/>
    <text:p text:style-name="P41" loext:marker-style-name="T47"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Exemple </text:span><text:span text:style-name="T23"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Example </text:span><text:span text:style-name="T23"/></text:p>
    <text:p text:style-name="P25" loext:marker-style-name="T34"/>
-   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T30">Qu&apos;est-ce que la capitale du Mali ?</text:span></text:p>
-   <text:p text:style-name="P40" loext:marker-style-name="T32"><text:soft-page-break/><text:span text:style-name="T33">\qu </text:span><text:span text:style-name="T32">majuscule-question.mp3</text:span></text:p>
+   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T30">What is the capital city of Mali?</text:span></text:p>
+   <text:p text:style-name="P40" loext:marker-style-name="T32"><text:soft-page-break/><text:span text:style-name="T33">\qu </text:span><text:span text:style-name="T32">capital-question.mp3</text:span></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T32"><text:span text:style-name="T33">\ar </text:span><text:span text:style-name="T32">Bamako</text:span></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ar </text:span><text:span text:style-name="T30">bamako.mp3</text:span></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">Abidjan</text:span></text:p>
@@ -6977,9 +6977,9 @@ Description générée automatiquement avec la confiance moyenne</svg:desc>
    <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">Dakar</text:span></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">dakar.mp3</text:span></text:p>
    <text:p text:style-name="P19" loext:marker-style-name="T25"><text:soft-page-break/></text:p>
-   <text:h text:style-name="P4" text:outline-level="1"><text:bookmark-start text:name="_Toc89893451"/><text:bookmark-start text:name="_Toc231996899"/>Question et réponse en mots, avec des explications<text:bookmark-end text:name="_Toc89893451"/><text:bookmark-end text:name="_Toc231996899"/> </text:h>
+   <text:h text:style-name="P4" text:outline-level="1"><text:bookmark-start text:name="_Toc231996899"/><text:bookmark-start text:name="_Toc89893451"/>Question and answer in words, with explanations<text:bookmark-end text:name="_Toc231996899"/><text:bookmark-end text:name="_Toc89893451"/> </text:h>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T7"><text:span text:style-name="T7">Vous pouvez donner une explication à l&apos;utilisateur après avoir sélectionné une réponse, les aider à comprendre pourquoi c&apos;est la bonne ou la mauvaise réponse.</text:span><text:span text:style-name="T7"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T7"><text:span text:style-name="T7">You can give an explanation to the user after they select an answer, helping them to see why it is the right or the wrong answer.</text:span><text:span text:style-name="T7"/></text:p>
    <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Picture 11" text:anchor-type="as-char" svg:width="2.8854in" svg:height="2.8252in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAU0AAAFGCAYAAADuN80HAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAACn6SURBVHhe7d0HfBPl/wfwT9rSFmih
@@ -7184,118 +7184,118 @@ Description générée automatiquement avec la confiance moyenne</svg:desc>
        gKFJRKSAoUlEpIChSUSkgKFJRKSAoUlEpIChSURkG/D/BKuDgbEaAyEAAAAASUVORK5CYII=
       </office:binary-data>
      </draw:image>
-     <svg:desc>Graphique
+     <svg:desc>Chart
 
-Description générée automatiquement</svg:desc>
+Description automatically generated</svg:desc>
     </draw:frame></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Codes pour utiliser</text:span><text:span text:style-name="T23"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Codes to use</text:span><text:span text:style-name="T23"/></text:p>
    <text:p text:style-name="P32" loext:marker-style-name="T40"/>
-   <text:p text:style-name="P34" loext:marker-style-name="T42"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T42">Question</text:span></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T42"><text:span text:style-name="T28">\ar </text:span><text:span text:style-name="T30">xyz </text:span><text:span text:style-name="T42">Réponse droite</text:span></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T42"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T29">abc </text:span><text:span text:style-name="T42">Question</text:span></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T42"><text:span text:style-name="T28">\ar </text:span><text:span text:style-name="T30">xyz </text:span><text:span text:style-name="T42">Right answer</text:span></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T29">hjk </text:span><text:span text:style-name="T42">Explanation - why the answer is right</text:span></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T30"><text:soft-page-break/><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">xyz </text:span><text:span text:style-name="T42">Mauvaise réponse</text:span></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T29">hjk </text:span><text:span text:style-name="T42">Explication - pourquoi la réponse n&apos;est pas la bonne</text:span></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T30"><text:soft-page-break/><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">xyz </text:span><text:span text:style-name="T42">Wrong answer</text:span></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T29">hjk </text:span><text:span text:style-name="T42">Explanation - why the answer is not right</text:span></text:p>
    <text:p text:style-name="P33" loext:marker-style-name="T41"/>
    <text:p text:style-name="P42" loext:marker-style-name="T48"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Exemple </text:span><text:span text:style-name="T23"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Example </text:span><text:span text:style-name="T23"/></text:p>
    <text:p text:style-name="P32" loext:marker-style-name="T40"/>
-   <text:p text:style-name="P43" loext:marker-style-name="T30"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T30">Dans la Bible, qui était le père de Jacob ?</text:span></text:p>
+   <text:p text:style-name="P43" loext:marker-style-name="T30"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T30">In the Bible, who was Jacob&apos;s father?</text:span></text:p>
    <text:p text:style-name="P43" loext:marker-style-name="T30"><text:span text:style-name="T28">\ar </text:span><text:span text:style-name="T30">Issac</text:span></text:p>
-   <text:p text:style-name="P43" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T30">Oui, Isaac était le père de Jacob et Ésaü.</text:span></text:p>
+   <text:p text:style-name="P43" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T30">Yes, Isaac was the father of Jacob and Esau.</text:span></text:p>
    <text:p text:style-name="P43" loext:marker-style-name="T30"><text:soft-page-break/><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">Abraham</text:span></text:p>
-   <text:p text:style-name="P43" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T30">Non, c&apos;était Isaac. Abraham était le grand-père de Jacob.</text:span></text:p>
+   <text:p text:style-name="P43" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T30">No, it was Isaac. Abraham was Jacob&apos;s grandfather.</text:span></text:p>
    <text:p text:style-name="P43" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">Joseph</text:span></text:p>
-   <text:p text:style-name="P43" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T30">Non, c&apos;était Isaac. Joseph était l&apos;un des fils de Jacob.</text:span></text:p>
+   <text:p text:style-name="P43" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T30">No, it was Isaac. Joseph was one of Jacob&apos;s sons.</text:span></text:p>
    <text:p text:style-name="P43" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">Esau</text:span></text:p>
-   <text:p text:style-name="P43" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T30">Non, c&apos;était Isaac. Ésaü était le frère de Jacob.</text:span></text:p>
+   <text:p text:style-name="P43" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T30">No, it was Isaac. Esau was Jacob&apos;s brother.</text:span></text:p>
    <text:p text:style-name="P19" loext:marker-style-name="T25"/>
-   <text:h text:style-name="P4" text:outline-level="1"><text:bookmark-start text:name="_Toc89893452"/><text:bookmark-start text:name="_Toc231996900"/>Question et réponse en mots, avec explications et audio<text:bookmark-end text:name="_Toc89893452"/><text:bookmark-end text:name="_Toc231996900"/> </text:h>
+   <text:h text:style-name="P4" text:outline-level="1"><text:bookmark-start text:name="_Toc231996900"/><text:bookmark-start text:name="_Toc89893452"/>Question and answer in words, with explanations and audio<text:bookmark-end text:name="_Toc231996900"/><text:bookmark-end text:name="_Toc89893452"/> </text:h>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T7"><text:span text:style-name="T7">Il est possible de donner les explications en audio.<text:line-break/></text:span><text:span text:style-name="T7"/></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Codes pour utiliser</text:span><text:span text:style-name="T23"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T7"><text:span text:style-name="T7">It is possible to give the explanations in audio.<text:line-break/></text:span><text:span text:style-name="T7"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Codes to use</text:span><text:span text:style-name="T23"/></text:p>
    <text:p text:style-name="P29" loext:marker-style-name="T38"/>
-   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T42">Question</text:span></text:p>
-   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T29">abc.mp3 </text:span><text:span text:style-name="T42">Enregistrement audio de la question (mp3)</text:span></text:p>
-   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ar </text:span><text:span text:style-name="T30">xyz </text:span><text:span text:style-name="T42">Réponse droite</text:span></text:p>
-   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T29">xyz.mp3 </text:span><text:span text:style-name="T42">Enregistrement audio de la réponse (mp3)</text:span></text:p>
+   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T29">abc </text:span><text:span text:style-name="T42">Question</text:span></text:p>
+   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T29">abc.mp3 </text:span><text:span text:style-name="T42">Audio recording of the question (mp3)</text:span></text:p>
+   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ar </text:span><text:span text:style-name="T30">xyz </text:span><text:span text:style-name="T42">Right answer</text:span></text:p>
+   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T29">xyz.mp3 </text:span><text:span text:style-name="T42">Audio recording of the answer (mp3)</text:span></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T30"><text:soft-page-break/><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T29">hjk </text:span><text:span text:style-name="T42">Explanation - why the answer is right</text:span></text:p>
-   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T29">hjk.mp3 </text:span><text:span text:style-name="T42">Explication - fichier audio (mp3)</text:span></text:p>
-   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">xyz </text:span><text:span text:style-name="T42">Mauvaise réponse</text:span></text:p>
-   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T29">xyz.mp3 </text:span><text:span text:style-name="T42">Enregistrement audio de la réponse (mp3)</text:span></text:p>
-   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T29">hjk </text:span><text:span text:style-name="T42">Explication - pourquoi la réponse n&apos;est pas la bonne</text:span></text:p>
-   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T29">hjk.mp3 </text:span><text:span text:style-name="T42">Explication - fichier audio (mp3)</text:span><text:span text:style-name="T30"><text:line-break/></text:span></text:p>
+   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T29">hjk.mp3 </text:span><text:span text:style-name="T42">Explanation - audio file (mp3)</text:span></text:p>
+   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">xyz </text:span><text:span text:style-name="T42">Wrong answer</text:span></text:p>
+   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T29">xyz.mp3 </text:span><text:span text:style-name="T42">Audio recording of the answer (mp3)</text:span></text:p>
+   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T29">hjk </text:span><text:span text:style-name="T42">Explanation - why the answer is not right</text:span></text:p>
+   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T29">hjk.mp3 </text:span><text:span text:style-name="T42">Explanation - audio file (mp3)</text:span><text:span text:style-name="T30"><text:line-break/></text:span></text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Exemple </text:span><text:span text:style-name="T23"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Example </text:span><text:span text:style-name="T23"/></text:p>
    <text:p text:style-name="P26" loext:marker-style-name="T35"><text:s/></text:p>
-   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:soft-page-break/><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T30">Dans la Bible, qui était le père de Jacob ?</text:span></text:p>
+   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:soft-page-break/><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T30">In the Bible, who was Jacob&apos;s father?</text:span></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\qu </text:span><text:span text:style-name="T30">question-jacob-father.mp3</text:span></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ar </text:span><text:span text:style-name="T30">Issac</text:span></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ar </text:span><text:span text:style-name="T30">isaac.mp3</text:span></text:p>
-   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T30">Oui, Isaac était le père de Jacob et Ésaü.</text:span></text:p>
+   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T30">Yes, Isaac was the father of Jacob and Esau.</text:span></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T30">expl-isaac.mp3</text:span></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">Abraham</text:span></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">Abraham.mp3</text:span></text:p>
-   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T30">Non, c&apos;était Isaac. Abraham était le grand-père de Jacob.</text:span></text:p>
+   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T30">No, it was Isaac. Abraham was Jacob&apos;s grandfather.</text:span></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T30"><text:soft-page-break/><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T30">expl-abraham.mp3</text:span></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">Joseph</text:span></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">joseph.mp3</text:span></text:p>
-   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T30">Non, c&apos;était Isaac. Joseph était l&apos;un des fils de Jacob.</text:span></text:p>
+   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T30">No, it was Isaac. Joseph was one of Jacob&apos;s sons.</text:span></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T30">expl-joseph.mp3</text:span></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">Esau</text:span></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">esau.mp3</text:span></text:p>
-   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T30">Non, c&apos;était Isaac. Ésaü était le frère de Jacob.</text:span></text:p>
+   <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T30">No, it was Isaac. Esau was Jacob&apos;s brother.</text:span></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T30">expl-esau.mp3</text:span></text:p>
    <text:p text:style-name="P20" loext:marker-style-name="T25"><text:soft-page-break/></text:p>
-   <text:h text:style-name="P5" text:outline-level="1"><text:bookmark-start text:name="_Toc89893453"/><text:bookmark-start text:name="_Toc231996901"/>Effets sonores pour les bonnes et mauvaises réponses<text:bookmark-end text:name="_Toc89893453"/><text:bookmark-end text:name="_Toc231996901"/></text:h>
+   <text:h text:style-name="P5" text:outline-level="1"><text:bookmark-start text:name="_Toc231996901"/><text:bookmark-start text:name="_Toc89893453"/>Sound effects for right and wrong answers<text:bookmark-end text:name="_Toc231996901"/><text:bookmark-end text:name="_Toc89893453"/></text:h>
    <text:p text:style-name="P44" loext:marker-style-name="T20"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T7"><text:span text:style-name="T7">Après une bonne ou mauvaise réponse, il y a un effet sonore pour indiquer à l&apos;utilisateur si la réponse est bonne ou mauvaise. Vous pouvez modifier ces effets sonores. Vous devrez enregistrer vos réponses alternatives et/ou fausses sous forme de mp3s et les ajouter en deux endroits :</text:span><text:span text:style-name="T7"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T7"><text:span text:style-name="T7">After a right or wrong answer, there is a sound effect to indicate to the user whether the answer is right or wrong. You can change these sound effects. You will need to record your alternate right and/or wrong answers as mp3s and add them in two places:</text:span><text:span text:style-name="T7"/></text:p>
    <text:list text:style-name="WWNum3">
     <text:list-item>
      <text:p text:style-name="P7" loext:marker-style-name="T7"><text:span text:style-name="T7">As audio files under the quiz book file’s </text:span><text:span text:style-name="T14">Audio Clips</text:span><text:span text:style-name="T7"> tab (make sure your audio file source is correct for them).</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P7" loext:marker-style-name="T7"><text:span text:style-name="T7">En tant que champs dans le document réel du quiz (voir ci-dessous).</text:span><text:span text:style-name="T7"/></text:p>
+     <text:p text:style-name="P7" loext:marker-style-name="T7"><text:span text:style-name="T7">As fields in the actual quiz document (see below).</text:span><text:span text:style-name="T7"/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P45" loext:marker-style-name="T10"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Codes pour utiliser</text:span><text:span text:style-name="T23"/></text:p>
-   <text:p text:style-name="Standard">Mettre ces codes à la fin ou au début du fichier de quiz. Elles s&apos;appliquent à toutes les questions.</text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Codes to use</text:span><text:span text:style-name="T23"/></text:p>
+   <text:p text:style-name="Standard">Put these codes at the end or beginning of the quiz file. They apply to all questions.</text:p>
    <text:p text:style-name="P32" loext:marker-style-name="T40"/>
-   <text:p text:style-name="P34" loext:marker-style-name="T30"><text:soft-page-break/><text:span text:style-name="T28">\run </text:span><text:span text:style-name="T30">abc.mp3 </text:span><text:span text:style-name="T42">Effet sonore pour une bonne réponse</text:span></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\wa </text:span><text:span text:style-name="T30">hjk.mp3 </text:span><text:span text:style-name="T42">Effet sonore pour une mauvaise réponse</text:span></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T30"><text:soft-page-break/><text:span text:style-name="T28">\ra </text:span><text:span text:style-name="T30">abc.mp3 </text:span><text:span text:style-name="T42">Sound effect for a right answer</text:span></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\wa </text:span><text:span text:style-name="T30">hjk.mp3 </text:span><text:span text:style-name="T42">Sound effect for a wrong answer</text:span></text:p>
    <text:p text:style-name="P27" loext:marker-style-name="T36"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23"><text:line-break/>Exemple 1</text:span><text:span text:style-name="T23"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23"><text:line-break/>Example 1</text:span><text:span text:style-name="T23"/></text:p>
    <text:p text:style-name="P32" loext:marker-style-name="T40"/>
-   <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\run </text:span><text:span text:style-name="T30">bon.mp3 </text:span></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\ra </text:span><text:span text:style-name="T30">good.mp3 </text:span></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\wa </text:span><text:span text:style-name="T30">wrong.mp3<text:line-break/></text:span></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23"><text:line-break/>Exemple 2</text:span><text:span text:style-name="T23"/></text:p>
-   <text:p text:style-name="Standard">Vous pouvez donner plusieurs fichiers pour les bonnes et les mauvaises réponses. L’application choisira parmi eux pour chaque réponse.</text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23"><text:line-break/>Example 2</text:span><text:span text:style-name="T23"/></text:p>
+   <text:p text:style-name="Standard">You can give several files for the right and wrong answers. The application will choose among them for each answer.</text:p>
    <text:p text:style-name="P32" loext:marker-style-name="T40"><text:soft-page-break/></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T28"><text:span text:style-name="T28">\run </text:span><text:span text:style-name="T30">very-good.mp3</text:span></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\run </text:span><text:span text:style-name="T30">excellent.mp3</text:span></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\run </text:span><text:span text:style-name="T30">une bonne réponse.mp3</text:span></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\wa </text:span><text:span text:style-name="T30">désolé.mp3</text:span></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T28"><text:span text:style-name="T28">\ra </text:span><text:span text:style-name="T30">very-good.mp3</text:span></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\ra </text:span><text:span text:style-name="T30">excellent.mp3</text:span></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\ra </text:span><text:span text:style-name="T30">good-answer.mp3</text:span></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\wa </text:span><text:span text:style-name="T30">sorry.mp3</text:span></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\wa </text:span><text:span text:style-name="T30">incorrect.mp3</text:span></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\wa </text:span><text:span text:style-name="T30">not-good.mp3</text:span><text:span text:style-name="T29"><text:line-break/></text:span></text:p>
    <text:p text:style-name="P45" loext:marker-style-name="T10"/>
-   <text:h text:style-name="P4" text:outline-level="1" loext:marker-style-name="T20"><text:bookmark-start text:name="_Toc231996902"/><text:bookmark-start text:name="_GoBack"/><text:span text:style-name="T20">Configuration de votre quiz</text:span><text:bookmark-end text:name="_Toc231996902"/><text:span text:style-name="T20"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T10"><text:span text:style-name="T10">If you add your quiz book to your app project, and double check your Book Type is set to Quiz (</text:span><text:span text:style-name="T11">Books &gt; </text:span><text:span text:style-name="T13">Collection name</text:span><text:span text:style-name="T11"> &gt; </text:span><text:span text:style-name="T13">Quiz book name</text:span><text:span text:style-name="T11"> &gt; Book</text:span><text:span text:style-name="T10">), you should see an additional tab in your configuration area named </text:span><text:span text:style-name="T11">Quiz</text:span><text:span text:style-name="T10">. Cliquez sur cet onglet pour voir les options de configuration du quiz.</text:span></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T11"><text:span text:style-name="T11">Questions de quiz</text:span><text:span text:style-name="T11"/></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T10"><text:span text:style-name="T10">Vous pouvez choisir de faire mélanger l&apos;ordre de vos questions (aléatoire) chaque fois que l&apos;utilisateur accède au quiz, ou les avoir toujours présentés dans l&apos;ordre dans lequel ils apparaissent dans votre fichier de quiz.</text:span><text:span text:style-name="T10"/></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T11"><text:span text:style-name="T11">Passe au quiz Marque</text:span><text:span text:style-name="T11"/></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T10"><text:span text:style-name="T10">Vous pouvez choisir la « note de passe » pour ce quiz—le nombre de questions dont l&apos;utilisateur a besoin pour être correct pour marquer le quiz comme terminé. « Complétion» dans ce cas signifie que l&apos;utilisateur a réussi le quiz, débloquer un quiz dépendant (voir </text:span><text:span text:style-name="T11">Accès Quiz</text:span><text:span text:style-name="T10">).</text:span></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T10"><text:span text:style-name="T10">Vous pouvez choisir un pourcentage des questions ou un nombre réel de réponses correctes qu&apos;ils doivent obtenir.</text:span><text:span text:style-name="T10"/></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T11"><text:span text:style-name="T11">Accès au quiz</text:span><text:span text:style-name="T11"/></text:p>
+   <text:h text:style-name="P4" text:outline-level="1" loext:marker-style-name="T20"><text:bookmark-start text:name="_GoBack"/><text:bookmark-start text:name="_Toc231996902"/><text:span text:style-name="T20">Configuring Your Quiz</text:span><text:bookmark-end text:name="_Toc231996902"/><text:span text:style-name="T20"/></text:h>
+   <text:p text:style-name="Standard" loext:marker-style-name="T10"><text:span text:style-name="T10">If you add your quiz book to your app project, and double check your Book Type is set to Quiz (</text:span><text:span text:style-name="T11">Books &gt; </text:span><text:span text:style-name="T13">Collection name</text:span><text:span text:style-name="T11"> &gt; </text:span><text:span text:style-name="T13">Quiz book name</text:span><text:span text:style-name="T11"> &gt; Book</text:span><text:span text:style-name="T10">), you should see an additional tab in your configuration area named </text:span><text:span text:style-name="T11">Quiz</text:span><text:span text:style-name="T10">. Click on that tab to view the Quiz configuration options.</text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T11"><text:span text:style-name="T11">Quiz Questions</text:span><text:span text:style-name="T11"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T10"><text:span text:style-name="T10">You can choose to have the order of your set of questions shuffled (randomized) each time the user accesses the quiz, or have them always presented in the order they appear in your quiz file.</text:span><text:span text:style-name="T10"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T11"><text:span text:style-name="T11">Quiz Pass Mark</text:span><text:span text:style-name="T11"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T10"><text:span text:style-name="T10">You can choose the “pass mark” for this quiz—the number of questions the user needs to get correct to mark the quiz as completed. “Completion” in this case means that the user has successfully passed the quiz, unlocking any dependent quiz (see </text:span><text:span text:style-name="T11">Quiz Access</text:span><text:span text:style-name="T10">).</text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T10"><text:span text:style-name="T10">You can choose a percentage of the questions or an actual number of correct answers they must achieve.</text:span><text:span text:style-name="T10"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T11"><text:span text:style-name="T11">Quiz Access</text:span><text:span text:style-name="T11"/></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T10"><text:span text:style-name="T10">There are 3 options for setting the access a user has to a specific quiz:</text:span><text:span text:style-name="T10"/></text:p>
    <text:list text:style-name="WWNum4">
     <text:list-item>
      <text:p text:style-name="P8" loext:marker-style-name="T10"><text:soft-page-break/><text:span text:style-name="T11">At any time (no restrictions):</text:span><text:span text:style-name="T10"> the quiz is always available</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P8" loext:marker-style-name="T10"><text:span text:style-name="T11">After successfully answering a previous quiz:</text:span><text:span text:style-name="T10"> You can choose another quiz file from the drop-down list as a pre-requisite for the user to complete (according to the Quiz Pass Mark for that quiz). Le quiz affichera un message spécifiant quel quiz doit être terminé en premier.</text:span></text:p>
+     <text:p text:style-name="P8" loext:marker-style-name="T10"><text:span text:style-name="T11">After successfully answering a previous quiz:</text:span><text:span text:style-name="T10"> You can choose another quiz file from the drop-down list as a pre-requisite for the user to complete (according to the Quiz Pass Mark for that quiz). The quiz will display a message specifying which quiz needs to be completed first.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P8" loext:marker-style-name="T10"><text:span text:style-name="T11">Après avoir entré un code :</text:span><text:span text:style-name="T10"> spécifiez un code numérique que l&apos;utilisateur doit entrer. De cette façon, vous pouvez “débloquer” des quiz en envoyant le code à vos utilisateurs à un certain moment.</text:span><text:bookmark-end text:name="_GoBack"/></text:p>
+     <text:p text:style-name="P8" loext:marker-style-name="T10"><text:span text:style-name="T11">After entering a code:</text:span><text:span text:style-name="T10"> specify a numerical code that the user has to enter. In this way you can “unlock” quizzes by sending the code to your user(s) at a certain time.</text:span><text:bookmark-end text:name="_GoBack"/></text:p>
     </text:list-item>
    </text:list>
   </office:text>

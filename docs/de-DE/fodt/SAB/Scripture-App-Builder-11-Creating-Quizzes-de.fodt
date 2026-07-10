@@ -96,7 +96,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -120,7 +120,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1124330</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1306967</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -151,7 +151,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Calibri1" fo:font-size="11pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Calibri2" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Noto Sans Devanagari1" style:font-size-complex="11pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -2636,7 +2636,7 @@ Description automatically generated</svg:desc>
    </text:table-of-content>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="P15" loext:marker-style-name="T5"/>
-   <text:h text:style-name="P4" text:outline-level="1"><text:bookmark-start text:name="_Toc89893446"/><text:bookmark-start text:name="_Toc231996894"/>Quiz files<text:bookmark-end text:name="_Toc89893446"/><text:bookmark-end text:name="_Toc231996894"/> </text:h>
+   <text:h text:style-name="P4" text:outline-level="1"><text:bookmark-start text:name="_Toc231996894"/><text:bookmark-start text:name="_Toc89893446"/>Quiz files<text:bookmark-end text:name="_Toc231996894"/><text:bookmark-end text:name="_Toc89893446"/> </text:h>
    <text:p text:style-name="P18" loext:marker-style-name="T21"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T10"><text:span text:style-name="T10">Quizzes can form an important part of a Scripture Engagement or learning strategy, confirming whether users are understanding the material. Quizzes can be quite simple True/False or multiple choice sets of questions, or be slightly more complex with explanations to help users learn from their mistakes.</text:span><text:span text:style-name="T10"/></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T10"><text:span text:style-name="T10">Quizzes are developed using </text:span><text:span text:style-name="T12">text files </text:span><text:span text:style-name="T10">(.txt), created with a text editor such as </text:span><text:span text:style-name="T12">Notepad</text:span><text:span text:style-name="T10">. They follow the basic structure of other SFM (standard format marker) files used with Scripture App Builder. Do not use a word processor such as Word or LibreOffice to create them.</text:span></text:p>
@@ -2934,7 +2934,7 @@ Description automatically generated with medium confidence</svg:desc>
    <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">Ouagadougou</text:span></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T30"><text:soft-page-break/><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">Dakar</text:span></text:p>
    <text:p text:style-name="P24" loext:marker-style-name="T34"/>
-   <text:h text:style-name="P4" text:outline-level="1"><text:bookmark-start text:name="_Toc89893448"/><text:bookmark-start text:name="_Toc231996896"/>Question with picture, and answers in words<text:bookmark-end text:name="_Toc89893448"/><text:bookmark-end text:name="_Toc231996896"/> </text:h>
+   <text:h text:style-name="P4" text:outline-level="1"><text:bookmark-start text:name="_Toc231996896"/><text:bookmark-start text:name="_Toc89893448"/>Question with picture, and answers in words<text:bookmark-end text:name="_Toc231996896"/><text:bookmark-end text:name="_Toc89893448"/> </text:h>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T7"><text:span text:style-name="T7">Here we have a question with an image and text, and the answers are in words.</text:span><text:span text:style-name="T7"/></text:p>
    <text:p text:style-name="P38" loext:marker-style-name="T7"><text:span text:style-name="T7">In </text:span><text:span text:style-name="T10">Scripture </text:span><text:span text:style-name="T7">App Builder, you need to put the image (a JPG or PNG file) in the </text:span><text:span text:style-name="T15">Illustrations </text:span><text:span text:style-name="T7">tab for the quiz book.</text:span></text:p>
@@ -4375,7 +4375,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P39" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">New York</text:span></text:p>
    <text:p text:style-name="P39" loext:marker-style-name="T30"><text:soft-page-break/><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">Sydney</text:span></text:p>
    <text:p text:style-name="P24" loext:marker-style-name="T34"/>
-   <text:h text:style-name="P4" text:outline-level="1"><text:bookmark-start text:name="_Toc89893449"/><text:bookmark-start text:name="_Toc231996897"/>Question in words, and answers in pictures<text:bookmark-end text:name="_Toc89893449"/><text:bookmark-end text:name="_Toc231996897"/> </text:h>
+   <text:h text:style-name="P4" text:outline-level="1"><text:bookmark-start text:name="_Toc231996897"/><text:bookmark-start text:name="_Toc89893449"/>Question in words, and answers in pictures<text:bookmark-end text:name="_Toc231996897"/><text:bookmark-end text:name="_Toc89893449"/> </text:h>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="P38" loext:marker-style-name="T7"><text:span text:style-name="T7">Here we have a question in words, and the answers are pictures.</text:span><text:span text:style-name="T7"/></text:p>
    <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Picture 8" text:anchor-type="as-char" svg:width="3.4583in" svg:height="3.8654in" draw:z-index="0"><draw:image draw:mime-type="image/png">
@@ -6721,7 +6721,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\ar </text:span><text:span text:style-name="T30">bamako.jpg</text:span></text:p>
    <text:p text:style-name="P29" loext:marker-style-name="T38"><text:soft-page-break/></text:p>
    <text:p text:style-name="P16" loext:marker-style-name="T6"/>
-   <text:h text:style-name="P5" text:outline-level="1"><text:bookmark-start text:name="_Toc89893450"/><text:bookmark-start text:name="_Toc231996898"/>Question and answer in words, with audio<text:bookmark-end text:name="_Toc89893450"/><text:bookmark-end text:name="_Toc231996898"/> </text:h>
+   <text:h text:style-name="P5" text:outline-level="1"><text:bookmark-start text:name="_Toc231996898"/><text:bookmark-start text:name="_Toc89893450"/>Question and answer in words, with audio<text:bookmark-end text:name="_Toc231996898"/><text:bookmark-end text:name="_Toc89893450"/> </text:h>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T7"><text:span text:style-name="T7">You can provide an audio recording for the question and for each answer. The recording can be done in a program like Audacity (</text:span><text:a xlink:type="simple" xlink:href="https://www.audacityteam.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T7">https://www.audacityteam.org</text:span></text:span></text:a><text:span text:style-name="T7">). Use </text:span><text:span text:style-name="T15">File</text:span><text:span text:style-name="T7"> &gt; </text:span><text:span text:style-name="T15">Export</text:span><text:span text:style-name="T7"> &gt; </text:span><text:span text:style-name="T15">Export Selected Audio</text:span><text:span text:style-name="T7">.</text:span></text:p>
    <text:p text:style-name="P38" loext:marker-style-name="T7"><text:span text:style-name="T7">In </text:span><text:span text:style-name="T10">Scripture </text:span><text:span text:style-name="T7">App Builder, you need to put the audio clip (MP3 file) in the </text:span><text:span text:style-name="T15">Audio Clips </text:span><text:span text:style-name="T7">tab for the quiz book.</text:span></text:p>
@@ -6977,7 +6977,7 @@ Description automatically generated with medium confidence</svg:desc>
    <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">Dakar</text:span></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">dakar.mp3</text:span></text:p>
    <text:p text:style-name="P19" loext:marker-style-name="T25"><text:soft-page-break/></text:p>
-   <text:h text:style-name="P4" text:outline-level="1"><text:bookmark-start text:name="_Toc89893451"/><text:bookmark-start text:name="_Toc231996899"/>Question and answer in words, with explanations<text:bookmark-end text:name="_Toc89893451"/><text:bookmark-end text:name="_Toc231996899"/> </text:h>
+   <text:h text:style-name="P4" text:outline-level="1"><text:bookmark-start text:name="_Toc231996899"/><text:bookmark-start text:name="_Toc89893451"/>Question and answer in words, with explanations<text:bookmark-end text:name="_Toc231996899"/><text:bookmark-end text:name="_Toc89893451"/> </text:h>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T7"><text:span text:style-name="T7">You can give an explanation to the user after they select an answer, helping them to see why it is the right or the wrong answer.</text:span><text:span text:style-name="T7"/></text:p>
    <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Picture 11" text:anchor-type="as-char" svg:width="2.8854in" svg:height="2.8252in" draw:z-index="0"><draw:image draw:mime-type="image/png">
@@ -7209,7 +7209,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P43" loext:marker-style-name="T30"><text:span text:style-name="T28">\aw </text:span><text:span text:style-name="T30">Esau</text:span></text:p>
    <text:p text:style-name="P43" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T30">No, it was Isaac. Esau was Jacob&apos;s brother.</text:span></text:p>
    <text:p text:style-name="P19" loext:marker-style-name="T25"/>
-   <text:h text:style-name="P4" text:outline-level="1"><text:bookmark-start text:name="_Toc89893452"/><text:bookmark-start text:name="_Toc231996900"/>Question and answer in words, with explanations and audio<text:bookmark-end text:name="_Toc89893452"/><text:bookmark-end text:name="_Toc231996900"/> </text:h>
+   <text:h text:style-name="P4" text:outline-level="1"><text:bookmark-start text:name="_Toc231996900"/><text:bookmark-start text:name="_Toc89893452"/>Question and answer in words, with explanations and audio<text:bookmark-end text:name="_Toc231996900"/><text:bookmark-end text:name="_Toc89893452"/> </text:h>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T7"><text:span text:style-name="T7">It is possible to give the explanations in audio.<text:line-break/></text:span><text:span text:style-name="T7"/></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T23"><text:span text:style-name="T23">Codes to use</text:span><text:span text:style-name="T23"/></text:p>
@@ -7246,7 +7246,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T30">No, it was Isaac. Esau was Jacob&apos;s brother.</text:span></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T30"><text:span text:style-name="T28">\ae </text:span><text:span text:style-name="T30">expl-esau.mp3</text:span></text:p>
    <text:p text:style-name="P20" loext:marker-style-name="T25"><text:soft-page-break/></text:p>
-   <text:h text:style-name="P5" text:outline-level="1"><text:bookmark-start text:name="_Toc89893453"/><text:bookmark-start text:name="_Toc231996901"/>Sound effects for right and wrong answers<text:bookmark-end text:name="_Toc89893453"/><text:bookmark-end text:name="_Toc231996901"/></text:h>
+   <text:h text:style-name="P5" text:outline-level="1"><text:bookmark-start text:name="_Toc231996901"/><text:bookmark-start text:name="_Toc89893453"/>Sound effects for right and wrong answers<text:bookmark-end text:name="_Toc231996901"/><text:bookmark-end text:name="_Toc89893453"/></text:h>
    <text:p text:style-name="P44" loext:marker-style-name="T20"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T7"><text:span text:style-name="T7">After a right or wrong answer, there is a sound effect to indicate to the user whether the answer is right or wrong. You can change these sound effects. You will need to record your alternate right and/or wrong answers as mp3s and add them in two places:</text:span><text:span text:style-name="T7"/></text:p>
    <text:list text:style-name="WWNum3">
@@ -7278,7 +7278,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\wa </text:span><text:span text:style-name="T30">incorrect.mp3</text:span></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T30"><text:span text:style-name="T28">\wa </text:span><text:span text:style-name="T30">not-good.mp3</text:span><text:span text:style-name="T29"><text:line-break/></text:span></text:p>
    <text:p text:style-name="P45" loext:marker-style-name="T10"/>
-   <text:h text:style-name="P4" text:outline-level="1" loext:marker-style-name="T20"><text:bookmark-start text:name="_Toc231996902"/><text:bookmark-start text:name="_GoBack"/><text:span text:style-name="T20">Configuring Your Quiz</text:span><text:bookmark-end text:name="_Toc231996902"/><text:span text:style-name="T20"/></text:h>
+   <text:h text:style-name="P4" text:outline-level="1" loext:marker-style-name="T20"><text:bookmark-start text:name="_GoBack"/><text:bookmark-start text:name="_Toc231996902"/><text:span text:style-name="T20">Configuring Your Quiz</text:span><text:bookmark-end text:name="_Toc231996902"/><text:span text:style-name="T20"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T10"><text:span text:style-name="T10">If you add your quiz book to your app project, and double check your Book Type is set to Quiz (</text:span><text:span text:style-name="T11">Books &gt; </text:span><text:span text:style-name="T13">Collection name</text:span><text:span text:style-name="T11"> &gt; </text:span><text:span text:style-name="T13">Quiz book name</text:span><text:span text:style-name="T11"> &gt; Book</text:span><text:span text:style-name="T10">), you should see an additional tab in your configuration area named </text:span><text:span text:style-name="T11">Quiz</text:span><text:span text:style-name="T10">. Click on that tab to view the Quiz configuration options.</text:span></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T11"><text:span text:style-name="T11">Quiz Questions</text:span><text:span text:style-name="T11"/></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T10"><text:span text:style-name="T10">You can choose to have the order of your set of questions shuffled (randomized) each time the user accesses the quiz, or have them always presented in the order they appear in your quiz file.</text:span><text:span text:style-name="T10"/></text:p>
