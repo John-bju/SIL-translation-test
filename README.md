@@ -31,10 +31,5 @@ In order to setup the github inergration there are three tokens that need to be 
 
 
 #
-### File Conversions
-The github workflow will automatically convert the files between .odt and .pdf as needed by the workflow. With .pdf files being the final versions meant for use, while .odt are used with Crowdin since it cannnot accept the other file types.
-
-
-#
 ### Outputs
 All pdf's will be converted into an artifact and all translations will be pushed to the "translations" branch. Which can either be merged into the main branch if the user wanted to put the most recent documentation front and center.
