@@ -1,7 +1,7 @@
 # SIL Translation Test
 
 ### Description
-This repo is for documentation of SAB, RAB, DAB, KAB which aims to keep a version history of all documents and translate all documents into a multitiude of languages via crowdin.
+This repo is for documentation of SAB, RAB, DAB, KAB which aims to keep a version history of all documents and translate all documents into a multitiude of languages via crowdin. This repo will also automatically convert, format, and output documentation as the user needs.
 
 
 
