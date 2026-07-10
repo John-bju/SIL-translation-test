@@ -25,7 +25,7 @@ In order to setup the github inergration there are three tokens that need to be 
 
 `CROWDIN_PERSONAL_TOKEN:` This can be created by clicking on the user's profile picture and selecting "settings".
 
-![Description](README_pics/Screenshot_20260710_145503.png)
+![Description](README_pics/Screenshot_20260710_145305.png)
 
 Then find the "API" tab and clicking on it
 
