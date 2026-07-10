@@ -32,4 +32,4 @@ In order to setup the github inergration there are three tokens that need to be 
 
 #
 ### Outputs
-All pdf's will be converted into an artifact and all translations will be pushed to the "translations" branch. Which can either be merged into the main branch if the user wanted to put the most recent documentation front and center.
+The workflow will output pdf's as an artifact and will push all translated docs into the "translations" branch. The user can then decide to either merge them into the main branch if they wanted to put the most recent documentation front and center.
