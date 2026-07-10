@@ -8,8 +8,10 @@ This repo is for documentation of SAB, RAB, DAB, KAB which aims to keep a versio
 # How to Use
 ### Submitting
 All submittions should be put into the main branch
-Documents can be .fodt files and be added (or modifed) in docs-en/fodt/<app builder name>/<file> for example "docs-en/fodt/SAB"
-Images can be submitted to images/<language>/<app builder name>/<image folder> for example "images/en-EN/KAB/KAB02"
+
+Documents can be .fodt files and be added (or modifed) in docs-en/fodt/"app builder name"/"file" for example "docs-en/fodt/SAB"
+
+Images can be submitted to images/"language"/"app builder name"/"image folder" for example "images/en-EN/KAB/KAB02"
 
 
 ### Crowdin Sync
