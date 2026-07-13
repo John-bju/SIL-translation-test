@@ -17,10 +17,7 @@ All images should be submitted to `images/(language)/(app builder name)/(image f
 
 <img src="README_pics/Screenshot_pic_example_1.png" width="200" height="400" />
 
-<img src="README_pics/Screenshot_pic_example_2.png" width="200" height="400" />
-
-![Description](README_pics/Screenshot_pic_example_1.png)
-![Description](README_pics/Screenshot_pic_example_2.png)
+<img src="README_pics/Screenshot_pic_example_2.png" width="400" height="800" />
 
 
 #
