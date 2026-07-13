@@ -29,7 +29,7 @@ Find the "run workflow" button on the right side of the screen and select the dr
 
 <img src="README_pics/Screenshot_20260713_155959.png" width="300" height="600" />
 
-Then click the "Convert button"
+The workflow is now running in the background. You can click the "Convert" button to view the output of the workflow.
 
 <img src="README_pics/Screenshot_20260713_160239.png" width="300" height="600" />
 
