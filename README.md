@@ -15,6 +15,8 @@ All documents should be in .fodt format and should only be added (or modifed) in
 ###### Images
 All images should be submitted to `images/(language)/(app builder name)/(image folder)` for example `"images/en-EN/KAB/KAB02".` Images should also be numbered according to their order in a document. For example the first image would be named 1.png, the second would be 2.png, etc. This operates top to bottom and when images don't have a clear vertical order, left to right.
 
+<img src="README_pics/Screenshot_pic_example_1.png" width="200" height="400" />
+
 ![Description](README_pics/Screenshot_pic_example_1.png)
 ![Description](README_pics/Screenshot_pic_example_2.png)
 
