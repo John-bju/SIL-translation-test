@@ -23,15 +23,15 @@ All images should be submitted to `images/(language)/(app builder name)/(image f
 
 Navigate to the actions tab.
 
-<img src="README_pics/Screenshot_20260713_155930.png" width="300" height="600" />
+<img src="README_pics/Screenshot_20260713_155930.png" width="500" height="1000" />
 
 Find the "run workflow" button on the right side of the screen and select the dropdown menu. Click the "Run workflow" option.
 
-<img src="README_pics/Screenshot_20260713_155959.png" width="300" height="600" />
+<img src="README_pics/Screenshot_20260713_155959.png" width="500" height="1000" />
 
 The workflow is now running in the background. You can click the "Convert" button to view the output of the workflow.
 
-<img src="README_pics/Screenshot_20260713_160239.png" width="300" height="600" />
+<img src="README_pics/Screenshot_20260713_160239.png" width="500" height="1000" />
 
 
 
