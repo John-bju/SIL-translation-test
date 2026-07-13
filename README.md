@@ -1,26 +1,26 @@
 # SIL Translation Test
 
 ### Description
-This repo is for documentation of SAB, RAB, DAB, KAB which aims to keep a version history of all documents and translate all documents into a multitiude of languages via crowdin. This repo will also automatically convert, format, and output documentation as the user needs.
+This repo is for documentation of SAB, RAB, DAB, KAB which aims to keep a version history of all documents and translate all documents into a multitude of languages via crowdin. This repo will also automatically convert, format, and output documentation as the user needs.
 
 
 
 # How to Use
 ### Submitting
-All submittions should be put into the main branch of the github repo, and should be added into the following locations.
+All submissions should be put into the main branch of the github repo, and should be added into the following locations.
 
 ###### Documents
 Documents should be in .fodt format and should only be added (or modifed) in `docs-en/fodt/(app builder name)/(file)` for example `"docs-en/fodt/SAB/Scripture-App-Builder-01-Installation-Instructions.fodt".`
 
 ###### Images
-Images should be submitted to `images/(language)/(app builder name)/(image folder)` for example `"images/en-EN/KAB/KAB02".` Images should also be numbered according to their order in a document. Example the first image would be named 1.png, the second would be 2.png, etc. This operates top to bottem and when images are ordered horizontal left to right.
+Images should be submitted to `images/(language)/(app builder name)/(image folder)` for example `"images/en-EN/KAB/KAB02".` Images should also be numbered according to their order in a document. For example the first image would be named 1.png, the second would be 2.png, etc. This operates top to bottom and when images are ordered horizontal left to right.
 
 #
 ### Crowdin Sync
-Crowdin devoloped a github intergration allowing Github Workflows to send and recieve files with Crowdin projects. This intergration is used to sync this github repo and a Crowdin project allowing translations to be created downloaded into a seperate branch named "translations". This process is automated by the workflow and requires no user input to run.
+Crowdin developed a github integration allowing Github Workflows to send and receive files with Crowdin projects. This integration is used to sync this github repo and a Crowdin project allowing translations to be created and downloaded into a separate branch named "translations". This process is automated by the workflow and requires no user input to run.
 
 ###### Tokens
-In order to setup the github inergration there are three tokens that need to be entered into the github secretes tab in the settings of the repo.
+In order to set up the github integration there are three tokens that need to be entered into the github secrets tab in the settings of the repo.
 
 
 `CROWDIN_PERSONAL_TOKEN:` This can be created by clicking on the user's profile picture and selecting "settings".
@@ -46,9 +46,10 @@ Then scrolling down to find the "Developer Settings" tab and clicking on it.
 
 ![Description](README_pics/Screenshot_20260710_154629.png)
 
-Then selecting "Tokens (classic)" under "Personal Access Tokens" and a select "Generate new token (classic)".
+Then selecting "Tokens (classic)" under "Personal Access Tokens" and selecting "Generate new token (classic)".
 
 
 #
 ### Outputs
 The workflow will output pdf's as an artifact and will push all translated docs into the "translations" branch. The user can then decide to either merge them into the main branch if they wanted to put the most recent documentation front and center.
+
