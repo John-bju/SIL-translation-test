@@ -15,6 +15,10 @@ All documents should be in .fodt format and should only be added (or modifed) in
 ###### Images
 All images should be submitted to `images/(language)/(app builder name)/(image folder)` for example `"images/en-EN/KAB/KAB02".` Images should also be numbered according to their order in a document. For example the first image would be named 1.png, the second would be 2.png, etc. This operates top to bottom and when images don't have a clear vertical order, left to right.
 
+![Description](README_pics/Screenshot_pic_example_1.png)
+![Description](README_pics/Screenshot_pic_example_2.png)
+
+
 #
 ### Crowdin Sync
 Crowdin developed a github integration allowing Github Workflows to send and receive files with Crowdin projects. This integration is used to sync this github repo and a Crowdin project allowing translations to be created and downloaded into a separate branch named "translations". This process is automated by the workflow and requires no user input to run.
