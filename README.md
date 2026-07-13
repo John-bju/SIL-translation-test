@@ -62,9 +62,9 @@ First you must be an administrator to the gihub repo, if you are not then you ne
 ![Description](README_pics/Screenshot_20260713_125904.png)
 
 
-//<img src="README_pics/Screenshot_20260713_125818.png" width="400" height="800" />
+#<img src="README_pics/Screenshot_20260713_125818.png" width="400" height="800" />
 
-//<img src="README_pics/Screenshot_20260713_125904.png" width="400" height="800" />
+#<img src="README_pics/Screenshot_20260713_125904.png" width="400" height="800" />
 
 
 #
