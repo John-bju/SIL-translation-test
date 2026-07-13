@@ -57,9 +57,9 @@ Then selecting "Tokens (classic)" under "Personal Access Tokens" and selecting "
 ###### How to add tokens to the repo.
 First you must be an administrator to the gihub repo, if you are not then you need to contact one. Next navigate over to the settings tab at the top and select it, then find the "Secrets and variables" button and select "Actions". Then add each token as a secret with a name given in this document.
 
-<img src="README_pics/Screenshot_20260713_125818.png" width="200" height="400" />
+<img src="README_pics/Screenshot_20260713_125818.png" width="400" height="800" />
 
-<img src="README_pics/Screenshot_20260713_125904.png" width="200" height="400" />
+<img src="README_pics/Screenshot_20260713_125904.png" width="400" height="800" />
 
 
 #
