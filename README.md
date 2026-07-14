@@ -13,11 +13,11 @@ All submissions should be put into the main branch of the github repo, and shoul
 All documents need to be submitted in english, as crowdin will handle all translations to non-english languages. All documents should be in .fodt format and should only be added (or modifed) in `docs-en/fodt/(app builder name)/(file)` for example `"docs-en/fodt/SAB/Scripture-App-Builder-01-Installation-Instructions.fodt".`
 
 ###### Images
-All images should be submitted to `images/(language)/(app builder name)/(image folder)` for example `"images/en-EN/KAB/KAB02".` or `"images/fr-FR/SAB/SAB03".` Images should also be numbered according to their order in a document. For example the first image would be named 1.png, the second would be 2.png, etc. This operates top to bottom and when images don't have a clear vertical order, left to right.
+[//]: # All images should be submitted to `images/(language)/(app builder name)/(image folder)` for example `"images/en-EN/KAB/KAB02".` or `"images/fr-FR/SAB/SAB03".` Images should also be numbered according to their order in a document. For example the first image would be named 1.png, the second would be 2.png, etc. This operates top to bottom and when images don't have a clear vertical order, left to right.
 
-<img src="README_pics/Screenshot_pic_example_1.png" width="200" height="400" />
+[//]: # <img src="README_pics/Screenshot_pic_example_1.png" width="200" height="400" />
 
-<img src="README_pics/Screenshot_pic_example_2.png" width="300" height="600" />
+[//]: # <img src="README_pics/Screenshot_pic_example_2.png" width="300" height="600" />
 
 ### Workflow
 
