@@ -17,12 +17,7 @@ In this repo image are handled differently than most documentation. Images are n
 
 <img src="README_pics/Screenshot_20260715_151502.png" width="400" height="800" />
 
-The benifit and reason why this repo uses this system is that it makes it increadibly easy to swtich out images in a document.
-
-
-All images inside documents are inserted via embeded links as opposed to containing the direct image file data. This means that all documents in this repo do not contain any images, only a link that points to a seperate image file. For example "Scripture-App-Builder-01-Installation-Instructions.fodt" could contain a link to an image named "example.png" inside the same folder as the document.
-
-If a file with that name is not found at that location the document will display a broken link. The reason this repo uses this system is that it makes it very easy to replace images as there is no need to manually go through and re-insert each and every image.
+The benifit and reason why this repo uses this system is that it makes it increadibly easy to swtich out images in a document. Since screenshots containing english text will not be translated by crowdin the next best solution is to replace these screenshots with ones containing the correct language. This will be done automatically with the github workflow, however the user still needs to manually supply all screenshots. The images are located in images/(language)/(app builder name)/(image folder) and do not need to conform a specific file format.
 
 
 <!--- All images should be submitted to `images/(language)/(app builder name)/(image folder)` for example `"images/en-EN/KAB/KAB02".` or `"images/fr-FR/SAB/SAB03".` Images should also be numbered according to their order in a document. For example the first image would be named 1.png, the second would be 2.png, etc. This operates top to bottom and when images don't have a clear vertical order, left to right.
