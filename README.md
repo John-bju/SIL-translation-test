@@ -15,7 +15,7 @@ All documents need to be submitted in english, as crowdin will handle all transl
 ###### Images
 In this repo image are handled differently than most documentation. Images are not inserted into the documents themselves, but instead are inserted as links pointing to image files seperate from the document itself. This means that every document has a folder next to it that has all the images for that document. For example "Scripture-App-Builder-01-Installation-Instructions.fodt" would be next to a folder named SAB01, this folder would have all the images the document would use.
 
-<img src="README_pics/Screenshot_20260715_151502.png" width="200" height="400" />
+<img src="README_pics/Screenshot_20260715_151502.png" width="600" height="1200" />
 
 The benifit and reason why this repo uses this system is that it makes it increadibly easy to swtich out images in a document.
 
