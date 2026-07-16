@@ -84,7 +84,7 @@ First you must be an administrator to the gihub repo, if you are not then you ne
 
 <img src="README_pics/Screenshot_20260713_125904.png" width="800" height="1200" />
 
-In addition, the `CROWDIN_PROJECT_ID` must be entered into the `project_id: "(your number here)"` field in the "crowdin.yaml" file located in the repo.
+In addition, the `CROWDIN_PROJECT_ID` must be manually entered into the `project_id: "XXXXXX"` field in the "crowdin.yaml" file, which is located inside the repo.
 
 #
 ### Outputs
