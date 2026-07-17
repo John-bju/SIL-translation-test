@@ -17,7 +17,7 @@ In this repo images are handled differently than most other documentation repos.
 
 <img src="README_pics/Screenshot_20260715_151502.png" width="400" height="800" />
 
-The benifit and reason why this repo uses this system is that it makes it increadibly easy to swtich out images in a document. Since screenshots containing english text will not be translated by crowdin the next best solution is to replace these screenshots with ones containing the correct language. This will be done automatically with the github workflow, however the user still needs to manually supply all screenshots. The images are located in images/(language)/(app builder name)/(image folder) and do not need to conform a specific file format.
+The benifit and reason why this repo uses this system is that it makes it increadibly easy to swtich out images in a document. Since screenshots containing english text will not be translated by crowdin the next best solution is to replace these screenshots with ones containing text in the correct language. This will be done automatically with the github workflow, however the user still needs to manually supply all screenshots. The images are located in images/(language)/(app builder name)/(image folder) and do not need to conform a specific file format.
 
 
 <!--- All images should be submitted to `images/(language)/(app builder name)/(image folder)` for example `"images/en-EN/KAB/KAB02".` or `"images/fr-FR/SAB/SAB03".` Images should also be numbered according to their order in a document. For example the first image would be named 1.png, the second would be 2.png, etc. This operates top to bottom and when images don't have a clear vertical order, left to right.
