@@ -13,7 +13,7 @@ All submissions should be put into the main branch of the github repo, and shoul
 All documents need to be submitted in english, as crowdin will handle all translations to non-english languages. All documents should be in .fodt format and should only be added (or modifed) in `docs-en/fodt/(app builder name)/(file)` for example `"docs-en/fodt/SAB/Scripture-App-Builder-01-Installation-Instructions.fodt".`
 
 ###### Images
-In this repo image are handled differently than most documentation. Images are not inserted into the documents themselves, but instead are inserted as links pointing to image files seperate from the document itself. This means that every document has a folder next to it that has all the images for that document. For example "Scripture-App-Builder-01-Installation-Instructions.fodt" would be next to a folder named SAB01, this folder would have all the images the document would use.
+In this repo image are handled differently than most other documentation repos. Images are not inserted into the documents themselves, but instead are inserted as links pointing to image files seperate from the document itself. This means that every document has a folder next to it that has all the images for that document. For example "Scripture-App-Builder-01-Installation-Instructions.fodt" would be next to a folder named SAB01, this folder would have all the images the document would use.
 
 <img src="README_pics/Screenshot_20260715_151502.png" width="400" height="800" />
 
