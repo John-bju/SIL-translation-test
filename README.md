@@ -95,3 +95,9 @@ In addition, the `CROWDIN_PROJECT_ID` must be manually entered into the `project
 The workflow will produce two types of outputs. First it will generate all the translated files in their correct formats and add them to the "translations branch". The user can then decide to either merge the translations branch into the main branch if they wanted to put the most recent documentation front and center.
 
 Second the workflow will generate a an artifact comprised of all the pdfs of one language in a .zip file. This can be found by going to the workflow and viewing the build summary.
+
+
+
+# Crowdin Settings
+### Duplicate Strings
+asjdlfksdf;ljkalsdkjf;lkajsl;dfj
