@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:title>Scripture App Builder - Using HearThis for Audio Recording</dc:title>
+ <office:meta><dc:title>Constructeur d&apos;applications bibliques - Utiliser HearThis pour l&apos;enregistrement audio</dc:title>
 <meta:initial-creator>Richard Margetts</meta:initial-creator><meta:editing-cycles>15</meta:editing-cycles><meta:print-date>2016-08-15T10:42:00</meta:print-date><meta:creation-date>2015-05-15T16:25:00</meta:creation-date><dc:date>2026-06-03T13:44:25.103920792</dc:date><meta:editing-duration>PT18M19S</meta:editing-duration><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="30" meta:paragraph-count="175" meta:word-count="2565" meta:character-count="14462" meta:non-whitespace-character-count="12079"/>
 <meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
@@ -96,7 +96,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -120,7 +120,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">4310414</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4270420</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">true</config:config-item>
@@ -148,7 +148,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Times New Roman1" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Times New Roman1" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -1774,6 +1774,9 @@
   <style:style style:name="T23" style:family="text">
    <style:text-properties style:font-name="Wingdings" fo:language="en" fo:country="GB" style:font-name-asian="Wingdings1" style:font-name-complex="Wingdings1"/>
   </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties style:font-name="Wingdings" fo:language="en" fo:country="GB" style:font-name-asian="Wingdings1" style:font-name-complex="Wingdings1" style:font-size-complex="11pt"/>
+  </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
    <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:wrap="parallel" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="page-content" fo:background-color="#ffffff" style:background-transparency="100%" draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="0%" fo:padding="0in" fo:border="none"/>
   </style:style>
@@ -3249,9 +3252,9 @@
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="P13" loext:marker-style-name="T4"/>
    <text:p text:style-name="P13" loext:marker-style-name="T4"><text:s/></text:p>
-   <text:p text:style-name="P7" loext:marker-style-name="T4"><text:span text:style-name="T4">Last updated: 15 August 2016</text:span><text:span text:style-name="T4"/></text:p>
+   <text:p text:style-name="P7" loext:marker-style-name="T4"><text:span text:style-name="T4">Dernière mise à jour : 15 août 2016</text:span><text:span text:style-name="T4"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"><text:soft-page-break/></text:p>
-   <text:p text:style-name="P8" loext:marker-style-name="T13"><text:bookmark text:name="_GoBack"/><text:span text:style-name="T13">Contents</text:span><text:span text:style-name="T13"/></text:p>
+   <text:p text:style-name="P8" loext:marker-style-name="T13"><text:bookmark text:name="_GoBack"/><text:span text:style-name="T13">Contenu</text:span><text:span text:style-name="T13"/></text:p>
    <text:p text:style-name="P24" loext:marker-style-name="T14"/>
    <text:p text:style-name="P24" loext:marker-style-name="T14"/>
    <text:table-of-content text:style-name="Sect1" text:protected="true" text:name="Table of Contents1">
@@ -3348,28 +3351,28 @@
      </text:table-of-content-entry-template>
     </text:table-of-content-source>
     <text:index-body>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc459024683" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T9">1.</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T9">Introducing HearThis</text:span><text:span text:style-name="T20"> 3</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc459024684" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T9">2.</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T9">Installing HearThis</text:span><text:span text:style-name="T20"> 3</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc459024685" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T9">3.</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T9">Setting up your microphone and recording environment</text:span><text:span text:style-name="T20"> 5</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc459024683" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T9">1.</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T9">Introduction à HearThis</text:span><text:span text:style-name="T20"> 3</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc459024684" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T9">2.</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T9">Installation de HearThis</text:span><text:span text:style-name="T20"> 3</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc459024685" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T9">3.</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T9">Configuration de votre microphone et de votre environnement d&apos;enregistrement</text:span><text:span text:style-name="T20"> 5</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc459024686" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:soft-page-break/>3.1.<text:span text:style-name="T16"> </text:span>Prepare your room to be a recording studio<text:span text:style-name="T20"> 5</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc459024687" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.2.<text:span text:style-name="T16"> </text:span>Choose a good microphone<text:span text:style-name="T20"> 5</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc459024687" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.2.<text:span text:style-name="T16"> </text:span>Choisissez un bon microphone<text:span text:style-name="T20"> 5</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc459024688" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.3.<text:span text:style-name="T16"> </text:span>Set up the microphone to be the recording device on your computer<text:span text:style-name="T20"> 5</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc459024689" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T9">4.</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T9">Recording audio with HearThis</text:span><text:span text:style-name="T20"> 6</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc459024690" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">4.1.<text:span text:style-name="T16"> </text:span>The HearThis screen<text:span text:style-name="T20"> 6</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc459024691" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">4.2.<text:span text:style-name="T16"> </text:span>Choose the Paratext project<text:span text:style-name="T20"> 6</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc459024689" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T9">4.</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T9">Enregistrement audio avec HearThis</text:span><text:span text:style-name="T20"> 6</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc459024690" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">4.1.<text:span text:style-name="T16"> </text:span>L&apos;écran de coeur<text:span text:style-name="T20"> 6</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc459024691" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">4.2.<text:span text:style-name="T16"> </text:span>Choisissez le projet Paratext<text:span text:style-name="T20"> 6</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc459024692" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:soft-page-break/>4.3.<text:span text:style-name="T16"> </text:span>Choose the book and chapter to record<text:span text:style-name="T20"> 7</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc459024693" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">4.4.<text:span text:style-name="T16"> </text:span>Choose the parts of the text you want to record<text:span text:style-name="T20"> 8</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc459024694" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">4.5.<text:span text:style-name="T16"> </text:span>Recording the selected chapter<text:span text:style-name="T20"> 9</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc459024695" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T9">5.</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T9">Publishing audio for use in Scripture App Builder</text:span><text:span text:style-name="T20"> 11</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc459024696" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T9">6.</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T9">Listen to your audio and make any edits if necessary</text:span><text:span text:style-name="T20"> 13</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc459024697" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">6.1.<text:span text:style-name="T16"> </text:span>Listening for errors<text:span text:style-name="T20"> 13</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc459024698" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:soft-page-break/>6.2.<text:span text:style-name="T16"> </text:span>Editing audio files using Audacity<text:span text:style-name="T20"> 13</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc459024699" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T9">7.</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T9">Using HearThis generated files in Scripture App Builder</text:span><text:span text:style-name="T20"> 15</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc459024695" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T9">5.</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T9">Publication audio pour utilisation dans le constructeur d&apos;applications bibliques</text:span><text:span text:style-name="T20"> 11</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc459024696" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T9">6.</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T9">Écoutez votre audio et faites n&apos;importe quelle modification si nécessaire</text:span><text:span text:style-name="T20"> 13</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc459024697" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">6.1.<text:span text:style-name="T16"> </text:span>Écoute des erreurs<text:span text:style-name="T20"> 13</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc459024698" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:soft-page-break/>6.2.<text:span text:style-name="T16"> </text:span>Édition de fichiers audio en utilisant Audacity<text:span text:style-name="T20"> 13</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="#_Toc459024699" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T9">7.</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T9">Utilisation des fichiers générés par HearThis dans le constructeur d&apos;applications bibliques</text:span><text:span text:style-name="T20"> 15</text:span></text:a></text:p>
     </text:index-body>
    </text:table-of-content>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:h text:style-name="P4" text:outline-level="1" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024683"/><text:span text:style-name="T9">Introducing HearThis</text:span><text:bookmark-end text:name="_Toc459024683"/><text:span text:style-name="T9"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9"><text:line-break/>HearThis provides a do-it-yourself alternative for communities wanting to get translated Scripture text into audio form. It is designed to make Bible recording easy!</text:span><text:span text:style-name="T9"/></text:p>
+   <text:h text:style-name="P4" text:outline-level="1" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024683"/><text:span text:style-name="T9">Introduction à HearThis</text:span><text:bookmark-end text:name="_Toc459024683"/><text:span text:style-name="T9"/></text:h>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9"><text:line-break/>HearThis offre une alternative pour les communautés désireuses de traduire du texte biblique sous forme audio. Il est conçu pour faciliter l&apos;enregistrement de la Bible !</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:p text:style-name="P7" loext:marker-style-name="T9"><draw:frame text:anchor-type="as-char" draw:z-index="73" draw:name="Shape2" draw:style-name="gr1" draw:text-style-name="P54" svg:width="2.063in" svg:height="0.8024in">
@@ -3665,13 +3668,13 @@
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:p text:style-name="P14" loext:marker-style-name="T9"><text:soft-page-break/></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">HearThis automatically finds your Paratext translations and walks you through recording it, one bit at a time. Not a great reader? Need to read it again? Just press on the record button and try again, until you get it right. Then click the arrow, and see the next thing you need to read.</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">HearThis trouve automatiquement vos traductions Paratext et vous guide à travers l&apos;enregistrement, un peu à la fois. Pas un grand lecteur? Besoin de le relire ? Il vous suffit d&apos;appuyer sur le bouton d&apos;enregistrement et de réessayer. Puis cliquez sur la flèche, et voyez la chose suivante que vous devez lire.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">HearThis can produce all the files needed for adding audio when using Scripture App Builder – including the timing files for audio-text synchronization.</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">HearThis peut produire tous les fichiers nécessaires pour ajouter de l&apos;audio lors de l&apos;utilisation de Scripture App Builder – y compris les fichiers de synchronisation de texte audio.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:p text:style-name="P14" loext:marker-style-name="T9"><text:s/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"><text:soft-page-break/></text:p>
-   <text:h text:style-name="P5" text:outline-level="1" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024684"/><text:span text:style-name="T9">Installing HearThis</text:span><text:bookmark-end text:name="_Toc459024684"/><text:span text:style-name="T9"/></text:h>
+   <text:h text:style-name="P5" text:outline-level="1" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024684"/><text:span text:style-name="T9">Installer HearThis</text:span><text:bookmark-end text:name="_Toc459024684"/><text:span text:style-name="T9"/></text:h>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">To install HearThis on your computer, do the following:</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
@@ -3681,11 +3684,11 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P15" loext:marker-style-name="T9"><text:soft-page-break/></text:p>
-   <text:p text:style-name="P26" loext:marker-style-name="T9"><text:span text:style-name="T9">The filename is of the form: </text:span><text:span text:style-name="T10">HearThisInstaller-1.x.x.msi</text:span><text:span text:style-name="T9"> </text:span></text:p>
+   <text:p text:style-name="P26" loext:marker-style-name="T9"><text:span text:style-name="T9">Le nom de fichier est de la forme : </text:span><text:span text:style-name="T10">HearThisInstaller-1.x.msi</text:span><text:span text:style-name="T9"> </text:span></text:p>
    <text:p text:style-name="P29" loext:marker-style-name="T9"><text:span text:style-name="T9"><text:line-break/> </text:span><text:span text:style-name="T9"/></text:p>
    <text:list text:continue-numbering="true" text:style-name="WWNum8">
     <text:list-item>
-     <text:p text:style-name="P25" loext:marker-style-name="T9"><text:span text:style-name="T9">Double-click the installer after it has downloaded and follow the instructions in the Setup wizard.</text:span><text:span text:style-name="T9"/></text:p>
+     <text:p text:style-name="P25" loext:marker-style-name="T9"><text:span text:style-name="T9">Double-cliquez sur l&apos;installateur après avoir téléchargé et suivez les instructions de l&apos;assistant d&apos;installation.</text:span><text:span text:style-name="T9"/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P14" loext:marker-style-name="T9"><text:s/></text:p>
@@ -4407,12 +4410,12 @@
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum8">
     <text:list-item>
-     <text:p text:style-name="P25" loext:marker-style-name="T9"><text:span text:style-name="T9">To enable HearThis to write its output as MP3 files, you need to install an additional plug-in called </text:span><text:span text:style-name="T10">Lame</text:span><text:span text:style-name="T9">. (If you use the sound editor Audacity, it is possible that you already have Lame installed.)</text:span></text:p>
+     <text:p text:style-name="P25" loext:marker-style-name="T9"><text:span text:style-name="T9">To enable HearThis to write its output as MP3 files, you need to install an additional plug-in called </text:span><text:span text:style-name="T10">Lame</text:span><text:span text:style-name="T9">. (Si vous utilisez l&apos;éditeur de son Audacity, il est possible que vous ayez déjà installé Lame.)</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:p text:style-name="P31" loext:marker-style-name="T6"><text:span text:style-name="T7">Download the latest Lame installation program from the Lame website: <text:line-break/><text:line-break/> </text:span><text:a xlink:type="simple" xlink:href="http://lame.buanzo.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T6">http://lame.buanzo.org</text:span></text:span></text:a><text:span text:style-name="T6"> </text:span></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T7"><text:span text:style-name="T7"><text:line-break/>Look for the file under the sub-heading </text:span><text:span text:style-name="T6">‘TO DOWNLOAD Lame and FFmpeg for Windows’</text:span><text:span text:style-name="T7">.</text:span></text:p>
+   <text:p text:style-name="P27" loext:marker-style-name="T7"><text:span text:style-name="T7"><text:line-break/>Rechercher le fichier sous le sous-titre </text:span><text:span text:style-name="T6">« POUR TÉLÉCHARGER Lame et FFmpeg pour Windows»</text:span><text:span text:style-name="T7">.</text:span></text:p>
    <text:p text:style-name="P33" loext:marker-style-name="T7"><text:soft-page-break/><text:span text:style-name="T7">The filename to download will be called something like:</text:span><text:span text:style-name="T7"/></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T6"><text:span text:style-name="T21">Lame_v3.99.3_for_Windows.exe</text:span><text:span text:style-name="T6"/></text:p>
    <text:p text:style-name="P35" loext:marker-style-name="T6"><draw:frame text:anchor-type="as-char" draw:z-index="75" draw:name="Shape4" draw:style-name="gr1" draw:text-style-name="P54" svg:width="2.615in" svg:height="0.698in">
@@ -4518,26 +4521,26 @@
       <text:p/>
      </draw:image>
     </draw:frame><text:s/></text:p>
-   <text:p text:style-name="P27" loext:marker-style-name="T8"><text:span text:style-name="T8">It might be that a newer version than 3.99.3 is available. If so, download this newer version instead. This should be a quick download since the file is small (around 500 KB).</text:span><text:span text:style-name="T8"/></text:p>
-   <text:p text:style-name="P36" loext:marker-style-name="T8"><text:span text:style-name="T7">Double-click this downloaded .exe file to start the installation and follow the instructions in the Setup Wizard.</text:span><text:span text:style-name="T8"/></text:p>
+   <text:p text:style-name="P27" loext:marker-style-name="T8"><text:span text:style-name="T8">Il se peut qu&apos;une version plus récente que 3.99.3 soit disponible. Si c&apos;est le cas, téléchargez cette nouvelle version à la place. Ce devrait être un téléchargement rapide car le fichier est petit (environ 500 Ko).</text:span><text:span text:style-name="T8"/></text:p>
+   <text:p text:style-name="P36" loext:marker-style-name="T8"><text:span text:style-name="T7">Double-cliquez sur ce fichier .exe téléchargé pour démarrer l&apos;installation et suivez les instructions de l&apos;Assistant d&apos;installation.</text:span><text:span text:style-name="T8"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:h text:style-name="P4" text:outline-level="1" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024685"/><text:span text:style-name="T9">Setting up your microphone and recording environment</text:span><text:bookmark-end text:name="_Toc459024685"/><text:span text:style-name="T9"/></text:h>
-   <text:h text:style-name="P6" text:outline-level="2" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024686"/><text:span text:style-name="T9">Prepare your room to be a recording studio</text:span><text:bookmark-end text:name="_Toc459024686"/><text:span text:style-name="T9"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">Choose a place to record which is quiet and where you will receive few interruptions. To dampen the echo in a small office, you could place foam mattresses and blankets around the room.</text:span><text:span text:style-name="T9"/></text:p>
+   <text:h text:style-name="P4" text:outline-level="1" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024685"/><text:span text:style-name="T9">Configuration de votre microphone et de votre environnement d&apos;enregistrement</text:span><text:bookmark-end text:name="_Toc459024685"/><text:span text:style-name="T9"/></text:h>
+   <text:h text:style-name="P6" text:outline-level="2" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024686"/><text:span text:style-name="T9">Préparez votre salle à être un studio d&apos;enregistrement</text:span><text:bookmark-end text:name="_Toc459024686"/><text:span text:style-name="T9"/></text:h>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">Choisissez un endroit où enregistrer qui est calme et où vous recevrez quelques interruptions. Pour amortir l&apos;écho dans un petit bureau, vous pouvez placer des matelas et des couvertures en mousse autour de la pièce.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">Turn off any fans or any noisy air-conditioning units. Keep away from fridges or ticking clocks. Avoid tapping your feet or swaying from side to side on a squeaky chair!</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">Éteignez tous les ventilateurs ou tous les appareils de climatisation bruyants. Gardez à l&apos;écart des réfrigérateurs ou des horloges. Évitez de taper vos pieds ou de vous balancer d&apos;un côté à l&apos;autre sur une chaise grisante!</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:h text:style-name="P6" text:outline-level="2" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024687"/><text:soft-page-break/><text:span text:style-name="T9">Choose a good microphone</text:span><text:bookmark-end text:name="_Toc459024687"/><text:span text:style-name="T9"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">HearThis will work with any microphone, whether it is the in-built microphone in your laptop computer, a headset microphone or a professional quality external microphone.</text:span><text:span text:style-name="T9"/></text:p>
+   <text:h text:style-name="P6" text:outline-level="2" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024687"/><text:soft-page-break/><text:span text:style-name="T9">Choisissez un bon microphone</text:span><text:bookmark-end text:name="_Toc459024687"/><text:span text:style-name="T9"/></text:h>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">HearThis fonctionnera avec n&apos;importe quel microphone, qu&apos;il s&apos;agisse du microphone intégré dans votre ordinateur portable, d&apos;un micro casque ou d&apos;un microphone externe de qualité professionnelle.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T9">For a good quality recording, you will want to reduce background noise. For this reason, it is best not to use the internal microphone in your computer. It picks up too much computer noise. </text:span><text:span text:style-name="T3">If you are going to do serious recording work, it is worth investing in a good microphone. In general, the more you spend on a microphone, the better the quality of the audio recording. </text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T9">Pour un enregistrement de bonne qualité, vous voudrez réduire le bruit de fond. Pour cette raison, il est préférable de ne pas utiliser le microphone interne de votre ordinateur. Il absorbe trop de bruit informatique. </text:span><text:span text:style-name="T3">If you are going to do serious recording work, it is worth investing in a good microphone. En général, plus vous dépensez sur un microphone, plus la qualité de l&apos;enregistrement audio est élevée. </text:span></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">Do not hold the microphone in your hand. Instead put it on a stand or use a good quality headset microphone.</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">Ne tenez pas le microphone dans votre main. Au lieu de cela, mettez-le sur un stand ou utilisez un micro casque de bonne qualité.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"><text:soft-page-break/></text:p>
-   <text:h text:style-name="P6" text:outline-level="2" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024688"/><text:span text:style-name="T9">Set up the microphone to be the recording device on your computer</text:span><text:bookmark-end text:name="_Toc459024688"/><text:span text:style-name="T9"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">Attach the microphone to your computer and ensure it is selected as the main recording device. If you don’t do this properly, you might find that your computer still uses the internal microphone rather than the external one.</text:span><text:span text:style-name="T9"/></text:p>
+   <text:h text:style-name="P6" text:outline-level="2" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024688"/><text:span text:style-name="T9">Configurez le microphone pour qu&apos;il soit le périphérique d&apos;enregistrement de votre ordinateur</text:span><text:bookmark-end text:name="_Toc459024688"/><text:span text:style-name="T9"/></text:h>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">Connectez le microphone à votre ordinateur et assurez-vous qu&apos;il est sélectionné comme le périphérique d&apos;enregistrement principal. Si vous ne le faites pas correctement, il se peut que votre ordinateur utilise toujours le microphone interne plutôt que celui externe.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">To modify the recording device to use, right-click on the Speaker/Volume icon at the bottom right of your computer screen and select </text:span><text:span text:style-name="T10">Recording devices</text:span><text:span text:style-name="T9">. Here you can enable and disable devices.</text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">To modify the recording device to use, right-click on the Speaker/Volume icon at the bottom right of your computer screen and select </text:span><text:span text:style-name="T10">Recording devices</text:span><text:span text:style-name="T9">. Ici vous pouvez activer et désactiver les appareils.</text:span></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:p text:style-name="P7" loext:marker-style-name="T9"><text:soft-page-break/><draw:frame text:anchor-type="as-char" draw:z-index="76" draw:name="Shape5" draw:style-name="gr1" draw:text-style-name="P54" svg:width="2.9276in" svg:height="2.4689in">
      <draw:image draw:mime-type="image/png">
@@ -5504,16 +5507,16 @@
       <text:p/>
      </draw:image>
     </draw:frame><text:s/></text:p>
-   <text:h text:style-name="P4" text:outline-level="1" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024689"/><text:span text:style-name="T9">Recording audio with HearThis</text:span><text:bookmark-end text:name="_Toc459024689"/><text:span text:style-name="T9"/></text:h>
-   <text:h text:style-name="P6" text:outline-level="2" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024690"/><text:span text:style-name="T9">The HearThis screen</text:span><text:bookmark-end text:name="_Toc459024690"/><text:span text:style-name="T9"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">The main HearThis screen presents you with all the controls you need to select books and chapters and to record phrases.</text:span><text:span text:style-name="T9"/></text:p>
+   <text:h text:style-name="P4" text:outline-level="1" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024689"/><text:span text:style-name="T9">Enregistrement audio avec HearThis</text:span><text:bookmark-end text:name="_Toc459024689"/><text:span text:style-name="T9"/></text:h>
+   <text:h text:style-name="P6" text:outline-level="2" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024690"/><text:span text:style-name="T9">L&apos;écran de coeur</text:span><text:bookmark-end text:name="_Toc459024690"/><text:span text:style-name="T9"/></text:h>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">L&apos;écran principal HearThis vous présente toutes les commandes dont vous avez besoin pour sélectionner des livres et des chapitres et pour enregistrer des phrases.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:p text:style-name="P14" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="77" draw:name="Shape6" draw:style-name="gr4" draw:text-style-name="P56" svg:width="1.7504in" svg:height="0.3142in" svg:x="3.75in" svg:y="0.098in">
-     <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T17"><text:span text:style-name="T17">Publish Sound Files</text:span></text:p>
+     <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T17"><text:span text:style-name="T17">Publier des fichiers sonores</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="mso-spt202" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape><text:s/><draw:frame draw:style-name="fr2" draw:name="Frame2" text:anchor-type="char" svg:x="0.6252in" svg:y="0.1602in" svg:width="1.75in" svg:height="0.3138in" draw:z-index="10">
      <draw:text-box>
-      <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T19"><text:span text:style-name="T17">Choose </text:span><text:span text:style-name="T19">Paratext Project</text:span></text:p>
+      <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T19"><text:span text:style-name="T17">Choisissez </text:span><text:span text:style-name="T19">Projet Paratext</text:span></text:p>
      </draw:text-box>
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="4" draw:name="Shape8" draw:style-name="gr2" draw:text-style-name="P55" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (-1.79175501009738) translate (1.55763888888889in 0.256944444444445in)">
@@ -5564,7 +5567,7 @@
      </draw:text-box>
     </draw:frame><text:s/><draw:frame draw:style-name="fr2" draw:name="Frame4" text:anchor-type="char" svg:x="-0.0417in" svg:y="1.4618in" svg:width="0.8752in" svg:height="0.5in" draw:z-index="15">
      <draw:text-box>
-      <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T17"><text:span text:style-name="T17">Chapter selector</text:span></text:p>
+      <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T17"><text:span text:style-name="T17">Sélecteur de chapitre</text:span></text:p>
      </draw:text-box>
     </draw:frame><text:s/><draw:custom-shape text:anchor-type="char" draw:z-index="6" draw:name="Shape10" draw:style-name="gr2" draw:text-style-name="P55" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (0.370184334347997) translate (0.375in 1.33402777777778in)">
      <text:p/>
@@ -5581,7 +5584,7 @@
      </draw:enhanced-geometry>
     </draw:custom-shape><text:s/><draw:frame draw:style-name="fr2" draw:name="Frame5" text:anchor-type="char" svg:x="-0.0626in" svg:y="2.6598in" svg:width="0.8752in" svg:height="1in" draw:z-index="13">
      <draw:text-box>
-      <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T19"><text:span text:style-name="T17">Current</text:span><text:span text:style-name="T19"> phrase to record</text:span></text:p>
+      <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T19"><text:span text:style-name="T17">Phrase</text:span><text:span text:style-name="T19"> actuelle pour enregistrer</text:span></text:p>
      </draw:text-box>
     </draw:frame><text:s/><draw:custom-shape text:anchor-type="char" draw:z-index="7" draw:name="Shape11" draw:style-name="gr2" draw:text-style-name="P55" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (0.565661210571362) translate (0.375in 2.44861111111111in)">
      <text:p/>
@@ -5598,7 +5601,7 @@
      </draw:enhanced-geometry>
     </draw:custom-shape><text:s/><draw:frame draw:style-name="fr2" draw:name="Frame6" text:anchor-type="char" svg:x="5.1252in" svg:y="2.7118in" svg:width="1.75in" svg:height="0.5in" draw:z-index="11">
      <draw:text-box>
-      <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T17"><text:span text:style-name="T17">Play, Record <text:line-break/>and Next buttons</text:span></text:p>
+      <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T17"><text:span text:style-name="T17">Boutons Jouer, Enregistrer <text:line-break/>et Suivant</text:span></text:p>
      </draw:text-box>
     </draw:frame><text:s/><draw:custom-shape text:anchor-type="char" draw:z-index="9" draw:name="Shape12" draw:style-name="gr2" draw:text-style-name="P55" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (0.934100215667365) translate (0.708333333333333in 3.57152777777778in)">
      <text:p/>
@@ -6184,24 +6187,24 @@
    <text:p text:style-name="P17" loext:marker-style-name="T9"/>
    <text:p text:style-name="P17" loext:marker-style-name="T9"><draw:frame draw:style-name="fr2" draw:name="Frame7" text:anchor-type="char" svg:x="4.3646in" svg:y="0.0311in" svg:width="1.75in" svg:height="0.5in" draw:z-index="80">
      <draw:text-box>
-      <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T19"><text:span text:style-name="T19">Input microphone level</text:span></text:p>
+      <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T19"><text:span text:style-name="T19">Niveau de microphone d&apos;entrée</text:span></text:p>
      </draw:text-box>
     </draw:frame><text:s/><draw:frame draw:style-name="fr2" draw:name="Frame8" text:anchor-type="char" svg:x="0.1252in" svg:y="0.0626in" svg:width="1.75in" svg:height="0.5in" draw:z-index="12">
      <draw:text-box>
-      <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T17"><text:span text:style-name="T17">Font size: make text smaller or larger</text:span></text:p>
+      <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T17"><text:span text:style-name="T17">Taille de la police : rendre le texte plus petit ou plus grand</text:span></text:p>
      </draw:text-box>
     </draw:frame><text:s text:c="2"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"><text:soft-page-break/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">Use the font size buttons on the bottom left of the screen to adjust the text size so it will be easy to read.</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">Utilisez les boutons de taille de police en bas à gauche de l&apos;écran pour ajuster la taille du texte afin qu&apos;il soit facile à lire.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">The top left button is a </text:span><text:span text:style-name="T10">Save</text:span><text:span text:style-name="T9"> button, but it does nothing. Your recordings are saved automatically. Clicking the Save button will remind you of this.</text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">The top left button is a </text:span><text:span text:style-name="T10">Save</text:span><text:span text:style-name="T9"> button, but it does nothing. Vos enregistrements sont enregistrés automatiquement. Cliquer sur le bouton Enregistrer vous rappellera cela.</text:span></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:h text:style-name="P6" text:outline-level="2" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024691"/><text:span text:style-name="T9">Choose the Paratext project</text:span><text:bookmark-end text:name="_Toc459024691"/><text:span text:style-name="T9"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">When you start HearThis for the first time, you will be asked to select a Paratext project.</text:span><text:span text:style-name="T9"/></text:p>
+   <text:h text:style-name="P6" text:outline-level="2" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024691"/><text:span text:style-name="T9">Choisissez le projet Paratext</text:span><text:bookmark-end text:name="_Toc459024691"/><text:span text:style-name="T9"/></text:h>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">Lorsque vous démarrez HearThis pour la première fois, il vous sera demandé de sélectionner un projet Paratext.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:p text:style-name="P7" loext:marker-style-name="T9"><text:soft-page-break/><draw:frame text:anchor-type="as-char" draw:z-index="91" draw:name="Shape16" draw:style-name="gr1" draw:text-style-name="P54" svg:width="4.0106in" svg:height="3.1461in">
      <draw:image draw:mime-type="image/x-emf">
@@ -20343,11 +20346,11 @@
    <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">If you are already on the main HearThis screen, click the </text:span><text:span text:style-name="T10">Choose Paratext Project</text:span><text:span text:style-name="T9"> button at the top left of the screen to select the project you want to record.</text:span></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:h text:style-name="P6" text:outline-level="2" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024692"/><text:soft-page-break/><text:span text:style-name="T9">Choose the book and chapter to record</text:span><text:bookmark-end text:name="_Toc459024692"/><text:span text:style-name="T9"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">You can select the book and chapter to record by clicking on the appropriate blue or gray boxes at the top of the screen.</text:span><text:span text:style-name="T9"/></text:p>
+   <text:h text:style-name="P6" text:outline-level="2" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024692"/><text:soft-page-break/><text:span text:style-name="T9">Choisissez le livre et le chapitre pour enregistrer</text:span><text:bookmark-end text:name="_Toc459024692"/><text:span text:style-name="T9"/></text:h>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">Vous pouvez sélectionner le livre et le chapitre à enregistrer en cliquant sur les cases bleues ou grises appropriées en haut de l&apos;écran.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"><draw:frame draw:style-name="fr2" draw:name="Frame9" text:anchor-type="char" svg:x="2.448in" svg:y="0.0654in" svg:width="1.75in" svg:height="0.3138in" draw:z-index="88">
      <draw:text-box>
-      <text:p text:style-name="P3" loext:marker-style-name="T19"><text:span text:style-name="T19">Books</text:span></text:p>
+      <text:p text:style-name="P3" loext:marker-style-name="T19"><text:span text:style-name="T19">Livres</text:span></text:p>
      </draw:text-box>
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="83" draw:name="Shape17" draw:style-name="gr2" draw:text-style-name="P55" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (-2.2162190841824) translate (3.26319444444444in 0.23125in)">
@@ -33389,26 +33392,26 @@
    <text:p text:style-name="P17" loext:marker-style-name="T9"><text:soft-page-break/></text:p>
    <text:p text:style-name="P17" loext:marker-style-name="T9"><draw:frame draw:style-name="fr2" draw:name="Frame10" text:anchor-type="char" svg:x="1.5in" svg:y="0.0854in" svg:width="1.75in" svg:height="0.3138in" draw:z-index="89">
      <draw:text-box>
-      <text:p text:style-name="P3" loext:marker-style-name="T17"><text:span text:style-name="T17">Chapters</text:span></text:p>
+      <text:p text:style-name="P3" loext:marker-style-name="T17"><text:span text:style-name="T17">Chapitres</text:span></text:p>
      </draw:text-box>
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">The top set of boxes represents the books of the Bible, with Old Testament books on the first line of boxes and New Testament books on the second line of boxes. Genesis is the first box on the first line and Revelation is the final box on the second line.</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">L&apos;ensemble de cases supérieur représente les livres de la Bible, avec les livres de l&apos;Ancien Testament sur la première ligne de boîtes et les livres du Nouveau Testament sur la deuxième ligne de boîtes. Genesis est la première boîte de la première ligne et l&apos;Apocalypse est la dernière case de la deuxième ligne.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">The second set of boxes represents the chapters in the selected book. If the book has an introduction, it is the first box. Then comes chapter 1, 2, 3, etc.</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">Le deuxième ensemble de boîtes représente les chapitres du livre sélectionné. Si le livre a une introduction, c&apos;est la première boîte. Puis vient le chapitre 1, 2, 3, etc.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:p text:style-name="P14" loext:marker-style-name="T9"><text:s/></text:p>
-   <text:h text:style-name="P6" text:outline-level="2" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024693"/><text:span text:style-name="T9">Choose the parts of the text you want to record</text:span><text:bookmark-end text:name="_Toc459024693"/><text:span text:style-name="T9"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">Before you start recording you need to decide which parts of the text you want to record. For example, some people like to record the section headings in a Scripture text but other people prefer to omit them and just read the verses.</text:span><text:span text:style-name="T9"/></text:p>
+   <text:h text:style-name="P6" text:outline-level="2" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024693"/><text:span text:style-name="T9">Choisissez les parties du texte que vous voulez enregistrer</text:span><text:bookmark-end text:name="_Toc459024693"/><text:span text:style-name="T9"/></text:h>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">Avant de commencer à enregistrer, vous devez décider quelles parties du texte vous voulez enregistrer. Par exemple, Certaines personnes aiment enregistrer les titres de section dans un texte biblique mais d&apos;autres préfèrent les omettre et lire les versets.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">Section headings are very useful in a printed text, but there are some cases in which they could be less useful in an audio recording. For example:</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">Les titres de section sont très utiles dans un texte imprimé, mais il y a certains cas où ils pourraient être moins utiles dans un enregistrement audio. Par exemple :</text:span><text:span text:style-name="T9"/></text:p>
    <text:list text:style-name="WWNum11">
     <text:list-item>
      <text:p text:style-name="P37" loext:marker-style-name="T9"><text:span text:style-name="T9">where section headings are complete phrases that might sound like they are part of the Scripture text, yet out of order;</text:span><text:span text:style-name="T9"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P37" loext:marker-style-name="T9"><text:span text:style-name="T9">where section headings give away the punch line of the story before the story is told, e.g. “Jesus calms the storm”. You might want new hearers to be drawn into the drama of the story without knowing already how it ends.</text:span><text:span text:style-name="T9"/></text:p>
+     <text:p text:style-name="P37" loext:marker-style-name="T9"><text:span text:style-name="T9">où les rubriques de section donnent la ligne de punch de l’histoire avant que l’histoire ne soit racontée, par exemple « Jésus calme la tempête ». Vous voudrez peut-être que de nouveaux auditeurs soient attirés dans le drame de cette histoire sans savoir déjà comment elle se termine.</text:span><text:span text:style-name="T9"/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9"><text:line-break/> </text:span><text:span text:style-name="T9"/></text:p>
@@ -33416,7 +33419,7 @@
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:list text:style-name="WWNum10">
     <text:list-item>
-     <text:p text:style-name="P38" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">Click the </text:span><text:span text:style-name="T10">Settings</text:span><text:span text:style-name="T9"> button on the top right of the HearThis screen (the one with the spanner icon).</text:span></text:p>
+     <text:p text:style-name="P38" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">Cliquez sur le bouton </text:span><text:span text:style-name="T10">Paramètres</text:span><text:span text:style-name="T9"> en haut à droite de l&apos;écran HearThis (celui avec l&apos;icône de la broche).</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P19" loext:marker-style-name="T9"><text:s/></text:p>
@@ -33426,7 +33429,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:p text:style-name="P26" loext:marker-style-name="T9"><text:span text:style-name="T9">For example, in the screen below, we have checked “s – Heading” which means not to record section headings.</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="P26" loext:marker-style-name="T9"><text:span text:style-name="T9">Par exemple, dans l’écran ci-dessous, nous avons coché “s – Heading” ce qui signifie qu’il ne faut pas enregistrer les en-têtes de section.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:p text:style-name="P7" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="86" draw:name="Shape20" draw:style-name="gr2" draw:text-style-name="P55" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (0.445058959258554) translate (0.71875in 2.08125in)">
      <text:p/>
@@ -33850,7 +33853,7 @@
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum10">
     <text:list-item>
-     <text:p text:style-name="P38" loext:marker-style-name="T9"><text:span text:style-name="T9">Click </text:span><text:span text:style-name="T10">OK</text:span><text:span text:style-name="T9"> to save your selected settings.</text:span></text:p>
+     <text:p text:style-name="P38" loext:marker-style-name="T9"><text:span text:style-name="T9">Cliquez sur </text:span><text:span text:style-name="T10">OK</text:span><text:span text:style-name="T9"> pour enregistrer les paramètres sélectionnés.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
@@ -33858,10 +33861,10 @@
    <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">The phrases you need to record are displayed in the bottom half of the screen:</text:span><text:span text:style-name="T9"/></text:p>
    <text:list text:style-name="WWNum6">
     <text:list-item>
-     <text:p text:style-name="P39" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">The current phrase to record is displayed in YELLOW.</text:span><text:span text:style-name="T9"/></text:p>
+     <text:p text:style-name="P39" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">La phrase courante à enregistrer est affichée en Jaune.</text:span><text:span text:style-name="T9"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P39" loext:marker-style-name="T9"><text:span text:style-name="T9">The phrases displayed in WHITE show you the context of the current phrase, i.e. the phrases that come before and after it.</text:span><text:span text:style-name="T9"/></text:p>
+     <text:p text:style-name="P39" loext:marker-style-name="T9"><text:span text:style-name="T9">Les phrases affichées en WHITE vous montrent le contexte de la phrase courante, c&apos;est-à-dire les phrases qui viennent avant et après.</text:span><text:span text:style-name="T9"/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
@@ -34464,16 +34467,16 @@
       <text:p/>
      </draw:image>
     </draw:frame><text:s/></text:p>
-   <text:p text:style-name="P9" loext:marker-style-name="T18"><text:span text:style-name="T18">The text in yellow is the current phrase to be recorded.</text:span><text:span text:style-name="T18"/></text:p>
+   <text:p text:style-name="P9" loext:marker-style-name="T18"><text:span text:style-name="T18">Le texte en jaune est la phrase courante à enregistrer.</text:span><text:span text:style-name="T18"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"><text:soft-page-break/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">To start recording the current yellow phrase, either:</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">Pour commencer à enregistrer la phrase jaune actuelle, soit :</text:span><text:span text:style-name="T9"/></text:p>
    <text:list text:style-name="WWNum3">
     <text:list-item>
-     <text:p text:style-name="P40" loext:marker-style-name="T9"><text:span text:style-name="T9">press and hold down the SPACE bar, or</text:span><text:span text:style-name="T9"/></text:p>
+     <text:p text:style-name="P40" loext:marker-style-name="T9"><text:span text:style-name="T9">appuyez et maintenez la barre ESACE, ou</text:span><text:span text:style-name="T9"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P40" loext:marker-style-name="T9"><text:span text:style-name="T9">click the round record button and keep the mouse button pressed down.</text:span><text:span text:style-name="T9"/></text:p>
+     <text:p text:style-name="P40" loext:marker-style-name="T9"><text:span text:style-name="T9">cliquez sur le bouton d&apos;enregistrement et maintenez le bouton de la souris enfoncé.</text:span><text:span text:style-name="T9"/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P14" loext:marker-style-name="T9"><text:s/></text:p>
@@ -35639,10 +35642,10 @@
       </office:binary-data>
      </draw:image>
     </draw:frame><text:s/></text:p>
-   <text:p text:style-name="P9" loext:marker-style-name="T18"><text:span text:style-name="T18">The round button is the Record button. Press it and hold it down to record.</text:span><text:span text:style-name="T18"/></text:p>
+   <text:p text:style-name="P9" loext:marker-style-name="T18"><text:span text:style-name="T18">Le bouton Arrondi est le bouton Enregistrer. Appuyez et maintenez-le enfoncé pour enregistrer.</text:span><text:span text:style-name="T18"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">When recording starts, the round button will first turn RED and after a second it will turn GREEN. </text:span><text:span text:style-name="T11">Do not speak until you see the GREEN, otherwise the first part of what you say will be cut off</text:span><text:span text:style-name="T9">. </text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">Au démarrage de l’enregistrement, le bouton rond tournera d’abord ROUGE et, après une seconde, il tournera VERTE. </text:span><text:span text:style-name="T11">Ne parlez pas jusqu&apos;à ce que vous voyez le VERT, sinon la première partie de ce que vous dites sera coupée</text:span><text:span text:style-name="T9">. </text:span></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:p text:style-name="P7" loext:marker-style-name="T9"><text:soft-page-break/><draw:frame text:anchor-type="as-char" draw:z-index="95" draw:name="Shape24" draw:style-name="gr1" draw:text-style-name="P54" svg:width="1.5106in" svg:height="0.6878in">
      <draw:image draw:mime-type="image/x-emf">
@@ -36785,7 +36788,7 @@
       </office:binary-data>
      </draw:image>
     </draw:frame><text:s/></text:p>
-   <text:p text:style-name="P9" loext:marker-style-name="T18"><text:span text:style-name="T18">The Record button turns red when you first press it.</text:span><text:span text:style-name="T18"/></text:p>
+   <text:p text:style-name="P9" loext:marker-style-name="T18"><text:span text:style-name="T18">Le bouton Enregistrer devient rouge lorsque vous appuyez pour la première fois.</text:span><text:span text:style-name="T18"/></text:p>
    <text:p text:style-name="P17" loext:marker-style-name="T9"/>
    <text:p text:style-name="P10" loext:marker-style-name="T9"><draw:frame text:anchor-type="as-char" draw:z-index="96" draw:name="Shape25" draw:style-name="gr1" draw:text-style-name="P54" svg:width="1.5106in" svg:height="0.6878in">
      <draw:image draw:mime-type="image/x-emf">
@@ -37944,38 +37947,38 @@
       </office:binary-data>
      </draw:image>
     </draw:frame><text:s/></text:p>
-   <text:p text:style-name="P9" loext:marker-style-name="T18"><text:span text:style-name="T18">After a second of holding down the button, it turns green indicating that you can begin speaking.</text:span><text:span text:style-name="T18"/></text:p>
+   <text:p text:style-name="P9" loext:marker-style-name="T18"><text:span text:style-name="T18">Après une seconde enfoncé le bouton, il devient vert indiquant que vous pouvez commencer à parler.</text:span><text:span text:style-name="T18"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:p text:style-name="P14" loext:marker-style-name="T9"><text:soft-page-break/></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">When you have finished speaking, release the space bar or mouse button. Try to do this as quietly as possible so you don’t get a click in the recording.</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">Lorsque vous avez fini de parler, relâchez la barre d&apos;espace ou le bouton de la souris. Essayez de le faire aussi discrètement que possible pour ne pas avoir de clic dans l’enregistrement.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">To listen to the phrase you have just recorded, either:</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">Pour écouter la phrase que vous venez d&apos;enregistrer, soit</text:span><text:span text:style-name="T9"/></text:p>
    <text:list text:style-name="WWNum5">
     <text:list-item>
-     <text:p text:style-name="P41" loext:marker-style-name="T9"><text:span text:style-name="T9">click on the PLAY button, or</text:span><text:span text:style-name="T9"/></text:p>
+     <text:p text:style-name="P41" loext:marker-style-name="T9"><text:span text:style-name="T9">cliquez sur le bouton JOUER, ou</text:span><text:span text:style-name="T9"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P41" loext:marker-style-name="T9"><text:span text:style-name="T9">press the . (period) key.</text:span><text:span text:style-name="T9"/></text:p>
+     <text:p text:style-name="P41" loext:marker-style-name="T9"><text:span text:style-name="T9">appuyez sur le . clé (période)</text:span><text:span text:style-name="T9"/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P14" loext:marker-style-name="T9"><text:soft-page-break/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">Do you like what you have recorded? </text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">Aimez-vous ce que vous avez enregistré ? </text:span><text:span text:style-name="T9"/></text:p>
    <text:list text:style-name="WWNum4">
     <text:list-item>
-     <text:p text:style-name="P42" loext:marker-style-name="T9"><text:span text:style-name="T9">If </text:span><text:span text:style-name="T11">yes</text:span><text:span text:style-name="T9">, continue to the next phrase by clicking the Right arrow or using the right arrow key.</text:span></text:p>
+     <text:p text:style-name="P42" loext:marker-style-name="T9"><text:span text:style-name="T9">Si </text:span><text:span text:style-name="T11">oui</text:span><text:span text:style-name="T9">, continuez vers la phrase suivante en cliquant sur la flèche droite ou en utilisant la touche fléchée droite.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P42" loext:marker-style-name="T9"><text:span text:style-name="T9">If </text:span><text:span text:style-name="T11">no</text:span><text:span text:style-name="T9">, rerecord the same phrase by clicking on the record button again. Your previous recording of this phrase will be deleted.</text:span></text:p>
+     <text:p text:style-name="P42" loext:marker-style-name="T9"><text:span text:style-name="T9">If </text:span><text:span text:style-name="T11">no</text:span><text:span text:style-name="T9">, rerecord the same phrase by clicking on the record button again. Votre enregistrement précédent de cette phrase sera supprimé.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">Follow these steps for each phrase in the chapter. </text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">Suivez ces étapes pour chaque phrase du chapitre. </text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">You don’t need to listen to each phase after recording it unless you want to. Listening to a recorded phrase can be helpful if you are not sure whether or not you were fluent enough or whether you pronounced all the words with the right expression.</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">Vous n’avez pas besoin d’écouter chaque phase après l’enregistrement, sauf si vous le souhaitez. Écouter une phrase enregistrée peut être utile si vous ne savez pas si vous avez été suffisamment parlant ou si vous avez prononcé tous les mots avec la bonne expression.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">As you record each verse you will see a small horizontal blue line appear the Verse selector. To go back to a verse, click on one of these blue lines.</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">Au fur et à mesure que vous enregistrez chaque verset, vous verrez une petite ligne horizontale bleue apparaître le sélecteur de verset. Pour revenir à un verset, cliquez sur l&apos;une de ces lignes bleues.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"><text:soft-page-break/></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="89" draw:name="Shape26" draw:style-name="gr2" draw:text-style-name="P55" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (1.03759824031063) translate (0.727083333333333in 0.979166666666667in)">
      <text:p/>
@@ -37992,7 +37995,7 @@
      </draw:enhanced-geometry>
     </draw:custom-shape><text:s/><draw:frame draw:style-name="fr2" draw:name="Frame11" text:anchor-type="char" svg:x="0.0008in" svg:y="1.0244in" svg:width="1.75in" svg:height="0.3138in" draw:z-index="93">
      <draw:text-box>
-      <text:p text:style-name="P3" loext:marker-style-name="T17"><text:span text:style-name="T17">Verses already recorded</text:span></text:p>
+      <text:p text:style-name="P3" loext:marker-style-name="T17"><text:span text:style-name="T17">Versets déjà enregistrés</text:span></text:p>
      </draw:text-box>
     </draw:frame><text:s/><draw:frame text:anchor-type="as-char" draw:z-index="0" draw:name="Shape27" draw:style-name="gr1" draw:text-style-name="P54" svg:width="5.9898in" svg:height="0.615in">
      <draw:image draw:mime-type="image/x-emf">
@@ -43648,16 +43651,16 @@
       </office:binary-data>
      </draw:image>
     </draw:frame><text:s/></text:p>
-   <text:h text:style-name="P4" text:outline-level="1" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024695"/><text:span text:style-name="T9">Publishing audio for use in Scripture App Builder</text:span><text:bookmark-end text:name="_Toc459024695"/><text:span text:style-name="T9"/></text:h>
+   <text:h text:style-name="P4" text:outline-level="1" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024695"/><text:span text:style-name="T9">Publication audio pour utilisation dans le constructeur d&apos;applications bibliques</text:span><text:bookmark-end text:name="_Toc459024695"/><text:span text:style-name="T9"/></text:h>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">HearThis records each phrase in a separate file. In order for your recording to be usable by Scripture App Builder, you need to “publish” the recording. In the publishing process, HearThis will do two things:</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">HearThis enregistre chaque phrase dans un fichier séparé. Pour que votre enregistrement soit utilisable par le constructeur d&apos;applications bibliques, vous devez « publier » l&apos;enregistrement. Dans le processus de publication, HearThis fera deux choses:</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:list text:style-name="WWNum7">
     <text:list-item>
-     <text:p text:style-name="P43" loext:marker-style-name="T9"><text:span text:style-name="T9">It will concatenate all the recorded phrases together in separate MP3 audio files for each chapter.</text:span><text:span text:style-name="T9"/></text:p>
+     <text:p text:style-name="P43" loext:marker-style-name="T9"><text:span text:style-name="T9">Il concaténera toutes les phrases enregistrées ensemble dans des fichiers audio MP3 séparés pour chaque chapitre.</text:span><text:span text:style-name="T9"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44" loext:marker-style-name="T9"><text:span text:style-name="T9">It will create timing files for each chapter, the files that Scripture App Builder needs for the audio-text synchronization.</text:span><text:span text:style-name="T9"/></text:p>
+     <text:p text:style-name="P44" loext:marker-style-name="T9"><text:span text:style-name="T9">Il créera des fichiers chronométrés pour chaque chapitre, les fichiers dont le constructeur d&apos;applications bibliques a besoin pour la synchronisation du texte audio.</text:span><text:span text:style-name="T9"/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P14" loext:marker-style-name="T9"><text:soft-page-break/></text:p>
@@ -43666,11 +43669,11 @@
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:list text:style-name="WWNum9">
     <text:list-item>
-     <text:p text:style-name="P45" loext:marker-style-name="T9"><text:span text:style-name="T9">Click the </text:span><text:span text:style-name="T10">Publish</text:span><text:span text:style-name="T9"> button at the top right of the HearThis screen.</text:span></text:p>
+     <text:p text:style-name="P45" loext:marker-style-name="T9"><text:span text:style-name="T9">Cliquez sur le bouton </text:span><text:span text:style-name="T10">Publier</text:span><text:span text:style-name="T9"> en haut à droite de l&apos;écran HearThis .</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P14" loext:marker-style-name="T9"><text:s/></text:p>
-   <text:p text:style-name="P26" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">The Publish Sound Files window will appear.</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="P26" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">La fenêtre Publier les fichiers sonores apparaîtra.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P15" loext:marker-style-name="T9"/>
    <text:p text:style-name="P15" loext:marker-style-name="T9"/>
    <text:p text:style-name="P7" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="82" draw:name="Shape28" draw:style-name="gr2" draw:text-style-name="P55" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (-2.78083309720257) translate (5.92291666666667in 0.773611111111111in)">
@@ -44238,16 +44241,16 @@
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum9">
     <text:list-item>
-     <text:p text:style-name="P45" loext:marker-style-name="T9"><text:span text:style-name="T9">Click the </text:span><text:span text:style-name="T10">Publish</text:span><text:span text:style-name="T9"> button.</text:span></text:p>
+     <text:p text:style-name="P45" loext:marker-style-name="T9"><text:span text:style-name="T9">Cliquez sur le bouton </text:span><text:span text:style-name="T10">Publiez</text:span><text:span text:style-name="T9"> .</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
-   <text:p text:style-name="P26" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">HearThis will work on joining the recorded audio clips together and producing the timing files for audio-text synchronization.</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="P26" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">HearThis travaillera à relier les clips audio enregistrés et à produire les fichiers chronométrés pour la synchronisation du texte audio.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P15" loext:marker-style-name="T9"/>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum9">
     <text:list-item>
-     <text:p text:style-name="P45" loext:marker-style-name="T9"><text:span text:style-name="T9">When the process is completed, you should see “Done” in the message box and a link to the output files in the Destination folder. Click on the Destination link to see the files.</text:span><text:span text:style-name="T9"/></text:p>
+     <text:p text:style-name="P45" loext:marker-style-name="T9"><text:span text:style-name="T9">Lorsque le processus est terminé, vous devriez voir « Terminé » dans la boîte de message et un lien vers les fichiers de sortie dans le dossier Destination. Cliquez sur le lien Destination pour voir les fichiers.</text:span><text:span text:style-name="T9"/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P14" loext:marker-style-name="T9"/>
@@ -44910,49 +44913,49 @@
    <text:p text:style-name="P17" loext:marker-style-name="T9"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum9">
     <text:list-item>
-     <text:p text:style-name="P45" loext:marker-style-name="T9"><text:span text:style-name="T9">Use Windows Explorer to look in the output folders. You should see two files for each chapter: </text:span><text:span text:style-name="T9"/></text:p>
+     <text:p text:style-name="P45" loext:marker-style-name="T9"><text:span text:style-name="T9">Utilisez l&apos;explorateur Windows pour regarder dans les dossiers de sortie. Vous devriez voir deux fichiers pour chaque chapitre : </text:span><text:span text:style-name="T9"/></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P46" loext:marker-style-name="T9"><text:span text:style-name="T9">the </text:span><text:span text:style-name="T10">audio MP3 file</text:span><text:span text:style-name="T9">, with a name such as XYZ-GEN-001.mp3, where XYZ is the Paratext project code and GEN is the code for the book of the Bible, in this case Genesis.</text:span></text:p>
+       <text:p text:style-name="P46" loext:marker-style-name="T9"><text:span text:style-name="T9">le </text:span><text:span text:style-name="T10">fichier audio MP3</text:span><text:span text:style-name="T9">, avec un nom tel que XYZ-GEN-001. p3, où XYZ est le code du projet Paratext et GEN est le code du livre de la Bible, dans ce cas Genesis.</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P46" loext:marker-style-name="T9"><text:span text:style-name="T9">the corresponding </text:span><text:span text:style-name="T10">timing file</text:span><text:span text:style-name="T9">, with a name such as XYZ-GEN-001.txt.</text:span></text:p>
+       <text:p text:style-name="P46" loext:marker-style-name="T9"><text:span text:style-name="T9">le fichier de timing </text:span><text:span text:style-name="T10">correspondant</text:span><text:span text:style-name="T9">, avec un nom tel que XYZ-GEN-001.txt.</text:span></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P21" loext:marker-style-name="T9"/>
-   <text:p text:style-name="P28" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">These are the files you need to add to you app project within Scripture App Builder. See the next sections for more details.</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">Ce sont les fichiers que vous devez ajouter à votre projet d&apos;application dans le constructeur d&apos;applications Scripture. Voir les sections suivantes pour plus de détails.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P16" loext:marker-style-name="T9"/>
-   <text:h text:style-name="P4" text:outline-level="1" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024696"/><text:span text:style-name="T9">Listen to your audio and make any edits if necessary</text:span><text:bookmark-end text:name="_Toc459024696"/><text:span text:style-name="T9"/></text:h>
-   <text:h text:style-name="P6" text:outline-level="2" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024697"/><text:span text:style-name="T9">Listening for errors</text:span><text:bookmark-end text:name="_Toc459024697"/><text:span text:style-name="T9"/></text:h>
-   <text:p text:style-name="P47" loext:marker-style-name="T9"><text:span text:style-name="T9">After HearThis has generated the audio files for each chapter, it is a good idea to play them and listen carefully to check that there are no problems. The best way of doing this is to wear headphones so you can pick up any unwanted sounds that you might not be able to hear through your computer speakers.</text:span><text:span text:style-name="T9"/></text:p>
+   <text:h text:style-name="P4" text:outline-level="1" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024696"/><text:span text:style-name="T9">Écoutez votre audio et faites n&apos;importe quelle modification si nécessaire</text:span><text:bookmark-end text:name="_Toc459024696"/><text:span text:style-name="T9"/></text:h>
+   <text:h text:style-name="P6" text:outline-level="2" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024697"/><text:span text:style-name="T9">Écoute des erreurs</text:span><text:bookmark-end text:name="_Toc459024697"/><text:span text:style-name="T9"/></text:h>
+   <text:p text:style-name="P47" loext:marker-style-name="T9"><text:span text:style-name="T9">Après que HearThis ait généré les fichiers audio pour chaque chapitre, C&apos;est une bonne idée de les jouer et d&apos;écouter attentivement pour vérifier qu&apos;il n&apos;y a pas de problèmes. La meilleure façon de le faire est de porter des écouteurs pour que vous puissiez capturer tous les sons indésirables que vous ne pourrez peut-être pas entendre à travers les haut-parleurs de votre ordinateur.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P21" loext:marker-style-name="T9"/>
    <text:p text:style-name="P47" loext:marker-style-name="T9"><text:span text:style-name="T9">To play an MP3 audio file on your computer:</text:span><text:span text:style-name="T9"/></text:p>
    <text:list text:style-name="WWNum14">
     <text:list-item>
-     <text:p text:style-name="P48" loext:marker-style-name="T9"><text:span text:style-name="T9">Select the file you want to play in Windows Explorer.</text:span><text:span text:style-name="T9"/></text:p>
+     <text:p text:style-name="P48" loext:marker-style-name="T9"><text:span text:style-name="T9">Sélectionnez le fichier que vous voulez lire dans l&apos;explorateur Windows.</text:span><text:span text:style-name="T9"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P48" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">Double-click it to play it with your default Media Player.</text:span><text:span text:style-name="T9"/></text:p>
+     <text:p text:style-name="P48" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">Double-cliquez dessus pour le lire avec votre lecteur multimédia par défaut.</text:span><text:span text:style-name="T9"/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P21" loext:marker-style-name="T9"/>
-   <text:p text:style-name="P47" loext:marker-style-name="T9"><text:span text:style-name="T9">It is often the case that you will find some small edits you need to make before you can make the audio available to others.</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="P47" loext:marker-style-name="T9"><text:span text:style-name="T9">Il arrive souvent que vous trouviez quelques petites modifications que vous devez faire avant de pouvoir mettre l&apos;audio à la disposition des autres.</text:span><text:span text:style-name="T9"/></text:p>
    <text:list text:style-name="WWNum13">
     <text:list-item>
-     <text:p text:style-name="P49" loext:marker-style-name="T9"><text:span text:style-name="T9">If the edits are </text:span><text:span text:style-name="T10">errors in reading to correct</text:span><text:span text:style-name="T9">, it is probably best to go back to HearThis, find the phrase which was read incorrectly and re-record it. After this, follow the process in section 5 (Publishing audio for use in Scripture App Builder) to produce the MP3 files again.</text:span></text:p>
+     <text:p text:style-name="P49" loext:marker-style-name="T9"><text:span text:style-name="T9">If the edits are </text:span><text:span text:style-name="T10">errors in reading to correct</text:span><text:span text:style-name="T9">, it is probably best to go back to HearThis, find the phrase which was read incorrectly and re-record it. Après cela, suivez le processus dans la section 5 (Publication de l&apos;audio à utiliser dans le générateur d&apos;applications bibliques) pour produire les fichiers MP3 à nouveau.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P49" loext:marker-style-name="T9"><text:span text:style-name="T9">If the edits are </text:span><text:span text:style-name="T10">short background noises</text:span><text:span text:style-name="T9"> </text:span><text:span text:style-name="T10">to remove</text:span><text:span text:style-name="T9"> or if you want to </text:span><text:span text:style-name="T10">make pauses between phrases longer or shorter </text:span><text:span text:style-name="T9">you might be able to make these changes in the Audacity audio editing program without re-recording anything. But if you hear short background noises at the same time as someone is speaking (such as dogs barking, doors slamming), it would be best to go back to HearThis and re-record the affected sections.</text:span></text:p>
+     <text:p text:style-name="P49" loext:marker-style-name="T9"><text:span text:style-name="T9">If the edits are </text:span><text:span text:style-name="T10">short background noises</text:span><text:span text:style-name="T9"> </text:span><text:span text:style-name="T10">to remove</text:span><text:span text:style-name="T9"> or if you want to </text:span><text:span text:style-name="T10">make pauses between phrases longer or shorter </text:span><text:span text:style-name="T9">you might be able to make these changes in the Audacity audio editing program without re-recording anything. Mais si vous entendez de courtes bruits de fond en même temps que quelqu&apos;un parle (comme l&apos;écorcement des chiens, Il serait préférable de retourner à HearThis et de recenser les sections affectées.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P21" loext:marker-style-name="T9"><text:s/></text:p>
-   <text:h text:style-name="P6" text:outline-level="2" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024698"/><text:soft-page-break/><text:span text:style-name="T9">Editing audio files using Audacity</text:span><text:bookmark-end text:name="_Toc459024698"/><text:span text:style-name="T9"/></text:h>
+   <text:h text:style-name="P6" text:outline-level="2" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024698"/><text:soft-page-break/><text:span text:style-name="T9">Édition de fichiers audio en utilisant Audacity</text:span><text:bookmark-end text:name="_Toc459024698"/><text:span text:style-name="T9"/></text:h>
    <text:p text:style-name="P47" loext:marker-style-name="T9"><text:span text:style-name="T9">To edit files generated by HearThis in Audacity:</text:span><text:span text:style-name="T9"/></text:p>
    <text:list text:style-name="WWNum15">
     <text:list-item>
-     <text:p text:style-name="P50" loext:marker-style-name="T9"><text:span text:style-name="T9">Launch </text:span><text:span text:style-name="T10">Audacity</text:span><text:span text:style-name="T9">. If you don’t already have it installed on your computer you can download it here:</text:span></text:p>
+     <text:p text:style-name="P50" loext:marker-style-name="T9"><text:span text:style-name="T9">Lancez </text:span><text:span text:style-name="T10">Audacity</text:span><text:span text:style-name="T9">. Si vous ne l&apos;avez pas déjà installé sur votre ordinateur, vous pouvez le télécharger ici :</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P32" loext:marker-style-name="T9"><text:a xlink:type="simple" xlink:href="http://www.audacityteam.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">http://www.audacityteam.org</text:span></text:a> <text:span text:style-name="T9"><text:line-break/></text:span></text:p>
@@ -45093,29 +45096,29 @@
    <text:p text:style-name="P22" loext:marker-style-name="T9"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum15">
     <text:list-item>
-     <text:p text:style-name="P50" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">Select </text:span><text:span text:style-name="T10">File</text:span><text:span text:style-name="T9"> </text:span><text:span text:style-name="T23"></text:span><text:span text:style-name="T7"> </text:span><text:span text:style-name="T10">Open…</text:span><text:span text:style-name="T9"> on the main menu and find the audio MP3 file you want to edit. Click </text:span><text:span text:style-name="T10">Open</text:span><text:span text:style-name="T9"> when you have selected the filename.</text:span></text:p>
+     <text:p text:style-name="P50" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">Sélectionner </text:span><text:span text:style-name="T10">Fichier</text:span><text:span text:style-name="T9"> </text:span><text:span text:style-name="T10">Ouvrir…</text:span><text:span text:style-name="T9"> dans le menu principal et trouvez le fichier audio MP3 que vous voulez modifier. Cliquez sur </text:span><text:span text:style-name="T10">Ouvrez</text:span><text:span text:style-name="T9"> lorsque vous avez sélectionné le nom du fichier.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P28" loext:marker-style-name="T9"><text:span text:style-name="T9">The audio file will be loaded into Audacity.</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T9"><text:span text:style-name="T9">Le fichier audio sera chargé dans Audacity.</text:span><text:span text:style-name="T9"/></text:p>
    <text:list text:continue-numbering="true" text:style-name="WWNum15">
     <text:list-item>
-     <text:p text:style-name="P50" loext:marker-style-name="T9"><text:span text:style-name="T9">Select </text:span><text:span text:style-name="T10">File</text:span><text:span text:style-name="T9"> </text:span><text:span text:style-name="T23"></text:span><text:span text:style-name="T7"> </text:span><text:span text:style-name="T10">Import Labels…</text:span><text:span text:style-name="T9"> and select and import the corresponding timing text (.txt) file. For example, if you are editing XYZ-GEN-001.mp3, you want to import the labels file XYZ-GEN-001.txt.</text:span></text:p>
+     <text:p text:style-name="P50" loext:marker-style-name="T9"><text:span text:style-name="T9">Sélectionnez </text:span><text:span text:style-name="T10">Fichier</text:span><text:span text:style-name="T9"> </text:span><text:span text:style-name="T10">Importer des étiquettes…</text:span><text:span text:style-name="T9"> et sélectionnez et importez le fichier de timing correspondant (.txt). Par exemple, si vous éditez XYZ-GEN-001.mp3, vous voulez importer le fichier d&apos;étiquettes XYZ-GEN-001.txt.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P28" loext:marker-style-name="T9"><text:span text:style-name="T9">It is important that you edit the MP3 file and its corresponding timing text file together. Otherwise the timing file will get out of synch with any changes you make to the audio.</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="P28" loext:marker-style-name="T9"><text:span text:style-name="T9">Il est important que vous modifiiez ensemble le fichier MP3 et son fichier texte de synchronisation correspondant. Dans le cas contraire, le fichier de chronométrage ne sera plus synchronisé avec les modifications apportées à l&apos;audio.</text:span><text:span text:style-name="T9"/></text:p>
    <text:list text:continue-numbering="true" text:style-name="WWNum15">
     <text:list-item>
-     <text:p text:style-name="P50" loext:marker-style-name="T9"><text:span text:style-name="T9">Make sure </text:span><text:span text:style-name="T10">Tracks</text:span><text:span text:style-name="T9"> </text:span><text:span text:style-name="T23"></text:span><text:span text:style-name="T7"> </text:span><text:span text:style-name="T10">Sync-Lock Tracks</text:span><text:span text:style-name="T9"> is selected. This will ensure that the audio and label tracks are locked together and that when you delete a section from the audio track, a corresponding section is deleted from the label track. Or when you add a section to the audio track, a corresponding section is added to the label track.</text:span></text:p>
+     <text:p text:style-name="P50" loext:marker-style-name="T9"><text:span text:style-name="T9">Assurez-vous que </text:span><text:span text:style-name="T10">Tracks</text:span><text:span text:style-name="T9"> </text:span><text:span text:style-name="T23">&lt;unk&gt;</text:span><text:span text:style-name="T7"> </text:span><text:span text:style-name="T10">Tracks de Verrouillage synchronisé</text:span><text:span text:style-name="T9"> est sélectionné. Cela permettra de s&apos;assurer que les pistes audio et d&apos;étiquette sont verrouillées ensemble et que lorsque vous supprimez une section de la piste audio, une section correspondante est supprimée de l&apos;étiquette. Ou lorsque vous ajoutez une section à la piste audio, une section correspondante est ajoutée à l&apos;étiquette.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P50" loext:marker-style-name="T9"><text:span text:style-name="T9">Make the edits you need to, e.g. deleting clicks, adjusting the length of pauses, etc.</text:span><text:span text:style-name="T9"/></text:p>
+     <text:p text:style-name="P50" loext:marker-style-name="T9"><text:span text:style-name="T9">Faites les modifications dont vous avez besoin, par exemple supprimer les clics, ajuster la longueur des pauses, etc.</text:span><text:span text:style-name="T9"/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P20" loext:marker-style-name="T9"><text:soft-page-break/></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T9"><text:span text:style-name="T9">When you have finished editing remember to export both the audio and timings files:</text:span><text:span text:style-name="T9"/></text:p>
    <text:list text:continue-numbering="true" text:style-name="WWNum15">
     <text:list-item>
-     <text:p text:style-name="P50" loext:marker-style-name="T9"><text:span text:style-name="T9">Export the audio file, using </text:span><text:span text:style-name="T10">File</text:span><text:span text:style-name="T9"> </text:span><text:span text:style-name="T23"></text:span><text:span text:style-name="T7"> </text:span><text:span text:style-name="T5">Export Audio…</text:span><text:span text:style-name="T7">, choosing to Save as type </text:span><text:span text:style-name="T5">MP3 Files</text:span><text:span text:style-name="T7">. </text:span></text:p>
+     <text:p text:style-name="P50" loext:marker-style-name="T9"><text:span text:style-name="T9">Export the audio file, using </text:span><text:span text:style-name="T10">File</text:span><text:span text:style-name="T9"> </text:span><text:span text:style-name="T23"></text:span><text:span text:style-name="T7"> </text:span><text:span text:style-name="T5">Export Audio…</text:span><text:span text:style-name="T7">, en choisissant de sauvegarder sous le type </text:span><text:span text:style-name="T5">Fichiers MP3</text:span><text:span text:style-name="T7">. </text:span></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P50" loext:marker-style-name="T9"><text:span text:style-name="T7">Export the timing labels file, using </text:span><text:span text:style-name="T5">File</text:span><text:span text:style-name="T7"> </text:span><text:span text:style-name="T23"></text:span><text:span text:style-name="T7"> </text:span><text:span text:style-name="T5">Export Labels…</text:span></text:p>
@@ -45126,21 +45129,21 @@
    <text:p text:style-name="P47" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">If you are new to Audacity, a free manual for beginners can be found here:<text:line-break/></text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P47" loext:marker-style-name="T12"><text:span text:style-name="T12">How to do Recording on your Computer: A Beginner&apos;s Guide to Audacity</text:span><text:span text:style-name="T12"/></text:p>
    <text:p text:style-name="P47" loext:marker-style-name="T9"><text:a xlink:type="simple" xlink:href="http://www.scripture-engagement.org/content/how-do-recording-your-computer" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T9">http://www.scripture-engagement.org/content/how-do-recording-your-computer</text:span></text:span></text:a><text:span text:style-name="T9"> </text:span></text:p>
-   <text:h text:style-name="P4" text:outline-level="1" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024699"/><text:span text:style-name="T9">Using HearThis generated files in Scripture App Builder</text:span><text:bookmark-end text:name="_Toc459024699"/><text:span text:style-name="T9"/></text:h>
+   <text:h text:style-name="P4" text:outline-level="1" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024699"/><text:span text:style-name="T9">En utilisant les fichiers générés par HearThis dans le constructeur d&apos;applications bibliques</text:span><text:bookmark-end text:name="_Toc459024699"/><text:span text:style-name="T9"/></text:h>
    <text:p text:style-name="P21" loext:marker-style-name="T9"/>
    <text:p text:style-name="P47" loext:marker-style-name="T9"><text:span text:style-name="T9">To use the audio MP3 and timing files from HearThis to build an app in Scripture App Builder, do the following:<text:line-break/></text:span><text:span text:style-name="T9"/></text:p>
    <text:list text:style-name="WWNum12">
     <text:list-item>
-     <text:p text:style-name="P51" loext:marker-style-name="T9"><text:span text:style-name="T9">Create a new app project in Scripture App Builder or open an existing app project.</text:span><text:span text:style-name="T9"/></text:p>
+     <text:p text:style-name="P51" loext:marker-style-name="T9"><text:span text:style-name="T9">Créez un nouveau projet d&apos;application dans Scripture App Builder ou ouvrez un projet d&apos;application existant.</text:span><text:span text:style-name="T9"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P52" loext:marker-style-name="T9"><text:span text:style-name="T9">Ensure the project contains the Scripture books you need.</text:span><text:span text:style-name="T9"/></text:p>
+     <text:p text:style-name="P52" loext:marker-style-name="T9"><text:span text:style-name="T9">Assurez-vous que le projet contient les livres bibliques dont vous avez besoin.</text:span><text:span text:style-name="T9"/></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P52" loext:marker-style-name="T9"><text:span text:style-name="T9">Go to the </text:span><text:span text:style-name="T10">Audio Files</text:span><text:span text:style-name="T9"> page of the book collection.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P52" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">Click the </text:span><text:span text:style-name="T10">Add Audio…</text:span><text:span text:style-name="T9"> button and select all of the audio </text:span><text:span text:style-name="T11">and</text:span><text:span text:style-name="T9"> timing files from the HearThis output, i.e. the MP3 and the TXT files.</text:span></text:p>
+     <text:p text:style-name="P52" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">Cliquez sur </text:span><text:span text:style-name="T10">Ajouter un Audio…</text:span><text:span text:style-name="T9"> et sélectionnez tous les fichiers de synchronisation audio </text:span><text:span text:style-name="T11">et</text:span><text:span text:style-name="T9"> à partir de la sortie HearThe, i. . le MP3 et les fichiers TXT.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P11" loext:marker-style-name="T9"><draw:frame text:anchor-type="as-char" draw:z-index="98" draw:name="Shape34" draw:style-name="gr1" draw:text-style-name="P54" svg:width="5.9898in" svg:height="3.7606in">
@@ -45950,13 +45953,13 @@
    <text:p text:style-name="P18" loext:marker-style-name="T9"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum12">
     <text:list-item>
-     <text:p text:style-name="P52" loext:marker-style-name="T9"><text:span text:style-name="T9">Go to the </text:span><text:span text:style-name="T10">Audio Distribution</text:span><text:span text:style-name="T9"> page of the book collection and choose the method of distributing the audio. The default is “Package inside the APK file”.</text:span></text:p>
+     <text:p text:style-name="P52" loext:marker-style-name="T9"><text:span text:style-name="T9">Go to the </text:span><text:span text:style-name="T10">Audio Distribution</text:span><text:span text:style-name="T9"> page of the book collection and choose the method of distributing the audio. La valeur par défaut est « Paquet à l&apos;intérieur du fichier APK ».</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P23" loext:marker-style-name="T9"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum12">
     <text:list-item>
-     <text:p text:style-name="P52" loext:marker-style-name="T9"><text:span text:style-name="T9">Go to the </text:span><text:span text:style-name="T10">Features </text:span><text:span text:style-name="T23"></text:span><text:span text:style-name="T9"> </text:span><text:span text:style-name="T10">Audio page</text:span><text:span text:style-name="T9"> and specify the phrase-ending characters to correspond to the phrase-ending characters HearThis used. <text:line-break/><text:line-break/></text:span><text:span text:style-name="T11">Important:</text:span><text:span text:style-name="T9"> By default HearThis uses sentence-ending characters (full stop/period, question mark, exclamation mark), but it does not split phrases by commas in the middle of sentences. So you will need to delete the comma if it you see it on the SAB features page – otherwise your text and audio will not be synchronized correctly.<text:line-break/></text:span></text:p>
+     <text:p text:style-name="P52" loext:marker-style-name="T9"><text:span text:style-name="T9">Go to the </text:span><text:span text:style-name="T10">Features </text:span><text:span text:style-name="T23"></text:span><text:span text:style-name="T9"> </text:span><text:span text:style-name="T10">Audio page</text:span><text:span text:style-name="T9"> and specify the phrase-ending characters to correspond to the phrase-ending characters HearThis used. <text:line-break/><text:line-break/></text:span><text:span text:style-name="T11">Important :</text:span><text:span text:style-name="T9"> Par défaut HearThis utilise des caractères de fin de phrase (arrêt complet / période , point d&apos;exclamation), mais il ne divise pas les phrases par des virgules au milieu des phrases. Vous devrez donc supprimer la virgule si vous la voyez sur la page des fonctionnalités SAB – sinon votre texte et votre audio ne seront pas synchronisés correctement.<text:line-break/></text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P9" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="90" draw:name="Shape35" draw:style-name="gr2" draw:text-style-name="P55" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (-2.78083309720257) translate (5.54791666666667in 1.85486111111111in)">
@@ -46780,7 +46783,7 @@
    <text:p text:style-name="P21" loext:marker-style-name="T9"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum12">
     <text:list-item>
-     <text:p text:style-name="P53" loext:marker-style-name="T9"><text:span text:style-name="T9">Build your app and try it out!</text:span><text:span text:style-name="T9"/></text:p>
+     <text:p text:style-name="P53" loext:marker-style-name="T9"><text:span text:style-name="T9">Construisez votre application et essayez-la !</text:span><text:span text:style-name="T9"/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P21" loext:marker-style-name="T9"/>
