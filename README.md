@@ -103,6 +103,6 @@ Second the workflow will generate a an artifact comprised of all the pdfs of one
 asjdlfksdf;ljkalsdkjf;lkajsl;dfj
 
 <img src="README_pics/Screenshot_20260720_140218.png" width="400" height="800" />
-<img src="README_pics/Screenshot_20260720_140247.png" width="400" height="800" />
-<img src="README_pics/Screenshot_20260720_140338.png" width="400" height="800" />
+<img src="README_pics/Screenshot_20260720_140247.png" width="300" height="600" />
+<img src="README_pics/Screenshot_20260720_140338.png" width="800" height="1600" />
 <img src="README_pics/Screenshot_20260720_140405.png" width="400" height="800" />
