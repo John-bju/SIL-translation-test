@@ -80,14 +80,11 @@ jobs:
           dirs="$(ls docs/)"
           for dir in $dirs; do
             find images -type f -name "*" | while read file; do
-              #echo "Converting $file"
               outdir="$(dirname "$file")"
               outdir2="$(dirname "$outdir")"
               project_dirname="$(basename "$outdir")"
               project_dirname2="$(basename "$outdir2")"
-              #mkdir -p docs/$dir/fodt/$project_dirname || echo folder already exists, skipping
-              echo $outdir docs/$dir/fodt/$project_dirname2
-              cp -fr $outdir docs/$dir/fodt/$project_dirname2
+              cp -fr $outdir docs/$dir/fodt/$project_dirname2 && echo copied $outdir to docs/$dir/fodt/$project_dirname2
             done
           done
 
@@ -138,7 +135,7 @@ jobs:
           name: english-pdfs
           path: docs-en/pdf
 
-      - name: Upload PDFs as artifact
+      - name: Upload non-EN PDFs as artifact
         uses: actions/upload-artifact@v4
         with:
           name: non-english-pdfs
