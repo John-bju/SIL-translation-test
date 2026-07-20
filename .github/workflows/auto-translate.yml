@@ -86,7 +86,6 @@ jobs:
               project_dirname="$(basename "$outdir")"
               project_dirname2="$(basename "$outdir2")"
               #mkdir -p docs/$dir/fodt/$project_dirname || echo folder already exists, skipping
-              echo $dir $project_dirname $outdir $file $outdir2
               cp -fr $outdir docs/$dir/fodt/$project_dirname2
             done
           done
@@ -135,14 +134,14 @@ jobs:
       - name: Upload EN PDFs as artifact
         uses: actions/upload-artifact@v4
         with:
-          name: converted-pdfs
+          name: english-pdfs
           path: docs-en/pdf
 
       - name: Upload PDFs as artifact
         uses: actions/upload-artifact@v4
         with:
-          name: converted-pdfs
-          path: docs/fr-FR/pdf
+          name: non-english-pdfs
+          path: docs/
           
       - name: Commit and push (git)
         run: | 
