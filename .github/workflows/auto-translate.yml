@@ -80,12 +80,13 @@ jobs:
           dirs="$(ls docs/)"
           for dir in $dirs; do
             find images -type f -name "*" | while read file; do
-              echo "Converting $file"
+              #echo "Converting $file"
               outdir="$(dirname "$file")"
               outdir2="$(dirname "$outdir")"
               project_dirname="$(basename "$outdir")"
               project_dirname2="$(basename "$outdir2")"
               #mkdir -p docs/$dir/fodt/$project_dirname || echo folder already exists, skipping
+              echo $outdir docs/$dir/fodt/$project_dirname2
               cp -fr $outdir docs/$dir/fodt/$project_dirname2
             done
           done
