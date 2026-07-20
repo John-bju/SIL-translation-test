@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:title>Scripture App Builder: Creating Slideshow Videos</dc:title>
+ <office:meta><dc:title>Éditeur d&apos;applications bibliques : Création de vidéos diaporamas</dc:title>
 <meta:initial-creator>Richard Margetts</meta:initial-creator><meta:editing-cycles>30</meta:editing-cycles><meta:print-date>2021-12-06T16:58:00</meta:print-date><meta:creation-date>2022-08-29T17:34:00</meta:creation-date><dc:date>2026-06-03T14:02:43.705362923</dc:date><meta:editing-duration>PT6M28S</meta:editing-duration><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="11" meta:object-count="0" meta:page-count="21" meta:paragraph-count="107" meta:word-count="1056" meta:character-count="6262" meta:non-whitespace-character-count="5298"/>
 <meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
@@ -96,7 +96,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -120,7 +120,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">6591593</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">6770036</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -154,7 +154,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Calibri" fo:font-size="11pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Calibri2" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="DejaVu Sans" style:font-size-complex="11pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -1979,12 +1979,15 @@
    <style:text-properties style:font-name="Wingdings" style:font-name-asian="Wingdings1" style:font-name-complex="Wingdings1" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="T14" style:family="text">
-   <style:text-properties style:font-name-complex="Calibri2" style:font-size-complex="12pt"/>
+   <style:text-properties style:font-name="Wingdings" style:font-name-asian="Wingdings1" style:font-name-complex="Calibri2" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="T15" style:family="text">
-   <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+   <style:text-properties style:font-name-complex="Calibri2" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="T16" style:family="text">
+   <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
    <style:text-properties fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
@@ -3433,7 +3436,7 @@
      </draw:image>
      <svg:desc>Logo
 
-Description automatically generated</svg:desc>
+Description générée automatiquement</svg:desc>
     </draw:frame></text:p>
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P3"><text:s/></text:p>
@@ -3518,9 +3521,9 @@ Description automatically generated</svg:desc>
        Oa5MedmZIoccV8ihfvH/AQOC33XWy7O0AAAAAElFTkSuQmCC
       </office:binary-data>
      </draw:image>
-     <svg:desc>Icon
+     <svg:desc>Icône
 
-Description automatically generated</svg:desc>
+Description générée automatiquement</svg:desc>
     </draw:frame></text:p>
    <text:p text:style-name="P5"/>
    <text:p text:style-name="Standard"/>
@@ -3531,18 +3534,18 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="Standard"><text:soft-page-break/></text:p>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="P16" loext:marker-style-name="T2"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T2"><text:span text:style-name="T2">Scripture App Builder:</text:span><text:span text:style-name="T2"/></text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T2"><text:span text:style-name="T2">Éditeur d&apos;applications bibliques :</text:span><text:span text:style-name="T2"/></text:p>
    <text:p text:style-name="P3" loext:marker-style-name="T2"><text:span text:style-name="T2">Creating Slideshow Videos</text:span><text:span text:style-name="T2"/></text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3"><text:soft-page-break/>© 2022, SIL International</text:p>
-   <text:p text:style-name="P3" loext:marker-style-name="T3">31 August 2022<text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P3"><text:soft-page-break/>©️ 2022, SIL International</text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T3">31 août 2022<text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T4"><text:span text:style-name="T4">You are free to print this manual for personal use and for training workshops.</text:span><text:span text:style-name="T4"/></text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T4"><text:span text:style-name="T4">Vous êtes libre d&apos;imprimer ce manuel pour un usage personnel et pour des ateliers de formation.</text:span><text:span text:style-name="T4"/></text:p>
    <text:p text:style-name="P3" loext:marker-style-name="T4"><text:span text:style-name="T4">The latest version is available at</text:span><text:span text:style-name="T4"/></text:p>
    <text:p text:style-name="P3" loext:marker-style-name="T4"><text:a xlink:type="simple" xlink:href="http://software.sil.org/scriptureappbuilder/resources/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:soft-page-break/><text:span text:style-name="Internet_20_link"><text:span text:style-name="T4">http://software.sil.org/scriptureappbuilder/resources/</text:span></text:span></text:a></text:p>
-   <text:p text:style-name="P3" loext:marker-style-name="T4"><text:span text:style-name="T4">and on the Help menu of Scripture App Builder.</text:span><text:span text:style-name="T4"/></text:p>
-   <text:p text:style-name="P15" loext:marker-style-name="T5"><text:span text:style-name="T5">Contents</text:span><text:span text:style-name="T5"/></text:p>
+   <text:p text:style-name="P3" loext:marker-style-name="T4"><text:span text:style-name="T4">et dans le menu Aide du constructeur d&apos;applications bibliques.</text:span><text:span text:style-name="T4"/></text:p>
+   <text:p text:style-name="P15" loext:marker-style-name="T5"><text:span text:style-name="T5">Contenu</text:span><text:span text:style-name="T5"/></text:p>
    <text:p text:style-name="P17" loext:marker-style-name="T5"/>
    <text:p text:style-name="P3"/>
    <text:table-of-content text:style-name="Sect1" text:protected="true" text:name="Table of Contents1">
@@ -3639,23 +3642,23 @@ Description automatically generated</svg:desc>
      </text:table-of-content-entry-template>
     </text:table-of-content-source>
     <text:index-body>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T6"><text:a xlink:type="simple" xlink:href="#_Toc112848936" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">1.<text:span text:style-name="T6"> </text:span>Introducing slideshow videos<text:span text:style-name="T7"> 4</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T6"><text:a xlink:type="simple" xlink:href="#_Toc112848936" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">1.<text:span text:style-name="T6"> </text:span>Introduction des vidéos de diaporama<text:span text:style-name="T7"> 4</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T8"><text:a xlink:type="simple" xlink:href="#_Toc112848937" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">1.1.<text:span text:style-name="T8"> </text:span>What are slideshow videos?<text:span text:style-name="T7"> 4</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T8"><text:a xlink:type="simple" xlink:href="#_Toc112848938" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">1.2.<text:span text:style-name="T8"> </text:span>What resources do I need to create a slideshow video?<text:span text:style-name="T7"> 5</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T8"><text:a xlink:type="simple" xlink:href="#_Toc112848939" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:soft-page-break/>1.3.<text:span text:style-name="T8"> </text:span>What slideshow templates are currently available?<text:span text:style-name="T7"> 5</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T6"><text:a xlink:type="simple" xlink:href="#_Toc112848940" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">2.<text:span text:style-name="T6"> </text:span>Setting up slideshow videos<text:span text:style-name="T7"> 6</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T8"><text:a xlink:type="simple" xlink:href="#_Toc112848941" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">2.1.<text:span text:style-name="T8"> </text:span>Downloading slideshow video templates<text:span text:style-name="T7"> 6</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T8"><text:a xlink:type="simple" xlink:href="#_Toc112848942" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">2.2.<text:span text:style-name="T8"> </text:span>Installing LibreOffice<text:span text:style-name="T7"> 7</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T6"><text:a xlink:type="simple" xlink:href="#_Toc112848940" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">2.<text:span text:style-name="T6"> </text:span>Configuration des vidéos de diaporama<text:span text:style-name="T7"> 6</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T8"><text:a xlink:type="simple" xlink:href="#_Toc112848941" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">2.1.<text:span text:style-name="T8"> </text:span>Téléchargement des modèles vidéo de diaporama<text:span text:style-name="T7"> 6</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T8"><text:a xlink:type="simple" xlink:href="#_Toc112848942" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">2.2.<text:span text:style-name="T8"> </text:span>Installation de LibreOffice<text:span text:style-name="T7"> 7</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_1" loext:marker-style-name="T6"><text:a xlink:type="simple" xlink:href="#_Toc112848943" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.<text:span text:style-name="T6"> </text:span>Preparing an app project for slideshow videos<text:span text:style-name="T7"> 7</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T6"><text:a xlink:type="simple" xlink:href="#_Toc112848944" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">4.<text:span text:style-name="T6"> </text:span>Running the Create Slideshow Wizard<text:span text:style-name="T7"> 8</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T6"><text:a xlink:type="simple" xlink:href="#_Toc112848945" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:soft-page-break/>5.<text:span text:style-name="T6"> </text:span>Distributing and using the videos<text:span text:style-name="T7"> 10</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T6"><text:a xlink:type="simple" xlink:href="#_Toc112848944" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">4.<text:span text:style-name="T6"> </text:span>Exécuter l&apos;assistant de création de diaporama<text:span text:style-name="T7"> 8</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T6"><text:a xlink:type="simple" xlink:href="#_Toc112848945" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:soft-page-break/>5.<text:span text:style-name="T6"> </text:span>Distribuer et utiliser les vidéos<text:span text:style-name="T7"> 10</text:span></text:a></text:p>
     </text:index-body>
    </text:table-of-content>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
    <text:list text:style-name="WWNum17">
     <text:list-item>
-     <text:h text:style-name="P22" text:outline-level="1"><text:bookmark-start text:name="_Toc112848936"/>Introducing slideshow videos<text:bookmark-end text:name="_Toc112848936"/> </text:h>
+     <text:h text:style-name="P22" text:outline-level="1"><text:bookmark-start text:name="_Toc112848936"/>Présentation des vidéos du diaporama<text:bookmark-end text:name="_Toc112848936"/> </text:h>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P18" loext:marker-style-name="T9"/>
@@ -3663,12 +3666,12 @@ Description automatically generated</svg:desc>
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P26" text:outline-level="2"><text:bookmark-start text:name="_Toc112848937"/>What are slideshow videos?<text:bookmark-end text:name="_Toc112848937"/></text:h>
+       <text:h text:style-name="P26" text:outline-level="2"><text:bookmark-start text:name="_Toc112848937"/>Que sont les vidéos du diaporama ?<text:bookmark-end text:name="_Toc112848937"/></text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Standard">Slideshow videos are videos created using a set of still images together with audio files from a <text:span text:style-name="T10">Scripture App Builder</text:span> project. While the audio plays, the images will pan and/or zoom. Subtitles will be generated from the text in the app.<text:line-break/></text:p>
+   <text:p text:style-name="Standard">Les vidéos diaporamas sont des vidéos créées à l’aide d’un ensemble d’images fixes ainsi que de fichiers audio provenant d’un projet <text:span text:style-name="T10">Scripture App Builder</text:span>. Pendant la lecture de l&apos;audio, les images vont faire un panoramique et/ou zoomer. Les sous-titres seront générés à partir du texte de l&apos;application.<text:line-break/></text:p>
    <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Picture 5" text:anchor-type="as-char" svg:width="5.5374in" svg:height="3.0992in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABPgAAALICAYAAADi7U4NAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAP+lSURBVHhehP33omTHdib4JVBAFWw5
@@ -55198,80 +55201,80 @@ Description automatically generated</svg:desc>
       </office:binary-data>
      </draw:image>
     </draw:frame><text:s/></text:p>
-   <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="https://www.youtube.com/watch?v=oY3BrpoVbGI&amp;list=PLoDMmx9LIxpPcT2qrXQXAkda5pcvuWIdh" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:soft-page-break/><text:span text:style-name="Internet_20_link">Jesus calms the storm – in the Juni Kuin language of Peru</text:span></text:a></text:p>
-   <text:p text:style-name="Standard"><text:line-break/>The videos are MP4 files which can be shared with others, uploaded to YouTube or Vimeo, or integrated within a Scripture app.</text:p>
+   <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="https://www.youtube.com/watch?v=oY3BrpoVbGI&amp;list=PLoDMmx9LIxpPcT2qrXQXAkda5pcvuWIdh" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:soft-page-break/><text:span text:style-name="Internet_20_link">Jésus calme la tempête – dans le langage Juni Kuin du Pérou</text:span></text:a></text:p>
+   <text:p text:style-name="Standard"><text:line-break/>Les vidéos sont des fichiers MP4 qui peuvent être partagés avec d&apos;autres, téléchargés sur YouTube ou Vimeo, ou intégrés dans une application biblique.</text:p>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list222617474451220" text:continue-numbering="true" text:style-name="WWNum17">
+   <text:list xml:id="list174855329998140" text:continue-numbering="true" text:style-name="WWNum17">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P26" text:outline-level="2"><text:bookmark-start text:name="_Toc112848938"/>What resources do I need to create a slideshow video?<text:bookmark-end text:name="_Toc112848938"/></text:h>
+       <text:h text:style-name="P26" text:outline-level="2"><text:bookmark-start text:name="_Toc112848938"/>De quelles ressources ai-je besoin pour créer une vidéo de diaporama ?<text:bookmark-end text:name="_Toc112848938"/></text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Standard">You will need:</text:p>
+   <text:p text:style-name="Standard">Vous aurez besoin de :</text:p>
    <text:list text:style-name="WWNum14">
     <text:list-item>
-     <text:p text:style-name="P29">A Scripture App Builder <text:span text:style-name="T11">app project with audio and timing files</text:span>.</text:p>
+     <text:p text:style-name="P29">Un projet d&apos;application Scripture App Builder <text:span text:style-name="T11">avec des fichiers audio et chronométrage</text:span>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P28"><text:soft-page-break/>A set of predefined <text:span text:style-name="T11">slideshow video templates</text:span>: we will show you how to obtain these in the next section. They contain all the images for the video, together with instructions on which portions of Scripture to use, where to pan and zoom and where to move from one slide to another.</text:p>
+     <text:p text:style-name="P28"><text:soft-page-break/>Un ensemble de modèles vidéo prédéfinis <text:span text:style-name="T11">diaporama</text:span>: nous vous montrerons comment les obtenir dans la section suivante. Ils contiennent toutes les images de la vidéo, ainsi que les instructions sur les parties de l&apos;Écriture à utiliser, où pan et zoomer et où se déplacer d&apos;un diapositive à l&apos;autre.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
-   <text:list text:continue-list="list222617474451220" text:style-name="WWNum17">
+   <text:list text:continue-list="list174855329998140" text:style-name="WWNum17">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P26" text:outline-level="2"><text:bookmark-start text:name="_Toc112848939"/>What slideshow templates are currently available?<text:bookmark-end text:name="_Toc112848939"/></text:h>
+       <text:h text:style-name="P26" text:outline-level="2"><text:bookmark-start text:name="_Toc112848939"/>Quels modèles de diaporama sont actuellement disponibles ?<text:bookmark-end text:name="_Toc112848939"/></text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Standard">Available slideshow video templates include:</text:p>
+   <text:p text:style-name="Standard">Les modèles vidéo disponibles sont :</text:p>
    <table:table table:name="Table1" table:style-name="Table1">
     <table:table-column table:style-name="Table1.A"/>
     <table:table-column table:style-name="Table1.B"/>
     <text:soft-page-break/>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P6">Matthew</text:p>
+      <text:p text:style-name="P6">Matthieu</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P6">3 videos (selected stories)</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table1.1">
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P6">Mark</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P6">9 videos (selected stories)</text:p>
+      <text:p text:style-name="P6">3 vidéos (histoires sélectionnées)</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P6">Luke</text:p>
+      <text:p text:style-name="P6">Marquer</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P6">6 videos (selected stories)</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table1.1">
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P6">John</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P6">43 videos (complete book)</text:p>
+      <text:p text:style-name="P6">9 vidéos (histoires sélectionnées)</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P6">Acts</text:p>
+      <text:p text:style-name="P6">Luc</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P6">4 videos (selected stories)</text:p>
+      <text:p text:style-name="P6">6 vidéos (histoires sélectionnées)</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table1.1">
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P6">Jean</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P6">43 vidéos (livre complet)</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table1.1">
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P6">Actes</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P6">4 vidéos (histoires sélectionnées)</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
@@ -55279,42 +55282,42 @@ Description automatically generated</svg:desc>
       <text:p text:style-name="P6">Jonah</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P6">1 video</text:p>
+      <text:p text:style-name="P6">1 vidéo</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list222618818415823" text:continue-numbering="true" text:style-name="WWNum17">
+   <text:list xml:id="list174855360651594" text:continue-numbering="true" text:style-name="WWNum17">
     <text:list-item>
-     <text:h text:style-name="P23" text:outline-level="1"><text:bookmark-start text:name="_Toc112848940"/>Setting up slideshow videos<text:bookmark-end text:name="_Toc112848940"/> </text:h>
+     <text:h text:style-name="P23" text:outline-level="1"><text:bookmark-start text:name="_Toc112848940"/>Configuration des vidéos du diaporama<text:bookmark-end text:name="_Toc112848940"/> </text:h>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Before you create your first video, you will need to do two things:</text:p>
+   <text:p text:style-name="Standard">Avant de créer votre première vidéo, vous devrez faire deux choses:</text:p>
    <text:list text:style-name="WWNum15">
     <text:list-item>
-     <text:p text:style-name="P30">Download the slideshow video templates.</text:p>
+     <text:p text:style-name="P30">Téléchargez les modèles vidéo du diaporama.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P30">Install LibreOffice.</text:p>
+     <text:p text:style-name="P30">Installer LibreOffice.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list222618985265883" text:continue-list="list222618818415823" text:style-name="WWNum17">
+   <text:list xml:id="list174855151553353" text:continue-list="list174855360651594" text:style-name="WWNum17">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P27" text:outline-level="2"><text:bookmark-start text:name="_Toc112848941"/><text:soft-page-break/>Downloading slideshow video templates<text:bookmark-end text:name="_Toc112848941"/></text:h>
+       <text:h text:style-name="P27" text:outline-level="2"><text:bookmark-start text:name="_Toc112848941"/><text:soft-page-break/>Téléchargement des modèles vidéo du diaporama<text:bookmark-end text:name="_Toc112848941"/></text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Standard">The video templates contain sets of images for each video, together with instructions on which portions of Scripture to use, where to pan and zoom and where to move from one slide to another. </text:p>
-   <text:p text:style-name="Standard">To download the templates:</text:p>
+   <text:p text:style-name="Standard">Les modèles de vidéo contiennent des ensembles d&apos;images pour chaque vidéo, ainsi que des instructions sur les parties de l&apos;Écriture à utiliser, où pan et zoomer et où se déplacer d&apos;un diapositive à l&apos;autre. </text:p>
+   <text:p text:style-name="Standard">Pour télécharger les modèles :</text:p>
    <text:list text:style-name="WWNum20">
     <text:list-item>
-     <text:p text:style-name="P31"><text:span text:style-name="T4">In Scripture App Builder, go to </text:span><text:span text:style-name="T12">Tools</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T13"></text:span><text:span text:style-name="T14"> </text:span><text:span text:style-name="T12">Settings </text:span><text:span text:style-name="T13"></text:span><text:span text:style-name="T14"> </text:span><text:span text:style-name="T12">Slideshows</text:span><text:span text:style-name="T14"> <text:line-break/>(or if using a Mac, Scripture App Builder </text:span><text:span text:style-name="T13"></text:span><text:span text:style-name="T14"> Preferences </text:span><text:span text:style-name="T13"></text:span><text:span text:style-name="T14"> Slideshows)</text:span></text:p>
+     <text:p text:style-name="P31"><text:span text:style-name="T4">dans le constructeur d&apos;applications bibliques, aller à </text:span><text:span text:style-name="T12">Outils</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T12">Paramètres </text:span><text:span text:style-name="T12">Diaporamas</text:span><text:span text:style-name="T15"> <text:line-break/>(ou si vous utilisez un Mac, Constructeur d&apos;applications bibliques </text:span><text:span text:style-name="T13">&lt;unk&gt;</text:span><text:span text:style-name="T15"> Préférences </text:span><text:span text:style-name="T13">&lt;unk&gt;</text:span><text:span text:style-name="T15"> Diaporama)</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
@@ -55707,34 +55710,34 @@ Description automatically generated</svg:desc>
        EIAABHqQwP8PJeQgiwnNpIEAAAAASUVORK5CYII=
       </office:binary-data>
      </draw:image>
-     <svg:desc>Graphical user interface, text, application, email
+     <svg:desc>Interface utilisateur graphique, texte, application, email
 
-Description automatically generated</svg:desc>
+Description générée automatiquement</svg:desc>
     </draw:frame></text:p>
    <text:p text:style-name="Standard"><text:soft-page-break/></text:p>
    <text:list text:continue-numbering="true" text:style-name="WWNum20">
     <text:list-item>
-     <text:p text:style-name="P32">Click the <text:span text:style-name="T11">Download Templates…</text:span> button.</text:p>
+     <text:p text:style-name="P32">Cliquez sur <text:span text:style-name="T11">Télécharger les modèles…</text:span> bouton.</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P7">The installation process will allow you to set the folder where the templates will be located on your computer. Once installed, this folder will appear in the <text:span text:style-name="T11">Slideshow Templates </text:span>settings.</text:p>
+   <text:p text:style-name="P7">Le processus d&apos;installation vous permettra de définir le dossier où les modèles seront situés sur votre ordinateur. Une fois installé, ce dossier apparaîtra dans les paramètres <text:span text:style-name="T11">des modèles Diaporamas </text:span>.</text:p>
    <text:p text:style-name="P8"><text:line-break/> </text:p>
-   <text:list xml:id="list222618478847965" text:continue-list="list222618985265883" text:style-name="WWNum17">
+   <text:list xml:id="list174855090457192" text:continue-list="list174855151553353" text:style-name="WWNum17">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P27" text:outline-level="2"><text:bookmark-start text:name="_Toc112848942"/>Installing LibreOffice<text:bookmark-end text:name="_Toc112848942"/></text:h>
+       <text:h text:style-name="P27" text:outline-level="2"><text:bookmark-start text:name="_Toc112848942"/>Installation de LibreOffice<text:bookmark-end text:name="_Toc112848942"/></text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P9"><text:span text:style-name="T10">LibreOffice</text:span> will be used to create the title slides in each video.</text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T10">LibreOffice</text:span> sera utilisé pour créer les diapositives de titre dans chaque vidéo.</text:p>
    <text:list text:style-name="WWNum18">
     <text:list-item>
-     <text:p text:style-name="P34"><text:soft-page-break/>Install <text:span text:style-name="T10">LibreOffice</text:span> from <text:a xlink:type="simple" xlink:href="https://www.libreoffice.org/download/download-libreoffice/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">https://www.libreoffice.org/download</text:span></text:a></text:p>
+     <text:p text:style-name="P34"><text:soft-page-break/>Installez <text:span text:style-name="T10">LibreOffice</text:span> depuis <text:a xlink:type="simple" xlink:href="https://www.libreoffice.org/download/download-libreoffice/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">https://www.libreoffice.org/download</text:span></text:a></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P34" loext:marker-style-name="T4"><text:span text:style-name="T4">In Scripture App Builder, go to </text:span><text:span text:style-name="T12">Tools</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T13"></text:span><text:span text:style-name="T14"> </text:span><text:span text:style-name="T12">Settings </text:span><text:span text:style-name="T13"></text:span><text:span text:style-name="T14"> </text:span><text:span text:style-name="T12">Slideshows </text:span><text:span text:style-name="T14">(or if using a Mac, </text:span>Scripture<text:span text:style-name="T14"> App Builder </text:span><text:span text:style-name="T13"></text:span><text:span text:style-name="T14"> Preferences </text:span><text:span text:style-name="T13"></text:span><text:span text:style-name="T14"> Slideshows).</text:span><text:span text:style-name="T4"> </text:span></text:p>
+     <text:p text:style-name="P34" loext:marker-style-name="T4"><text:span text:style-name="T4">In Scripture App Builder, go to </text:span><text:span text:style-name="T12">Tools</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T13"></text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T12">Settings </text:span><text:span text:style-name="T13"></text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T12">Slideshows </text:span><text:span text:style-name="T15">(or if using a Mac, </text:span>Scripture<text:span text:style-name="T15"> App Builder </text:span><text:span text:style-name="T13"></text:span><text:span text:style-name="T15"> Preferences </text:span><text:span text:style-name="T13"></text:span><text:span text:style-name="T15"> Slideshows).</text:span><text:span text:style-name="T4"> </text:span></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P33" loext:marker-style-name="T4"><text:span text:style-name="T4">Under </text:span><text:span text:style-name="T12">LibreOffice Programs</text:span><text:span text:style-name="T4">, specify where the LibreOffice program is located on your computer.</text:span></text:p>
@@ -55742,13 +55745,13 @@ Description automatically generated</svg:desc>
    </text:list>
    <text:p text:style-name="P19" loext:marker-style-name="T4"/>
    <text:p text:style-name="P19" loext:marker-style-name="T4"/>
-   <text:list text:continue-list="list222618478847965" text:style-name="WWNum17">
+   <text:list text:continue-list="list174855090457192" text:style-name="WWNum17">
     <text:list-item>
-     <text:h text:style-name="P24" text:outline-level="1"><text:bookmark-start text:name="_Toc112848943"/>Preparing an app project for slideshow videos<text:bookmark-end text:name="_Toc112848943"/></text:h>
+     <text:h text:style-name="P24" text:outline-level="1"><text:bookmark-start text:name="_Toc112848943"/>Préparation d&apos;un projet d&apos;application pour les vidéos de diaporama<text:bookmark-end text:name="_Toc112848943"/></text:h>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"><text:soft-page-break/></text:p>
-   <text:p text:style-name="Standard">The videos will contain images that pan and zoom while the audio is played. Since the audio is extracted from the project audio and timing files, it is important that <text:span text:style-name="T15">the timing files are accurate</text:span> so that the videos do not begin or end in the middle of an audio phrase.<text:line-break/></text:p>
+   <text:p text:style-name="Standard">Les vidéos contiendront des images qui pansent et zoomeront pendant que l&apos;audio est lu. Puisque l&apos;audio est extrait des fichiers audio et de chronométrage du projet, Il est important que <text:span text:style-name="T16">les fichiers de synchronisation soient précis</text:span> afin que les vidéos ne commencent pas ou ne se terminent pas au milieu d&apos;une phrase audio.<text:line-break/></text:p>
    <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Picture 8" text:anchor-type="as-char" svg:width="5.7437in" svg:height="1.7465in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAu4AAADkCAYAAADHGaGFAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAENlSURBVHhe7d1PjBvZfSfwH/fg5DQ6
@@ -56074,22 +56077,22 @@ Description automatically generated</svg:desc>
        gIlD9P8BoFvBxTPOm+kAAAAASUVORK5CYII=
       </office:binary-data>
      </draw:image>
-     <svg:desc>Graphical user interface, application, table
+     <svg:desc>Interface utilisateur graphique, application, table
 
-Description automatically generated</svg:desc>
+Description générée automatiquement</svg:desc>
     </draw:frame></text:p>
    <text:p text:style-name="P3"><text:s/></text:p>
-   <text:p text:style-name="Standard">The transitions between slides are not as critical, but the timing accuracy is particularly important at the start and the end of a video. For example, if you are making a video on the Visit of the Magi (Matthew 2:1-23), you will need to make sure that the timings are accurate for the start of verse 1 and the end of verse 23.</text:p>
-   <text:p text:style-name="Standard">Use <text:span text:style-name="T11">Fine Tune Timings</text:span> to verify that the timings are correct.</text:p>
+   <text:p text:style-name="Standard">Les transitions entre diapositives ne sont pas aussi critiques, mais la précision du timing est particulièrement importante au début et à la fin d&apos;une vidéo. Par exemple, si vous faites une vidéo sur la Visite des Mages (Matthieu 2, 1-23), vous devrez vous assurer que les timings sont précis pour le début du verset 1 et la fin du verset 23.</text:p>
+   <text:p text:style-name="Standard">Utilisez <text:span text:style-name="T11">Réglage fin des Timings</text:span> pour vérifier que les timings sont corrects.</text:p>
    <text:p text:style-name="Standard"><text:soft-page-break/></text:p>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list222617838286800" text:continue-numbering="true" text:style-name="WWNum17">
+   <text:list xml:id="list174853572520269" text:continue-numbering="true" text:style-name="WWNum17">
     <text:list-item>
-     <text:h text:style-name="P25" text:outline-level="1"><text:bookmark-start text:name="_Toc112848944"/>Running the Create Slideshow Wizard<text:bookmark-end text:name="_Toc112848944"/></text:h>
+     <text:h text:style-name="P25" text:outline-level="1"><text:bookmark-start text:name="_Toc112848944"/>Exécuter l&apos;Assistant Créer un diaporama<text:bookmark-end text:name="_Toc112848944"/></text:h>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P9"/>
-   <text:p text:style-name="P10">To use the Create Slideshow Wizard to make a video:</text:p>
+   <text:p text:style-name="P10">Pour utiliser l&apos;assistant Créer un diaporama pour faire une vidéo :</text:p>
    <text:list text:style-name="WWNum19">
     <text:list-item>
      <text:p text:style-name="P36">Right-click on a book collection and select <text:span text:style-name="T11">Create Slideshow Videos…</text:span></text:p>
@@ -56403,7 +56406,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P7"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum19">
     <text:list-item>
-     <text:p text:style-name="P37">Select the videos from the list that you want to build.</text:p>
+     <text:p text:style-name="P37">Sélectionnez les vidéos dans la liste que vous voulez construire.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P7"><draw:frame draw:style-name="fr1" draw:name="Picture 11" text:anchor-type="as-char" svg:width="5.302in" svg:height="3.7382in" draw:z-index="0"><draw:image draw:mime-type="image/png">
@@ -56882,9 +56885,9 @@ Description automatically generated</svg:desc>
        BEAABEAABPJA4P8H2r0vxKm2odsAAAAASUVORK5CYII=
       </office:binary-data>
      </draw:image>
-     <svg:desc>Graphical user interface, application
+     <svg:desc>Interface utilisateur graphique, application
 
-Description automatically generated</svg:desc>
+Description générée automatiquement</svg:desc>
     </draw:frame><text:line-break/></text:p>
    <text:list text:continue-numbering="true" text:style-name="WWNum19">
     <text:list-item>
@@ -56894,10 +56897,10 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="List_20_Paragraph"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum19">
     <text:list-item>
-     <text:p text:style-name="P35"><text:soft-page-break/>Click <text:span text:style-name="T11">Next</text:span> and specify the <text:span text:style-name="T11">Language Code</text:span>, text and audio <text:span text:style-name="T11">Copyright </text:span>information. </text:p>
+     <text:p text:style-name="P35"><text:soft-page-break/>Cliquez sur <text:span text:style-name="T11">A suivant</text:span> et spécifiez les informations <text:span text:style-name="T11">Code de langue</text:span>, texte et audio <text:span text:style-name="T11">Copyright </text:span>. </text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="List_20_Paragraph"><text:line-break/>The Text and Audio copyright information will be inserted automatically from the <text:span text:style-name="T11">Copyright &amp; Licensing</text:span> tab if it is already specified in the app project. It can be to edited here too. This information will be included in the video title and final copyright slides.<text:line-break/></text:p>
+   <text:p text:style-name="List_20_Paragraph"><text:line-break/>The Text and Audio copyright information will be inserted automatically from the <text:span text:style-name="T11">Copyright &amp; Licensing</text:span> tab if it is already specified in the app project. Il peut être édité ici aussi. Ces informations seront incluses dans le titre de la vidéo et dans les diapositives finales de copyright.<text:line-break/></text:p>
    <text:p text:style-name="List_20_Paragraph"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum19">
     <text:list-item>
@@ -57138,20 +57141,20 @@ Description automatically generated</svg:desc>
        YII=
       </office:binary-data>
      </draw:image>
-     <svg:desc>Graphical user interface, application
+     <svg:desc>Interface utilisateur graphique, application
 
-Description automatically generated</svg:desc>
+Description générée automatiquement</svg:desc>
     </draw:frame></text:p>
    <text:p text:style-name="List_20_Paragraph"><text:line-break/> <text:line-break/> </text:p>
    <text:p text:style-name="List_20_Paragraph"><text:soft-page-break/></text:p>
    <text:list text:continue-numbering="true" text:style-name="WWNum19">
     <text:list-item>
-     <text:p text:style-name="P35">Wait while the video is compiled. This will include extracting the audio, adding the images, applying the pan and zoom effects and creating the subtitles. </text:p>
+     <text:p text:style-name="P35">Attendez pendant la compilation de la vidéo. Cela inclura l&apos;extraction de l&apos;audio, l&apos;ajout des images, l&apos;application du panoramique et des effets de zoom et la création des sous-titres. </text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">When the videos have been created, you will find a subfolder corresponding to each video. </text:p>
+   <text:p text:style-name="Standard">Lorsque les vidéos ont été créées, vous trouverez un sous-dossier correspondant à chaque vidéo. </text:p>
    <text:p text:style-name="P11"><draw:frame text:anchor-type="as-char" draw:z-index="0" draw:name="Picture 16" draw:style-name="gr5" draw:text-style-name="P42" svg:width="2.2303in" svg:height="1.2087in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAANYAAAB0CAYAAAD5N8zLAAAAAXNSR0IArs4c6QAAAARnQU1B
@@ -57251,9 +57254,9 @@ Description automatically generated</svg:desc>
       </office:binary-data>
       <text:p/>
      </draw:image>
-     <svg:desc>Text
+     <svg:desc>Texte
 
-Description automatically generated</svg:desc>
+Description générée automatiquement</svg:desc>
     </draw:frame><text:s/><draw:frame text:anchor-type="as-char" draw:z-index="1" draw:name="Picture 17" draw:style-name="gr4" draw:text-style-name="P42" svg:width="2.6933in" svg:height="1.1059in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAPYAAABlCAYAAAB+4B4lAAAAAXNSR0IArs4c6QAAAARnQU1B
@@ -57343,48 +57346,48 @@ Description automatically generated</svg:desc>
       </office:binary-data>
       <text:p/>
      </draw:image>
-     <svg:desc>Text
+     <svg:desc>Texte
 
-Description automatically generated</svg:desc>
+Description générée automatiquement</svg:desc>
     </draw:frame></text:p>
    <text:p text:style-name="Standard"><text:soft-page-break/><text:s/></text:p>
-   <text:p text:style-name="P9">Each video subfolder will contain:</text:p>
+   <text:p text:style-name="P9">Chaque sous-dossier vidéo contiendra :</text:p>
    <text:list text:style-name="WWNum21">
     <text:list-item>
-     <text:p text:style-name="P39">a <text:span text:style-name="T11">video file</text:span> (.mp4)</text:p>
+     <text:p text:style-name="P39">un fichier vidéo (.mp4)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P38">the corresponding <text:span text:style-name="T11">subtitle files</text:span> (.srt and .vtt). These can be used in video players such as <text:span text:style-name="T10">VLC</text:span> or for uploading to <text:span text:style-name="T10">YouTube</text:span> to make the text available as subtitles.</text:p>
+     <text:p text:style-name="P38">les fichiers de sous-titres <text:span text:style-name="T11">correspondants</text:span> (.srt et .vtt). Celles-ci peuvent être utilisées dans les lecteurs vidéo tels que <text:span text:style-name="T10">VLC</text:span> ou pour télécharger sur <text:span text:style-name="T10">YouTube</text:span> pour rendre le texte disponible en tant que sous-titres.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
-   <text:list text:continue-list="list222617838286800" text:style-name="WWNum17">
+   <text:list text:continue-list="list174853572520269" text:style-name="WWNum17">
     <text:list-item>
-     <text:h text:style-name="P24" text:outline-level="1"><text:bookmark-start text:name="_Toc112848945"/><text:soft-page-break/>Distributing and using the videos<text:bookmark-end text:name="_Toc112848945"/></text:h>
+     <text:h text:style-name="P24" text:outline-level="1"><text:bookmark-start text:name="_Toc112848945"/><text:soft-page-break/>Distribuer et utiliser les vidéos<text:bookmark-end text:name="_Toc112848945"/></text:h>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">There are many ways of distributing your videos, such as:</text:p>
+   <text:p text:style-name="Standard">Il y a de nombreuses façons de distribuer vos vidéos, telles que:</text:p>
    <text:list text:style-name="WWNum22">
     <text:list-item>
-     <text:p text:style-name="P40">Uploading them to a video sharing platform such as YouTube or Vimeo.</text:p>
+     <text:p text:style-name="P40">Les télécharger sur une plateforme de partage vidéo telle que YouTube ou Vimeo.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P40">Making them available on a language-specific website, or a site with multiple language resources such as Scripture Earth (<text:a xlink:type="simple" xlink:href="http://www.ScriptureEarth.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">www.ScriptureEarth.org</text:span></text:a>)</text:p>
+     <text:p text:style-name="P40">Les rendre disponibles sur un site Web spécifique à une langue, ou sur un site avec des ressources linguistiques multiples telles que l&apos;Écriture de la Terre (<text:a xlink:type="simple" xlink:href="http://www.ScriptureEarth.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">www.ScriptureEarth.org</text:span></text:a>)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P40">Sharing them from phone to phone using Bluetooth or a Wi-Fi transfer app</text:p>
+     <text:p text:style-name="P40">Partagez-les du téléphone au téléphone en utilisant le Bluetooth ou une application de transfert Wi-Fi</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P40"><text:soft-page-break/>Sharing them on memory cards</text:p>
+     <text:p text:style-name="P40"><text:soft-page-break/>Partagez-les sur des cartes mémoire</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P40">Making them available on a Wi-Fi media hub</text:p>
+     <text:p text:style-name="P40">Les rendre disponibles sur un hub multimédia Wi-Fi</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Once the videos are available in <text:span text:style-name="T10">YouTube</text:span> or another internet location, you can embed them in your apps. For more information on how to do this, please refer to the <text:span text:style-name="T11">Building Apps</text:span> manual, in the section titled <text:span text:style-name="T11">Video</text:span>.</text:p>
+   <text:p text:style-name="Standard">Une fois que les vidéos sont disponibles dans <text:span text:style-name="T10">YouTube</text:span> ou un autre emplacement Internet, vous pouvez les intégrer dans vos applications. Pour plus d&apos;informations sur la façon de le faire, veuillez vous référer au manuel <text:span text:style-name="T11">Construction des applications</text:span> dans la section intitulée <text:span text:style-name="T11">Vidéo</text:span>.</text:p>
    <text:p text:style-name="P4"><draw:frame text:anchor-type="as-char" draw:z-index="2" draw:name="Picture 21" draw:style-name="gr3" draw:text-style-name="P42" svg:width="1.9732in" svg:height="3.387in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAfwAAANoCAYAAAAlOlhvAAAAAXNSR0IArs4c6QAAAARnQU1B
@@ -63721,9 +63724,9 @@ Description automatically generated</svg:desc>
       </office:binary-data>
       <text:p/>
      </draw:image>
-     <svg:desc>Graphical user interface
+     <svg:desc>Interface utilisateur graphique
 
-Description automatically generated</svg:desc>
+Description générée automatiquement</svg:desc>
     </draw:frame><draw:frame text:anchor-type="as-char" draw:z-index="3" draw:name="Picture 20" draw:style-name="gr2" draw:text-style-name="P42" svg:width="1.9559in" svg:height="3.3571in">
      <draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAfwAAANoCAYAAAAlOlhvAAAAAXNSR0IArs4c6QAAAARnQU1B
@@ -73029,17 +73032,17 @@ Description automatically generated</svg:desc>
       </office:binary-data>
       <text:p/>
      </draw:image>
-     <svg:desc>Graphical user interface, website
+     <svg:desc>Interface utilisateur graphique,
 
-Description automatically generated</svg:desc>
+Description générée automatiquement</svg:desc>
     </draw:frame></text:p>
-   <text:p text:style-name="Standard"><text:line-break/><text:a xlink:type="simple" xlink:href="http://www.ScriptureEarth.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">www.ScriptureEarth.org</text:span></text:a> can host the video files for viewing or downloading. Please contact <text:a xlink:type="simple" xlink:href="mailto:info@ScriptureEarth.org" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">info@ScriptureEarth.org</text:span></text:a> for more information.</text:p>
-   <text:p text:style-name="P20" loext:marker-style-name="T16"><text:soft-page-break/><text:s/></text:p>
-   <text:p text:style-name="P20" loext:marker-style-name="T16"/>
-   <text:p text:style-name="P9" loext:marker-style-name="T16"><text:span text:style-name="T16">Scripture Earth Example</text:span><text:span text:style-name="T16"/></text:p>
-   <text:p text:style-name="P9">Here is an example of what it looks like when a set of slideshow videos are uploaded to Scripture Earth:</text:p>
+   <text:p text:style-name="Standard"><text:line-break/><text:a xlink:type="simple" xlink:href="http://www.ScriptureEarth.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">www.ScriptureEarth.org</text:span></text:a> peut héberger les fichiers vidéo à visualiser ou à télécharger. Veuillez contacter <text:a xlink:type="simple" xlink:href="mailto:info@ScriptureEarth.org" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">info@ScriptureEarth.org</text:span></text:a> pour plus d&apos;informations.</text:p>
+   <text:p text:style-name="P20" loext:marker-style-name="T17"><text:soft-page-break/><text:s/></text:p>
+   <text:p text:style-name="P20" loext:marker-style-name="T17"/>
+   <text:p text:style-name="P9" loext:marker-style-name="T17"><text:span text:style-name="T17">Exemple de Terre Écriture</text:span><text:span text:style-name="T17"/></text:p>
+   <text:p text:style-name="P9">Voici un exemple de ce à quoi il ressemble quand un ensemble de vidéos de diaporama sont téléchargées sur la Terre des Écritures :</text:p>
    <text:p text:style-name="P12"><text:a xlink:type="simple" xlink:href="https://www.scriptureearth.org/00i-Scripture_Index.php?idx=22" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">https://www.scriptureearth.org/00i-Scripture_Index.php?idx=22</text:span></text:a>. </text:p>
-   <text:p text:style-name="Standard"><text:line-break/><text:line-break/>Click on <text:span text:style-name="T11">View Videos de las Escrituras</text:span> to view the list of videos. <text:line-break/></text:p>
+   <text:p text:style-name="Standard"><text:line-break/><text:line-break/>Cliquez sur <text:span text:style-name="T11">Voir les vidéos des Escrituras</text:span> pour voir la liste des vidéos. <text:line-break/></text:p>
    <text:p text:style-name="Standard"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Picture 6" text:anchor-type="as-char" svg:width="6.2681in" svg:height="4.5429in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABE0AAAMeCAYAAADoIvr2AAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAP+lSURBVHhe7P0JnF1neeeJ/85691t1
@@ -83050,8 +83053,8 @@ Description automatically generated</svg:desc>
      </draw:image>
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">If you click on a thumbnail image, you will be taken to YouTube to watch the video.</text:p>
-   <text:p text:style-name="P9"><text:line-break/>Click <text:span text:style-name="T11">Download Videos de las Escrituras</text:span> to see the list of videos available to download. </text:p>
+   <text:p text:style-name="Standard">Si vous cliquez sur une image miniature, vous serez dirigé vers YouTube pour regarder la vidéo.</text:p>
+   <text:p text:style-name="P9"><text:line-break/>Cliquez sur <text:span text:style-name="T11">Télécharger les vidéos de las Escrituras</text:span> pour voir la liste des vidéos à télécharger. </text:p>
    <text:p text:style-name="P9"/>
    <text:p text:style-name="P13"><draw:frame draw:style-name="fr1" draw:name="Picture 7" text:anchor-type="as-char" svg:width="6.2681in" svg:height="2.5193in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABEkAAAG5CAYAAAByT2rzAAAAAXNSR0IArs4c6QAAAARnQU1B
@@ -84309,7 +84312,7 @@ Description automatically generated</svg:desc>
       </office:binary-data>
      </draw:image>
     </draw:frame><text:s/></text:p>
-   <text:p text:style-name="P13"><text:soft-page-break/><text:line-break/>You can select several videos (or all of them) and download them as a zip file.</text:p>
+   <text:p text:style-name="P13"><text:soft-page-break/><text:line-break/>Vous pouvez sélectionner plusieurs vidéos (ou toutes) et les télécharger en tant que fichier zip.</text:p>
   </office:text>
  </office:body>
 </office:document>
