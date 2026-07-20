@@ -101,3 +101,8 @@ Second the workflow will generate a an artifact comprised of all the pdfs of one
 # Crowdin Settings
 ### Duplicate Strings
 asjdlfksdf;ljkalsdkjf;lkajsl;dfj
+
+<img src="README_pics/Screenshot_20260720_140218.png" width="400" height="800" />
+<img src="README_pics/Screenshot_20260720_140247.png" width="400" height="800" />
+<img src="README_pics/Screenshot_20260720_140338.png" width="400" height="800" />
+<img src="README_pics/Screenshot_20260720_140405.png" width="400" height="800" />
