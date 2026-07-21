@@ -95,7 +95,7 @@ The Second output is a .zip artifact composed of pdfs from both english and non-
 # Crowdin Settings
 To properly use Crowdin with this github workflow it is necessary to tweak certain features of the software to get the best results.
 ### Duplicate Strings
-A setting that needs to be enabled is "Duplicate Strings", it allows two identical sentences to only be translated as one. This reduces the total word count and therfore costs. 
+A setting that needs to be enabled is "Duplicate Strings", it allows two identical sentences to only be counted as one. This reduces the total word count and therfore costs. 
 
 To enable this you need to go into the "settings" tab at the very right.
 
@@ -109,6 +109,6 @@ After that look to the right to find the "duplicate strings" menu select the "Hi
 
 <img src="README_pics/Screenshot_20260720_140338.png" width="1000" height="2000" />
 
-You will also select "Skip tags" under "Word and character count". This also reduces the word count by not counting tags used for data as words.
+Next select "Skip tags" under "Word and character count". This also reduces the word count by not counting tags used for data as words.
 
 <img src="README_pics/Screenshot_20260720_140405.png" width="500" height="1000" />
