@@ -87,9 +87,7 @@ In addition, the `CROWDIN_PROJECT_ID` must be manually entered into the `project
 ### Outputs
 The workflow will produce two types of outputs. First it will generate all the translated files in their correct formats and add them to the "translations" branch. The user has the option to merge the translations branch into the main branch, to put the most recent documentation front and center. Or to just use the second output type.
 
-The Second output is a .zip artifact composed of pdfs from both english and non-english languages. This can be found by going to the workflow and viewing the build summary. https://github.com/John-bju/SIL-translation-test/blob/main/README.md#workflow
-
-
+The Second output is a .zip artifact composed of pdfs from both english and non-english languages. This can be found by going to the workflow and clicking the "Summary" button.
 
 
 
