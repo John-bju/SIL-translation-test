@@ -96,7 +96,7 @@ Second the workflow will generate an artifact composed of all the pdfs of one la
 # Crowdin Settings
 To properly use Crowdin with this github workflow it is necessary to tweak certain features of the software to get the best results.
 ### Duplicate Strings
-A setting that needs to be enabled is "Duplicate Strings", it allows two identical sentences to only be translated as one. This reduces the total word count and SIL to be billed less by Crowdin. 
+A setting that needs to be enabled is "Duplicate Strings", it allows two identical sentences to only be translated as one. This reduces the total word count and therfore costs. 
 
 To enable this you need to go into the "settings" tab at the very right.
 
