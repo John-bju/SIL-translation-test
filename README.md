@@ -14,14 +14,14 @@ Github has workflows that can be run to automate tasks, jobs, or other tedious w
 All submissions should be put into the main branch of the github repo, and should be added into the following locations.
 
 ###### Documents
-All documents need to be submitted in english, as crowdin will handle all translations to non-english languages. All documents should be in .fodt format and should only be added (or modifed) in `docs-en/fodt/(app builder name)/(file)` for example `"docs-en/fodt/SAB/Scripture-App-Builder-01-Installation-Instructions.fodt".`
+All documents need to be submitted in english, as crowdin will handle all translations to non-english languages. All documents should be in .fodt format and should only be added (or modified) in `docs-en/fodt/(app builder name)/(file)` for example `"docs-en/fodt/SAB/Scripture-App-Builder-01-Installation-Instructions.fodt".`
 
 ###### Images
-In this repo images are handled differently than most other documentation repos. Images are not inserted into the documents themselves, but instead are inserted as links pointing to seperate image files. This means that every document has a folder next to it that contains all the images displayed in that document. For example "Scripture-App-Builder-01-Installation-Instructions.fodt" would be next to a folder next to it named SAB01, this folder would have all the images the document would use.
+In this repo images are handled differently than most other documentation repos. Images are not inserted into the documents themselves, but instead are inserted as links pointing to separate image files. This means that every document has a folder next to it that contains all the images displayed in that document. For example "Scripture-App-Builder-01-Installation-Instructions.fodt" would be next to a folder next to it named SAB01, this folder would have all the images the document would use.
 
 <img src="README_pics/Screenshot_20260715_151502.png" width="400" height="800" />
 
-The benifit and reason why this repo uses this system is that it makes it increadibly easy to swtich out images in a document. Since screenshots containing english text will not be translated by crowdin the next best solution is to replace these screenshots with ones containing text in the correct language. The github workflow will automatically replace the screenshots, however the user still needs to manually supply all screenshots. The images are located in images/(language)/(app builder name)/(image folder) and do not need to conform a specific file format. Simply drop the images into the correct folder and the workflow will handle the rest.
+The benefit and reason why this repo uses this system is that it makes it incredibly easy to switch out images in a document. Since screenshots containing english text will not be translated by crowdin the next best solution is to replace these screenshots with ones containing text in the correct language. The github workflow will automatically replace the screenshots, however the user still needs to manually supply all screenshots. The images are located in images/(language)/(app builder name)/(image folder) and do not need to conform to a specific file format. Simply drop the images into the correct folder and the workflow will handle the rest.
 
 ### Workflow
 
@@ -74,7 +74,7 @@ Then selecting "Tokens (classic)" under "Personal Access Tokens" and selecting "
 
 
 ###### How to add tokens to the repo.
-First you must be an administrator to the gihub repo, if you are not then you need to contact one. Next navigate over to the settings tab at the top and select it, then find the "Secrets and variables" button and select "Actions". Then add each token as a secret with a name given in this document.
+First you must be an administrator to the github repo, if you are not then you need to contact one. Next navigate over to the settings tab at the top and select it, then find the "Secrets and variables" button and select "Actions". Then add each token as a secret with a name given in this document.
 
 
 <img src="README_pics/Screenshot_20260713_125818.png" width="600" height="1000" />
@@ -87,14 +87,14 @@ In addition, the `CROWDIN_PROJECT_ID` must be manually entered into the `project
 ### Outputs
 The workflow will produce two types of outputs. First it will generate all the translated files in their correct formats and add them to the "translations branch". The user can then decide to either merge the translations branch into the main branch if they wanted to put the most recent documentation front and center.
 
-Second the workflow will generate a an artifact comprised of all the pdfs of one language in a .zip file. This can be found by going to the workflow and viewing the build summary.
+Second the workflow will generate an artifact composed of all the pdfs of one language in a .zip file. This can be found by going to the workflow and viewing the build summary.
 
 
 
 
 
 # Crowdin Settings
-To properly use Crowdin with this github workflow it is nessesary to tweak certain features of the software to get the best results.
+To properly use Crowdin with this github workflow it is necessary to tweak certain features of the software to get the best results.
 ### Duplicate Strings
 A setting that needs to be enabled is "Duplicate Strings", it allows two identical sentences to only be translated as one. This reduces the total word count and SIL to be billed less by Crowdin. 
 
