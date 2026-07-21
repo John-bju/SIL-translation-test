@@ -24,7 +24,7 @@ The benefit and reason why this repo uses this system is that it makes it incred
 The github workflow is a script that performs tasks automatically. In this case it formats files, translates documents, and outputs pdfs. The workflow starts whenever a file is submitted or changed in the repo, or it can be started by following the steps below.
 
 
-Navigate to the actions tab.
+Navigate to the actions tab at the top of the screen.
 
 <img src="README_pics/Screenshot_20260713_155930.png" width="700" height="1000" />
 
