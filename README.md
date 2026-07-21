@@ -6,10 +6,6 @@ This repo is for documentation of SAB, RAB, DAB, KAB which aims to keep a versio
 
 
 # How to Use
-### Github Workflow
-Github has workflows that can be run to automate tasks, jobs, or other tedious work. In this case it is used to format documents and upload them to crowdin for translation.
-
-
 ### Submitting
 All submissions should be put into the "main" branch of the github repository, and should be added into the following locations based on the following types. 
 
@@ -21,9 +17,12 @@ In this repo images are handled differently than most other documentation repos.
 
 <img src="README_pics/Screenshot_20260715_151502.png" width="400" height="800" />
 
-The benefit and reason why this repo uses this system is that it makes it incredibly easy to switch out images in a document. Since screenshots containing english text will not be translated by crowdin the next best solution is to replace these screenshots with ones containing text in the correct language. The github workflow will automatically replace the screenshots, however the user still needs to manually supply all screenshots. The images are located in images/(language)/(app builder name)/(image folder) and do not need to conform to a specific file format. Simply drop the images into the correct folder and the workflow will handle the rest.
+The benefit and reason why this repo uses this system is that it makes it incredibly easy to switch out images in a document. Since screenshots containing english text can not be translated by crowdin the next best solution is to replace these screenshots with ones containing text in the correct language. The github workflow will automatically replace the screenshots, however the user still needs to manually supply all screenshots. The images are located in images/(language)/(app builder name)/(image folder) for instance "images/en-EN/KAB/KAB02" and do not need to conform to a specific file format. Simply drop the images into the correct folder and the workflow will handle the rest.
 
 ### Workflow
+
+The github workflow is a script that performs tasks automatically. In this case it formats files, translates documents, and outputs pdfs. The workflow starts whenever a file is submitted or changed in the repo, or it can be started by following the steps below.
+
 
 Navigate to the actions tab.
 
