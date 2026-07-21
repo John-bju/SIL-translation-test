@@ -19,6 +19,7 @@ In this repo images are handled differently than most other documentation repos.
 
 The benefit and reason why this repo uses this system is that it makes it incredibly easy to switch out images in a document. Since screenshots containing english text can not be translated by crowdin the next best solution is to replace these screenshots with ones containing text in the correct language. The github workflow will automatically replace the screenshots, however the user still needs to manually supply all screenshots. The images are located in images/(language)/(app builder name)/(image folder) for instance "images/en-EN/KAB/KAB02" and do not need to conform to a specific file format. Simply drop the images into the correct folder and the workflow will handle the rest.
 
+#
 ### Workflow
 
 The github workflow is a script that performs tasks automatically. In this case it formats files, translates documents, and outputs pdfs. The workflow starts whenever a file is submitted or changed in the repo, or it can be started by following the steps below.
@@ -94,6 +95,8 @@ The Second output is a .zip artifact composed of pdfs from both english and non-
 
 # Crowdin Settings
 To properly use Crowdin with this github workflow it is necessary to tweak certain features of the software to get the best results.
+
+#
 ### Duplicate Strings
 A setting that needs to be enabled is "Duplicate Strings", it allows two identical sentences to only be counted as one. This reduces the total word count and therfore costs. 
 
