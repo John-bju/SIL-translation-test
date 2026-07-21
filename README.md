@@ -11,13 +11,13 @@ Github has workflows that can be run to automate tasks, jobs, or other tedious w
 
 
 ### Submitting
-All submissions should be put into the main branch of the github repo, and should be added into the following locations.
+All submissions should be put into the "main" branch of the github repository, and should be added into the following locations based on the following types. 
 
 ###### Documents
 All documents need to be submitted in english, as crowdin will handle all translations to non-english languages. All documents should be in .fodt format and should only be added (or modified) in `docs-en/fodt/(app builder name)/(file)` for example `"docs-en/fodt/SAB/Scripture-App-Builder-01-Installation-Instructions.fodt".`
 
 ###### Images
-In this repo images are handled differently than most other documentation repos. Images are not inserted into the documents themselves, but instead are inserted as links pointing to separate image files. This means that every document has a folder next to it that contains all the images displayed in that document. For example "Scripture-App-Builder-01-Installation-Instructions.fodt" would be next to a folder next to it named SAB01, this folder would have all the images the document would use.
+In this repo images are handled differently than most other documentation repos. Images are not inserted into the documents themselves, but instead are inserted as links pointing to separate image files. This means that every document has a folder next to it that contains all the images displayed in that document. For example "Scripture-App-Builder-01-Installation-Instructions.fodt" would be next to a folder next to it named SAB01, this folder would have all the images the document would use. More examples of this would be "Dictionary-App-Builder-04-Distributing-Apps.fodt" DAB04, Reading-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.fodt RAB07.
 
 <img src="README_pics/Screenshot_20260715_151502.png" width="400" height="800" />
 
