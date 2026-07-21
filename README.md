@@ -40,11 +40,12 @@ The workflow is now running in the background. You can click the "Convert" butto
 
 #
 ### Crowdin Sync
-Crowdin developed a github integration allowing Github Workflows to send and receive files with Crowdin projects. This integration is used to sync this github repo and a Crowdin project allowing translations to be created and downloaded into a separate branch named "translations". This process is automated by the workflow and requires no user input to run.
+Crowdin is business that provides translation software for its users. Crowdin has also created a github workflow intergration that allows github workflows to send and receive files from Crowdin projects. This integration is used to sync this github repo and its specified Crowdin project allows translations to be created and downloaded into a separate branch named "translations". This process is automated by the workflow and requires no user input to run.
 
 ###### Tokens
-In order to set up the github integration there are three tokens that need to be entered into the github secrets tab in the settings of the repo.
+In order to set up the github integration the user must enter the correct tokens into the github project. Tokens are a unique series of numbers that allows the github project and the Crowdin project to identify themselves and intergrate properly. The steps to find and enter all tokens are listed below. 
 
+are three tokens that need to be entered into the github secrets tab in the settings of the repo.
 
 `CROWDIN_PERSONAL_TOKEN:` This can be created by clicking on the user's profile picture and selecting "settings".
 
