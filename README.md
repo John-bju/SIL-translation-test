@@ -33,7 +33,7 @@ Find the "run workflow" button on the right side of the screen and select the dr
 
 <img src="README_pics/Screenshot_20260713_155959.png" width="700" height="1000" />
 
-The workflow is now running in the background. You can click the "Convert" button to view the output of the workflow.
+The workflow is now running in the background. You can click the "Convert" button to view the output of the workflow. Or when the workflow has finished click "Summary" to view the artifact outputs.
 
 <img src="README_pics/Screenshot_20260713_160239.png" width="700" height="1000" />
 
