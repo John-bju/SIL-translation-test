@@ -123,9 +123,7 @@ All documents need to be submitted in English, as Crowdin will handle all transl
 ###### Images
 In this repository images are handled differently than most other documentation repositorys. Images are not inserted into the documents themselves, but instead are inserted as links pointing to separate image files. This means that every document has a folder next to it that contains all the images displayed in that document. For example "Scripture-App-Builder-01-Installation-Instructions.fodt" would be next to a folder named SAB01, this folder would have all the images the document would use. More examples of this would be "Dictionary-App-Builder-04-Distributing-Apps.fodt" DAB04, Reading-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.fodt RAB07.
 
-<img src="README_pics/Screenshot_20260715_151502.png" width="400" height="800" />
-<img src="README_pics/Screenshot_20260722_161042.png" width="400" height="800" />
-<img src="README_pics/Screenshot_20260722_161127.png" width="400" height="800" />
+<img src="README_pics/Screenshot_20260715_151502.png" width="400" height="800" /> <img src="README_pics/Screenshot_20260722_161042.png" width="400" height="800" /> <img src="README_pics/Screenshot_20260722_161127.png" width="400" height="800" />
 
 The reason why this repository uses this system is that it makes it incredibly easy to switch out images in a document. Since screenshots containing English text can not be translated by Crowdin the next best solution is to replace these screenshots with ones containing text in the correct language. The Github workflow will automatically replace the screenshots, however the user still needs to manually supply all screenshots. The images are located in images/(language)/(app builder name)/(image folder) for instance "images/en-US/KAB/KAB02" and do not need to conform to a specific file format. Simply drop the images into the correct folder and the workflow will handle the rest.
 
