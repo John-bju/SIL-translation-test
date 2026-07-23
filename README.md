@@ -106,15 +106,6 @@ Next select "Skip tags" under "Word and character count". This setting also redu
 <img src="README_pics/Screenshot_20260720_140405.png" width="500" height="1000" />
 
 
-#
-### Outputs
-The workflow will produce two types of outputs. First it will generate all the translated files and add them to the "translations" branch. The user has the option to merge the translations branch into the main branch, if they want the new documents to be easily accessible.
-
-The second output is a .zip artifact composed of PDFs from both English and non-English languages, this can be found by going to the workflow and clicking the "Summary" button.
-
-
-
-
 # How to Use
 ### Submitting
 All submissions should be put into the "main" branch of the Github repositorysitory, and should be added into the following locations based on their types. 
@@ -123,7 +114,7 @@ All submissions should be put into the "main" branch of the Github repositorysit
 All documents need to be submitted in English, as Crowdin will handle all translations to non-English languages. All documents should be in .fodt format and should only be added (or modified) in `docs-en/fodt/(app builder name)/(file)` for example `"docs-en/fodt/SAB/Scripture-App-Builder-01-Installation-Instructions.fodt".`
 
 ###### Images
-In this repository images are handled differently than most other documentation repositorys. Images are not inserted into the documents themselves, but instead are inserted as links pointing to separate image files. This means that every document has a folder next to it that contains all the images displayed in that document. For example "Scripture-App-Builder-01-Installation-Instructions.fodt" would be next to a folder named SAB01, this folder would have all the images the document would use. More examples of this would be "Dictionary-App-Builder-04-Distributing-Apps.fodt" DAB04, Reading-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.fodt RAB07.
+In this repository images are handled differently than most other documentation repositorys. Images are not inserted into the documents themselves, but instead are inserted as links pointing to separate image files. This means that every document has a folder next to it that contains all the images displayed in that document. For example "Scripture-App-Builder-01-Installation-Instructions.fodt" would be next to a folder named SAB01, this folder would have all the images the document would use. More examples of this would be "Dictionary-App-Builder-04-Distributing-Apps.fodt" DAB04, "Reading-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.fodt" RAB07.
 
 <img src="README_pics/Screenshot_20260715_151502.png" width="300" height="600" />
 <img src="README_pics/Screenshot_20260722_161042.png" width="300" height="600" />
@@ -148,6 +139,11 @@ The workflow is now running in the background. You can click the "Convert" butto
 <img src="README_pics/Screenshot_20260713_160239.png" width="700" height="1000" />
 
 
+
+### Outputs
+The workflow will produce two types of outputs. First it will generate all the translated files and add them to the "translations" branch. The user has the option to merge the translations branch into the main branch, if they want the new documents to be easily accessible.
+
+The second output is a .zip artifact composed of PDFs from both English and non-English languages, this can be found by going to the workflow and clicking the "Summary" button.
 
 # Conclusion
 
