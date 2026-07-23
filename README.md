@@ -88,10 +88,12 @@ In order for the Github workflow and Crowdin to work together they use tokens to
 
 #
 ### How to add tokens as Github secrets.
-First you must be an administrator to the Github repository, if you are not then you need to contact one. You can tell if you are an administrator if you scroll to the top of the webpage there will be a tab labled "settings." Select it and then find the "Secrets and variables" button and select "Actions". Then add each token as a secret with a name given in this document.
-
+First you must be an administrator to the Github repository, if you are not then you need to contact one. You can tell if you are an administrator if you scroll to the top of the webpage there will be a tab labled "settings."
 
 <img src="README_pics/Screenshot_20260713_125818.png" width="600" height="1000" />
+
+If there is a settings tab select it, then find the "Secrets and variables" button on the left bar and select "Actions" in the drop down menu. Then click "New repository secret" fill in the "name" and "secret" information and click "Add secret". Make sure you only name the tokens what the are called in this document (`CROWDIN_PROJECT_ID` `CROWDIN_GITHUB_TOKEN` `CROWDIN_PERSONAL_TOKEN`). If this is not done then the Github workflow will not register the tokens and Crowdin will not work.
+
 
 <img src="README_pics/Screenshot_20260713_125904.png" width="800" height="1200" />
 
