@@ -2,14 +2,14 @@
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
  <office:meta><dc:title>Dictionary App Builder : Installation et Construction sur Mac</dc:title>
-<dc:creator>David Moore</dc:creator><meta:editing-cycles>3</meta:editing-cycles><meta:print-date>2018-03-13T18:27:00</meta:print-date><meta:creation-date>2026-04-29T15:18:00</meta:creation-date><dc:date>2026-04-29T15:22:00</dc:date><meta:editing-duration>P0D</meta:editing-duration><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:document-statistic meta:table-count="3" meta:image-count="32" meta:object-count="0" meta:page-count="27" meta:paragraph-count="406" meta:word-count="5652" meta:character-count="32446" meta:non-whitespace-character-count="27190"/>
+<meta:editing-cycles>4</meta:editing-cycles><meta:print-date>2018-03-13T18:27:00</meta:print-date><meta:creation-date>2026-04-29T15:18:00</meta:creation-date><dc:date>2026-07-22T12:21:21.979679970</dc:date><meta:editing-duration>PT5M19S</meta:editing-duration><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:document-statistic meta:table-count="3" meta:image-count="32" meta:object-count="0" meta:page-count="41" meta:paragraph-count="406" meta:word-count="5652" meta:character-count="32446" meta:non-whitespace-character-count="27190"/>
 <meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">975783</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">44743</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">22782</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">32016</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">21354</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
   </config:config-item-set>
@@ -120,7 +120,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">5276297</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">5442133</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">true</config:config-item>
@@ -4608,9 +4608,6 @@
    <style:text-properties fo:color="#2a00ff" loext:opacity="100%" style:font-name="Calibri" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
-   <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" fo:background-color="transparent" draw:fill="none" draw:fill-color="#729fcf" draw:secondary-fill-color="#729fcf" draw:gradient-step-count="0" draw:fill-hatch-solid="false" draw:opacity="100%" draw:fill-image-width="0in" draw:fill-image-height="0in" style:repeat="repeat" draw:fill-image-ref-point-x="0%" draw:fill-image-ref-point-y="0%" draw:fill-image-ref-point="center" draw:tile-repeat-offset="0% horizontal" fo:padding="0in" fo:border="none" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard" loext:decorative="false"/>
-  </style:style>
-  <style:style style:name="fr2" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:vertical-pos="top" style:vertical-rel="baseline" fo:background-color="transparent" draw:fill="none" draw:fill-color="#729fcf" draw:secondary-fill-color="#729fcf" draw:gradient-step-count="0" draw:fill-hatch-solid="false" draw:opacity="100%" draw:fill-image-width="0in" draw:fill-image-height="0in" style:repeat="repeat" draw:fill-image-ref-point-x="0%" draw:fill-image-ref-point-y="0%" draw:fill-image-ref-point="center" draw:tile-repeat-offset="0% horizontal" fo:padding="0in" fo:border="none" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard" loext:decorative="false"/>
   </style:style>
   <style:style style:name="Sect1" style:family="section">
@@ -4643,7 +4640,7 @@
  <office:master-styles>
   <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
    <style:footer>
-    <text:p text:style-name="P1" loext:marker-style-name="T1"><text:span text:style-name="T2"><text:page-number text:select-page="current">37</text:page-number></text:span><text:span text:style-name="T2"><text:s/></text:span></text:p>
+    <text:p text:style-name="P1" loext:marker-style-name="T1"><text:span text:style-name="T2"><text:page-number text:select-page="current">48</text:page-number></text:span><text:span text:style-name="T2"><text:s/></text:span></text:p>
     <text:p text:style-name="P2" loext:marker-style-name="T1"/>
    </style:footer>
    <style:footer-first>
@@ -4663,7 +4660,7 @@
    <text:p text:style-name="P42" loext:marker-style-name="T6"><text:bookmark text:name="_Hlk482021567"/></text:p>
    <text:p text:style-name="P43" loext:marker-style-name="T6"/>
    <text:p text:style-name="P43" loext:marker-style-name="T6"/>
-   <text:p text:style-name="P56" loext:marker-style-name="T6"><draw:frame draw:style-name="fr2" draw:name="Picture 7" text:anchor-type="as-char" svg:width="5.9846in" svg:height="1.6717in" draw:z-index="0"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P56" loext:marker-style-name="T6"><draw:frame draw:style-name="fr1" draw:name="Picture 7" text:anchor-type="as-char" svg:width="5.9846in" svg:height="1.6717in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAj8AAAChCAYAAAAoX94tAAAAAXNSR0IArs4c6QAAAAlwSFlz
        AAAOxAAADsQBlSsOGwAAQABJREFUeAHsfQmAFMW5f1V1z8xe3PchAh4cu4sHHnjjLcguSILG
        GG+zAgvJy0tiYl7+CXkveSYvMZdyiLfGxAQPZDkUo+J9osLucomKyH3DssfMdHf9f1/PzjIz
@@ -5232,11 +5229,11 @@
    <text:p text:style-name="P43" loext:marker-style-name="T6"/>
    <text:p text:style-name="P56" loext:marker-style-name="T7"><text:span text:style-name="T7">Installation et <text:line-break/>Construction d&apos;applications sur un Mac</text:span><text:span text:style-name="T7"/></text:p>
    <text:p text:style-name="P44" loext:marker-style-name="T9"/>
-   <text:p text:style-name="P44" loext:marker-style-name="T9"/>
+   <text:p text:style-name="P44" loext:marker-style-name="T9"><text:soft-page-break/></text:p>
    <text:p text:style-name="P56" loext:marker-style-name="T9"><text:span text:style-name="T9"><text:line-break/> </text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P44" loext:marker-style-name="T9"/>
-   <text:p text:style-name="P44" loext:marker-style-name="T9"/>
-   <text:p text:style-name="P56" loext:marker-style-name="T9"><draw:frame draw:style-name="fr2" draw:name="Picture 52" text:anchor-type="as-char" svg:width="0.672in" svg:height="0.752in" draw:z-index="0"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P44" loext:marker-style-name="T9"><text:s/></text:p>
+   <text:p text:style-name="P56" loext:marker-style-name="T9"><draw:frame draw:style-name="fr1" draw:name="Picture 52" text:anchor-type="as-char" svg:width="0.672in" svg:height="0.752in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAJQAAAClCAMAAACNxCTuAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAD2UExURZ/B2KLG2XqpyUaKtaPD2XKmx6HE2ezx+F+av2qgw5e807XP4dnm
        8FmVu0eKtVqVveDq8/n6+4u10CJ0pjyDsEuNtvT4+ix5qk2MuNLi7ePu9B5vpNzo8e709+/0
@@ -5267,7 +5264,7 @@
 Description générée automatiquement</svg:desc>
     </draw:frame></text:p>
    <text:p text:style-name="P49" loext:marker-style-name="T1"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T1"><text:soft-page-break/><text:span text:style-name="T1"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T1"><text:span text:style-name="T1"/></text:p>
    <text:p text:style-name="P50" loext:marker-style-name="T11"><draw:custom-shape text:anchor-type="char" draw:z-index="0" draw:name="Rectangle 16" draw:style-name="gr2" draw:text-style-name="P121" svg:width="0.2689in" svg:height="0.2913in" svg:x="3.0299in" svg:y="0.5807in">
      <text:p/>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:glue-points="?f0 0 0 ?f1 ?f0 ?f2 ?f3 ?f1" draw:text-areas="0 0 ?f3 ?f2" draw:type="ooxml-rect" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
@@ -5288,18 +5285,18 @@ Description générée automatiquement</svg:desc>
    <text:p text:style-name="P45" loext:marker-style-name="T8"/>
    <text:p text:style-name="P45" loext:marker-style-name="T8"/>
    <text:p text:style-name="P45" loext:marker-style-name="T8"/>
+   <text:p text:style-name="P45" loext:marker-style-name="T8"><text:soft-page-break/></text:p>
    <text:p text:style-name="P45" loext:marker-style-name="T8"/>
    <text:p text:style-name="P45" loext:marker-style-name="T8"/>
-   <text:p text:style-name="P45" loext:marker-style-name="T8"/>
-   <text:p text:style-name="P45" loext:marker-style-name="T8"/>
+   <text:p text:style-name="P45" loext:marker-style-name="T8"><text:s/></text:p>
    <text:p text:style-name="P45" loext:marker-style-name="T8"/>
    <text:p text:style-name="P47" loext:marker-style-name="T8"/>
-   <text:p text:style-name="P56" loext:marker-style-name="T12"><text:soft-page-break/><text:span text:style-name="T12">Dictionary App Builder: <text:line-break/>Installer et construire des applications sur un Mac</text:span><text:span text:style-name="T12"/></text:p>
+   <text:p text:style-name="P56" loext:marker-style-name="T12"><text:span text:style-name="T12">Dictionary App Builder: <text:line-break/>Installer et construire des applications sur un Mac</text:span><text:span text:style-name="T12"/></text:p>
    <text:p text:style-name="P47" loext:marker-style-name="T8"/>
    <text:p text:style-name="P56" loext:marker-style-name="T18"><text:span text:style-name="T18">©️ 2021, SIL International</text:span><text:span text:style-name="T18"/></text:p>
    <text:p text:style-name="P60" loext:marker-style-name="T18"/>
-   <text:p text:style-name="P56" loext:marker-style-name="T19"><text:span text:style-name="T19">Last updated: 25 March 2025</text:span><text:span text:style-name="T19"/></text:p>
-   <text:p text:style-name="P47" loext:marker-style-name="T8"><text:s/></text:p>
+   <text:p text:style-name="P56" loext:marker-style-name="T19"><text:soft-page-break/><text:span text:style-name="T19">Last updated: 25 March 2025</text:span><text:span text:style-name="T19"/></text:p>
+   <text:p text:style-name="P47" loext:marker-style-name="T8"/>
    <text:p text:style-name="P47" loext:marker-style-name="T8"/>
    <text:p text:style-name="P47" loext:marker-style-name="T8"/>
    <text:p text:style-name="P47" loext:marker-style-name="T8"/>
@@ -5308,9 +5305,9 @@ Description générée automatiquement</svg:desc>
    <text:p text:style-name="P49" loext:marker-style-name="T1"/>
    <text:p text:style-name="P56" loext:marker-style-name="T1"><text:span text:style-name="T1">The latest version is available at</text:span><text:span text:style-name="T1"/></text:p>
    <text:p text:style-name="P56" loext:marker-style-name="T8"><text:a xlink:type="simple" xlink:href="http://software.sil.org/dictionaryappbuilder/resources/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T1">http://software.sil.org/dictionaryappbuilder/resources/</text:span></text:span></text:a><text:span text:style-name="T8"> </text:span></text:p>
-   <text:p text:style-name="P47" loext:marker-style-name="T8"/>
+   <text:p text:style-name="P47" loext:marker-style-name="T8"><text:soft-page-break/></text:p>
    <text:p text:style-name="P56" loext:marker-style-name="T8"><text:span text:style-name="T8">et dans le menu Aide de Dictionary App Builder.</text:span><text:span text:style-name="T8"/></text:p>
-   <text:p text:style-name="P51" loext:marker-style-name="T11"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P51" loext:marker-style-name="T11"/>
    <text:p text:style-name="P57" loext:marker-style-name="T11"><text:span text:style-name="T11">Contenu</text:span><text:span text:style-name="T11"/></text:p>
    <text:p text:style-name="P52" loext:marker-style-name="T4"/>
    <text:p text:style-name="P52" loext:marker-style-name="T4"/>
@@ -5415,17 +5412,17 @@ Description générée automatiquement</svg:desc>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T31"><text:a xlink:type="simple" xlink:href="#_Toc228353905" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T18">3.2.</text:span><text:span text:style-name="T31"> </text:span><text:span text:style-name="T18">Installer le kit de développement de logiciels Android (SDK)</text:span><text:span text:style-name="T35"> 7</text:span></text:a></text:p>
      <text:p text:style-name="P5" loext:marker-style-name="T32"><text:a xlink:type="simple" xlink:href="#_Toc228353906" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T21">3.2.1.</text:span><text:span text:style-name="T32"> </text:span><text:span text:style-name="T18">Téléchargement des packages SDK Android depuis l&apos;internet</text:span><text:span text:style-name="T35"> 7</text:span></text:a></text:p>
      <text:p text:style-name="P5" loext:marker-style-name="T32"><text:a xlink:type="simple" xlink:href="#_Toc228353907" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T21">3.2.2.</text:span><text:span text:style-name="T32"> </text:span><text:span text:style-name="T18">Copie des fichiers SDK Android de quelqu&apos;un d&apos;autre</text:span><text:span text:style-name="T35"> 10</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T30"><text:a xlink:type="simple" xlink:href="#_Toc228353908" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T34">4.</text:span><text:span text:style-name="T30"> </text:span>Installation des pré-requis pour iOS<text:span text:style-name="T35"> 10</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T30"><text:a xlink:type="simple" xlink:href="#_Toc228353908" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:soft-page-break/><text:span text:style-name="T34">4.</text:span><text:span text:style-name="T30"> </text:span>Installation des pré-requis pour iOS<text:span text:style-name="T35"> 10</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T31"><text:a xlink:type="simple" xlink:href="#_Toc228353909" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">4.1.<text:span text:style-name="T31"> </text:span>Installer Xcode<text:span text:style-name="T35"> 11</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T31"><text:a xlink:type="simple" xlink:href="#_Toc228353910" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">4.2.<text:span text:style-name="T31"> </text:span>Verify Xcode Installation<text:span text:style-name="T35"> 11</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T31"><text:a xlink:type="simple" xlink:href="#_Toc228353911" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">4.3.<text:span text:style-name="T31"> </text:span>Installer le transporteur<text:span text:style-name="T35"> 11</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_1" loext:marker-style-name="T30"><text:a xlink:type="simple" xlink:href="#_Toc228353912" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T34">5.</text:span><text:span text:style-name="T30"> </text:span>Application de test dans le simulateur iOS<text:span text:style-name="T35"> 12</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T31"><text:a xlink:type="simple" xlink:href="#_Toc228353913" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">5.1.<text:span text:style-name="T31"> </text:span>Run the iOS Simulator<text:span text:style-name="T35"> 12</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T31"><text:a xlink:type="simple" xlink:href="#_Toc228353914" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:soft-page-break/>5.2.<text:span text:style-name="T31"> </text:span>Installation de simulateurs supplémentaires<text:span text:style-name="T35"> 13</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T31"><text:a xlink:type="simple" xlink:href="#_Toc228353914" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">5.2.<text:span text:style-name="T31"> </text:span>Installation de simulateurs supplémentaires<text:span text:style-name="T35"> 13</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T31"><text:a xlink:type="simple" xlink:href="#_Toc228353915" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">5.3.<text:span text:style-name="T31"> </text:span>Installation manuelle des applications dans le simulateur<text:span text:style-name="T35"> 13</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_1" loext:marker-style-name="T30"><text:a xlink:type="simple" xlink:href="#_Toc228353916" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T34">6.</text:span><text:span text:style-name="T30"> </text:span>Création de certificats et de profils d&apos;iOS<text:span text:style-name="T35"> 13</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T31"><text:a xlink:type="simple" xlink:href="#_Toc228353917" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">6.1.<text:span text:style-name="T31"> </text:span>S&apos;inscrire au Programme de Développeurs Apple<text:span text:style-name="T35"> 13</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T31"><text:a xlink:type="simple" xlink:href="#_Toc228353918" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">6.2.<text:span text:style-name="T31"> </text:span>Créer un certificat de signature<text:span text:style-name="T35"> 14</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T31"><text:a xlink:type="simple" xlink:href="#_Toc228353918" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:soft-page-break/>6.2.<text:span text:style-name="T31"> </text:span>Créer un certificat de signature<text:span text:style-name="T35"> 14</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T31"><text:a xlink:type="simple" xlink:href="#_Toc228353919" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">6.3.<text:span text:style-name="T31"> </text:span>Créer un profil de provisioning<text:span text:style-name="T35"> 15</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_1" loext:marker-style-name="T30"><text:a xlink:type="simple" xlink:href="#_Toc228353920" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T34">7.</text:span><text:span text:style-name="T30"> </text:span>Construire une application iOS<text:span text:style-name="T35"> 16</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_1" loext:marker-style-name="T30"><text:a xlink:type="simple" xlink:href="#_Toc228353921" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T34">8.</text:span><text:span text:style-name="T30"> </text:span>Tester une application iOS<text:span text:style-name="T35"> 20</text:span></text:a></text:p>
@@ -5435,9 +5432,9 @@ Description générée automatiquement</svg:desc>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T31"><text:a xlink:type="simple" xlink:href="#_Toc228353925" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">10.2.<text:span text:style-name="T31"> </text:span>Téléversement de votre première application<text:span text:style-name="T35"> 21</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T31"><text:a xlink:type="simple" xlink:href="#_Toc228353926" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">10.3.<text:span text:style-name="T31"> </text:span>Enregistrement d&apos;un appareil<text:span text:style-name="T35"> 23</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_1" loext:marker-style-name="T30"><text:a xlink:type="simple" xlink:href="#_Toc228353927" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T34">11.</text:span><text:span text:style-name="T30"> </text:span>Téléversement d&apos;une application iOS sur l&apos;App Store Apple<text:span text:style-name="T35"> 29</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T30"><text:a xlink:type="simple" xlink:href="#_Toc228353928" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T34">12.</text:span><text:span text:style-name="T30"> </text:span>Utilisation de Test Flight pour tester une application iOS<text:span text:style-name="T35"> 30</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T30"><text:a xlink:type="simple" xlink:href="#_Toc228353928" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:soft-page-break/><text:span text:style-name="T34">12.</text:span><text:span text:style-name="T30"> </text:span>Utilisation de Test Flight pour tester une application iOS<text:span text:style-name="T35"> 30</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_1" loext:marker-style-name="T30"><text:a xlink:type="simple" xlink:href="#_Toc228353929" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T34">13.</text:span><text:span text:style-name="T30"> </text:span>Bâtiment à partir du Terminal<text:span text:style-name="T35"> 31</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T31"><text:a xlink:type="simple" xlink:href="#_Toc228353930" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:soft-page-break/>13.1.<text:span text:style-name="T31"> </text:span>Installation de l&apos;interface de ligne de commande<text:span text:style-name="T35"> 31</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_2" loext:marker-style-name="T31"><text:a xlink:type="simple" xlink:href="#_Toc228353930" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">13.1.<text:span text:style-name="T31"> </text:span>Installation de l&apos;interface de ligne de commande<text:span text:style-name="T35"> 31</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T31"><text:a xlink:type="simple" xlink:href="#_Toc228353931" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">13.2.<text:span text:style-name="T31"> </text:span>Options d’interface de ligne de commande<text:span text:style-name="T35"> 31</text:span></text:a></text:p>
     </text:index-body>
    </text:table-of-content>
@@ -5499,12 +5496,12 @@ Description générée automatiquement</svg:desc>
    <text:p text:style-name="P67" loext:marker-style-name="T37"/>
    <text:p text:style-name="P76" loext:marker-style-name="T37"><text:span text:style-name="T37">Créer une application Android sur un Mac est essentiellement le même processus que pour Windows ou Linux. Pour créer une application iOS correspondante, vous devrez entrer quelques éléments de configuration supplémentaires. </text:span><text:span text:style-name="T37"/></text:p>
    <text:p text:style-name="P76" loext:marker-style-name="T37"><text:span text:style-name="T37">Les applications générées par DAB pour iOS fonctionneront sur iPhones et iPads avec iOS 12.2 ou supérieur.</text:span><text:span text:style-name="T37"/></text:p>
-   <text:p text:style-name="P67" loext:marker-style-name="T37"/>
+   <text:p text:style-name="P67" loext:marker-style-name="T37"><text:soft-page-break/></text:p>
    <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark text:name="_aavgtmmhk0r5"/><text:bookmark-start text:name="_Toc228353902"/><text:bookmark-start text:name="_Toc475369912"/>Installation du dictionnaire Application Builder<text:bookmark-end text:name="_Toc228353902"/></text:h>
    <text:p text:style-name="P30" loext:marker-style-name="T22"><text:span text:style-name="T22">To install the Dictionary App Builder program files:</text:span><text:span text:style-name="T22"/></text:p>
    <text:list text:style-name="WWNum15">
     <text:list-item>
-     <text:p text:style-name="P78" loext:marker-style-name="T37"><text:span text:style-name="T37">Download the current Mac installer file (dmg) from the DAB website:</text:span><text:span text:style-name="T37"/></text:p>
+     <text:p text:style-name="P78" loext:marker-style-name="T37"><text:span text:style-name="T37">Téléchargez le fichier d&apos;installation actuel de Mac (dmg) à partir du site DAB :</text:span><text:span text:style-name="T37"/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P79" loext:marker-style-name="T37"><text:a xlink:type="simple" xlink:href="http://software.sil.org/dictionaryappbuilder/download/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T37">http://software.sil.org/dictionaryappbuilder/download/</text:span></text:span></text:a><text:span text:style-name="T37"> </text:span></text:p>
@@ -5513,7 +5510,7 @@ Description générée automatiquement</svg:desc>
      <text:p text:style-name="P78" loext:marker-style-name="T37"><text:span text:style-name="T37">Double-cliquez sur le fichier dans </text:span><text:span text:style-name="T48">Finder</text:span><text:span text:style-name="T37"> pour ouvrir l&apos;image disque qui contient l&apos;application Dictionary App Builder.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P78" loext:marker-style-name="T37"><text:soft-page-break/><text:span text:style-name="T37">Copiez l&apos;application </text:span><text:span text:style-name="T48">Dictionary App Builder</text:span><text:span text:style-name="T37"> dans votre dossier </text:span><text:span text:style-name="T48">Application</text:span><text:span text:style-name="T37">. Cela peut être fait en faisant glisser l&apos;icône Dictionary App Builder de la fenêtre d&apos;image disque vers le raccourci du dossier Applications dans la même fenêtre.</text:span></text:p>
+     <text:p text:style-name="P78" loext:marker-style-name="T37"><text:span text:style-name="T37">Copiez l&apos;application </text:span><text:span text:style-name="T48">Dictionary App Builder</text:span><text:span text:style-name="T37"> dans votre dossier </text:span><text:span text:style-name="T48">Application</text:span><text:span text:style-name="T37">. Cela peut être fait en faisant glisser l&apos;icône Dictionary App Builder de la fenêtre d&apos;image disque vers le raccourci du dossier Applications dans la même fenêtre.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P48" loext:marker-style-name="T10"/>
@@ -5521,7 +5518,7 @@ Description générée automatiquement</svg:desc>
    <text:p text:style-name="P81" loext:marker-style-name="T37"><text:span text:style-name="T37">If you want to build Android apps, you need to install the following components on your computer:</text:span><text:span text:style-name="T37"/></text:p>
    <text:list text:style-name="WWNum11">
     <text:list-item>
-     <text:p text:style-name="P31" loext:marker-style-name="T2"><text:span text:style-name="T2">Kit de développement Java (JDK)</text:span><text:span text:style-name="T2"/></text:p>
+     <text:p text:style-name="P31" loext:marker-style-name="T2"><text:soft-page-break/><text:span text:style-name="T2">Kit de développement Java (JDK)</text:span><text:span text:style-name="T2"/></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P31" loext:marker-style-name="T2"><text:span text:style-name="T2">Kit de développement de logiciels Android (SDK)</text:span><text:span text:style-name="T2"/></text:p>
@@ -5539,13 +5536,13 @@ Description générée automatiquement</svg:desc>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="P86" loext:marker-style-name="T18"><text:span text:style-name="T18">Il y a beaucoup de téléchargements sur cette page, mais le lien ci-dessus filtrera ceux que vous voyez (version Java : Java 17 LTS; Système d&apos;exploitation: MacOS; Architecture: ARM 64-bit; Java Package: Java FX).</text:span><text:span text:style-name="T18"/></text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:soft-page-break/></text:p>
    <text:list text:continue-numbering="true" text:style-name="WWNum43">
     <text:list-item>
      <text:p text:style-name="P12" loext:marker-style-name="T18"><text:span text:style-name="T18">Faites défiler la page vers le bas jusqu&apos;à ce que vous voyez les téléchargements sous la rubrique </text:span><text:span text:style-name="T24">Téléchargez les Builds Azul Zulu d&apos;OpenJDK</text:span><text:span text:style-name="T18">:</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P17" loext:marker-style-name="T18"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P17" loext:marker-style-name="T18"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T18"><draw:frame draw:style-name="fr1" draw:name="Picture 2" text:anchor-type="as-char" svg:width="6.2638in" svg:height="4.372in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABoUAAASNCAYAAACFc1cBAAAKsmlDQ1BJQ0MgUHJvZmlsZQAA
        SImVlwdUk8kWx+f70kMCgQDSCb1JFwggJfRQBOkgKiEJEEoIgdDsyOIKrgUREVAXdFFEwVWp
@@ -10738,13 +10735,13 @@ Description générée automatiquement</svg:desc>
    <text:p text:style-name="P61" loext:marker-style-name="T18"/>
    <text:list text:style-name="WWNum44">
     <text:list-item>
-     <text:p text:style-name="P13" loext:marker-style-name="T18"><text:span text:style-name="T18">You have a choice between two different architectures: </text:span><text:span text:style-name="T24">x86 64-bit</text:span><text:span text:style-name="T18"> and </text:span><text:span text:style-name="T24">ARM 64-bit</text:span><text:span text:style-name="T18">. Vous pouvez trouver le type de processeur de votre machine en cliquant sur le symbole Apple en haut à gauche de votre écran et en sélectionnant </text:span><text:span text:style-name="T24">About This Mac</text:span><text:span text:style-name="T18">. Si vous avez un ancien Mac fonctionnant avec une puce Intel x86, sélectionnez x86 (64 bits) sinon vous aurez besoin du ARM 64-bit.</text:span></text:p>
+     <text:p text:style-name="P13" loext:marker-style-name="T18"><text:span text:style-name="T18">You have a choice between two different architectures: </text:span><text:span text:style-name="T24">x86 64-bit</text:span><text:span text:style-name="T18"> and </text:span><text:span text:style-name="T24">ARM 64-bit</text:span><text:span text:style-name="T18">. Vous pouvez trouver le type de processeur de votre machine en cliquant sur le symbole Apple en haut à gauche de votre écran et en sélectionnant </text:span><text:span text:style-name="T24">About This Mac</text:span><text:span text:style-name="T18">. Si vous avez un ancien Mac fonctionnant avec une puce Intel x86, sélectionnez x86 (64 bits) sinon vous aurez besoin de l&apos;ARM 64-bit.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P17" loext:marker-style-name="T18"/>
    <text:p text:style-name="P14" loext:marker-style-name="T18"><text:span text:style-name="T18">Once you have identified your device architecture, you have a choice between a </text:span><text:span text:style-name="T24">dmg</text:span><text:span text:style-name="T18"> file, a </text:span><text:span text:style-name="T24">tar.gz</text:span><text:span text:style-name="T18"> file and a </text:span><text:span text:style-name="T24">zip</text:span><text:span text:style-name="T18"> file. </text:span><text:span text:style-name="T24">Téléchargez le fichier .dmg</text:span><text:span text:style-name="T18"> car il est livré avec son propre programme d&apos;installation. </text:span></text:p>
-   <text:p text:style-name="P18" loext:marker-style-name="T18"/>
-   <text:p text:style-name="P19" loext:marker-style-name="T18"><text:span text:style-name="T18">The file you download will have a filename something like this:</text:span><text:span text:style-name="T18"/></text:p>
+   <text:p text:style-name="P18" loext:marker-style-name="T18"><text:s/></text:p>
+   <text:p text:style-name="P19" loext:marker-style-name="T18"><text:soft-page-break/><text:span text:style-name="T18">The file you download will have a filename something like this:</text:span><text:span text:style-name="T18"/></text:p>
    <text:p text:style-name="P20" loext:marker-style-name="T18"><text:span text:style-name="T24">zulu17.64.17-ca-fx-jdk17.0.18-macosx_x64.dmg</text:span><text:span text:style-name="T18"><text:line-break/></text:span></text:p>
    <text:list text:continue-numbering="true" text:style-name="WWNum44">
     <text:list-item>
@@ -10756,9 +10753,9 @@ Description générée automatiquement</svg:desc>
    <text:p text:style-name="P61" loext:marker-style-name="T18"/>
    <text:p text:style-name="P87" loext:marker-style-name="T18">Importante<text:span text:style-name="T18">: Si vous changez le dossier d&apos;installation de JDK en autre chose que le dossier par défaut, vous devrez vous souvenir de l&apos;emplacement du dossier pour que vous puissiez dire à Dictionary App Builder où trouver le JDK.</text:span></text:p>
    <text:p text:style-name="P61" loext:marker-style-name="T18"/>
-   <text:p text:style-name="P32" loext:marker-style-name="T4"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T4"/>
    <text:h text:style-name="P10" text:outline-level="2" loext:marker-style-name="T18"><text:bookmark text:name="_mcyrni6cg1av"/><text:bookmark-start text:name="_Toc482020490"/><text:bookmark-start text:name="_Toc78622942"/><text:bookmark-start text:name="_Toc228353905"/><text:span text:style-name="T18">Installation du kit de développement de logiciels Android (SDK)</text:span><text:bookmark-end text:name="_Toc482020490"/><text:bookmark-end text:name="_Toc78622942"/><text:bookmark-end text:name="_Toc228353905"/><text:span text:style-name="T18"/></text:h>
-   <text:p text:style-name="P83" loext:marker-style-name="T18"><text:span text:style-name="T18">Le kit de développement de logiciels Android (SDK) est nécessaire pour construire des applications Android. Il y a deux façons d&apos;installer le SDK Android:</text:span><text:span text:style-name="T18"/></text:p>
+   <text:p text:style-name="P83" loext:marker-style-name="T18"><text:soft-page-break/><text:span text:style-name="T18">Le kit de développement de logiciels Android (SDK) est nécessaire pour construire des applications Android. Il y a deux façons d&apos;installer le SDK Android:</text:span><text:span text:style-name="T18"/></text:p>
    <text:list text:style-name="WWNum41">
     <text:list-item>
      <text:p text:style-name="P15" loext:marker-style-name="T18"><text:span text:style-name="T23">en ligne : Téléchargez les paquets SDK Android depuis Internet : </text:span><text:span text:style-name="T18"><text:line-break/>Utilisez l&apos;assistant d&apos;installation d&apos;Android SDK pour télécharger et installer les outils en ligne de commande et trois paquets supplémentaires. Cette méthode nécessitera une connexion Internet. </text:span></text:p>
@@ -10778,7 +10775,7 @@ Description générée automatiquement</svg:desc>
    <text:p text:style-name="P61" loext:marker-style-name="T18"/>
    <text:list text:style-name="WWNum28">
     <text:list-item>
-     <text:p text:style-name="P91" loext:marker-style-name="T18"><text:span text:style-name="T18">Lancez </text:span><text:span text:style-name="T23">Dictionary App Builder</text:span><text:span text:style-name="T18">. </text:span></text:p>
+     <text:p text:style-name="P91" loext:marker-style-name="T18"><text:soft-page-break/><text:span text:style-name="T18">Lancez </text:span><text:span text:style-name="T23">Dictionary App Builder</text:span><text:span text:style-name="T18">. </text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P62" loext:marker-style-name="T18"/>
@@ -10787,19 +10784,19 @@ Description générée automatiquement</svg:desc>
      <text:p text:style-name="P91" loext:marker-style-name="T18"><text:span text:style-name="T18">Select </text:span><text:span text:style-name="T23">Dictionary App Builder</text:span><text:span text:style-name="T18"> </text:span><text:span text:style-name="T50">Ø</text:span><text:span text:style-name="T18"> </text:span><text:span text:style-name="T23">Preferences</text:span><text:span text:style-name="T18"> from the main menu.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P18" loext:marker-style-name="T18"><text:s/></text:p>
+   <text:p text:style-name="P18" loext:marker-style-name="T18"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum28">
     <text:list-item>
-     <text:p text:style-name="P91" loext:marker-style-name="T18"><text:soft-page-break/><text:span text:style-name="T18">Allez dans l&apos;onglet </text:span><text:span text:style-name="T23">Android SDK</text:span><text:span text:style-name="T18"> qui est le deuxième onglet.</text:span></text:p>
+     <text:p text:style-name="P91" loext:marker-style-name="T18"><text:span text:style-name="T18">Allez dans l&apos;onglet </text:span><text:span text:style-name="T23">Android SDK</text:span><text:span text:style-name="T18"> qui est le deuxième onglet.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P62" loext:marker-style-name="T18"/>
+   <text:p text:style-name="P62" loext:marker-style-name="T18"><text:s/></text:p>
    <text:list text:continue-numbering="true" text:style-name="WWNum28">
     <text:list-item>
      <text:p text:style-name="P92" loext:marker-style-name="T18"><text:span text:style-name="T18">Cliquez sur le bouton </text:span><text:span text:style-name="T24">Installer Android SDK</text:span><text:span text:style-name="T18"> .</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P95" loext:marker-style-name="T18"><draw:custom-shape text:anchor-type="char" draw:z-index="1" draw:name="AutoShape 7" draw:style-name="gr1" draw:text-style-name="P121" svg:width="0.548in" svg:height="0.2315in" draw:transform="rotate (0.602662190713642) translate (0in 1.50763888888889in)">
+   <text:p text:style-name="P95" loext:marker-style-name="T18"><draw:custom-shape text:anchor-type="char" draw:z-index="1" draw:name="AutoShape 7" draw:style-name="gr1" draw:text-style-name="P121" svg:width="0.548in" svg:height="0.2315in" draw:transform="rotate (0.602662190713642) translate (5.68472222222222in 1.50763888888889in)">
      <text:p/>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:glue-points="?f5 0 0 ?f7 ?f5 ?f14 ?f13 ?f7" draw:text-areas="?f12 ?f8 ?f13 ?f9" draw:type="ooxml-leftArrow" draw:modifiers="50000 75000" draw:enhanced-path="M 0 ?f7 L ?f5 0 ?f5 ?f8 ?f13 ?f8 ?f13 ?f9 ?f5 ?f9 ?f5 ?f14 Z N">
       <draw:equation draw:name="f0" draw:formula="min(logwidth,logheight)"/>
@@ -16869,7 +16866,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P63" loext:marker-style-name="T18"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum28">
     <text:list-item>
-     <text:p text:style-name="P92" loext:marker-style-name="T18"><text:span text:style-name="T18">Suivez les instructions sur chaque page de l&apos;assistant </text:span><text:span text:style-name="T24">Installer Android SDK</text:span><text:span text:style-name="T18"> pour télécharger et installer chacun des packages Android SDK.</text:span></text:p>
+     <text:p text:style-name="P92" loext:marker-style-name="T18"><text:soft-page-break/><text:span text:style-name="T18">Suivez les instructions sur chaque page de l&apos;assistant </text:span><text:span text:style-name="T24">Installer Android SDK</text:span><text:span text:style-name="T18"> pour télécharger et installer chacun des packages Android SDK.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P64" loext:marker-style-name="T18"/>
@@ -18000,8 +17997,8 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P61" loext:marker-style-name="T18"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T18"><text:span text:style-name="T18">Vous pouvez sauter la section 3.2.2 et aller directement à la section 4.<text:line-break/></text:span><text:span text:style-name="T18"/></text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T18"><text:bookmark-start text:name="_Toc78622944"/><text:bookmark-start text:name="_Toc228353907"/><text:bookmark-start text:name="_Toc77851810"/><text:span text:style-name="T18">Copie des fichiers SDK Android de quelqu&apos;un d&apos;autre</text:span><text:bookmark-end text:name="_Toc78622944"/><text:bookmark-end text:name="_Toc228353907"/><text:bookmark-end text:name="_Toc77851810"/><text:span text:style-name="T18"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T18"><text:span text:style-name="T18">Si vous connaissez quelqu&apos;un qui a déjà téléchargé et installé le SDK Android et qui est en train de construire des applications avec succès, vous pouvez copier tous leurs fichiers SDK Android dans un dossier sur votre ordinateur.</text:span><text:span text:style-name="T18"/></text:p>
-   <text:p text:style-name="P76" loext:marker-style-name="T18"><text:span text:style-name="T18">You need to look for the top-level Android SDK folder, such as </text:span><text:span text:style-name="T23">/Users/</text:span><text:span text:style-name="T20">user-name</text:span><text:span text:style-name="T23">/Android-SDK</text:span><text:span text:style-name="T18">, and copy the whole folder and its contents to your computer. Un emplacement tel que </text:span><text:span text:style-name="T23">/Users/</text:span><text:span text:style-name="T20">votre nom</text:span><text:span text:style-name="T23">/Android-SDK</text:span><text:span text:style-name="T18"> est bon. Si cela vous facilite la tâche, vous pouvez zipper les dossiers et les décompresser sur votre ordinateur.</text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T18"><text:soft-page-break/><text:span text:style-name="T18">Si vous connaissez quelqu&apos;un qui a déjà téléchargé et installé le SDK Android et qui est en train de construire des applications avec succès, vous pouvez copier tous leurs fichiers SDK Android dans un dossier sur votre ordinateur.</text:span><text:span text:style-name="T18"/></text:p>
+   <text:p text:style-name="P76" loext:marker-style-name="T18"><text:span text:style-name="T18">Vous devez chercher le dossier SDK Android de premier niveau, comme </text:span><text:span text:style-name="T23">/Users/</text:span><text:span text:style-name="T20">nom d&apos;utilisateur</text:span><text:span text:style-name="T23">/Android-SDK</text:span><text:span text:style-name="T18">, et copiez le dossier entier et son contenu sur votre ordinateur. Un emplacement tel que </text:span><text:span text:style-name="T23">/Users/</text:span><text:span text:style-name="T20">votre nom</text:span><text:span text:style-name="T23">/Android-SDK</text:span><text:span text:style-name="T18"> est bon. Si cela vous facilite la tâche, vous pouvez zipper les dossiers et les décompresser sur votre ordinateur.</text:span></text:p>
    <text:p text:style-name="P76" loext:marker-style-name="T18"><text:span text:style-name="T18">Note that there is </text:span><text:span text:style-name="T27">no setup program to run</text:span><text:span text:style-name="T18">. La copie des fichiers d&apos;un ordinateur vers un autre est suffisante.</text:span></text:p>
    <text:p text:style-name="P61" loext:marker-style-name="T18"/>
    <text:p text:style-name="P76" loext:marker-style-name="T18"><text:span text:style-name="T23">Astuce</text:span><text:span text:style-name="T18">: Un dossier SDK Android typique peut être assez grand (plus de 1 Go, selon les paquets supplémentaires qui ont été installés). Pour construire une application, vous n&apos;avez pas besoin de tous les fichiers SDK Android. Si vous voulez réduire le nombre de fichiers, voici une liste des dossiers essentiels et optionnels :</text:span></text:p>
@@ -18010,6 +18007,7 @@ Description automatically generated</svg:desc>
     <table:table-column table:style-name="Table2.A"/>
     <table:table-column table:style-name="Table2.B"/>
     <table:table-header-rows>
+     <text:soft-page-break/>
      <table:table-row table:style-name="Table2.1">
       <table:table-cell table:style-name="Table2.A1" office:value-type="string">
        <text:p text:style-name="P72" loext:marker-style-name="T51"><text:span text:style-name="T51">Dossier SDK Android</text:span><text:span text:style-name="T51"/></text:p>
@@ -18067,7 +18065,6 @@ Description automatically generated</svg:desc>
       <text:p text:style-name="P72" loext:marker-style-name="T52"><text:span text:style-name="T52">Pas de</text:span><text:span text:style-name="T52"/></text:p>
      </table:table-cell>
     </table:table-row>
-    <text:soft-page-break/>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A8" office:value-type="string">
       <text:p text:style-name="P72" loext:marker-style-name="T52"><text:span text:style-name="T52">émulateur</text:span><text:span text:style-name="T52"/></text:p>
@@ -18907,18 +18904,18 @@ Description automatically generated</svg:desc>
       </office:binary-data>
      </draw:image>
     </draw:frame><text:s/></text:p>
-   <text:h text:style-name="P9" text:outline-level="2"><text:bookmark-start text:name="_Toc228353910"/><text:bookmark-start text:name="OLE_LINK42"/><text:bookmark-start text:name="OLE_LINK43"/><text:bookmark-start text:name="_Toc508705004"/>Vérifier l&apos;installation de Xcode<text:bookmark-end text:name="_Toc228353910"/><text:bookmark-end text:name="_Toc508705004"/></text:h>
+   <text:h text:style-name="P9" text:outline-level="2"><text:bookmark-start text:name="_Toc228353910"/><text:bookmark-start text:name="OLE_LINK42"/><text:bookmark-start text:name="OLE_LINK43"/><text:bookmark-start text:name="_Toc508705004"/><text:soft-page-break/>Vérifier l&apos;installation de Xcode<text:bookmark-end text:name="_Toc228353910"/><text:bookmark-end text:name="_Toc508705004"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T13"><text:span text:style-name="T13">To verify that you have successfully installed Xcode and that it is will be correctly used by Dictionary App Builder, please open Terminal and run the following command to print the path to the active developer directory:</text:span><text:span text:style-name="T13"/></text:p>
    <text:p text:style-name="P4">xcode-select -p</text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T56"><text:span text:style-name="T37"><text:line-break/></text:span><text:span text:style-name="T56">$ xcode-</text:span><text:span text:style-name="T57">sélectionner</text:span><text:span text:style-name="T56"> -p</text:span></text:p>
    <text:p text:style-name="P93" loext:marker-style-name="T33"><text:span text:style-name="T56">/Applications/Xcode.app/</text:span><text:span text:style-name="T57">Contenu</text:span><text:span text:style-name="T56">/Développeur</text:span></text:p>
    <text:p text:style-name="P99" loext:marker-style-name="T37"><text:span text:style-name="T37"><text:line-break/>Si vous avez déjà installé Xcode en ligne de commande, il se peut que cela pointe toujours vers ce répertoire d&apos;installation et Dictionary App Builder ne fonctionnera pas correctement.<text:line-break/><text:line-break/></text:span><text:span text:style-name="T56">$ xcode-</text:span><text:span text:style-name="T57">sélectionnez</text:span><text:span text:style-name="T56"> -p </text:span><text:span text:style-name="T59"><text:line-break/></text:span><text:span text:style-name="T56">/</text:span><text:span text:style-name="T57">Librairie</text:span><text:span text:style-name="T56">/Developer/CommandLineTools</text:span><text:bookmark-end text:name="OLE_LINK42"/><text:bookmark-end text:name="OLE_LINK43"/></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T37"><text:soft-page-break/><text:span text:style-name="T37">Pour corriger cette situation, exécutez la commande suivante pour définir le répertoire des développeurs actifs.</text:span><text:span text:style-name="T37"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T37"><text:span text:style-name="T37">Pour corriger cette situation, exécutez la commande suivante pour définir le répertoire des développeurs actifs.</text:span><text:span text:style-name="T37"/></text:p>
    <text:p text:style-name="P4">sudo xcode-select -s /Applications/Xcode.app/Contents/Developer</text:p>
    <text:p text:style-name="P67" loext:marker-style-name="T37"/>
    <text:h text:style-name="P9" text:outline-level="2"><text:bookmark text:name="_m0jnku21w8d3"/><text:bookmark-start text:name="_Toc475369917"/><text:bookmark-start text:name="_Toc31750426"/><text:bookmark-start text:name="_Toc228353911"/>Install <text:bookmark-end text:name="_Toc475369917"/>Transporter<text:bookmark-end text:name="_Toc31750426"/><text:bookmark-end text:name="_Toc228353911"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T37"><text:span text:style-name="T47">Transporteur</text:span><text:span text:style-name="T37"> est utilisé pour télécharger des applications iOS sur l&apos;App Store Connect. </text:span><text:span text:style-name="T55">Pour installer Transporter, il vous suffit de chercher Transporter dans l&apos;App Store Mac et de l&apos;installer.</text:span></text:p>
-   <text:p text:style-name="P67" loext:marker-style-name="T37"><text:s/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T37"><text:soft-page-break/><text:span text:style-name="T47">Transporteur</text:span><text:span text:style-name="T37"> est utilisé pour télécharger des applications iOS sur l&apos;App Store Connect. </text:span><text:span text:style-name="T55">Pour installer Transporter, il vous suffit de chercher Transporter dans l&apos;App Store Mac et de l&apos;installer.</text:span></text:p>
+   <text:p text:style-name="P67" loext:marker-style-name="T37"/>
    <text:p text:style-name="P56" loext:marker-style-name="T18"><draw:frame draw:style-name="fr1" draw:name="Picture 39" text:anchor-type="as-char" svg:width="4.4972in" svg:height="0.9283in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAs8AAACUCAYAAABspMSqAAAAAXNSR0IArs4c6QAAAAlwSFlz
        AAAXEgAAFxIBZ5/SUgAAQABJREFUeAHsvQeAplV1/3+mz2ynd5il9w5KkaISBBHBrn8Uldii
@@ -19511,7 +19508,7 @@ Description automatically generated</svg:desc>
    </text:list>
    <text:h text:style-name="P9" text:outline-level="2"><text:bookmark-start text:name="OLE_LINK12"/><text:bookmark-start text:name="_Toc228353913"/>Exécuter le simulateur iOS<text:bookmark-end text:name="OLE_LINK12"/><text:bookmark-end text:name="_Toc228353913"/></text:h>
    <text:p text:style-name="P76" loext:marker-style-name="T37"><text:span text:style-name="T37">Once you have a project configured and ready to test, click on the </text:span><text:span text:style-name="T47">Run iOS App in Simulator</text:span><text:span text:style-name="T37"> on the toolbar.</text:span></text:p>
-   <text:p text:style-name="P58" loext:marker-style-name="T37"><draw:frame draw:style-name="fr1" draw:name="Picture 59" text:anchor-type="as-char" svg:width="4.0563in" svg:height="2.0492in" draw:z-index="0"><draw:image draw:mime-type="image/tiff">
+   <text:p text:style-name="P58" loext:marker-style-name="T37"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Picture 59" text:anchor-type="as-char" svg:width="4.0563in" svg:height="2.0492in" draw:z-index="0"><draw:image draw:mime-type="image/tiff">
       <office:binary-data>TU0AKgAEvMgAAAAGAAAABgAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA
        AAEAAAABAAAAAgAAAAIAAAACAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAQAAAAE
        AAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAA
@@ -25329,7 +25326,7 @@ Description automatically generated</svg:desc>
      </draw:image>
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="P76" loext:marker-style-name="T37"><text:span text:style-name="T37">Select the simulator you would like to run on and click </text:span><text:span text:style-name="T47">Start</text:span><text:span text:style-name="T37">. Il faut un peu de temps pour que le simulateur démarre. Si vous voulez changer de simulateur, sélectionnez un simulateur différent à partir de la liste déroulante </text:span><text:span text:style-name="T47">Type </text:span><text:span text:style-name="T37">et cliquez à nouveau sur </text:span><text:span text:style-name="T47">Démarrer</text:span><text:span text:style-name="T37">. Il fermera le simulateur précédent et démarrera le nouveau. </text:span></text:p>
-   <text:p text:style-name="P76" loext:marker-style-name="T37"><text:soft-page-break/><text:span text:style-name="T37">Sélectionnez le projet que vous souhaitez tester (il est par défaut le projet sélectionné dans la liste des Apps ) et cliquez sur </text:span><text:span text:style-name="T47">Build</text:span><text:span text:style-name="T37">. Ceci construira l&apos;application pour le simulateur dans une fenêtre de terminal séparée. Une fois la version terminée, vous pouvez cliquer sur </text:span><text:span text:style-name="T47">Lancez</text:span><text:span text:style-name="T37"> pour exécuter l&apos;application dans le simulateur.</text:span></text:p>
+   <text:p text:style-name="P76" loext:marker-style-name="T37"><text:span text:style-name="T37">Sélectionnez le projet que vous souhaitez tester (il est par défaut le projet sélectionné dans la liste des Apps ) et cliquez sur </text:span><text:span text:style-name="T47">Build</text:span><text:span text:style-name="T37">. Ceci construira l&apos;application pour le simulateur dans une fenêtre de terminal séparée. Une fois la version terminée, vous pouvez cliquer sur </text:span><text:span text:style-name="T47">Lancez</text:span><text:span text:style-name="T37"> pour exécuter l&apos;application dans le simulateur.</text:span></text:p>
    <text:p text:style-name="P76" loext:marker-style-name="T37"><text:span text:style-name="T37">Vous pouvez fermer la boîte de dialogue et apporter des modifications à votre projet. Lorsque vous redémarrez la boîte de dialogue Exécuter le simulateur iOS, vous devrez construire et lancer à nouveau pour que les changements soient inclus.</text:span><text:span text:style-name="T37"/></text:p>
    <text:h text:style-name="P9" text:outline-level="2"><text:bookmark-start text:name="OLE_LINK13"/><text:bookmark-start text:name="_Toc228353914"/>Installation de simulateurs supplémentaires<text:bookmark-end text:name="OLE_LINK13"/><text:bookmark-end text:name="_Toc228353914"/></text:h>
    <text:p text:style-name="P76" loext:marker-style-name="T37"><text:span text:style-name="T37">Vous pouvez installer des simulateurs pour les versions précédentes d&apos;iOS en lançant Xcode et en affichant la boîte de dialogue des préférences et en sélectionnant l&apos;onglet Composants.</text:span><text:span text:style-name="T37"/></text:p>
@@ -36218,7 +36215,7 @@ Description automatically generated</svg:desc>
    <text:h text:style-name="P9" text:outline-level="2"><text:bookmark-start text:name="_Toc228353915"/>Installation manuelle des applications dans le simulateur<text:bookmark-end text:name="_Toc228353915"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T13"><text:span text:style-name="T13">If there is some problem with launching the simulator from the </text:span><text:span text:style-name="T14">Run iOS Simulator</text:span><text:span text:style-name="T13"> dialog, you can manually install the app by dragging the built app from the Simulator output folder (found in ~/App Builder/Dictionary Apps/Sim Output) onto the Simulator. </text:span></text:p>
    <text:p text:style-name="P76" loext:marker-style-name="T13"><text:span text:style-name="T13">To start the Simulator, launch </text:span><text:span text:style-name="T14">Xcode</text:span><text:span text:style-name="T13"> and from the </text:span><text:span text:style-name="T14">Xcode</text:span><text:span text:style-name="T13"> menu select </text:span><text:span text:style-name="T14">Open Developer Tool</text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="T42"></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="T14">Simulator</text:span><text:span text:style-name="T13">. Vous devrez toujours reconstruire l&apos;application à partir de la boîte de dialogue </text:span><text:span text:style-name="T14">Exécuter le simulateur iOS</text:span><text:span text:style-name="T13"> .</text:span></text:p>
-   <text:p text:style-name="P54" loext:marker-style-name="T13"/>
+   <text:p text:style-name="P54" loext:marker-style-name="T13"><text:soft-page-break/></text:p>
    <text:p text:style-name="P54" loext:marker-style-name="T13"/>
    <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="_Toc228353916"/>Création de certificats iOS et Provisioning<text:bookmark-end text:name="_Toc475369919"/> Profils<text:bookmark-end text:name="_Toc228353916"/></text:h>
    <text:h text:style-name="P9" text:outline-level="2"><text:bookmark-start text:name="OLE_LINK11"/><text:bookmark-start text:name="_Toc228353917"/>S&apos;inscrire au programme de développement Apple<text:bookmark-end text:name="OLE_LINK11"/><text:bookmark-end text:name="_Toc228353917"/></text:h>
@@ -36232,11 +36229,11 @@ Description automatically generated</svg:desc>
      <text:p text:style-name="P26" loext:marker-style-name="T37"><text:span text:style-name="T37">Appuyez sur le bouton </text:span><text:span text:style-name="T47">Commencez votre inscription</text:span><text:span text:style-name="T37"> pour commencer.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P68" loext:marker-style-name="T37"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P68" loext:marker-style-name="T37"/>
    <text:h text:style-name="P9" text:outline-level="2"><text:bookmark-start text:name="_Toc228353918"/>Créer un certificat de signature<text:bookmark-end text:name="_Toc228353918"/></text:h>
-   <text:p text:style-name="P100" loext:marker-style-name="T37"><text:span text:style-name="T37">Lorsque vous créez une application iOS, elle doit être signée avec un certificat. </text:span><text:span text:style-name="T37"/></text:p>
+   <text:p text:style-name="P100" loext:marker-style-name="T37"><text:soft-page-break/><text:span text:style-name="T37">Lorsque vous créez une application iOS, elle doit être signée avec un certificat. </text:span><text:span text:style-name="T37"/></text:p>
    <text:p text:style-name="P67" loext:marker-style-name="T37"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T37"><text:span text:style-name="T37">To create a certificate:</text:span><text:span text:style-name="T37"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T37"><text:span text:style-name="T37">Pour créer un certificat :</text:span><text:span text:style-name="T37"/></text:p>
    <text:list text:style-name="WWNum13">
     <text:list-item>
      <text:p text:style-name="P104" loext:marker-style-name="T37"><text:span text:style-name="T37">Rendez-vous sur le site </text:span><text:a xlink:type="simple" xlink:href="https://developer.apple.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T37">Développeur Apple</text:span></text:span></text:a><text:span text:style-name="T37"> et connectez-vous à votre compte si vous n&apos;êtes pas déjà.</text:span></text:p>
@@ -36337,16 +36334,16 @@ Description automatically generated</svg:desc>
      <text:p text:style-name="P104" loext:marker-style-name="T37"><text:span text:style-name="T37">Ouvrez l&apos;application Keychain Access . Choisissez l&apos;élément </text:span><text:span text:style-name="T47">connectez</text:span><text:span text:style-name="T37"> dans la section Trousseaux à gauche. </text:span><text:bookmark-start text:name="OLE_LINK2"/><text:span text:style-name="T37">Choisissez le </text:span><text:span text:style-name="T47">Fichier</text:span><text:span text:style-name="T37"> </text:span><text:span text:style-name="T42">&lt;unk&gt;</text:span><text:span text:style-name="T37"> </text:span><text:span text:style-name="T47">Importer les éléments…</text:span><text:span text:style-name="T37"> </text:span><text:bookmark-end text:name="OLE_LINK2"/><text:span text:style-name="T37">élément de menu et naviguez jusqu&apos;au dossier Téléchargements et sélectionnez le certificat (distribution.cer).</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P67" loext:marker-style-name="T37"/>
+   <text:p text:style-name="P67" loext:marker-style-name="T37"><text:soft-page-break/></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T37"><text:span text:style-name="T37">Maintenant que le certificat est installé dans le Trousseau, vous pourrez y accéder depuis le Créateur d&apos;applications Dictionnaire.</text:span><text:span text:style-name="T37"/></text:p>
    <text:p text:style-name="P101" loext:marker-style-name="T37"><text:span text:style-name="T37">Remarque : pour travailler avec des certificats, vous aurez besoin de l&apos;Autorité de Certification Apple Worldwide Developer Relations (WWDR). Il aurait dû être installé avec Xcode. Lorsque vous consultez votre certificat dans l&apos;application Keychain Access, s&apos;il y a une erreur indiquant que le certificat n&apos;est pas approuvé, installez ensuite l&apos;autorité de certification.</text:span><text:span text:style-name="T37"/></text:p>
-   <text:p text:style-name="P84" loext:marker-style-name="T37"><text:span text:style-name="T37">Pour obtenir l&apos;autorité de certification :</text:span><text:span text:style-name="T37"/></text:p>
+   <text:p text:style-name="P84" loext:marker-style-name="T37"><text:span text:style-name="T37">To get the certification authority:</text:span><text:span text:style-name="T37"/></text:p>
    <text:list text:style-name="WWNum1">
     <text:list-item>
-     <text:p text:style-name="P105" loext:marker-style-name="T37"><text:soft-page-break/><text:span text:style-name="T37">Téléchargez l&apos;Autorité de Certification Apple WWDR depuis :<text:line-break/></text:span><text:a xlink:type="simple" xlink:href="https://developer.apple.com/certificationauthority/AppleWWDRCA.cer" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T37">https://developer.apple.com/certificationauthority/AppleWWDRCA.cer</text:span></text:span></text:a></text:p>
+     <text:p text:style-name="P105" loext:marker-style-name="T37"><text:span text:style-name="T37">Téléchargez l&apos;Autorité de Certification Apple WWDR depuis :<text:line-break/></text:span><text:a xlink:type="simple" xlink:href="https://developer.apple.com/certificationauthority/AppleWWDRCA.cer" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T37">https://developer.apple.com/certificationauthority/AppleWWDRCA.cer</text:span></text:span></text:a></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P106" loext:marker-style-name="T37"><text:span text:style-name="T37">For signing certificates created after January 28, 2021:<text:line-break/></text:span><text:a xlink:type="simple" xlink:href="https://www.apple.com/certificateauthority/AppleWWDRCAG3.cer" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T37">https://www.apple.com/certificateauthority/AppleWWDRCAG3.cer</text:span></text:span></text:a><text:span text:style-name="T37"> </text:span></text:p>
+   <text:p text:style-name="P106" loext:marker-style-name="T37"><text:span text:style-name="T37">Pour les certificats de signature créés après le 28 janvier 2021 :<text:line-break/></text:span><text:a xlink:type="simple" xlink:href="https://www.apple.com/certificateauthority/AppleWWDRCAG3.cer" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T37">https://www.apple.com/certificateauthority/AppleWWDRCAG3.cer</text:span></text:span></text:a><text:span text:style-name="T37"> </text:span></text:p>
    <text:list text:continue-numbering="true" text:style-name="WWNum1">
     <text:list-item>
      <text:p text:style-name="P105" loext:marker-style-name="T37"><text:span text:style-name="T37">Ouvrez l&apos;application Keychain Access . Choisissez l&apos;élément </text:span><text:span text:style-name="T47">System</text:span><text:span text:style-name="T37"> dans la section Trousseaux à gauche. Choose the </text:span><text:span text:style-name="T47">File</text:span><text:span text:style-name="T37"> </text:span><text:span text:style-name="T42"></text:span><text:span text:style-name="T37"> </text:span><text:span text:style-name="T47">Import Items…</text:span><text:span text:style-name="T37"> et naviguez dans le dossier Téléchargements et sélectionnez l&apos;autorité de certification (AppleWWDRCA.cer). On vous demandera un nom d&apos;utilisateur et un mot de passe qui ont les privilèges d&apos;administration pour modifier le Trousseau </text:span><text:span text:style-name="T47">Système</text:span><text:span text:style-name="T37"> Le Trousseau.</text:span></text:p>
@@ -36357,7 +36354,7 @@ Description automatically generated</svg:desc>
    </text:list>
    <text:p text:style-name="P67" loext:marker-style-name="T37"/>
    <text:h text:style-name="P9" text:outline-level="2"><text:bookmark-start text:name="_Toc228353919"/>Créer un profil de provisioning<text:bookmark-end text:name="_Toc228353919"/></text:h>
-   <text:p text:style-name="P33" loext:marker-style-name="T54"><text:span text:style-name="T54">Les profils de provisioning de distribution sont utilisés pour deux buts primaires :</text:span><text:span text:style-name="T54"/></text:p>
+   <text:p text:style-name="P33" loext:marker-style-name="T54"><text:soft-page-break/><text:span text:style-name="T54">Les profils de provisioning de distribution sont utilisés pour deux buts primaires :</text:span><text:span text:style-name="T54"/></text:p>
    <text:list text:style-name="WWNum40">
     <text:list-item>
      <text:p text:style-name="P34" loext:marker-style-name="T54"><text:span text:style-name="T54">AdHoc - pour installer votre application sur un nombre limité de périphériques enregistrés à tester. </text:span><text:span text:style-name="T54"/></text:p>
@@ -36377,7 +36374,7 @@ Description automatically generated</svg:desc>
      <text:p text:style-name="P108" loext:marker-style-name="T37"><text:span text:style-name="T37">Sélectionnez </text:span><text:span text:style-name="T47">Certificats, Identificateurs &amp; Profils</text:span><text:span text:style-name="T37">.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P108" loext:marker-style-name="T37"><text:span text:style-name="T37">Sélectionnez </text:span><text:span text:style-name="T47">Identificateurs</text:span><text:span text:style-name="T37"> à gauche de la page.</text:span></text:p>
+     <text:p text:style-name="P108" loext:marker-style-name="T37"><text:span text:style-name="T37">Sélectionner </text:span><text:span text:style-name="T47">Identificateurs</text:span><text:span text:style-name="T37"> à gauche de la page.</text:span></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P108" loext:marker-style-name="T37"><text:span text:style-name="T37">Cliquez sur le bouton</text:span><draw:frame draw:style-name="fr1" draw:name="Picture 29" text:anchor-type="as-char" svg:width="0.1945in" svg:height="0.2362in" draw:z-index="0"><draw:image draw:mime-type="image/png">
@@ -36565,7 +36562,7 @@ Description automatically generated</svg:desc>
       </draw:frame><text:span text:style-name="T37"> à droite de l&apos;en-tête </text:span><text:span text:style-name="T47">Périphériques</text:span><text:span text:style-name="T37"> .</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P110" loext:marker-style-name="T37">Dans la section <text:span text:style-name="T45">Enregistrer un appareil</text:span>, entrez un nom de l’appareil (tel que « l’iPhone de John Smith ») et son UDID (identifiant unique du périphérique, séquence de 40 lettres et chiffres). Appuyez sur <text:span text:style-name="T45">Continuer</text:span>.</text:p>
+     <text:p text:style-name="P110" loext:marker-style-name="T37"><text:soft-page-break/>Dans la section <text:span text:style-name="T45">Enregistrer un appareil</text:span>, entrez un nom de l’appareil (tel que « l’iPhone de John Smith ») et son UDID (identifiant unique du périphérique, séquence de 40 lettres et chiffres). Appuyez sur <text:span text:style-name="T45">Continuer</text:span>.</text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P110" loext:marker-style-name="T37"><text:span text:style-name="T37">Sur la page suivante, vérifiez que les informations de l&apos;appareil sont affichées correctement et cliquez sur </text:span><text:span text:style-name="T47">Enregistrez</text:span><text:span text:style-name="T37"> pour confirmer.</text:span></text:p>
@@ -36579,7 +36576,7 @@ Description automatically generated</svg:desc>
      <text:p text:style-name="P111" loext:marker-style-name="T37"><text:span text:style-name="T37">Sélectionnez </text:span><text:span text:style-name="T47">Profils</text:span><text:span text:style-name="T37"> à gauche de la page.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P111" loext:marker-style-name="T37"><text:soft-page-break/><text:span text:style-name="T37">Cliquez sur le bouton</text:span><draw:frame draw:style-name="fr1" draw:name="Picture 33" text:anchor-type="as-char" svg:width="0.1945in" svg:height="0.2362in" draw:z-index="0"><draw:image draw:mime-type="image/png">
+     <text:p text:style-name="P111" loext:marker-style-name="T37"><text:span text:style-name="T37">Cliquez sur le bouton</text:span><draw:frame draw:style-name="fr1" draw:name="Picture 33" text:anchor-type="as-char" svg:width="0.1945in" svg:height="0.2362in" draw:z-index="0"><draw:image draw:mime-type="image/png">
         <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAABwAAAAiCAYAAABMfblJAAAK3GlDQ1BJQ0MgUHJvZmlsZQAA
          SImVlwdUU9kWhs+96SEhQADphN6RTgApIbQASq+iEpJAQgkhIQjYlcERHBVERLCM4CiIgqMj
          IGNBLFgQxYZ9goiCOg4WbKjMBR5hZt5676231zo539rZ5z9735yTtS8AZD+2SJQJKwGQJcwV
@@ -36668,7 +36665,7 @@ Description automatically generated</svg:desc>
      <text:p text:style-name="P111" loext:marker-style-name="T37"><text:span text:style-name="T37">Dans la page « Sélectionner les certificats », sélectionnez le certificat (Distribution) à inclure dans le profil. Cliquez sur le bouton </text:span><text:span text:style-name="T47">Continuer</text:span><text:span text:style-name="T37"> .</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P111" loext:marker-style-name="T37"><text:span text:style-name="T37">Si vous créez un profil de provisioning AdHoc :<text:line-break/>Sur la page « Sélectionner des périphériques », vérifiez le(s) appareil(s) que vous voulez pouvoir installer et exécuter l&apos;application. Cliquez sur le bouton </text:span><text:span text:style-name="T47">Continuer</text:span><text:span text:style-name="T37"> .</text:span></text:p>
+     <text:p text:style-name="P111" loext:marker-style-name="T37"><text:soft-page-break/><text:span text:style-name="T37">Si vous créez un profil de provisioning AdHoc :<text:line-break/>Sur la page « Sélectionner des périphériques », vérifiez le(s) appareil(s) que vous voulez pouvoir installer et exécuter l&apos;application. Cliquez sur le bouton </text:span><text:span text:style-name="T47">Continuer</text:span><text:span text:style-name="T37"> .</text:span></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P111" loext:marker-style-name="T37"><text:span text:style-name="T37">Sur la page « Revoir, Nom et Générer », indiquez au profil un nom de votre choix. Il est utile d&apos;inclure &quot;App Store&quot; ou &quot;AdHoc&quot; dans le nom. Cliquez sur le bouton </text:span><text:span text:style-name="T47">Continuer</text:span><text:span text:style-name="T37"> .</text:span></text:p>
@@ -36678,7 +36675,7 @@ Description automatically generated</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P90" loext:marker-style-name="T37"><text:span text:style-name="T37">Ceci est le fichier Provisioning Profile que vous allez sélectionner dans Dictionary App Builder.</text:span><text:span text:style-name="T37"/></text:p>
-   <text:p text:style-name="P112" loext:marker-style-name="T47"><text:span text:style-name="T47">Download existing mobile provision files</text:span><text:span text:style-name="T47"/></text:p>
+   <text:p text:style-name="P112" loext:marker-style-name="T47"><text:span text:style-name="T47">Télécharger les fichiers de fourniture mobile existants</text:span><text:span text:style-name="T47"/></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T37"><text:span text:style-name="T37">Si d&apos;autres membres de votre équipe ont déjà créé des profils de provisionnement, il y a plusieurs façons de les télécharger. Ils peuvent être téléchargés à partir du site Web du développeur d&apos;applications en sélectionnant le profil à télécharger et en appuyant sur le bouton </text:span><text:span text:style-name="T47">Télécharger</text:span><text:span text:style-name="T37">. </text:span></text:p>
    <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark text:name="_q7i9umrolddd"/><text:bookmark-start text:name="_Toc475369921"/><text:bookmark-start text:name="_Toc228353920"/>Construire une application iOS<text:bookmark-end text:name="_Toc475369921"/><text:bookmark-end text:name="_Toc228353920"/></text:h>
    <text:p text:style-name="P35" loext:marker-style-name="T22"><text:span text:style-name="T22">Pour construire une application iOS :</text:span><text:span text:style-name="T22"/></text:p>
@@ -36690,7 +36687,7 @@ Description automatically generated</svg:desc>
      <text:p text:style-name="P113" loext:marker-style-name="T37"><text:span text:style-name="T37">Sélectionnez l&apos;onglet </text:span><text:span text:style-name="T47">Signature (iOS)</text:span><text:span text:style-name="T37"> pour ouvrir les options de signature iOS pour l&apos;application.<text:line-break/></text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P59" loext:marker-style-name="T37"><draw:frame draw:style-name="fr1" draw:name="Picture 17" text:anchor-type="as-char" svg:width="5.6811in" svg:height="3.928in" draw:z-index="0"><draw:image draw:mime-type="image/tiff">
+   <text:p text:style-name="P59" loext:marker-style-name="T37"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Picture 17" text:anchor-type="as-char" svg:width="5.6811in" svg:height="3.928in" draw:z-index="0"><draw:image draw:mime-type="image/tiff">
       <office:binary-data>TU0AKgAMmNjS0tL/6+vr/+np6f/p6en/6enp/+nq6v/p7u//6O/v/+jv7//p6+v/6enp/+np
        6f/p6en/6enp/+np6f/p6en/6eru/+jr8f/o6/H/6evu/+np6f/p6en/6enp/+np6f/p6en/
        6enp/+zq7P/x6/D/8erw//Dq7//q6er/6enp/+np6f/p6en/6enp/+np6f/p6en/6enp/+np
@@ -52051,7 +52048,7 @@ Description automatically generated</svg:desc>
      <text:p text:style-name="P114" loext:marker-style-name="T37"><text:span text:style-name="T37">Sélectionnez </text:span><text:span text:style-name="T47">Signing Identity</text:span><text:span text:style-name="T37"> dans la liste déroulante des certificats de signature qui ont été téléchargés et installés sur ce système dans les étapes précédentes.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P114" loext:marker-style-name="T37"><text:soft-page-break/><text:span text:style-name="T37">For the </text:span><text:span text:style-name="T47">Provisioning Profile </text:span><text:span text:style-name="T37">entry, enter or browse to the mobile provisioning file associated with the app that was downloaded in the earlier steps. <text:line-break/></text:span></text:p>
+     <text:p text:style-name="P114" loext:marker-style-name="T37"><text:span text:style-name="T37">For the </text:span><text:span text:style-name="T47">Provisioning Profile </text:span><text:span text:style-name="T37">entry, enter or browse to the mobile provisioning file associated with the app that was downloaded in the earlier steps. <text:line-break/></text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P3" loext:marker-style-name="T37"><draw:frame draw:style-name="fr1" draw:name="Picture 3" text:anchor-type="as-char" svg:width="6.2681in" svg:height="3.3362in" draw:z-index="0"><draw:image draw:mime-type="image/png">
@@ -54291,7 +54288,7 @@ contenu généré par l&apos;IA peut être incorrecte.</svg:desc>
    <text:p text:style-name="P106" loext:marker-style-name="T37"><text:span text:style-name="T37">Le champ </text:span><text:span text:style-name="T63">Nom de fichier</text:span><text:span text:style-name="T37"> à l&apos;écran spécifie le nom de base du fichier ipa à générer. Si la case à cocher en bas de l&apos;écran pour </text:span><text:span text:style-name="T66">Ajouter le nom de la version au nom du fichier ipa</text:span><text:span text:style-name="T37"> est cochée, alors la version indiquée par les champs </text:span><text:span text:style-name="T66">Version Name</text:span><text:span text:style-name="T37"> est ajoutée au nom de fichier de base. </text:span></text:p>
    <text:p text:style-name="P107" loext:marker-style-name="T37"><text:span text:style-name="T37">Le champ </text:span><text:span text:style-name="T63">Build</text:span><text:span text:style-name="T66"> </text:span><text:span text:style-name="T37">référencé comme </text:span><text:span text:style-name="T66">Build </text:span><text:span text:style-name="T37">est également appelé </text:span><text:span text:style-name="T66">Bundle Version String, Bundle Version</text:span><text:span text:style-name="T37"> ou </text:span><text:span text:style-name="T66">CFBundleVersion</text:span><text:span text:style-name="T37"> dans Xcode et ITunes Connect. Il représente le numéro de construction. Le champ </text:span><text:span text:style-name="T66">Build</text:span><text:span text:style-name="T37"> attend une valeur entière et doit être incrémenté avec chaque fichier soumis à ITunes Connect pour la publication ou le test. </text:span></text:p>
    <text:p text:style-name="P107" loext:marker-style-name="T37"><text:span text:style-name="T37">Le </text:span><text:span text:style-name="T63">Nom de version</text:span><text:span text:style-name="T66"> </text:span><text:span text:style-name="T37">champ est référencé comme </text:span><text:span text:style-name="T66">Version, Chaîne de version courte du paquet, Chaîne de versions groupées, court </text:span><text:span text:style-name="T37">et </text:span><text:span text:style-name="T66">CFBundleShortVersionString </text:span><text:span text:style-name="T37">dans Xcode et ITunes Connect. Le champ est créé comme une concaténation des valeurs des trois champs séparés par un point. Si le champ final a une valeur de 0, alors la chaîne de version est créée à partir des deux premières valeurs. Ainsi, pour les valeurs de 1, 2 et 0, la chaîne résultante est « 1.2». Pour les valeurs de 1, 2 et 3, la chaîne de version résultante est « 1.2.3 ».</text:span></text:p>
-   <text:p text:style-name="P107" loext:marker-style-name="T37"><text:span text:style-name="T37">The </text:span><text:span text:style-name="T64">Apple ID</text:span><text:span text:style-name="T37"> field is the id assigned by App Store Connect to the application in the app store. Il peut être obtenu à partir de </text:span><text:span text:style-name="T48">Apple ID </text:span><text:span text:style-name="T37">déposé dans l&apos;onglet Informations de l&apos;application dans l&apos;entrée App Store Connect pour l&apos;application.</text:span></text:p>
+   <text:p text:style-name="P107" loext:marker-style-name="T37"><text:soft-page-break/><text:span text:style-name="T37">The </text:span><text:span text:style-name="T64">Apple ID</text:span><text:span text:style-name="T37"> field is the id assigned by App Store Connect to the application in the app store. Il peut être obtenu à partir de </text:span><text:span text:style-name="T48">Apple ID </text:span><text:span text:style-name="T37">déposé dans l&apos;onglet Informations de l&apos;application dans l&apos;entrée App Store Connect pour l&apos;application.</text:span></text:p>
    <text:p text:style-name="P103" loext:marker-style-name="T48"><text:span text:style-name="T37">La section </text:span><text:span text:style-name="T64">ID de bundle</text:span><text:span text:style-name="T37"> permet à l&apos;utilisateur de spécifier un ID de bundle pour l&apos;application qui est différent du nom du package. Par défaut, le champ </text:span><text:span text:style-name="T64">Nom de package </text:span><text:span text:style-name="T37">de l&apos;onglet </text:span><text:span text:style-name="T64">Package</text:span><text:span text:style-name="T37"> est utilisé comme ID de paquet d&apos;application qui est utilisé pour créer les profils de provisioning et comme identifiant d&apos;application pour l&apos;Apple App Store. Si l&apos;utilisateur veut que la version iOS de l&apos;application ait un identifiant différent du nom du paquet utilisé pour la version Android de l&apos;application, appuyez sur le bouton </text:span><text:span text:style-name="T64">Spécifiez un bundle ID</text:span><text:span text:style-name="T37"> et entrez ensuite l&apos;ID à utiliser dans la zone de texte libellée </text:span><text:span text:style-name="T64">ID de forfait.</text:span></text:p>
    <text:p text:style-name="P71" loext:marker-style-name="T37"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum22">
@@ -56972,9 +56969,9 @@ contenu généré par l&apos;IA peut être incorrecte.</svg:desc>
       </office:binary-data>
      </draw:image>
     </draw:frame><text:s/></text:p>
-   <text:p text:style-name="P55" loext:marker-style-name="T1"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P55" loext:marker-style-name="T1"/>
    <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark text:name="_e55ehiika5jz"/><text:bookmark-start text:name="_Toc228353921"/><text:bookmark-start text:name="_Toc475369922"/>Test d&apos;une application iOS<text:bookmark-end text:name="_Toc228353921"/></text:h>
-   <text:p text:style-name="No_20_Spacing">Après avoir construit le fichier IPA iOS, vous voudrez l&apos;installer et le tester sur un ou plusieurs appareils avant de le soumettre pour publication sur l&apos;App Store Apple. Ce manuel décrit deux façons de faire :</text:p>
+   <text:p text:style-name="No_20_Spacing"><text:soft-page-break/>Après avoir construit le fichier IPA iOS, vous voudrez l&apos;installer et le tester sur un ou plusieurs appareils avant de le soumettre pour publication sur l&apos;App Store Apple. Ce manuel décrit deux façons de faire :</text:p>
    <text:p text:style-name="No_20_Spacing"/>
    <text:list text:style-name="WWNum23">
     <text:list-item>
@@ -56996,7 +56993,7 @@ contenu généré par l&apos;IA peut être incorrecte.</svg:desc>
      <text:p text:style-name="P39" loext:marker-style-name="T22"><text:span text:style-name="T22">Launch </text:span><text:span text:style-name="T25">Xcode</text:span><text:span text:style-name="T22"> and select </text:span><text:bookmark-start text:name="OLE_LINK28"/><text:bookmark-start text:name="OLE_LINK29"/><text:span text:style-name="T25">Window</text:span><text:span text:style-name="T22"> </text:span><text:span text:style-name="T42"></text:span><text:span text:style-name="T22"> </text:span><text:span text:style-name="T25">Devices and Simulators</text:span><text:bookmark-end text:name="OLE_LINK28"/><text:bookmark-end text:name="OLE_LINK29"/><text:span text:style-name="T22">.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P39" loext:marker-style-name="T22"><text:span text:style-name="T22">Connectez un iPhone ou un iPad au Mac à l&apos;aide d&apos;un câble et déverrouillez l&apos;appareil.</text:span><text:span text:style-name="T22"/></text:p>
+     <text:p text:style-name="P39" loext:marker-style-name="T22"><text:soft-page-break/><text:span text:style-name="T22">Connectez un iPhone ou un iPad au Mac à l&apos;aide d&apos;un câble et déverrouillez l&apos;appareil.</text:span><text:span text:style-name="T22"/></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P39" loext:marker-style-name="T22"><text:span text:style-name="T22">On the Mac, iTunes may launch and show a dialog asking “Do you want to allow this computer to access information…” Cliquez sur le bouton </text:span><text:span text:style-name="T25">Annuler</text:span><text:span text:style-name="T22">. </text:span></text:p>
@@ -57007,10 +57004,10 @@ contenu généré par l&apos;IA peut être incorrecte.</svg:desc>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P39" loext:marker-style-name="T22"><text:span text:style-name="T22">On the device, it may prompt to </text:span><text:span text:style-name="T25">Trust This Computer</text:span><text:span text:style-name="T22">. Appuyez sur le bouton </text:span><text:span text:style-name="T25">Trust</text:span><text:span text:style-name="T22">. Cela peut nécessiter d&apos;entrer le code d&apos;accès pour faire confiance à cet ordinateur. L&apos;appareil s&apos;affichera dans la fenêtre </text:span><text:span text:style-name="T25">Xcode</text:span><text:span text:style-name="T22"> </text:span><text:span text:style-name="T25">Périphériques</text:span><text:span text:style-name="T22"> .</text:span></text:p>
+     <text:p text:style-name="P39" loext:marker-style-name="T22"><text:span text:style-name="T22">Sur l&apos;appareil, il peut demander à </text:span><text:span text:style-name="T25">Faire confiance à cet ordinateur</text:span><text:span text:style-name="T22">. Appuyez sur le bouton </text:span><text:span text:style-name="T25">Trust</text:span><text:span text:style-name="T22">. Cela peut nécessiter d&apos;entrer le code d&apos;accès pour faire confiance à cet ordinateur. L&apos;appareil s&apos;affichera dans la fenêtre </text:span><text:span text:style-name="T25">Xcode</text:span><text:span text:style-name="T22"> </text:span><text:span text:style-name="T25">Périphériques</text:span><text:span text:style-name="T22"> .</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P40" loext:marker-style-name="T22"><text:soft-page-break/><text:span text:style-name="T22">La première fois que l&apos;appareil est connecté au Mac, Xcode prendra un certain temps pour préparer le support du débogueur. Cela peut prendre un certain temps. Veuillez patienter.</text:span><text:span text:style-name="T22"/></text:p>
+     <text:p text:style-name="P40" loext:marker-style-name="T22"><text:span text:style-name="T22">La première fois que l&apos;appareil est connecté au Mac, Xcode prendra un certain temps pour préparer le support du débogueur. Cela peut prendre un certain temps. Veuillez patienter.</text:span><text:span text:style-name="T22"/></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P40" loext:marker-style-name="T22"><text:span text:style-name="T22">Dans la fenêtre </text:span><text:span text:style-name="T25">Xcode</text:span><text:span text:style-name="T22"> </text:span><text:span text:style-name="T25">Périphériques</text:span><text:span text:style-name="T22"> , il y aura une section nommée </text:span><text:span text:style-name="T25">APPS INSTALLÉES</text:span><text:span text:style-name="T22">. Cliquez sur le bouton </text:span><text:span text:style-name="T25">+</text:span><text:span text:style-name="T22">. </text:span></text:p>
@@ -57019,14 +57016,14 @@ contenu généré par l&apos;IA peut être incorrecte.</svg:desc>
      <text:p text:style-name="P40" loext:marker-style-name="T22"><text:span text:style-name="T22">Trouver le fichier IPA à ajouter. Cliquez sur </text:span><text:span text:style-name="T25">Ouvrez</text:span><text:span text:style-name="T22"> après l&apos;avoir sélectionné.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P40" loext:marker-style-name="T22"><text:span text:style-name="T22">Cliquez sur le bouton </text:span><text:span text:style-name="T25">Installez</text:span><text:span text:style-name="T22"> à côté du nom de l&apos;application.</text:span></text:p>
+     <text:p text:style-name="P40" loext:marker-style-name="T22"><text:span text:style-name="T22">Cliquez sur le bouton </text:span><text:span text:style-name="T25">Installer</text:span><text:span text:style-name="T22"> à côté du nom de l&apos;application.</text:span></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P40" loext:marker-style-name="T22"><text:span text:style-name="T22">Attendez que le Mac installe l&apos;application sur votre appareil.</text:span><text:span text:style-name="T22"/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P66" loext:marker-style-name="T22"/>
-   <text:p text:style-name="No_20_Spacing" loext:marker-style-name="T22"><text:span text:style-name="T22">Une fois l&apos;installation terminée, vous verrez l&apos;icône de l&apos;application sur votre appareil et vous pourrez la tester.</text:span><text:span text:style-name="T22"/></text:p>
+   <text:p text:style-name="No_20_Spacing" loext:marker-style-name="T22"><text:soft-page-break/><text:span text:style-name="T22">Une fois l&apos;installation terminée, vous verrez l&apos;icône de l&apos;application sur votre appareil et vous pourrez la tester.</text:span><text:span text:style-name="T22"/></text:p>
    <text:p text:style-name="P48" loext:marker-style-name="T10"/>
    <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="_Toc228353923"/>Utiliser DeployGate pour tester une application iOS<text:bookmark-end text:name="_Toc228353923"/><text:bookmark-end text:name="_Toc475369922"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T37"><text:span text:style-name="T47">DeployGate</text:span><text:span text:style-name="T37"> vous permet de tester votre application et de la partager avec un nombre limité d&apos;utilisateurs à tester. Vous téléchargez le fichier IPA pour les applications iOS ou l&apos;APK pour les applications Android, puis téléchargez-les sur votre téléphone ou votre appareil tablette. Vous pouvez également inviter les testeurs à installer votre application et à aider avec le test.</text:span></text:p>
@@ -58727,7 +58724,7 @@ contenu généré par l&apos;IA peut être incorrecte.</svg:desc>
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="P118" loext:marker-style-name="T37"><text:span text:style-name="T37">Glisser le fichier dans la zone de téléchargement fait apparaître un nouveau dialogue avec le nom du fichier et une zone de texte où vous pouvez entrer une courte note qui sera affichée dans votre fenêtre de profil et également sur l&apos;application DeployGate lorsque l&apos;utilisateur sélectionne l&apos;application. C&apos;est un bon endroit pour écrire une courte note sur la raison de la mise à jour afin qu&apos;il soit facile pour les testeurs de voir que l&apos;application a été mise à jour et de voir quelle est la raison principale pour laquelle ils ont besoin de mettre à jour. Complétez l&apos;écran et appuyez sur le bouton </text:span><text:span text:style-name="T47">Upload</text:span><text:span text:style-name="T37"> .</text:span></text:p>
    <text:p text:style-name="P67" loext:marker-style-name="T37"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T1"><text:s/><draw:frame draw:style-name="fr1" draw:name="image28.png" text:anchor-type="as-char" svg:width="5.5161in" svg:height="2.8638in" draw:z-index="0"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="Standard" loext:marker-style-name="T1"><draw:frame draw:style-name="fr1" draw:name="image28.png" text:anchor-type="as-char" svg:width="5.5161in" svg:height="2.8638in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAqsAAAFjCAYAAAAaSEK1AAB6uklEQVR42uy9CXhV1dm37/dd
        /+n63rd931ZbpdVWI6Ut0qJFVEoERTBhioYZAoRAQkIgmAAZGRxarXUe66y11nme6qvWoc7z
        POJYJ5xlEGR+/vteOeuws7NPchKSkMDvd10PnOxh7bXX3vs893nWs9fa6eijjzaZbHu0JUuW
@@ -59314,8 +59311,8 @@ contenu généré par l&apos;IA peut être incorrecte.</svg:desc>
       </office:binary-data>
      </draw:image>
     </draw:frame><text:s/></text:p>
-   <text:p text:style-name="P55" loext:marker-style-name="T1"/>
-   <text:p text:style-name="P81" loext:marker-style-name="T37"><text:span text:style-name="T37">Une fois le téléchargement terminé, une nouvelle boîte de dialogue s&apos;affiche avec un code barre QCode et la possibilité d&apos;envoyer un courriel à votre appareil. Le QCode peut être lu avec votre iPhone ou iPad qui déclenchera une installation de l&apos;application DeployGate en utilisant votre profil d&apos;application. </text:span><text:span text:style-name="T37"/></text:p>
+   <text:p text:style-name="P55" loext:marker-style-name="T1"><text:s/></text:p>
+   <text:p text:style-name="P81" loext:marker-style-name="T37"><text:soft-page-break/><text:span text:style-name="T37">Une fois le téléchargement terminé, une nouvelle boîte de dialogue s&apos;affiche avec un code barre QCode et la possibilité d&apos;envoyer un courriel à votre appareil. Le QCode peut être lu avec votre iPhone ou iPad qui déclenchera une installation de l&apos;application DeployGate en utilisant votre profil d&apos;application. </text:span><text:span text:style-name="T37"/></text:p>
    <text:p text:style-name="P81" loext:marker-style-name="T37"><text:span text:style-name="T37">Vous pouvez également saisir une adresse e-mail à ce stade, que vous devriez également ouvrir sur l&apos;iPhone pour installer l&apos;application DeployGate avec le profil correct. Ou vous pouvez simplement continuer et ajouter des utilisateurs et des appareils plus tard.</text:span><text:span text:style-name="T37"/></text:p>
    <text:p text:style-name="P56" loext:marker-style-name="T37"><draw:frame draw:style-name="fr1" draw:name="image38.png" text:anchor-type="as-char" svg:width="4.2965in" svg:height="2.3465in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAf0AAAEWCAYAAABsT07JAABuFElEQVR42uy9CXRb13nv67aZ
@@ -61156,11 +61153,11 @@ contenu généré par l&apos;IA peut être incorrecte.</svg:desc>
      </draw:image>
     </draw:frame><text:s/></text:p>
    <text:h text:style-name="P9" text:outline-level="2"><text:bookmark text:name="_707sllp4p5x6"/><text:bookmark-start text:name="_Toc475369925"/><text:bookmark-start text:name="_Toc228353926"/>Enregistrement d&apos;un appareil<text:bookmark-end text:name="_Toc475369925"/><text:bookmark-end text:name="_Toc228353926"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T37"><text:soft-page-break/><text:span text:style-name="T37">Si l&apos;appareil iOS n&apos;était pas à l&apos;origine dans le profil de provisioning mobile et si l&apos;appareil n&apos;a pas été précédemment enregistré dans votre compte Apple Developer, vous devez l&apos;ajouter aux deux. Il y a une méthode pour le faire manuellement, mais DeployGate fournit un moyen de simplifier le processus afin que vous n&apos;ayez pas besoin d&apos;aller chercher UDID pour le périphérique.</text:span><text:span text:style-name="T37"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T37"><text:span text:style-name="T37">Si l&apos;appareil iOS n&apos;était pas à l&apos;origine dans le profil de provisioning mobile et si l&apos;appareil n&apos;a pas été précédemment enregistré dans votre compte Apple Developer, vous devez l&apos;ajouter aux deux. Il y a une méthode pour faire manuellement ceci, mais DeployGate fournit un moyen de simplifier le processus afin que vous n&apos;ayez pas besoin d&apos;aller chercher UDID pour le périphérique.</text:span></text:p>
    <text:p text:style-name="P76" loext:marker-style-name="T37"><text:span text:style-name="T37">Tout d&apos;abord, essayez d&apos;installer l&apos;application en utilisant la méthode décrite ci-dessus. Vous ne pourrez pas l&apos;installer car l&apos;UDID n&apos;est pas enregistré pour l&apos;application. Cependant, cela signifie que l&apos;appareil sera enregistré dans DeployGate qui permet les étapes suivantes.</text:span><text:span text:style-name="T37"/></text:p>
    <text:p text:style-name="P76" loext:marker-style-name="T37"><text:span text:style-name="T37">Après avoir essayé d&apos;installer l&apos;application, entrez à nouveau DeployGate dans votre navigateur et ouvrez l&apos;entrée pour votre application. Comme vous pouvez le voir dans l&apos;écran ci-dessous, cela montrera qu&apos;un nouvel UDID a été enregistré pour le périphérique. Appuyez sur le bouton </text:span><text:span text:style-name="T47">Options</text:span><text:span text:style-name="T37"> ci-dessous et sélectionnez l&apos;option </text:span><text:span text:style-name="T47">Package Archive</text:span><text:span text:style-name="T37">. </text:span><text:span text:style-name="T58">Cliquez ensuite sur le petit symbole de balise dans la zone d&apos;application pour ouvrir la liste UDID.</text:span></text:p>
    <text:p text:style-name="P67" loext:marker-style-name="T37"/>
-   <text:p text:style-name="P67" loext:marker-style-name="T37"/>
+   <text:p text:style-name="P67" loext:marker-style-name="T37"><text:soft-page-break/></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T37"><draw:frame draw:style-name="fr1" draw:name="image47.png" text:anchor-type="as-char" svg:width="6.5in" svg:height="3.5417in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAnAAAAFUCAYAAACkxgEeAAAAAXNSR0IArs4c6QAAAAlwSFlz
        AAAOxAAADsQBlSsOGwAAQABJREFUeAHsXQVgVEf+/jabjW3chRgW3N2KW4FCjZYapb2r6/X6
@@ -66699,7 +66696,7 @@ contenu généré par l&apos;IA peut être incorrecte.</svg:desc>
       </office:binary-data>
      </draw:image>
     </draw:frame><text:s/></text:p>
-   <text:p text:style-name="P67" loext:marker-style-name="T37"><text:s/></text:p>
+   <text:p text:style-name="P67" loext:marker-style-name="T37"/>
    <text:p text:style-name="P82" loext:marker-style-name="T37"><text:span text:style-name="T37">Un écran de revue s&apos;affichera qui devrait lister le nom à assigner au périphérique ainsi que l&apos;UDID associé au périphérique. Examinez pour vous assurer que c&apos;est correct et appuyez sur </text:span><text:span text:style-name="T47">Enregistrez</text:span><text:span text:style-name="T37">.</text:span></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T37"><draw:frame draw:style-name="fr1" draw:name="image15.png" text:anchor-type="as-char" svg:width="6.2244in" svg:height="5.6953in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA/wAAAOlCAYAAADQIOzEAACAAElEQVR42uydB7hVxb2+o0k0
@@ -70687,13 +70684,13 @@ contenu généré par l&apos;IA peut être incorrecte.</svg:desc>
    <text:p text:style-name="P119" loext:marker-style-name="T37"><text:span text:style-name="T37">Ensuite, vous devez reconstruire l&apos;application iOS en utilisant le nouveau profil et le télécharger à nouveau sur DeployGate. Cette fois-ci lorsque vous essayez de l&apos;installer, le bouton </text:span><text:span text:style-name="T47">Installer</text:span><text:span text:style-name="T37"> doit être activé et vous permettra d&apos;installer votre application.</text:span></text:p>
    <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="_Toc228353927"/>Téléchargement d&apos;une application iOS sur l&apos;App Store Apple<text:bookmark-end text:name="_Toc228353927"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T54"><text:span text:style-name="T22">Avant d&apos;essayer de télécharger l&apos;application, vous devrez créer une entrée dans l&apos;App Store Connect (</text:span><text:a xlink:type="simple" xlink:href="https://appstoreconnect.apple.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T22">https://appstoreconnect. pple.com</text:span></text:span></text:a><text:span text:style-name="T22">). </text:span></text:p>
-   <text:p text:style-name="P66" loext:marker-style-name="T22"/>
+   <text:p text:style-name="P66" loext:marker-style-name="T22"><text:soft-page-break/></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T22"><text:span text:style-name="T22">Sélectionnez la distribution appropriée </text:span><text:span text:style-name="T26">Signing Identity</text:span><text:span text:style-name="T22"> et </text:span><text:span text:style-name="T26">App Store</text:span><text:span text:style-name="T22"> profil de provisioning sur l&apos; </text:span><text:span text:style-name="T26">Signation (iOS)</text:span><text:span text:style-name="T22"> onglet et cliquez sur Build iOS App. Cela va créer un fichier IPA dans le dossier de sortie IPA.</text:span></text:p>
    <text:p text:style-name="P66" loext:marker-style-name="T22"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T22"><text:span text:style-name="T22">Lancez </text:span><text:span text:style-name="T26">Transporteur</text:span><text:span text:style-name="T22"> et cliquez sur </text:span><text:span text:style-name="T26">Connectez-vous</text:span><text:span text:style-name="T22"> en utilisant l&apos;identifiant Apple pour votre compte Apple Développeur. Glissez et déposez le fichier IPA du dossier de sortie IPA vers Transporter. Une fois l&apos;application ajoutée à Transporter, cliquez sur le bouton </text:span><text:span text:style-name="T26">Livrez</text:span><text:span text:style-name="T22">. Une fois téléchargé, vous pouvez cliquer sur </text:span><text:span text:style-name="T26">…</text:span><text:span text:style-name="T22"> et sélectionnez </text:span><text:span text:style-name="T26">Voir dans l&apos;App Store Connect</text:span><text:span text:style-name="T22">. La sélection de l&apos;onglet Activité affichera l&apos;état du traitement du téléchargement.</text:span></text:p>
    <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="_Toc228353928"/><text:bookmark-start text:name="_Toc31914052"/>Using <text:bookmark-end text:name="_Toc31914052"/>Test Flight to Test an iOS App<text:bookmark-end text:name="_Toc228353928"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T22"><text:span text:style-name="T22">Cela prendra un peu de temps (environ 20 minutes) pour que l&apos;application soit traitée dans l&apos;App Store Connect. Vous recevrez un e-mail lorsque l&apos;application sera terminée. En passant à l&apos;onglet Tester le vol dans l&apos;App Store Connect, vous verrez que l&apos;application est manquante de conformité.</text:span><text:span text:style-name="T22"/></text:p>
-   <text:p text:style-name="P56" loext:marker-style-name="T22"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Picture 45" text:anchor-type="as-char" svg:width="4.4972in" svg:height="1.3516in" draw:z-index="0"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P56" loext:marker-style-name="T22"><draw:frame draw:style-name="fr1" draw:name="Picture 45" text:anchor-type="as-char" svg:width="4.4972in" svg:height="1.3516in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAgcAAACcCAYAAADrnwiSAAAYWmlDQ1BJQ0MgUHJvZmlsZQAA
        WIWVeQc4le8b//Oe6RzzOPbeM2WvsvfIHpGsYx3bsWWUlZUiIUQhkVCpjJCiSTJCU0aKqGgh
        4v8a9fv+vr/r+v+v/3Ndz/t+zv3czz2e+1n3eQHgPOIWHOyPYAAgIDCMYmWgzXfAwZEP+w4g
@@ -71059,7 +71056,7 @@ contenu généré par l&apos;IA peut être incorrecte.</svg:desc>
    <text:p text:style-name="Standard" loext:marker-style-name="T22"><text:span text:style-name="T22">Click on the build number and you will be taken to a page where you can click on </text:span><text:span text:style-name="T26">Provide Export Compliance Information</text:span><text:span text:style-name="T22">. L&apos;application utilise un algorithme de chiffrement pour protéger le texte de l&apos;application. </text:span></text:p>
    <text:p text:style-name="P66" loext:marker-style-name="T22"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T22"><text:span text:style-name="T22">Click </text:span><text:span text:style-name="T26">Yes</text:span><text:span text:style-name="T22"> to the first dialog that the app uses encryption and then click </text:span><text:span text:style-name="T26">Next</text:span><text:span text:style-name="T22">.</text:span></text:p>
-   <text:p text:style-name="P56" loext:marker-style-name="T22"><draw:frame draw:style-name="fr1" draw:name="Picture 46" text:anchor-type="as-char" svg:width="4.4937in" svg:height="1.3071in" draw:z-index="0"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P56" loext:marker-style-name="T22"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Picture 46" text:anchor-type="as-char" svg:width="4.4937in" svg:height="1.3071in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAjQAAACkCAYAAACAcrRpAAAYWmlDQ1BJQ0MgUHJvZmlsZQAA
        WIWVeQc4le8b//Oe6RzzOPbeM2WvsvfIHpGsYx3bsWWUlZUiIUQhkVCpjJCiSTJCU0aKqGgh
        4v8a9fv+vr/r+v+v/3Ndz/t+zv3czz2e+1n3eQHgPOIWHOyPYAAgIDCMYmWgzXfAwZEP+w4g
@@ -71514,7 +71511,7 @@ contenu généré par l&apos;IA peut être incorrecte.</svg:desc>
       </office:binary-data>
      </draw:image>
     </draw:frame><text:s/></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T22"><text:span text:style-name="T22">Cliquez sur </text:span><text:span text:style-name="T26">Oui</text:span><text:span text:style-name="T22"> dans la seconde boîte de dialogue pour indiquer que l&apos;application est admissible à une exemption due à </text:span><text:span text:style-name="T26">(b) Limitée à la propriété intellectuelle et à la protection des droits d&apos;auteur</text:span><text:span text:style-name="T22"> puis cliquez sur </text:span><text:span text:style-name="T26">Démarrez le test interne</text:span><text:span text:style-name="T22">.</text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T22"><text:span text:style-name="T22">Cliquez sur </text:span><text:span text:style-name="T26">Oui</text:span><text:span text:style-name="T22"> dans la seconde boîte de dialogue pour indiquer que l&apos;application est admissible à une exemption due à </text:span><text:span text:style-name="T26">(b) Limitée à la propriété intellectuelle et à la protection des droits d&apos;auteur</text:span><text:span text:style-name="T22"> puis cliquez sur </text:span><text:span text:style-name="T26">Commencez le test interne</text:span><text:span text:style-name="T22">.</text:span></text:p>
    <text:p text:style-name="P56" loext:marker-style-name="T22"><draw:frame draw:style-name="fr1" draw:name="Picture 47" text:anchor-type="as-char" svg:width="4.5102in" svg:height="3.4972in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAigAAAGsCAYAAAD3xFzWAAAYWmlDQ1BJQ0MgUHJvZmlsZQAA
        WIWVeQc4le8b//Oe6RzzOPbeM2WvsvfIHpGsYx3bsWWUlZUiIUQhkVCpjJCiSTJCU0aKqGgh
@@ -72938,9 +72935,9 @@ contenu généré par l&apos;IA peut être incorrecte.</svg:desc>
    <text:p text:style-name="Standard" loext:marker-style-name="T54"><text:span text:style-name="T37">Choisissez la commande </text:span><text:span text:style-name="T47">Tools</text:span><text:span text:style-name="T37"> </text:span><text:span text:style-name="T42">&lt;unk&gt;</text:span><text:span text:style-name="T37"> </text:span><text:span text:style-name="T47">Installez la commande de données dans PATH</text:span><text:span text:style-name="T37"> </text:span><text:span text:style-name="T54">dans le menu pour permettre l&apos;utilisation de l&apos;interface en ligne de commande. Vous serez invité à entrer votre mot de passe de connexion pour installer la commande.</text:span></text:p>
    <text:h text:style-name="P9" text:outline-level="2"><text:bookmark-start text:name="_Toc228353931"/>Options de l&apos;interface en ligne de commande<text:bookmark-end text:name="_Toc228353931"/></text:h>
    <text:p text:style-name="P76" loext:marker-style-name="T2"><text:bookmark-start text:name="OLE_LINK1"/><text:span text:style-name="T2">Exécutez la commande suivante pour exécuter l&apos;application Dictionary App Builder suivie d&apos;une série d&apos;options décrites ci-dessous.</text:span><text:bookmark-end text:name="OLE_LINK1"/><text:span text:style-name="T2"> La commande est :</text:span></text:p>
-   <text:p text:style-name="P76" loext:marker-style-name="T2"><text:span text:style-name="T2">dab</text:span><text:bookmark-end text:name="OLE_LINK3"/><text:span text:style-name="T2"/></text:p>
+   <text:p text:style-name="P76" loext:marker-style-name="T2"><text:soft-page-break/><text:span text:style-name="T2">dab</text:span><text:bookmark-end text:name="OLE_LINK3"/><text:span text:style-name="T2"/></text:p>
    <text:p text:style-name="P77" loext:marker-style-name="T2"><text:span text:style-name="T2">The available parameters are:</text:span><text:span text:style-name="T2"/></text:p>
-   <text:p text:style-name="P76" loext:marker-style-name="T2"><text:soft-page-break/><text:span text:style-name="T2"/></text:p>
+   <text:p text:style-name="P76" loext:marker-style-name="T2"><text:span text:style-name="T2"/></text:p>
    <table:table table:name="Table3" table:style-name="Table3">
     <table:table-column table:style-name="Table3.A"/>
     <table:table-column table:style-name="Table3.B"/>
@@ -73000,7 +72997,6 @@ contenu généré par l&apos;IA peut être incorrecte.</svg:desc>
       <text:p text:style-name="P93" loext:marker-style-name="T4"><text:span text:style-name="T4"/></text:p>
      </table:table-cell>
     </table:table-row>
-    <text:soft-page-break/>
     <table:table-row table:style-name="Table3.1">
      <table:table-cell table:style-name="Table3.A2" office:value-type="string">
       <text:p text:style-name="P93" loext:marker-style-name="T4"><text:span text:style-name="T17">-?</text:span><text:span text:style-name="T17"/></text:p>
@@ -73017,6 +73013,7 @@ contenu généré par l&apos;IA peut être incorrecte.</svg:desc>
       <text:p text:style-name="P93" loext:marker-style-name="T4"><text:span text:style-name="T4"/></text:p>
      </table:table-cell>
     </table:table-row>
+    <text:soft-page-break/>
     <table:table-row table:style-name="Table3.1">
      <table:table-cell table:style-name="Table3.A2" office:value-type="string">
       <text:p text:style-name="P93" loext:marker-style-name="T4"><text:span text:style-name="T17">-n &lt;app-name&gt;</text:span></text:p>
@@ -73059,7 +73056,6 @@ contenu généré par l&apos;IA peut être incorrecte.</svg:desc>
       <text:p text:style-name="P93" loext:marker-style-name="T4"><text:span text:style-name="T4"/></text:p>
      </table:table-cell>
     </table:table-row>
-    <text:soft-page-break/>
     <table:table-row table:style-name="Table3.1">
      <table:table-cell table:style-name="Table3.A2" office:value-type="string">
       <text:p text:style-name="P93" loext:marker-style-name="T4"><text:span text:style-name="T17">-a &lt;filename&gt;</text:span></text:p>
@@ -73095,6 +73091,7 @@ contenu généré par l&apos;IA peut être incorrecte.</svg:desc>
       <text:p text:style-name="P93" loext:marker-style-name="T4"><text:span text:style-name="T4">Utilisez le chemin complet des fichiers et enfermez-les dans des &quot;guillemets doubles&quot; s&apos;il y a un espace dans le chemin.</text:span><text:span text:style-name="T4"/></text:p>
      </table:table-cell>
     </table:table-row>
+    <text:soft-page-break/>
     <table:table-row table:style-name="Table3.1">
      <table:table-cell table:style-name="Table3.A2" office:value-type="string">
       <text:p text:style-name="P93" loext:marker-style-name="T4"><text:span text:style-name="T17">-l &lt;lang-code&gt;</text:span></text:p>
@@ -73119,7 +73116,6 @@ contenu généré par l&apos;IA peut être incorrecte.</svg:desc>
       <text:p text:style-name="P93" loext:marker-style-name="T4"><text:span text:style-name="T4"/></text:p>
      </table:table-cell>
     </table:table-row>
-    <text:soft-page-break/>
     <table:table-row table:style-name="Table3.1">
      <table:table-cell table:style-name="Table3.A2" office:value-type="string">
       <text:p text:style-name="P93" loext:marker-style-name="T4"><text:span text:style-name="T17">-vc &lt;integer&gt;</text:span></text:p>
@@ -73169,6 +73165,7 @@ contenu généré par l&apos;IA peut être incorrecte.</svg:desc>
       <text:p text:style-name="P93" loext:marker-style-name="T4"><text:span text:style-name="T4">Définir l&apos;alias de clé</text:span><text:span text:style-name="T4"/></text:p>
      </table:table-cell>
     </table:table-row>
+    <text:soft-page-break/>
     <table:table-row table:style-name="Table3.1">
      <table:table-cell table:style-name="Table3.A2" office:value-type="string">
       <text:p text:style-name="P93" loext:marker-style-name="T4"><text:span text:style-name="T17">-kap &lt;password&gt;</text:span></text:p>
@@ -73177,7 +73174,6 @@ contenu généré par l&apos;IA peut être incorrecte.</svg:desc>
       <text:p text:style-name="P93" loext:marker-style-name="T4"><text:span text:style-name="T4">Définir le mot de passe d&apos;alias de clé</text:span><text:span text:style-name="T4"/></text:p>
      </table:table-cell>
     </table:table-row>
-    <text:soft-page-break/>
     <table:table-row table:style-name="Table3.1">
      <table:table-cell table:style-name="Table3.A2" office:value-type="string">
       <text:p text:style-name="P93" loext:marker-style-name="T4"><text:span text:style-name="T17"/></text:p>
@@ -73234,7 +73230,6 @@ contenu généré par l&apos;IA peut être incorrecte.</svg:desc>
       <text:p text:style-name="P93" loext:marker-style-name="T4"><text:span text:style-name="T4">Définir le numéro de build pour le fichier ipa, par exemple 1, 2, 3 ou +1 à incrémenter par 1</text:span><text:span text:style-name="T4"/></text:p>
      </table:table-cell>
     </table:table-row>
-    <text:soft-page-break/>
     <table:table-row table:style-name="Table3.1">
      <table:table-cell table:style-name="Table3.A2" office:value-type="string">
       <text:p text:style-name="P93" loext:marker-style-name="T4"><text:span text:style-name="T17">-vs &lt;string&gt;</text:span><text:span text:style-name="T17"/></text:p>

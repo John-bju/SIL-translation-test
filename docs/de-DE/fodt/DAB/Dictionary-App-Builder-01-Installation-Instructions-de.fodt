@@ -2,14 +2,14 @@
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
  <office:meta><dc:title>Dictionary App Builder - Installation Instructions</dc:title>
-<meta:initial-creator>Richard Margetts</meta:initial-creator><dc:creator>Chris Hubbard</dc:creator><meta:editing-cycles>130</meta:editing-cycles><meta:print-date>2019-01-04T10:20:00</meta:print-date><meta:creation-date>2015-08-15T09:35:00</meta:creation-date><dc:date>2025-09-02T14:51:00</dc:date><meta:editing-duration>PT6M</meta:editing-duration><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="5" meta:object-count="0" meta:page-count="18" meta:paragraph-count="184" meta:word-count="1987" meta:character-count="12777" meta:non-whitespace-character-count="10996"/>
+<meta:initial-creator>Richard Margetts</meta:initial-creator><meta:editing-cycles>131</meta:editing-cycles><meta:print-date>2019-01-04T10:20:00</meta:print-date><meta:creation-date>2015-08-15T09:35:00</meta:creation-date><dc:date>2026-07-22T12:14:43.178028581</dc:date><meta:editing-duration>PT7M37S</meta:editing-duration><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="5" meta:object-count="0" meta:page-count="22" meta:paragraph-count="184" meta:word-count="1987" meta:character-count="12777" meta:non-whitespace-character-count="10996"/>
 <meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">371687</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">44743</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">22782</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">32016</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">21354</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
   </config:config-item-set>
@@ -120,7 +120,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">4500959</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4503670</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -4370,9 +4370,6 @@
    <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:wrap="parallel" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="page-content" fo:background-color="#ffffff" style:background-transparency="100%" draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="0%" fo:padding="0in" fo:border="none"/>
   </style:style>
   <style:style style:name="fr2" style:family="graphic" style:parent-style-name="Graphics">
-   <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" fo:background-color="transparent" draw:fill="none" draw:fill-color="#729fcf" draw:secondary-fill-color="#729fcf" draw:gradient-step-count="0" draw:fill-hatch-solid="false" draw:opacity="100%" draw:fill-image-width="0in" draw:fill-image-height="0in" style:repeat="repeat" draw:fill-image-ref-point-x="0%" draw:fill-image-ref-point-y="0%" draw:fill-image-ref-point="center" draw:tile-repeat-offset="0% horizontal" fo:padding="0in" fo:border="none" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard" loext:decorative="false"/>
-  </style:style>
-  <style:style style:name="fr3" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:vertical-pos="top" style:vertical-rel="baseline" fo:background-color="transparent" draw:fill="none" draw:fill-color="#729fcf" draw:secondary-fill-color="#729fcf" draw:gradient-step-count="0" draw:fill-hatch-solid="false" draw:opacity="100%" draw:fill-image-width="0in" draw:fill-image-height="0in" style:repeat="repeat" draw:fill-image-ref-point-x="0%" draw:fill-image-ref-point-y="0%" draw:fill-image-ref-point="center" draw:tile-repeat-offset="0% horizontal" fo:padding="0in" fo:border="none" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard" loext:decorative="false"/>
   </style:style>
   <style:style style:name="Sect1" style:family="section">
@@ -4399,9 +4396,9 @@
  <office:master-styles>
   <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
    <style:footer>
-    <text:p text:style-name="Footer"><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="paragraph" svg:y="0.0008in" draw:z-index="26">
+    <text:p text:style-name="Footer"><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="paragraph" svg:y="0.0008in" draw:z-index="30">
       <draw:text-box fo:min-height="0.0161in" fo:min-width="0.0161in">
-       <text:p text:style-name="P1"><text:span text:style-name="Page_20_Number"><text:page-number text:select-page="current">28</text:page-number></text:span><text:span text:style-name="Page_20_Number"><text:s/></text:span></text:p>
+       <text:p text:style-name="P1"><text:span text:style-name="Page_20_Number"><text:page-number text:select-page="current">32</text:page-number></text:span><text:span text:style-name="Page_20_Number"><text:s/></text:span></text:p>
       </draw:text-box>
      </draw:frame><text:s/></text:p>
    </style:footer>
@@ -4424,7 +4421,7 @@
    <text:p text:style-name="P28" loext:marker-style-name="T1"/>
    <text:p text:style-name="P28" loext:marker-style-name="T1"/>
    <text:p text:style-name="P28" loext:marker-style-name="T1"/>
-   <text:p text:style-name="P29" loext:marker-style-name="T1"><draw:frame draw:style-name="fr3" draw:name="Picture 30" text:anchor-type="as-char" svg:width="5.9839in" svg:height="1.6717in" draw:z-index="0"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P29" loext:marker-style-name="T1"><draw:frame draw:style-name="fr2" draw:name="Picture 30" text:anchor-type="as-char" svg:width="5.9839in" svg:height="1.6717in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAACLoAAAJwCAYAAAHzJqrZAAAACXBIWXMAABcSAAAXEgFnn9JS
        AAAKT2lDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVNnVFPpFj333vRCS4iAlEtvUhUI
        IFJCi4AUkSYqIQkQSoghodkVUcERRUUEG8igiAOOjoCMFVEsDIoK2AfkIaKOg6OIisr74Xuj
@@ -5893,20 +5890,20 @@
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="P28" loext:marker-style-name="T1"/>
    <text:p text:style-name="P28" loext:marker-style-name="T1"/>
-   <text:p text:style-name="P28" loext:marker-style-name="T1"/>
+   <text:p text:style-name="P28" loext:marker-style-name="T1"><text:soft-page-break/></text:p>
    <text:p text:style-name="P29" loext:marker-style-name="T2"><text:span text:style-name="T2">Installation Instructions</text:span><text:span text:style-name="T2"/></text:p>
-   <text:p text:style-name="P31" loext:marker-style-name="T4"><text:soft-page-break/></text:p>
-   <text:p text:style-name="P31" loext:marker-style-name="T4"/>
-   <text:p text:style-name="P31" loext:marker-style-name="T4"/>
-   <text:p text:style-name="P31" loext:marker-style-name="T4"/>
-   <text:p text:style-name="P31" loext:marker-style-name="T4"/>
-   <text:p text:style-name="P31" loext:marker-style-name="T4"/>
    <text:p text:style-name="P31" loext:marker-style-name="T4"/>
    <text:p text:style-name="P31" loext:marker-style-name="T4"/>
    <text:p text:style-name="P31" loext:marker-style-name="T4"/>
    <text:p text:style-name="P31" loext:marker-style-name="T4"/>
    <text:p text:style-name="P31" loext:marker-style-name="T4"><text:s/></text:p>
-   <text:p text:style-name="P29" loext:marker-style-name="T4"><text:soft-page-break/><draw:frame draw:style-name="fr3" draw:name="Picture 1" text:anchor-type="as-char" svg:width="1.2193in" svg:height="0.6646in" draw:z-index="0"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P31" loext:marker-style-name="T4"/>
+   <text:p text:style-name="P31" loext:marker-style-name="T4"/>
+   <text:p text:style-name="P31" loext:marker-style-name="T4"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P31" loext:marker-style-name="T4"/>
+   <text:p text:style-name="P31" loext:marker-style-name="T4"/>
+   <text:p text:style-name="P31" loext:marker-style-name="T4"/>
+   <text:p text:style-name="P29" loext:marker-style-name="T4"><draw:frame draw:style-name="fr2" draw:name="Picture 1" text:anchor-type="as-char" svg:width="1.2193in" svg:height="0.6646in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAGIAAAA2CAYAAAA8ukzvAAAOeUlEQVR4nO2cfXAT95nHf/iF
        V0PCBUjDUcgLBBK4HKTkKKF+k21JfgGahJcYg5mE5O56ndyld2R6vd4fmTbpNJD27iZ312HS
        pB1bkt8kW+9vXmnXoWRChrYJkJYcwVpJu9KuSQqF5j3le3/8dm1JXsmWrRY7jmae8Yx2tfI8
@@ -5996,28 +5993,28 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P34" loext:marker-style-name="T3"/>
    <text:p text:style-name="P34" loext:marker-style-name="T3"/>
    <text:p text:style-name="P34" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P34" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P34" loext:marker-style-name="T3"/>
    <text:p text:style-name="P34" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T3"/>
+   <text:p text:style-name="P34" loext:marker-style-name="T3"/>
    <text:p text:style-name="P34" loext:marker-style-name="T3"/>
    <text:p text:style-name="P34" loext:marker-style-name="T3"/>
    <text:p text:style-name="P29" loext:marker-style-name="T11"><text:span text:style-name="T11">Dictionary App Builder: Installation Instructions</text:span><text:span text:style-name="T11"/></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T3"/>
+   <text:p text:style-name="P34" loext:marker-style-name="T3"><text:s/></text:p>
    <text:p text:style-name="P29" loext:marker-style-name="T3"><text:span text:style-name="T3">© 2025, SIL Global</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P29" loext:marker-style-name="T14"><text:span text:style-name="T14">Last updated: 02 September 2025</text:span><text:span text:style-name="T14"/></text:p>
+   <text:p text:style-name="P29" loext:marker-style-name="T14"><text:soft-page-break/><text:span text:style-name="T14">Last updated: 02 September 2025</text:span><text:span text:style-name="T14"/></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T3"/>
    <text:p text:style-name="P34" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P34" loext:marker-style-name="T3"><text:s/></text:p>
-   <text:p text:style-name="P34" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P34" loext:marker-style-name="T3"/>
+   <text:p text:style-name="P34" loext:marker-style-name="T3"/>
    <text:p text:style-name="P34" loext:marker-style-name="T3"/>
    <text:p text:style-name="P29" loext:marker-style-name="T3"><text:span text:style-name="T3">You are free to print this manual for personal use and for training workshops.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T3"/>
    <text:p text:style-name="P29" loext:marker-style-name="T3"><text:span text:style-name="T3">The latest version is available at</text:span><text:span text:style-name="T3"/></text:p>
-   <text:p text:style-name="P29" loext:marker-style-name="T3"><text:a xlink:type="simple" xlink:href="http://software.sil.org/dictionaryappbuilder/resources/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">http://software.sil.org/dictionaryappbuilder/resources/</text:span></text:span></text:a><text:span text:style-name="T3"> </text:span></text:p>
+   <text:p text:style-name="P29" loext:marker-style-name="T3"><text:a xlink:type="simple" xlink:href="http://software.sil.org/dictionaryappbuilder/resources/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:soft-page-break/><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">http://software.sil.org/dictionaryappbuilder/resources/</text:span></text:span></text:a><text:span text:style-name="T3"> </text:span></text:p>
    <text:p text:style-name="P34" loext:marker-style-name="T3"/>
    <text:p text:style-name="P29" loext:marker-style-name="T3"><text:span text:style-name="T3">and on the Help menu of Dictionary App Builder.</text:span><text:span text:style-name="T3"/></text:p>
-   <text:p text:style-name="P28" loext:marker-style-name="T1"/>
+   <text:p text:style-name="P28" loext:marker-style-name="T1"><text:s/></text:p>
    <text:p text:style-name="P32" loext:marker-style-name="T3"/>
    <text:p text:style-name="P30" loext:marker-style-name="T12"><text:span text:style-name="T12">Contents</text:span><text:span text:style-name="T12"/></text:p>
    <text:p text:style-name="P41" loext:marker-style-name="T12"/>
@@ -6122,22 +6119,22 @@ Description automatically generated</svg:desc>
      <text:p text:style-name="Contents_20_3" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc207702695" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T3">2.2.1.</text:span><text:span text:style-name="T21"> </text:span><text:span text:style-name="T3">Installing the JDK using the Install JDK wizard</text:span><text:span text:style-name="T22"> 5</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_3" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc207702696" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T3">2.2.2.</text:span><text:span text:style-name="T21"> </text:span><text:span text:style-name="T3">Installing the JDK from the Azul website</text:span><text:span text:style-name="T22"> 5</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T17"><text:a xlink:type="simple" xlink:href="#_Toc207702697" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T3">2.3.</text:span><text:span text:style-name="T20"> </text:span><text:span text:style-name="T3">Installing the Android Software Development Kit (SDK)</text:span><text:span text:style-name="T22"> 6</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_3" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc207702698" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T3">2.3.1.</text:span><text:span text:style-name="T21"> </text:span><text:span text:style-name="T3">Downloading the Android SDK packages from the internet</text:span><text:span text:style-name="T22"> 7</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_3" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc207702698" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:soft-page-break/><text:span text:style-name="T3">2.3.1.</text:span><text:span text:style-name="T21"> </text:span><text:span text:style-name="T3">Downloading the Android SDK packages from the internet</text:span><text:span text:style-name="T22"> 7</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_3" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc207702699" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T3">2.3.2.</text:span><text:span text:style-name="T21"> </text:span><text:span text:style-name="T3">Copying the Android SDK files from someone else</text:span><text:span text:style-name="T22"> 8</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc207702700" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:soft-page-break/><text:span text:style-name="T3">3.</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T3">Linux Installation</text:span><text:span text:style-name="T22"> 10</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_1" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc207702700" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T3">3.</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T3">Linux Installation</text:span><text:span text:style-name="T22"> 10</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T17"><text:a xlink:type="simple" xlink:href="#_Toc207702701" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.1.<text:span text:style-name="T20"> </text:span>Flathub<text:span text:style-name="T22"> 10</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_2" loext:marker-style-name="T17"><text:a xlink:type="simple" xlink:href="#_Toc207702702" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.2.<text:span text:style-name="T20"> </text:span>SIL repository for Ubuntu<text:span text:style-name="T22"> 10</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_3" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc207702703" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.2.1.<text:span text:style-name="T21"> </text:span>Add SIL repository for Ubuntu<text:span text:style-name="T22"> 10</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_3" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc207702704" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.2.2.<text:span text:style-name="T21"> </text:span>Installing all packages from the Internet<text:span text:style-name="T22"> 11</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_3" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc207702705" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.2.3.<text:span text:style-name="T21"> </text:span>Downloading the Android SDK files prior to package installation<text:span text:style-name="T22"> 11</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_3" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc207702706" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T3">3.2.4.</text:span><text:span text:style-name="T21"> </text:span><text:span text:style-name="T3">Downloading the Android SDK files</text:span><text:span text:style-name="T22"> 11</text:span></text:a></text:p>
-     <text:p text:style-name="Contents_20_3" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc207702707" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T3">3.2.5.</text:span><text:span text:style-name="T21"> </text:span><text:span text:style-name="T3">Provide zip files during the package install</text:span><text:span text:style-name="T22"> 12</text:span></text:a></text:p>
+     <text:p text:style-name="Contents_20_3" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc207702707" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:soft-page-break/><text:span text:style-name="T3">3.2.5.</text:span><text:span text:style-name="T21"> </text:span><text:span text:style-name="T3">Provide zip files during the package install</text:span><text:span text:style-name="T22"> 12</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_3" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc207702708" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.2.6.<text:span text:style-name="T21"> </text:span>Installing without Android SDK<text:span text:style-name="T22"> 12</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_3" loext:marker-style-name="T18"><text:a xlink:type="simple" xlink:href="#_Toc207702709" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.2.7.<text:span text:style-name="T21"> </text:span>Automating Android SDK installation<text:span text:style-name="T22"> 12</text:span></text:a></text:p>
      <text:p text:style-name="Contents_20_1" loext:marker-style-name="T16"><text:a xlink:type="simple" xlink:href="#_Toc207702710" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T3">4.</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T3">How to build your first app</text:span><text:span text:style-name="T22"> 13</text:span></text:a></text:p>
     </text:index-body>
    </text:table-of-content>
-   <text:p text:style-name="P32" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T3"/>
    <text:p text:style-name="P32" loext:marker-style-name="T3"/>
    <text:h text:style-name="P6" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc207702691"/><text:span text:style-name="T3">Introduction</text:span><text:bookmark-end text:name="_Toc207702691"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Dictionary App Builder does what its name suggests: it helps you to build customized dictionary apps for smartphones and tablets.</text:span><text:span text:style-name="T3"/></text:p>
@@ -10074,13 +10071,13 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P43" loext:marker-style-name="T3"><text:span text:style-name="T3">To install Dictionary App Builder on </text:span><text:span text:style-name="T5">Windows</text:span><text:span text:style-name="T3">, please follow the instructions in section 2. For </text:span><text:span text:style-name="T5">Linux</text:span><text:span text:style-name="T3">, please find the instructions in section 3.</text:span></text:p>
    <text:p text:style-name="P32" loext:marker-style-name="T3"/>
    <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc207702692"/><text:span text:style-name="T3">Windows Installation</text:span><text:bookmark-end text:name="_Toc207702692"/><text:span text:style-name="T3"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">To run Dictionary App Builder on Windows, you need to have 3 components installed on your computer:</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">To run Dictionary App Builder on Windows, you need to have 3 components installed on your computer:</text:span><text:span text:style-name="T3"/></text:p>
    <text:list text:style-name="WWNum1">
     <text:list-item>
      <text:p text:style-name="P45" loext:marker-style-name="T3"><text:span text:style-name="T3">Dictionary App Builder (DAB)</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Java Development Kit (JDK)</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P44" loext:marker-style-name="T3"><text:span text:style-name="T3">Java Development Kit (JDK)</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P44" loext:marker-style-name="T3"><text:span text:style-name="T3">Android Software Development Kit (SDK)</text:span><text:span text:style-name="T3"/></text:p>
@@ -10088,12 +10085,12 @@ Description automatically generated</svg:desc>
    </text:list>
    <text:p text:style-name="P32" loext:marker-style-name="T3"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Here are more details on installing each of these three components.</text:span><text:span text:style-name="T3"/></text:p>
-   <text:p text:style-name="P32" loext:marker-style-name="T3"/>
+   <text:p text:style-name="P32" loext:marker-style-name="T3"><text:s/></text:p>
    <text:h text:style-name="P8" text:outline-level="2" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc207702693"/><text:span text:style-name="T3">Installing Dictionary App Builder</text:span><text:bookmark-end text:name="_Toc207702693"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="P46" loext:marker-style-name="T3"><text:span text:style-name="T3">To install the Dictionary App Builder program, do the following:</text:span><text:span text:style-name="T3"/></text:p>
    <text:list text:style-name="WWNum38">
     <text:list-item>
-     <text:p text:style-name="P12" loext:marker-style-name="T3"><text:span text:style-name="T3">Go to the </text:span><text:span text:style-name="T5">Download</text:span><text:span text:style-name="T3"> page of the Dictionary App Builder website: </text:span><text:a xlink:type="simple" xlink:href="http://software.sil.org/dictionaryappbuilder/download" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">http://software.sil.org/dictionaryappbuilder/download</text:span></text:span></text:a><text:span text:style-name="T3"> </text:span></text:p>
+     <text:p text:style-name="P12" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Go to the </text:span><text:span text:style-name="T5">Download</text:span><text:span text:style-name="T3"> page of the Dictionary App Builder website: </text:span><text:a xlink:type="simple" xlink:href="http://software.sil.org/dictionaryappbuilder/download" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">http://software.sil.org/dictionaryappbuilder/download</text:span></text:span></text:a><text:span text:style-name="T3"> </text:span></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P12" loext:marker-style-name="T3"><text:span text:style-name="T3">Download the latest setup program for Windows.</text:span><text:span text:style-name="T3"/></text:p>
@@ -10102,8 +10099,8 @@ Description automatically generated</svg:desc>
      <text:p text:style-name="P12" loext:marker-style-name="T3"><text:span text:style-name="T3">Run the setup program, </text:span><text:span text:style-name="T5">Dictionary -App-Builder-x.x-Setup.exe</text:span><text:span text:style-name="T3">, to install Dictionary App Builder on your computer.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P32" loext:marker-style-name="T3"><text:s/></text:p>
-   <text:p text:style-name="P32" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T3"/>
+   <text:p text:style-name="P32" loext:marker-style-name="T3"/>
    <text:h text:style-name="P8" text:outline-level="2" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc207702694"/><text:span text:style-name="T3">Installing the Java Development Kit (JDK)</text:span><text:bookmark-end text:name="_Toc207702694"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="P47" loext:marker-style-name="T3"><text:bookmark-start text:name="_Hlk534311866"/><text:span text:style-name="T3">You will need version 17 of the Java Development Kit (JDK) to build apps. There are two ways of installing it:</text:span><text:span text:style-name="T3"/></text:p>
    <text:list text:style-name="WWNum46">
@@ -10114,7 +10111,7 @@ Description automatically generated</svg:desc>
      <text:p text:style-name="P14" loext:marker-style-name="T3"><text:span text:style-name="T3">Download the JDK setup file from the Azul website and run the installer (see section 2.2.2).</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P15" loext:marker-style-name="T3"/>
+   <text:p text:style-name="P15" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc207702695"/><text:bookmark-start text:name="_Toc100826020"/><text:span text:style-name="T3">Installing the JDK using the Install JDK wizard</text:span><text:bookmark-end text:name="_Toc207702695"/><text:bookmark-end text:name="_Toc100826020"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="P47" loext:marker-style-name="T3"><text:span text:style-name="T3">The easiest way to install the Java Development Kit (JDK) is to use the Install JDK wizard within Dictionary App Builder:</text:span><text:span text:style-name="T3"/></text:p>
    <text:list text:style-name="WWNum45">
@@ -10128,10 +10125,10 @@ Description automatically generated</svg:desc>
      <text:p text:style-name="P17" loext:marker-style-name="T3"><text:span text:style-name="T3">Follow the instructions in the wizard to download and install the JDK.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P48" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">If the JDK was installed successfully, skip section 2.2.2 and go to section 2.3 to install the Android SDK.</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P48" loext:marker-style-name="T3"><text:span text:style-name="T3">If the JDK was installed successfully, skip section 2.2.2 and go to section 2.3 to install the Android SDK.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P35" loext:marker-style-name="T3"/>
    <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc207702696"/><text:bookmark-start text:name="_Toc100826021"/><text:span text:style-name="T3">Installing the JDK from the Azul website</text:span><text:bookmark-end text:name="_Toc207702696"/><text:bookmark-end text:name="_Toc100826021"/><text:bookmark-end text:name="_Hlk534311866"/><text:span text:style-name="T3"/></text:h>
-   <text:p text:style-name="P47" loext:marker-style-name="T3"><text:span text:style-name="T3">We recommend you use Zulu, which is a free distribution of OpenJDK from Azul.</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P47" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">We recommend you use Zulu, which is a free distribution of OpenJDK from Azul.</text:span><text:span text:style-name="T3"/></text:p>
    <text:list text:style-name="WWNum41">
     <text:list-item>
      <text:p text:style-name="P19" loext:marker-style-name="T3"><text:span text:style-name="T3">Go to the </text:span><text:span text:style-name="T6">Download Zulu Builds of OpenJDK</text:span><text:span text:style-name="T3"> website:</text:span></text:p>
@@ -10141,14 +10138,14 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P50" loext:marker-style-name="T15"><text:a xlink:type="simple" xlink:href="https://www.azul.com/downloads/?version=java-17-lts&amp;os=windows&amp;architecture=x86-64-bit&amp;package=jdk#zulu" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T15">https://www.azul.com/downloads/?version=java-17-lts&amp;os=windows&amp;architecture=x86-64-bit&amp;package=jdk#zulu</text:span></text:span></text:a><text:span text:style-name="T15"/></text:p>
    <text:p text:style-name="P50" loext:marker-style-name="T3"><text:span text:style-name="T3"><text:line-break/>There are many downloads on this page, but the above link will filter the ones you see (Java Version: Java 17 LTS; Operating System: Windows; Architecture: x86 64-bit; Java Package: JDK).</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P32" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P32" loext:marker-style-name="T3"><text:s/></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T3"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum41">
     <text:list-item>
      <text:p text:style-name="P18" loext:marker-style-name="T3"><text:span text:style-name="T3">Scroll down the page until you see the downloads:</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P32" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T3"><draw:custom-shape text:anchor-type="char" draw:z-index="27" draw:name="AutoShape 7" draw:style-name="gr1" draw:text-style-name="P69" svg:width="0.5079in" svg:height="0.2323in" draw:transform="rotate (-0.867952237016781) translate (5.53472222222222in 2.28888888888889in)">
+   <text:p text:style-name="P32" loext:marker-style-name="T3"/>
+   <text:p text:style-name="Standard" loext:marker-style-name="T3"><draw:custom-shape text:anchor-type="char" draw:z-index="31" draw:name="AutoShape 7" draw:style-name="gr1" draw:text-style-name="P69" svg:width="0.5079in" svg:height="0.2323in" draw:transform="rotate (-0.867952237016781) translate (5.53472222222222in 2.28888888888889in)">
      <text:p/>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:glue-points="?f5 0 0 ?f7 ?f5 ?f14 ?f13 ?f7" draw:text-areas="?f12 ?f8 ?f13 ?f9" draw:type="ooxml-leftArrow" draw:modifiers="50000 75000" draw:enhanced-path="M 0 ?f7 L ?f5 0 ?f5 ?f8 ?f13 ?f8 ?f13 ?f9 ?f5 ?f9 ?f5 ?f14 Z N">
       <draw:equation draw:name="f0" draw:formula="min(logwidth,logheight)"/>
@@ -10169,7 +10166,7 @@ Description automatically generated</svg:desc>
       <draw:handle draw:handle-range-y-maximum="100000" draw:handle-range-y-minimum="0" draw:handle-position="?f13 ?f8"/>
       <draw:handle draw:handle-range-x-maximum="?f1" draw:handle-range-x-minimum="0" draw:handle-position="?f5 0"/>
      </draw:enhanced-geometry>
-    </draw:custom-shape><draw:frame draw:style-name="fr2" draw:name="Image3" text:anchor-type="as-char" svg:width="5.9846in" svg:height="2.5575in" draw:z-index="0"><draw:image draw:mime-type="image/png">
+    </draw:custom-shape><text:soft-page-break/><draw:frame draw:style-name="fr2" draw:name="Image3" text:anchor-type="as-char" svg:width="5.9846in" svg:height="2.5575in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABSMAAAIyCAYAAAAwm98MAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAP+lSURBVHhe7N0JXFTl3gfwn4BsIggK
        giDgAq6opKbmkluW2uLWapveW2a71b1m3VtWb1n3VnbbbLta3Wx3KbcyMQvcUkPFFQTZFATZ
@@ -11473,8 +11470,8 @@ Description automatically generated</svg:desc>
      <text:p text:style-name="P18" loext:marker-style-name="T3"><text:span text:style-name="T6">Double-click the msi file</text:span><text:span text:style-name="T3"> and follow the instructions in the installation wizard to install it. By default, the .msi installer will install the JDK to the following folder:</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P52" loext:marker-style-name="T25"><text:span text:style-name="T25">C:\Program Files\Zulu\zulu-17\</text:span><text:span text:style-name="T25"/></text:p>
-   <text:p text:style-name="P53" loext:marker-style-name="T25"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P52" loext:marker-style-name="T25"><text:soft-page-break/><text:span text:style-name="T25">C:\Program Files\Zulu\zulu-17\</text:span><text:span text:style-name="T25"/></text:p>
+   <text:p text:style-name="P53" loext:marker-style-name="T25"/>
    <text:p text:style-name="P53" loext:marker-style-name="T25"/>
    <text:p text:style-name="P54" loext:marker-style-name="T3"><text:span text:style-name="T9">Important</text:span><text:span text:style-name="T3">: If you change the JDK install folder to something other than the default folder, you will need to remember the location of the folder so you can tell Dictionary App Builder where to find the JDK.</text:span></text:p>
    <text:p text:style-name="P32" loext:marker-style-name="T3"/>
@@ -11486,14 +11483,14 @@ Description automatically generated</svg:desc>
      <text:p text:style-name="P21" loext:marker-style-name="T3"><text:span text:style-name="T8">Online</text:span><text:span text:style-name="T5">: Download the Android SDK packages from the internet: </text:span><text:span text:style-name="T3"><text:line-break/>Use the Android SDK Installation wizard to download and install the command line tools and three additional packages. This method will require an internet connection.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P22" loext:marker-style-name="T3"><text:span text:style-name="T3">See 2.3.1 for more details.<text:line-break/></text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P22" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">See 2.3.1 for more details.<text:line-break/></text:span><text:span text:style-name="T3"/></text:p>
    <text:list text:continue-numbering="true" text:style-name="WWNum43">
     <text:list-item>
      <text:p text:style-name="P21" loext:marker-style-name="T3"><text:span text:style-name="T8">Offline</text:span><text:span text:style-name="T5">: Copy the Android SDK files from someone else:</text:span><text:span text:style-name="T3"><text:line-break/>If you know someone who has already downloaded and installed the Android SDK, you can copy all the files from them. </text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P22" loext:marker-style-name="T3"><text:span text:style-name="T3">This method is especially useful in a training workshop where several people need to install the SDK but have limited internet bandwidth. </text:span><text:span text:style-name="T3"/></text:p>
-   <text:p text:style-name="P22" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">See 2.3.2 for more details.</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P22" loext:marker-style-name="T3"><text:span text:style-name="T3">See 2.3.2 for more details.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P32" loext:marker-style-name="T3"/>
    <text:p text:style-name="P32" loext:marker-style-name="T3"/>
    <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc77854175"/><text:bookmark-start text:name="_Toc207702698"/><text:bookmark-start text:name="_Toc77851809"/><text:span text:style-name="T3">Downloading the Android SDK packages from the internet</text:span><text:bookmark-end text:name="_Toc77854175"/><text:bookmark-end text:name="_Toc207702698"/><text:bookmark-end text:name="_Toc77851809"/><text:span text:style-name="T3"/></text:h>
@@ -11501,7 +11498,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P32" loext:marker-style-name="T3"/>
    <text:list text:style-name="WWNum28">
     <text:list-item>
-     <text:p text:style-name="P57" loext:marker-style-name="T3"><text:span text:style-name="T3">Launch </text:span><text:span text:style-name="T5">Dictionary App Builder</text:span><text:span text:style-name="T3">. </text:span></text:p>
+     <text:p text:style-name="P57" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Launch </text:span><text:span text:style-name="T5">Dictionary App Builder</text:span><text:span text:style-name="T3">. </text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
@@ -11510,19 +11507,19 @@ Description automatically generated</svg:desc>
      <text:p text:style-name="P57" loext:marker-style-name="T3"><text:span text:style-name="T3">Click the </text:span><text:span text:style-name="T6">Install Android SDK</text:span><text:span text:style-name="T3"> button on the welcome page (or select </text:span><text:span text:style-name="T5">Tools</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T23"></text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T5">Install Android SDK</text:span><text:span text:style-name="T3"> from the main menu).</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P16" loext:marker-style-name="T3"/>
+   <text:p text:style-name="P16" loext:marker-style-name="T3"><text:s/></text:p>
    <text:list text:continue-numbering="true" text:style-name="WWNum28">
     <text:list-item>
      <text:p text:style-name="P58" loext:marker-style-name="T3"><text:span text:style-name="T3">Follow the instructions on each page of the </text:span><text:span text:style-name="T6">Install Android SDK</text:span><text:span text:style-name="T3"> wizard to download each of the Android SDK packages and install them.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P37" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P37" loext:marker-style-name="T3"/>
    <text:p text:style-name="P55" loext:marker-style-name="T3"><text:span text:style-name="T3">When you are asked to specify a target folder, a good place is </text:span><text:span text:style-name="T6">C:\sdk</text:span><text:span text:style-name="T3">.</text:span></text:p>
    <text:p text:style-name="P38" loext:marker-style-name="T3"/>
    <text:p text:style-name="P59" loext:marker-style-name="T3"><text:span text:style-name="T3">Four packages will be downloaded and installed:</text:span><text:span text:style-name="T3"/></text:p>
    <text:list text:style-name="WWNum44">
     <text:list-item>
-     <text:p text:style-name="P23" loext:marker-style-name="T3"><text:span text:style-name="T3">Command line tools, </text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P23" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Command line tools, </text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P23" loext:marker-style-name="T3"><text:span text:style-name="T3">Build Tools, </text:span><text:span text:style-name="T3"/></text:p>
@@ -11537,7 +11534,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P37" loext:marker-style-name="T3"/>
    <text:p text:style-name="P56" loext:marker-style-name="T3"><text:span text:style-name="T3">If the installation was successful, you will see the version numbers displayed in green.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P39" loext:marker-style-name="T5"/>
-   <text:p text:style-name="P29" loext:marker-style-name="T26"><text:soft-page-break/><draw:frame draw:style-name="fr2" draw:name="Picture 2" text:anchor-type="as-char" svg:width="5.9862in" svg:height="3.8543in" draw:z-index="0"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P29" loext:marker-style-name="T26"><draw:frame draw:style-name="fr2" draw:name="Picture 2" text:anchor-type="as-char" svg:width="5.9862in" svg:height="3.8543in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAADLAAAAgtCAYAAAA3uj1jAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAAMsAAADLAAShkWtsAAP+lSURBVHhe7N0FdNbm+8bxIIOxDWY4
        Y7gOdyjuNtzd3d3d3d2luLu7u9MWCi0UrQv1fv8nadF1wPYbG/vv+pxz7y3tm+RJniRvd06u
@@ -24981,7 +24978,7 @@ Description automatically generated</svg:desc>
      </draw:image>
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="P32" loext:marker-style-name="T3"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3"><text:line-break/>If any of the Build Tools, Platform Tools or Platform API is listed as “Not Found” (displayed in red), go to </text:span><text:span text:style-name="T6">Tools</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T23"></text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T6">Settings</text:span><text:span text:style-name="T3">, select the </text:span><text:span text:style-name="T6">Android SDK</text:span><text:span text:style-name="T3"> tab, and click the </text:span><text:span text:style-name="T6">Install Packages</text:span><text:span text:style-name="T3"> button to install them.</text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3"><text:line-break/>If any of the Build Tools, Platform Tools or Platform API is listed as “Not Found” (displayed in red), go to </text:span><text:span text:style-name="T6">Tools</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T23"></text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T6">Settings</text:span><text:span text:style-name="T3">, select the </text:span><text:span text:style-name="T6">Android SDK</text:span><text:span text:style-name="T3"> tab, and click the </text:span><text:span text:style-name="T6">Install Packages</text:span><text:span text:style-name="T3"> button to install them.</text:span></text:p>
    <text:p text:style-name="P32" loext:marker-style-name="T3"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Click the </text:span><text:span text:style-name="T6">Check Installation</text:span><text:span text:style-name="T3"> button to confirm that all the packages have been installed correctly.</text:span></text:p>
    <text:p text:style-name="P32" loext:marker-style-name="T3"/>
@@ -25130,9 +25127,9 @@ Description automatically generated</svg:desc>
      <text:p text:style-name="P24" loext:marker-style-name="T3"><text:a xlink:type="simple" xlink:href="https://packages.sil.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">SIL repository for Ubuntu</text:span></text:span></text:a> <text:span text:style-name="T3">– available for some versions of Ubuntu-based distributions (including </text:span><text:a xlink:type="simple" xlink:href="https://www.wastalinux.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">Wasta-Linux</text:span></text:span></text:a><text:span text:style-name="T3">) </text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P10" text:outline-level="2"><text:bookmark-start text:name="_Toc207702701"/><text:bookmark-start text:name="_Toc207700814"/>Flathub<text:bookmark-end text:name="_Toc207702701"/><text:bookmark-end text:name="_Toc207700814"/></text:h>
+   <text:h text:style-name="P10" text:outline-level="2"><text:bookmark-start text:name="_Toc207702701"/><text:bookmark-start text:name="_Toc207700814"/><text:soft-page-break/>Flathub<text:bookmark-end text:name="_Toc207702701"/><text:bookmark-end text:name="_Toc207700814"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Flathub is required for Ubuntu 24.04 (Noble) and newer or other non-Ubuntu distributions. To install using Flathub, follow the installation instructions at </text:span><text:a xlink:type="simple" xlink:href="https://flathub.org/setup" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">https://flathub.org/setup</text:span></text:span></text:a><text:span text:style-name="T3"> for your specific distribution. Search for Dictionary App Builder in the distribution-specific store. You will need to install the JDK and Android SDK separately. </text:span></text:p>
-   <text:p text:style-name="P32" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T3"/>
    <text:list text:style-name="WWNum48">
     <text:list-item>
      <text:p text:style-name="P25" loext:marker-style-name="T3"><text:span text:style-name="T3">To install the JDK, see section 2.2.1 Installing the JDK using the Install wizard.</text:span><text:span text:style-name="T3"/></text:p>
@@ -25147,7 +25144,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:bookmark-start text:name="_Hlk534311954"/><text:span text:style-name="T3">You have the following installation options for how the Android SDK is installed:</text:span><text:span text:style-name="T3"/></text:p>
    <text:list text:style-name="WWNum40">
     <text:list-item>
-     <text:p text:style-name="P26" loext:marker-style-name="T3"><text:span text:style-name="T3">Follow the instructions in section 3.2.2 to download everything directly from the Internet.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P26" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Follow the instructions in section 3.2.2 to download everything directly from the Internet.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P26" loext:marker-style-name="T3"><text:span text:style-name="T3">Follow the instructions in sections 3.2.3 through 3.2.5 to download the Android SDK files before installing the packages.</text:span><text:span text:style-name="T3"/></text:p>
@@ -25157,12 +25154,12 @@ Description automatically generated</svg:desc>
     </text:list-item>
    </text:list>
    <text:h text:style-name="P11" text:outline-level="3"><text:bookmark-start text:name="_Toc207702703"/><text:bookmark-start text:name="_Toc102126765"/>Add SIL repository for Ubuntu<text:bookmark-end text:name="_Toc207702703"/><text:bookmark-end text:name="_Toc102126765"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">To install packages from the SIL repository for Ubuntu, the repository must be added to the APT sources. </text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">To install packages from the SIL repository for Ubuntu, the repository must be added to the APT sources. </text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P32" loext:marker-style-name="T3"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T10">Note: </text:span><text:span text:style-name="T6">Wasta-Linux</text:span><text:span text:style-name="T3"> already includes configuration for the SIL repository for Ubuntu and so you can skip this section.</text:span></text:p>
    <text:p text:style-name="P32" loext:marker-style-name="T3"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">If you are using another </text:span><text:span text:style-name="T6">Ubuntu-based distribution</text:span><text:span text:style-name="T3">, please follow the instructions below (from the section “Enable access to SIL software and fonts in Ubuntu” on </text:span><text:a xlink:type="simple" xlink:href="https://packages.sil.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T3">https://packages.sil.org</text:span></text:span></text:a><text:span text:style-name="T3">).</text:span></text:p>
-   <text:p text:style-name="P32" loext:marker-style-name="T3"/>
+   <text:p text:style-name="P32" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
    <text:list text:style-name="WWNum37">
     <text:list-item>
      <text:p text:style-name="P27" loext:marker-style-name="T3"><text:span text:style-name="T3">Open a Terminal window.</text:span><text:span text:style-name="T3"/></text:p>
@@ -25178,12 +25175,12 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P16" loext:marker-style-name="T3"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum37">
     <text:list-item>
-     <text:p text:style-name="P27" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Add source:</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P27" loext:marker-style-name="T3"><text:span text:style-name="T3">Add source:</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Command_20_Line" loext:marker-style-name="T29"><text:span text:style-name="T29">(. /etc/os-release &amp;&amp; sudo tee /etc/apt/sources.list.d/packages-sil-org.list&gt;/dev/null &lt;&lt;&lt; &quot;deb http://packages.sil.org/$ID $VERSION_CODENAME main&quot;)</text:span><text:span text:style-name="T29"/></text:p>
    <text:h text:style-name="P11" text:outline-level="3"><text:bookmark-start text:name="_Toc207702704"/><text:bookmark-start text:name="_Toc102126766"/>Installing all packages from the Internet<text:bookmark-end text:name="_Toc207702704"/><text:bookmark-end text:name="_Toc102126766"/><text:bookmark text:name="OLE_LINK9"/><text:bookmark text:name="OLE_LINK10"/></text:h>
-   <text:p text:style-name="P64" loext:marker-style-name="T3"><text:span text:style-name="T3">To install all the required software from the command line, type:</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P64" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">To install all the required software from the command line, type:</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P5">sudo apt-get update</text:p>
    <text:p text:style-name="Command_20_Line">sudo apt-get install -y dictionary-app-builder</text:p>
    <text:p text:style-name="P32" loext:marker-style-name="T3"/>
@@ -25191,8 +25188,8 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="Command_20_Line"><text:bookmark-start text:name="OLE_LINK4"/><text:bookmark-start text:name="OLE_LINK3"/>sudo apt-get install -y dictionary-app-builder android-sdk-installer</text:p>
    <text:h text:style-name="P11" text:outline-level="3"><text:bookmark-end text:name="OLE_LINK4"/><text:bookmark-end text:name="OLE_LINK3"/><text:bookmark-start text:name="_Toc102126767"/><text:bookmark-start text:name="_Toc207702705"/>Downloading the Android SDK files prior to package installation<text:bookmark-end text:name="_Toc102126767"/><text:bookmark-end text:name="_Toc207702705"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">The </text:span><text:span text:style-name="T5">android-sdk-installer</text:span><text:span text:style-name="T3"> package simplifies downloading and installing the Android SDK. Its default behaviour is to download the appropriate files from Google’s Android software repository during the install. If this would be a problem due to bandwidth usage during the install, the files can be downloaded prior to installation.</text:span></text:p>
-   <text:h text:style-name="P11" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc207702706"/><text:bookmark-start text:name="_Toc102126768"/><text:soft-page-break/><text:span text:style-name="T3">Downloading the Android SDK files</text:span><text:bookmark-end text:name="_Toc207702706"/><text:bookmark-end text:name="_Toc102126768"/><text:span text:style-name="T3"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">On a computer connected to the internet, use the following command line instructions to create a new folder and download 4 zip files (approximately 400MB). </text:span><text:span text:style-name="T3"/></text:p>
+   <text:h text:style-name="P11" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc207702706"/><text:bookmark-start text:name="_Toc102126768"/><text:span text:style-name="T3">Downloading the Android SDK files</text:span><text:bookmark-end text:name="_Toc207702706"/><text:bookmark-end text:name="_Toc102126768"/><text:span text:style-name="T3"/></text:h>
+   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">On a computer connected to the internet, use the following command line instructions to create a new folder and download 4 zip files (approximately 400MB). </text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="Command_20_Line">mkdir -p ~/Downloads/android-sdk-zips</text:p>
    <text:p text:style-name="Command_20_Line">cd ~/Downloads/android-sdk-zips</text:p>
    <text:p text:style-name="Command_20_Line">wget -ci http://bit.ly/android-sdk-urls</text:p>
@@ -25201,19 +25198,19 @@ Description automatically generated</svg:desc>
    <text:h text:style-name="P11" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc207702707"/><text:bookmark-start text:name="_Toc102126769"/><text:span text:style-name="T3">Provide zip files during the package install</text:span><text:bookmark-end text:name="_Toc207702707"/><text:bookmark-end text:name="_Toc102126769"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="P66" loext:marker-style-name="T3"><text:span text:style-name="T3">Use </text:span><text:span text:style-name="T5">debconf</text:span><text:span text:style-name="T3"> to pre-seed the package with the location of the files and install the package.</text:span></text:p>
    <text:p text:style-name="Command_20_Line">echo android-sdk-installer android-sdk-installer/dldir string ~/Downloads/android-sdk-zips | sudo debconf-set-selections</text:p>
-   <text:p text:style-name="Command_20_Line">sudo apt-get install android-sdk-installer</text:p>
-   <text:p text:style-name="Command_20_Line"><text:soft-page-break/>echo android-sdk-installer android-sdk-installer/dldir string | sudo debconf-set-selections</text:p>
+   <text:p text:style-name="Command_20_Line"><text:soft-page-break/>sudo apt-get install android-sdk-installer</text:p>
+   <text:p text:style-name="Command_20_Line">echo android-sdk-installer android-sdk-installer/dldir string | sudo debconf-set-selections</text:p>
    <text:h text:style-name="P11" text:outline-level="3"><text:bookmark-start text:name="_Toc207702708"/><text:bookmark-start text:name="_Toc102126770"/>Installing without Android SDK<text:bookmark-end text:name="_Toc207702708"/><text:bookmark-end text:name="_Toc102126770"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">The </text:span><text:span text:style-name="T5">android-sdk-installer</text:span><text:span text:style-name="T3"> package is a recommended package for the </text:span><text:span text:style-name="T5">dictionary-app-builder</text:span><text:span text:style-name="T3"> package. If the Android SDK is already installed, Dictionary App Builder can use the current installation.</text:span></text:p>
    <text:p text:style-name="Command_20_Line">sudo apt-get update</text:p>
    <text:p text:style-name="Command_20_Line">sudo apt-get install dictionary-app-builder --no-install-recommends</text:p>
-   <text:p text:style-name="P67" loext:marker-style-name="T3"><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P67" loext:marker-style-name="T3"><text:s/><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Set the ANDROID_HOME environment variable to the path of the Android SDK installation to allow Dictionary App Builder to find it automatically. Otherwise you can use the </text:span><text:span text:style-name="T5">Tools</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T23"></text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T5">Settings</text:span><text:span text:style-name="T3"> dialog in Dictionary App Builder to specify the path.</text:span></text:p>
    <text:h text:style-name="P11" text:outline-level="3"><text:bookmark-start text:name="_Toc207702709"/><text:bookmark-start text:name="_Toc102126771"/>Automating Android SDK installation<text:bookmark-end text:name="_Toc207702709"/><text:bookmark-end text:name="_Toc102126771"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">The </text:span><text:span text:style-name="T5">android-sdk-installer</text:span><text:span text:style-name="T3"> will prompt you to accept the license for the Android SDK. To automate the installation (e.g. in an Ansible playbook), pre-seed the answer to this question.</text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">The </text:span><text:span text:style-name="T5">android-sdk-installer</text:span><text:span text:style-name="T3"> will prompt you to accept the license for the Android SDK. To automate the installation (e.g. in an Ansible playbook), pre-seed the answer to this question.</text:span></text:p>
    <text:p text:style-name="P3">echo android-sdk-installer android-sdk-installer/accepted-android-sdk-eula boolean true | sudo debconf-set-selections</text:p>
    <text:p text:style-name="Command_20_Line">sudo apt-get install android-sdk-installer</text:p>
-   <text:p text:style-name="P32" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P32" loext:marker-style-name="T3"/>
    <text:h text:style-name="P7" text:outline-level="1" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc207702710"/><text:span text:style-name="T3">How to build your first app</text:span><text:bookmark-end text:name="_Toc207702710"/><text:span text:style-name="T3"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">To build your first app with Dictionary App Builder, follow the instructions in the first chapter of the document </text:span><text:span text:style-name="T4">‘</text:span><text:span text:style-name="T3">Dictionary </text:span><text:span text:style-name="T4">App Builder – 2 Building Apps’</text:span><text:span text:style-name="T3">.</text:span></text:p>
    <text:p text:style-name="P32" loext:marker-style-name="T3"/>
