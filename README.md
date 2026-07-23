@@ -23,7 +23,7 @@ In order for the Github workflow and Crowdin to work together they use tokens to
 #
 ### Configuring tokens
 
-#### PLEASE NOTE: Some tokens can only be viewed once before becoming hidden from you. Make sure you temporarily copy them someplace safe before exiting the webpage. There are three tokens that need to be entered into as Github secrets. Instructions on how to add the tokens are shown below.
+#### PLEASE NOTE: Some tokens can only be viewed once before becoming hidden from you. Make sure you temporarily copy them someplace safe before exiting the webpage. There are three tokens that need to be entered into as Github secrets. Instructions on how to find and add the tokens are shown below.
 
 `CROWDIN_PERSONAL_TOKEN:`
 1. To create this open the Crowdin project webpage and click on the user's Crowdin profile picture and select "settings".
