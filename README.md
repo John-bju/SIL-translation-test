@@ -20,11 +20,10 @@ In order for the Github workflow and Crowdin to work together they use tokens to
 
 
 
+#
 ### Configuring tokens
 
 #### PLEASE NOTE: Some tokens can only be viewed once before becoming hidden from you. Make sure you temporarily copy them someplace safe before exiting the webpage. There are three tokens that need to be entered into as Github secrets. Instructions on how to add the tokens are shown below.
-
-#
 
 `CROWDIN_PERSONAL_TOKEN:`
 1. To create this open the Crowdin project webpage and click on the user's Crowdin profile picture and select "settings".
@@ -92,9 +91,10 @@ In addition, the `CROWDIN_PROJECT_ID` must be manually entered into the `project
 <img src="README_pics/Screenshot_20260723_143804.png" width="800" height="1200" />
 
 
-
+#
 ### Configuring Crowdin
 To properly use Crowdin with this Github workflow it is necessary to tweak certain features of the software to get the best results.
+
 
 #### Duplicate Strings
 A setting that needs to be enabled is "Duplicate Strings", it allows two identical sentences to only be counted as one. This reduces the total word count and therefore costs. 
@@ -155,6 +155,9 @@ The workflow will produce two types of outputs. First it will generate all the t
 
 The second output is a .zip artifact composed of PDFs from both English and non-English languages, this can be found by going to the workflow and clicking the "Summary" button.
 
+
+
 # Conclusion
+lskjdfshdkljhlkajshlkdjfasd
 
 
