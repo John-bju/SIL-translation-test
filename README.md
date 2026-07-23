@@ -50,6 +50,10 @@ In order for the Github workflow and Crowdin to work together they use tokens to
 
 3. Then select "New Token" under "Personal Access Tokens" and a token will be generated.
 
+<img src="README_pics/Screenshot_20260723_104701.png" width="600" height="1000" />
+<img src="README_pics/Screenshot_20260723_105535.png" width="600" height="1000" />
+<img src="README_pics/Screenshot_20260723_105754.png" width="600" height="1000" />
+
 #
 
 `CROWDIN_PROJECT_ID:`
