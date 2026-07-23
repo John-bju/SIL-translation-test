@@ -1,16 +1,3 @@
-setup
-
-  accounts
-  tokens
-  crowdin
-  
-how to use
-
-  submitting
-  workflow runnning
-  outputs
-
-
 # SIL Translation Test
 
 ### Description
@@ -92,12 +79,17 @@ First you must be an administrator to the Github repository, if you are not then
 
 <img src="README_pics/Screenshot_20260713_125818.png" width="600" height="1000" />
 
-If there is a settings tab select it, then find the "Secrets and variables" button on the left bar and select "Actions" in the drop down menu. Then click "New repository secret" fill in the "name" and "secret" information and click "Add secret". Make sure you only name the tokens what the are called in this document (`CROWDIN_PROJECT_ID` `CROWDIN_GITHUB_TOKEN` `CROWDIN_PERSONAL_TOKEN`). If this is not done then the Github workflow will not register the tokens and Crowdin will not work.
-
+If there is a settings tab select it, then find the "Secrets and variables" button on the left bar and select "Actions" in the drop down menu. Then click "New repository secret."
 
 <img src="README_pics/Screenshot_20260713_125904.png" width="800" height="1200" />
 
+Fill in the "name" and "secret" information and click "Add secret". Make sure you only name the tokens what the are called in this document (`CROWDIN_PROJECT_ID` `CROWDIN_GITHUB_TOKEN` `CROWDIN_PERSONAL_TOKEN`). If this is not done then the Github workflow will not register the tokens and Crowdin will not work.
+
+<img src="README_pics/Screenshot_20260723_141526.png" width="800" height="1200" />
+
 In addition, the `CROWDIN_PROJECT_ID` must be manually entered into the `project_id: "XXXXXX"` field in the "crowdin.yaml" file, which is located inside the repository.
+
+<img src="README_pics/Screenshot_20260723_143804.png" width="800" height="1200" />
 
 
 
