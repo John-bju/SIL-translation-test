@@ -126,15 +126,15 @@ The reason why this repository uses this system is that it makes it incredibly e
 
 ### Workflow
 
-Scroll to the top of the webpage and click on the actions tab at the top of the screen.
+1. Scroll to the top of the webpage and click on the actions tab at the top of the screen. Then click on the "auto translate" button under the green button labeled "new workflow". 
 
 <img src="README_pics/Screenshot_20260713_155930.png" width="700" height="1000" />
 
-Find the "run workflow" button on the right side of the screen and select the dropdown menu. Click the "Run workflow" option.
+2. Find the "run workflow" button on the right side of the screen and select the dropdown menu. Click the "Run workflow" option.
 
 <img src="README_pics/Screenshot_20260713_155959.png" width="700" height="1000" />
 
-The workflow is now running in the background. You can click the "Convert" button to view the output of the workflow. Or when the workflow has finished click "Summary" to view the artifact outputs.
+3. The workflow is now running in the background. You can click the "Convert" button to view the output of the workflow. Or when the workflow has finished click "Summary" to view the artifact outputs.
 
 <img src="README_pics/Screenshot_20260713_160239.png" width="700" height="1000" />
 
