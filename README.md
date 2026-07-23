@@ -128,7 +128,7 @@ The reason why this repository uses this system is that it makes it incredibly e
 
 1. Scroll to the top of the webpage and click on the actions tab at the top of the screen. Then click on the "auto translate" button under the green button labeled "new workflow". 
 
-<img src="README_pics/Screenshot_20260713_155930.png" width="700" height="1000" />
+<img src="README_pics/Screenshot_20260723_112417.png" width="700" height="1000" />
 
 2. Find the "run workflow" button on the right side of the screen and select the dropdown menu. Click the "Run workflow" option.
 
