@@ -48,11 +48,18 @@ In order for the Github workflow and Crowdin to work together they use tokens to
 
 ![Description](README_pics/Screenshot_20260710_153219.png)
 
-3. Then select "New Token" under "Personal Access Tokens" and a token will be generated.
+3. Then select "New Token" under "Personal Access Tokens" and a screen will appear asking for a token name and permissions.
 
 <img src="README_pics/Screenshot_20260723_104701.png" width="600" height="1000" />
+
+4. Select "All Scopes" and enter a name for the token (This name can be anything you choose). Then select the "create" button in the bottom right corner.
+
 <img src="README_pics/Screenshot_20260723_105535.png" width="600" height="1000" />
+
+5. After that Crowdin may prompt you for your account password, fill it in and hit confirm.  
+
 <img src="README_pics/Screenshot_20260723_105754.png" width="600" height="1000" />
+
 
 #
 
