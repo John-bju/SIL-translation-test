@@ -60,6 +60,11 @@ In order for the Github workflow and Crowdin to work together they use tokens to
 
 <img src="README_pics/Screenshot_20260723_105754.png" width="600" height="1000" />
 
+6. Then a token will be generated in a textbox in the middle of the screen. Click the copy button on the rightside of the textbox and temporarily paste it someplace safe.
+
+<img src="README_pics/Screenshot_20260723_105833_blackedout.png" width="600" height="1000" />
+
+
 
 #
 
