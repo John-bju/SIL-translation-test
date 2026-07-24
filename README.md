@@ -50,6 +50,8 @@ In order for the Github workflow and Crowdin to work together they use tokens to
 
 <img src="README_pics/Screenshot_20260723_105833_blackedout.png" width="700" height="1400" />
 
+7. Finally the token has been generated and saved it needs to be added to the Github repository secrets. Instructions can be found here: https://github.com/John-bju/SIL-translation-test/blob/main/README.md#adding-tokens-to-github-secrets
+
 
 
 #
