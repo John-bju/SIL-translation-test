@@ -10,7 +10,7 @@ This repository is for documentation of Scripture App Builder, Reading App Build
 ### Description
 
 #### Github
-The Github workflows are scripts that performs tasks automatically, this repository has only one workflow named “auto translate.” In this case the workflow formats files, translates documents, and outputs PDFs. The workflow starts whenever a file is submitted or changed in the repository, or it can be manually started.
+The Github workflows are scripts that perform tasks automatically, this repository has only one workflow named “auto translate.” In this case the workflow formats files, translates documents, and outputs PDFs. The workflow starts whenever a file is submitted or changed in the repository, or it can be manually started.
 
 #### Crowdin
 Crowdin is a business that provides translation software for its users. Crowdin has also created a Github workflow integration that allows Github workflows to send and receive files from Crowdin projects. This integration syncs this GitHub repository with its Crowdin project, allowing translations to be created and downloaded into a branch named "translations."
