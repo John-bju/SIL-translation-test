@@ -16,7 +16,7 @@ The Github workflows are scripts that perform tasks automatically, this reposito
 Crowdin is a business that provides translation software for its users. Crowdin has also created a Github workflow integration that allows Github workflows to send and receive files from Crowdin projects. This integration syncs this GitHub repository with its Crowdin project, allowing translations to be created and downloaded into a branch named "translations."
 
 #### Tokens
-In order for the Github workflow and Crowdin to work together they use tokens to identify eachother. Tokens are a unique series of numbers (and sometimes letters) that must be copied and entered into the Github repository as a enviroment secret.
+In order for the Github workflow and Crowdin to work together they use tokens to identify eachother. Tokens are a unique series of numbers (and sometimes letters) that must be copied and entered into the Github repository as a enviroment secret. There are three tokens that need to be generated and collected for the Github workflow to properly run.
 
 
 
@@ -55,7 +55,7 @@ In order for the Github workflow and Crowdin to work together they use tokens to
 #
 
 `CROWDIN_PROJECT_ID:`
-1. To find this open the Crowdin project webpage and on the right hand side under the "dashboard" tab, there it will be listed.
+1. To find this open the Crowdin project webpage and on the right hand side under the "dashboard" tab, there it will be listed. Click it to copy the token and save it.
 
 ![Description](README_pics/Screenshot_20260710_153219.png)
 
@@ -66,7 +66,7 @@ In order for the Github workflow and Crowdin to work together they use tokens to
 
 ![Description](README_pics/Screenshot_20260710_154215.png)
 
-2. Then scroll down to find the "Developer Settings" tab and click on it.
+2. Then scroll down to find the "Developer Settings" tab as the bottom left option and click on it.
 
 ![Description](README_pics/Screenshot_20260710_154247.png)
 
