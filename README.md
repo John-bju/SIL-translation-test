@@ -25,7 +25,7 @@ In order for the Github workflow and Crowdin to work together they use tokens to
 
 #### PLEASE NOTE: Some tokens can only be viewed once before becoming hidden from you. Make sure you temporarily copy them someplace safe before exiting the webpage. There are three tokens that need to be entered into as Github secrets. Instructions on how to find and add the tokens are shown below.
 
-`CROWDIN_PERSONAL_TOKEN:`
+#### CROWDIN_PERSONAL_TOKEN
 1. To create this open the Crowdin project webpage and click on the user's Crowdin profile picture and select "settings".
 
 ![Description](README_pics/Screenshot_20260710_145305.png)
@@ -54,14 +54,14 @@ In order for the Github workflow and Crowdin to work together they use tokens to
 
 #
 
-`CROWDIN_PROJECT_ID:`
+####CROWDIN_PROJECT_ID
 1. To find this open the Crowdin project webpage and on the right hand side under the "dashboard" tab, there it will be listed. Click it to copy the token and save it.
 
 ![Description](README_pics/Screenshot_20260710_153219.png)
 
 #
 
-`CROWDIN_GITHUB_TOKEN:`
+#### CROWDIN_GITHUB_TOKEN
 1. To generate this open the Github webpage and click on the user's Github profile picture and select "settings".
 
 ![Description](README_pics/Screenshot_20260710_154215.png)
@@ -75,7 +75,7 @@ In order for the Github workflow and Crowdin to work together they use tokens to
 ![Description](README_pics/Screenshot_20260710_154629.png)
 ## remember to put junk here
 
-
+### Adding tokens to Github secrets
 First you must be an administrator to the Github repository, if you are not then you need to contact one. You can tell if you are an administrator if you scroll to the top of the Github webpage there will be a tab labled "settings." Please note this is a different settings tab than the one mentioned previously, as this tab is for the Github repository settings while the previous one was for Github account settings.
 
 <img src="README_pics/Screenshot_20260713_125818.png" width="600" height="1000" />
