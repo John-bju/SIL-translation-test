@@ -32,7 +32,7 @@ In order for the Github workflow and Crowdin to work together they use tokens to
 
 2. Then find the "API" tab and click on it
 
-![Description](README_pics/Screenshot_20260710_153219.png)
+![Description](README_pics/Screenshot_20260710_145646.png)
 
 3. Then select "New Token" under "Personal Access Tokens" and a screen will appear asking for a token name and permissions.
 
@@ -57,20 +57,22 @@ In order for the Github workflow and Crowdin to work together they use tokens to
 `CROWDIN_PROJECT_ID:`
 1. To find this open the Crowdin project webpage and on the right hand side under the "dashboard" tab, there it will be listed.
 
-![Description](README_pics/Screenshot_20260710_154215.png)
+![Description](README_pics/Screenshot_20260710_153219.png)
 
 #
 
 `CROWDIN_GITHUB_TOKEN:`
 1. To generate this open the Github webpage and click on the user's Github profile picture and select "settings".
 
-![Description](README_pics/Screenshot_20260710_154247.png)
+![Description](README_pics/Screenshot_20260710_154215.png)
 
 2. Then scroll down to find the "Developer Settings" tab and click on it.
 
-![Description](README_pics/Screenshot_20260710_154629.png)
+![Description](README_pics/Screenshot_20260710_154247.png)
 
 3. Then select "Tokens (classic)" under "Personal Access Tokens" and select "Generate new token (classic)".
+
+![Description](README_pics/Screenshot_20260710_154629.png)
 
 #
 ### How to add tokens as Github secrets.
