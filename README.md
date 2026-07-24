@@ -54,7 +54,7 @@ In order for the Github workflow and Crowdin to work together they use tokens to
 
 #
 
-####CROWDIN_PROJECT_ID
+#### CROWDIN_PROJECT_ID
 1. To find this open the Crowdin project webpage and on the right hand side under the "dashboard" tab, there it will be listed. Click it to copy the token and save it.
 
 ![Description](README_pics/Screenshot_20260710_153219.png)
