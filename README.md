@@ -94,7 +94,7 @@ Enter the "GITHUB_TOKEN" into the note field and set the Expiration option to "N
 
 <img src="README_pics/Screenshot_20260727_121126.png" width="800" height="1200" />
 
-Click the blue copy button and paste the token in a notepad app.
+Click the blue copy button next to the token and paste the token in a notepad app.
 
 <img src="README_pics/Screenshot_20260727_122808_blackedout.png" width="800" height="1200" />
 
