@@ -16,7 +16,14 @@ The Github workflows are scripts that perform tasks automatically, this reposito
 Crowdin is a business that provides translation software for its users. Crowdin has also created a Github workflow integration that allows Github workflows to send and receive files from Crowdin projects. This integration syncs this GitHub repository with its Crowdin project, allowing translations to be created and downloaded into a branch named "translations."
 
 #### Tokens
-In order for the Github workflow and Crowdin to work together they use tokens to identify eachother. Tokens are a unique series of numbers (and sometimes letters) that must be copied and entered into the Github repository as a enviroment secret. There are three tokens that need to be generated and collected for the Github workflow to properly run `CROWDIN_PROJECT_ID`, `CROWDIN_GITHUB_TOKEN`, and `CROWDIN_PERSONAL_TOKEN`.
+In order for the Github workflow and Crowdin to work together they use tokens to identify eachother. Tokens are a unique series of numbers (and sometimes letters) that must be copied and entered into the Github repository as a enviroment secret. There are three tokens that need to be generated and collected for the Github workflow to properly run `CROWDIN_PROJECT_ID`, `CROWDIN_GITHUB_TOKEN`, and `CROWDIN_PERSONAL_TOKEN` (please remember these names). The user will have to add all these tokens to their proper locations in the Github repository, instructions on how to do so are listed here:
+
+Here are examples what the tokens will look like and their needed names.
+
+THESE ARE EXAMPLES AND NOT VALID
+`CROWDIN_PROJECT_ID` = 346867
+`CROWDIN_GITHUB_TOKEN` = ghp_i7KCtEo9rUxgDZZ6k9xY4YydWZcBsP2EJUbd
+`CROWDIN_PERSONAL_TOKEN` = 9fcd75f1e2fa8132788171db0ca12624c65e0855d5af9391410e5402c4a7d479a39429b2d2217509
 
 
 
@@ -26,7 +33,7 @@ In order for the Github workflow and Crowdin to work together they use tokens to
 #### PLEASE NOTE: Some tokens can only be viewed once before becoming hidden from you. Make sure you temporarily copy them someplace safe like a notepad app before exiting the webpage. There are three tokens that need to be entered into as Github secrets. Instructions on how to find and add the tokens are shown below.
 
 #### CROWDIN_PERSONAL_TOKEN
-1. To create this open the Crowdin project webpage and click on the user's Crowdin profile picture and select "settings".
+1. To create this open the Crowdin project webpage and click on the user's Crowdin profile picture and select "settings". This will open the Crowdin user's settings page.
 
 ![Description](README_pics/Screenshot_20260710_145305.png)
 
@@ -64,7 +71,7 @@ In order for the Github workflow and Crowdin to work together they use tokens to
 #
 
 #### CROWDIN_GITHUB_TOKEN
-1. To generate this open the Github webpage and click on the user's Github profile picture and select "settings".
+1. To generate this open the Github webpage and click on the user's Github profile picture and select "settings". This will open the Github user's settings page.
 
 ![Description](README_pics/Screenshot_20260710_154215.png)
 
@@ -78,7 +85,7 @@ In order for the Github workflow and Crowdin to work together they use tokens to
 ## remember to put junk here
 
 ### Adding tokens to Github secrets
-First you must be an administrator to the Github repository, if you are not then you need to contact one. You can tell if you are an administrator if you scroll to the top of the Github webpage there will be a tab labled "settings." Please note this is a different settings tab than the one mentioned previously, as this tab is for the Github repository settings while the previous one was for Github account settings.
+First you must be an administrator to the Github repository, if you are not then you need to contact one. You can tell if you are an administrator if you scroll to the top of the Github webpage there will be a tab labled "settings." Please note this is a different Github settings tab than the one mentioned previously, as this tab is for the Github repository settings while the previous one was for Github account settings.
 
 <img src="README_pics/Screenshot_20260713_125818.png" width="600" height="1000" />
 
