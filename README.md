@@ -36,7 +36,7 @@ Here are examples what the tokens will look like and their needed names. **THESE
 #### PLEASE NOTE: Some tokens can only be viewed once before becoming hidden from you. Make sure you temporarily copy them someplace safe like a notepad app before exiting the webpage. There are three tokens that need to be entered into as Github secrets. Instructions on how to find and add the tokens are shown below.
 
 #### CROWDIN_PERSONAL_TOKEN
-1. To create the CROWDIN_PERSONAL_TOKEN open the Crowdin project webpage and click on the user's Crowdin profile picture and select "settings". This will open the Crowdin user's settings page.
+1. To create the `CROWDIN_PERSONAL_TOKEN` open the Crowdin project webpage and click on the user's Crowdin profile picture and select "settings". This will open the Crowdin user's settings page.
 
 ![Description](README_pics/Screenshot_20260710_145305.png)
 
@@ -60,21 +60,23 @@ Here are examples what the tokens will look like and their needed names. **THESE
 
 <img src="README_pics/Screenshot_20260723_105833_blackedout.png" width="700" height="1400" />
 
-7. Finally the token has been generated and saved it needs to be added to the Github repository secrets. Instructions can be found here: https://github.com/John-bju/SIL-translation-test/blob/main/README.md#adding-tokens-to-github-secrets
-
+7. Finally the token has been generated and saved it needs to be added to the Github repository secrets. Instructions can be found in the "Adding tokens to Github secrets" section
 
 
 #
 
 #### CROWDIN_PROJECT_ID
-1. To find the CROWDIN_PROJECT_ID open the Crowdin project webpage and on the right hand side under the "dashboard" tab, there it will be listed. Click it to copy the token and save it.
+1. To find the `CROWDIN_PROJECT_ID` open the Crowdin project webpage and on the right hand side under the "dashboard" tab, there it will be listed. Click it to copy the token and save it.
 
 ![Description](README_pics/Screenshot_20260710_153219.png)
+
+2. Now that the token has been saved it needs to be added to the Github repository secrets. Instructions can be found in the "Adding tokens to Github secrets" section
+
 
 #
 
 #### CROWDIN_GITHUB_TOKEN
-1. To generate the CROWDIN_GITHUB_TOKEN open the Github webpage and click on the user's Github profile picture and select "settings". This will open the Github user's settings page.
+1. To generate the `CROWDIN_GITHUB_TOKEN` open the Github webpage and click on the user's Github profile picture and select "settings". This will open the Github user's settings page.
 
 ![Description](README_pics/Screenshot_20260710_154215.png)
 
@@ -85,7 +87,18 @@ Here are examples what the tokens will look like and their needed names. **THESE
 3. Then select "Tokens (classic)" under "Personal Access Tokens" and select "Generate new token (classic)".
 
 ![Description](README_pics/Screenshot_20260710_154629.png)
-## remember to put junk here
+
+4. Enter the "GITHUB_TOKEN" into the note field and set the Expiration option to "No Expiration". Then select the repo, workflow, and write:packages boxes. After scroll to the bottom of the webpage and select the green "Generate token" button.
+
+<img src="README_pics/Screenshot_20260727_121126.png" width="800" height="1200" />
+
+5. Click the blue copy button next to the token and paste the token in a notepad app.
+
+<img src="README_pics/Screenshot_20260727_122808_blackedout.png" width="800" height="1200" />
+
+6. Finally the token has been generated and saved it needs to be added to the Github repository secrets. Instructions can be found in the "Adding tokens to Github secrets" section
+
+
 
 ### Adding tokens to Github secrets
 First you must be an administrator to the Github repository, if you are not then you need to contact one. You can tell if you are an administrator if you scroll to the top of the Github webpage there will be a tab labled "settings." Please note this is a different Github settings tab than the one mentioned previously, as this tab is for the Github repository settings while the previous one was for Github account settings.
@@ -99,14 +112,6 @@ If there is a settings tab select it, then find the "Secrets and variables" butt
 Fill in the "name" and "secret" information and click "Add secret". Make sure you only name the tokens what the are called in this document (`CROWDIN_PROJECT_ID` `CROWDIN_GITHUB_TOKEN` `CROWDIN_PERSONAL_TOKEN`). If this is not done then the Github workflow will not register the tokens and Crowdin will not work.
 
 <img src="README_pics/Screenshot_20260723_141526.png" width="800" height="1200" />
-
-Enter the "GITHUB_TOKEN" into the note field and set the Expiration option to "No Expiration". Then select the repo, workflow, and write:packages boxes. After scroll to the bottom of the webpage and select the green "Generate token" button.
-
-<img src="README_pics/Screenshot_20260727_121126.png" width="800" height="1200" />
-
-Click the blue copy button next to the token and paste the token in a notepad app.
-
-<img src="README_pics/Screenshot_20260727_122808_blackedout.png" width="800" height="1200" />
 
 In addition, the `CROWDIN_PROJECT_ID` must be manually entered into the `project_id: "XXXXXX"` field in the "crowdin.yaml" file, which is located inside the repository.
 
