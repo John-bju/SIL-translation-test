@@ -23,7 +23,7 @@ In order for the Github workflow and Crowdin to work together they use tokens to
 #
 ### Configuring tokens
 
-#### PLEASE NOTE: Some tokens can only be viewed once before becoming hidden from you. Make sure you temporarily copy them someplace safe before exiting the webpage. There are three tokens that need to be entered into as Github secrets. Instructions on how to find and add the tokens are shown below.
+#### PLEASE NOTE: Some tokens can only be viewed once before becoming hidden from you. Make sure you temporarily copy them someplace safe like a notepad app before exiting the webpage. There are three tokens that need to be entered into as Github secrets. Instructions on how to find and add the tokens are shown below.
 
 #### CROWDIN_PERSONAL_TOKEN
 1. To create this open the Crowdin project webpage and click on the user's Crowdin profile picture and select "settings".
@@ -89,6 +89,14 @@ If there is a settings tab select it, then find the "Secrets and variables" butt
 Fill in the "name" and "secret" information and click "Add secret". Make sure you only name the tokens what the are called in this document (`CROWDIN_PROJECT_ID` `CROWDIN_GITHUB_TOKEN` `CROWDIN_PERSONAL_TOKEN`). If this is not done then the Github workflow will not register the tokens and Crowdin will not work.
 
 <img src="README_pics/Screenshot_20260723_141526.png" width="800" height="1200" />
+
+Enter the "GITHUB_TOKEN" into the note field and set the Expiration option to "No Expiration". Then select the repo, workflow, and write:packages boxes. After scroll to the bottom of the webpage and select the green "Generate token" button.
+
+<img src="README_pics/Screenshot_20260727_121126.png" width="800" height="1200" />
+
+Click the blue copy button and paste the token in a notepad app.
+
+<img src="" width="800" height="1200" />
 
 In addition, the `CROWDIN_PROJECT_ID` must be manually entered into the `project_id: "XXXXXX"` field in the "crowdin.yaml" file, which is located inside the repository.
 
