@@ -18,12 +18,15 @@ Crowdin is a business that provides translation software for its users. Crowdin 
 #### Tokens
 In order for the Github workflow and Crowdin to work together they use tokens to identify eachother. Tokens are a unique series of numbers (and sometimes letters) that must be copied and entered into the Github repository as a enviroment secret. There are three tokens that need to be generated and collected for the Github workflow to properly run `CROWDIN_PROJECT_ID`, `CROWDIN_GITHUB_TOKEN`, and `CROWDIN_PERSONAL_TOKEN` (please remember these names). The user will have to add all these tokens to their proper locations in the Github repository, instructions on how to do so are listed in the "configuring tokens" section below.
 
-Here are examples what the tokens will look like and their needed names.
+#
 
-THESE ARE EXAMPLES AND NOT VALID
-`CROWDIN_PROJECT_ID` = 346867
-`CROWDIN_GITHUB_TOKEN` = ghp_i7KCtEo9rUxgDZZ6k9xY4YydWZcBsP2EJUbd
-`CROWDIN_PERSONAL_TOKEN` = 9fcd75f1e2fa8132788171db0ca12624c65e0855d5af9391410e5402c4a7d479a39429b2d2217509
+Here are examples what the tokens will look like and their needed names. **THESE ARE EXAMPLES AND NOT VALID**
+
+`CROWDIN_PROJECT_ID` ≈ 346867
+
+`CROWDIN_GITHUB_TOKEN` ≈ ghp_i7KCtEo9rUxgDZZ6k9xY4YydWZcBsP2EJUbd
+
+`CROWDIN_PERSONAL_TOKEN` ≈ 9fcd75f1e2fa8132788171db0ca12624c65e0855d5af9391410e5402c4a7d479a39429b2d2217509
 
 
 
