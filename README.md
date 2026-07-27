@@ -36,7 +36,7 @@ Here are examples of what the tokens will look like and their needed names. **TH
 #### PLEASE NOTE: Some tokens can only be viewed once before becoming hidden from you. Make sure you temporarily copy them someplace safe like a notepad app before exiting the webpage. There are three tokens that need to be entered as GitHub secrets. Instructions on how to find and add the tokens are shown below.
 
 #### CROWDIN_PERSONAL_TOKEN
-1. To create the `CROWDIN_PERSONAL_TOKEN`, open the Crowdin project webpage, click on the user's Crowdin profile picture, and select "settings". This will open the Crowdin user's settings page.
+1. To create the `CROWDIN_PERSONAL_TOKEN`, open the Crowdin project webpage. (this can be found on the left menu bar at the bottom), click on the user's Crowdin profile picture, and select "settings". This will open the Crowdin user's settings page.
 
 ![Description](README_pics/Screenshot_20260710_145305.png)
 
@@ -66,7 +66,7 @@ Here are examples of what the tokens will look like and their needed names. **TH
 #
 
 #### CROWDIN_PROJECT_ID
-1. To find the `CROWDIN_PROJECT_ID`, open the Crowdin project webpage. On the right-hand side, under the "dashboard" tab, it will be listed. Click it to copy the token and save it.
+1. To find the `CROWDIN_PROJECT_ID`, open the Crowdin project webpage and open the project. On the right-hand side, under the "dashboard" tab, it will be listed. Click it to copy the token and save it.
 
 ![Description](README_pics/Screenshot_20260710_153219.png)
 
