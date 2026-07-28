@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:title>Dictionary App Builder - Distributing Apps</dc:title><meta:initial-creator>Richard Margetts</meta:initial-creator><meta:editing-cycles>265</meta:editing-cycles><meta:print-date>2016-08-29T10:34:00</meta:print-date><meta:creation-date>2015-08-15T09:35:00</meta:creation-date><dc:date>2026-07-24T12:42:20.601948018</dc:date><meta:editing-duration>PT19H43M15S</meta:editing-duration><meta:generator>LibreOffice/26.2.4.2$Linux_X86_64 LibreOffice_project/620$Build-2</meta:generator><meta:document-statistic meta:table-count="4" meta:image-count="12" meta:object-count="0" meta:page-count="13" meta:paragraph-count="180" meta:word-count="2755" meta:character-count="15492" meta:non-whitespace-character-count="12929"/><meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
+ <office:meta><dc:title>Dictionary App Builder - Distributing Apps</dc:title><meta:initial-creator>Richard Margetts</meta:initial-creator><meta:editing-cycles>266</meta:editing-cycles><meta:print-date>2016-08-29T10:34:00</meta:print-date><meta:creation-date>2015-08-15T09:35:00</meta:creation-date><dc:date>2026-07-28T11:18:38.062221334</dc:date><meta:editing-duration>PT19H43M24S</meta:editing-duration><meta:generator>LibreOffice/26.2.5.2$Linux_X86_64 LibreOffice_project/620$Build-2</meta:generator><meta:document-statistic meta:table-count="4" meta:image-count="12" meta:object-count="0" meta:page-count="13" meta:paragraph-count="181" meta:word-count="2755" meta:character-count="15492" meta:non-whitespace-character-count="12929"/><meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">236643</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">116417</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">32016</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">65883</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">22386</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">8410</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">244330</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">25340</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">130381</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">236643</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">32015</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">259027</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">116417</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">65881</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">138800</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
-     <config:config-item config:name="IsSelectedFrame" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
      <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="WindowState" config:type="string">0,0,1280,1006;1;,,,;</config:config-item>
+     <config:config-item config:name="WindowState" config:type="string">,,,;5;,,,;</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
      <config:config-item config:name="LegacySingleLineFontwork" config:type="boolean">false</config:config-item>
      <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
@@ -123,7 +123,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -152,7 +152,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">5385456</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">5437073</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -3444,7 +3444,7 @@
    <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:vertical-pos="top" style:vertical-rel="baseline" fo:background-color="transparent" draw:fill="none" draw:fill-color="#729fcf" draw:secondary-fill-color="#729fcf" draw:gradient-step-count="0" draw:fill-hatch-solid="false" draw:opacity="100%" draw:fill-image-width="0in" draw:fill-image-height="0in" style:repeat="repeat" draw:fill-image-ref-point-x="0%" draw:fill-image-ref-point-y="0%" draw:fill-image-ref-point="center" draw:tile-repeat-offset="0% horizontal" fo:padding="0in" fo:border="none" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard" loext:decorative="false"/>
   </style:style>
   <style:style style:name="fr3" style:family="graphic" style:parent-style-name="Graphics">
-   <style:graphic-properties style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+   <style:graphic-properties style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
   <style:style style:name="Sect1" style:family="section">
    <style:section-properties style:editable="false">
@@ -3492,7 +3492,7 @@
    <text:p text:style-name="P2" loext:marker-style-name="T1"/>
    <text:p text:style-name="P2" loext:marker-style-name="T1"/>
    <text:p text:style-name="P2" loext:marker-style-name="T1"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T1"><draw:frame draw:style-name="fr2" draw:name="Picture 30" text:anchor-type="as-char" svg:width="5.9846in" svg:height="1.6717in" draw:z-index="22"><draw:image xlink:href="DAB04/1.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:filter-name="&lt;All images&gt;" draw:mime-type="image/png"/>
+   <text:p text:style-name="P3" loext:marker-style-name="T1"><draw:frame draw:style-name="fr2" draw:name="Picture 30" text:anchor-type="as-char" svg:width="5.9846in" svg:height="1.6717in" draw:z-index="22"><draw:image xlink:href="DAB04/1.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame></text:p>
    <text:p text:style-name="P2" loext:marker-style-name="T1"/>
    <text:p text:style-name="P2" loext:marker-style-name="T1"/>
@@ -3510,7 +3510,7 @@
    <text:p text:style-name="P4" loext:marker-style-name="T3"/>
    <text:p text:style-name="P4" loext:marker-style-name="T3"/>
    <text:p text:style-name="P4" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T3"><draw:frame draw:style-name="fr2" draw:name="Picture 9" text:anchor-type="as-char" svg:width="0.672in" svg:height="0.752in" draw:z-index="23"><draw:image xlink:href="DAB04/2.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:filter-name="&lt;All images&gt;" draw:mime-type="image/png"/>
+   <text:p text:style-name="P3" loext:marker-style-name="T3"><draw:frame draw:style-name="fr2" draw:name="Picture 9" text:anchor-type="as-char" svg:width="0.672in" svg:height="0.752in" draw:z-index="23"><draw:image xlink:href="DAB04/2.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
      <svg:desc>Logo
 
 Description automatically generated</svg:desc>
@@ -3661,7 +3661,7 @@ Description automatically generated</svg:desc>
     <text:list-item>
      <text:list>
       <text:list-item text:start-value="1">
-       <text:h text:style-name="P13" text:outline-level="2" text:restart-numbering="true" text:start-value="1"><text:bookmark-start text:name="_Toc78982272"/><text:bookmark-start text:name="_Toc78983170"/><text:bookmark-start text:name="_Toc78982838"/>Distribution options for Android apps<text:bookmark-end text:name="_Toc78982272"/><text:bookmark-end text:name="_Toc78983170"/><text:bookmark-end text:name="_Toc78982838"/></text:h>
+       <text:h text:style-name="P13" text:outline-level="2" text:restart-numbering="true" text:start-value="1"><text:bookmark-start text:name="_Toc78982838"/><text:bookmark-start text:name="_Toc78983170"/><text:bookmark-start text:name="_Toc78982272"/>Distribution options for Android apps<text:bookmark-end text:name="_Toc78982838"/><text:bookmark-end text:name="_Toc78983170"/><text:bookmark-end text:name="_Toc78982272"/></text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
@@ -3675,7 +3675,7 @@ Description automatically generated</svg:desc>
     <table:table-column table:style-name="Table1.C"/>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P15" loext:marker-style-name="T16"><draw:frame draw:style-name="fr2" draw:name="Picture 19" text:anchor-type="as-char" svg:width="0.5307in" svg:height="0.6in" draw:z-index="0"><draw:image xlink:href="DAB04/3.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:filter-name="&lt;All images&gt;" draw:mime-type="image/png"/>
+      <text:p text:style-name="P15" loext:marker-style-name="T16"><draw:frame draw:style-name="fr2" draw:name="Picture 19" text:anchor-type="as-char" svg:width="0.5307in" svg:height="0.6in" draw:z-index="0"><draw:image xlink:href="DAB04/3.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
         <svg:desc>Google Play Icon - Free vector graphic on Pixabay</svg:desc>
        </draw:frame></text:p>
      </table:table-cell>
@@ -3688,7 +3688,7 @@ Description automatically generated</svg:desc>
     </table:table-row>
     <table:table-row table:style-name="Table1.2">
      <table:table-cell table:style-name="Table1.B1" office:value-type="string">
-      <text:p text:style-name="P16" loext:marker-style-name="T18"><draw:frame draw:style-name="fr2" draw:name="Picture 18" text:anchor-type="as-char" svg:width="0.5736in" svg:height="0.5736in" draw:z-index="1"><draw:image xlink:href="DAB04/4.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:filter-name="&lt;All images&gt;" draw:mime-type="image/png"/>
+      <text:p text:style-name="P16" loext:marker-style-name="T18"><draw:frame draw:style-name="fr2" draw:name="Picture 18" text:anchor-type="as-char" svg:width="0.5736in" svg:height="0.5736in" draw:z-index="1"><draw:image xlink:href="DAB04/4.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
         <svg:desc>Shape
 
 Description automatically generated with low confidence</svg:desc>
@@ -3703,7 +3703,7 @@ Description automatically generated with low confidence</svg:desc>
     </table:table-row>
     <table:table-row table:style-name="Table1.3">
      <table:table-cell table:style-name="Table1.B1" office:value-type="string">
-      <text:p text:style-name="P16"><draw:frame draw:style-name="fr2" draw:name="Picture 17" text:anchor-type="as-char" svg:width="0.7827in" svg:height="0.7909in" draw:z-index="2"><draw:image xlink:href="DAB04/5.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:filter-name="&lt;All images&gt;" draw:mime-type="image/png"/>
+      <text:p text:style-name="P16"><draw:frame draw:style-name="fr2" draw:name="Picture 17" text:anchor-type="as-char" svg:width="0.7827in" svg:height="0.7909in" draw:z-index="2"><draw:image xlink:href="DAB04/5.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
         <svg:desc>Icon
 
 Description automatically generated</svg:desc>
@@ -3718,7 +3718,7 @@ Description automatically generated</svg:desc>
     </table:table-row>
     <table:table-row table:style-name="Table1.4">
      <table:table-cell table:style-name="Table1.B1" office:value-type="string">
-      <text:p text:style-name="P16"><draw:frame draw:style-name="fr2" draw:name="Picture 16" text:anchor-type="as-char" svg:width="0.7307in" svg:height="0.7307in" draw:z-index="3"><draw:image xlink:href="DAB04/6.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:filter-name="&lt;All images&gt;" draw:mime-type="image/jpeg"/>
+      <text:p text:style-name="P16"><draw:frame draw:style-name="fr2" draw:name="Picture 16" text:anchor-type="as-char" svg:width="0.7307in" svg:height="0.7307in" draw:z-index="3"><draw:image xlink:href="DAB04/6.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg"/>
         <svg:desc>Amazon.com: Amazon Appstore: Appstore for Android</svg:desc>
        </draw:frame></text:p>
      </table:table-cell>
@@ -3738,7 +3738,7 @@ Description automatically generated</svg:desc>
     <table:table-column table:style-name="Table2.C"/>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P16" loext:marker-style-name="T16"><draw:frame draw:style-name="fr2" draw:name="Picture 15" text:anchor-type="as-char" svg:width="0.739in" svg:height="0.739in" draw:z-index="4"><draw:image xlink:href="DAB04/7.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:filter-name="&lt;All images&gt;" draw:mime-type="image/jpeg"/>
+      <text:p text:style-name="P16" loext:marker-style-name="T16"><draw:frame draw:style-name="fr2" draw:name="Picture 15" text:anchor-type="as-char" svg:width="0.739in" svg:height="0.739in" draw:z-index="4"><draw:image xlink:href="DAB04/7.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg"/>
         <svg:desc>Text, whiteboard
 
 Description automatically generated</svg:desc>
@@ -3753,7 +3753,7 @@ Description automatically generated</svg:desc>
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.B1" office:value-type="string">
-      <text:p text:style-name="Standard" loext:marker-style-name="T16"><draw:frame draw:style-name="fr2" draw:name="Picture 14" text:anchor-type="as-char" svg:width="1.148in" svg:height="0.7307in" draw:z-index="5"><draw:image xlink:href="DAB04/8.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:filter-name="&lt;All images&gt;" draw:mime-type="image/jpeg"/>
+      <text:p text:style-name="Standard" loext:marker-style-name="T16"><draw:frame draw:style-name="fr2" draw:name="Picture 14" text:anchor-type="as-char" svg:width="1.148in" svg:height="0.7307in" draw:z-index="5"><draw:image xlink:href="DAB04/8.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg"/>
         <svg:desc>Logo
 
 Description automatically generated</svg:desc>
@@ -3768,7 +3768,7 @@ Description automatically generated</svg:desc>
     </table:table-row>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.B1" office:value-type="string">
-      <text:p text:style-name="P3" loext:marker-style-name="T18"><draw:frame draw:style-name="fr2" draw:name="Picture 13" text:anchor-type="as-char" svg:width="0.7217in" svg:height="0.7307in" draw:z-index="6"><draw:image xlink:href="DAB04/9.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:filter-name="&lt;All images&gt;" draw:mime-type="image/png"/>
+      <text:p text:style-name="P3" loext:marker-style-name="T18"><draw:frame draw:style-name="fr2" draw:name="Picture 13" text:anchor-type="as-char" svg:width="0.7217in" svg:height="0.7307in" draw:z-index="6"><draw:image xlink:href="DAB04/9.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
         <svg:desc>Icon
 
 Description automatically generated</svg:desc>
@@ -3784,7 +3784,7 @@ Description automatically generated</svg:desc>
     <text:soft-page-break/>
     <table:table-row table:style-name="Table2.1">
      <table:table-cell table:style-name="Table2.B1" office:value-type="string">
-      <text:p text:style-name="P20" loext:marker-style-name="T18"><draw:frame draw:style-name="fr3" draw:name="Image1" text:anchor-type="char" svg:width="0.7882in" svg:height="1.2028in" draw:z-index="21"><draw:image xlink:href="DAB04/10.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:filter-name="&lt;All images&gt;" draw:mime-type="image/png"/>
+      <text:p text:style-name="P20" loext:marker-style-name="T18"><draw:frame draw:style-name="fr3" draw:name="Image1" text:anchor-type="as-char" svg:width="0.7882in" svg:height="1.2028in" draw:z-index="21"><draw:image xlink:href="DAB04/10.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
        </draw:frame></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.B1" office:value-type="string">
@@ -3801,7 +3801,7 @@ Description automatically generated</svg:desc>
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P13" text:outline-level="2"><text:bookmark-start text:name="_Toc78982273"/><text:bookmark-start text:name="_Toc78983171"/><text:bookmark-start text:name="_Toc78982839"/>Distribution options for iOS apps<text:bookmark-end text:name="_Toc78982273"/><text:bookmark-end text:name="_Toc78983171"/><text:bookmark-end text:name="_Toc78982839"/></text:h>
+       <text:h text:style-name="P13" text:outline-level="2"><text:bookmark-start text:name="_Toc78982839"/><text:bookmark-start text:name="_Toc78983171"/><text:bookmark-start text:name="_Toc78982273"/>Distribution options for iOS apps<text:bookmark-end text:name="_Toc78982839"/><text:bookmark-end text:name="_Toc78983171"/><text:bookmark-end text:name="_Toc78982273"/></text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
@@ -3814,7 +3814,7 @@ Description automatically generated</svg:desc>
     <table:table-column table:style-name="Table3.C"/>
     <table:table-row table:style-name="Table3.1">
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P15" loext:marker-style-name="T16"><draw:frame draw:style-name="fr2" draw:name="Picture 11" text:anchor-type="as-char" svg:width="0.7563in" svg:height="0.7563in" draw:z-index="7"><draw:image xlink:href="DAB04/11.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:filter-name="&lt;All images&gt;" draw:mime-type="image/png"/>
+      <text:p text:style-name="P15" loext:marker-style-name="T16"><draw:frame draw:style-name="fr2" draw:name="Picture 11" text:anchor-type="as-char" svg:width="0.7563in" svg:height="0.7563in" draw:z-index="7"><draw:image xlink:href="DAB04/11.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
         <svg:desc>Icon
 
 Description automatically generated</svg:desc>
@@ -3834,7 +3834,7 @@ Description automatically generated</svg:desc>
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P13" text:outline-level="2"><text:bookmark-start text:name="_Toc78982274"/><text:bookmark-start text:name="_Toc78983172"/><text:bookmark-start text:name="_Toc78982840"/><text:soft-page-break/>Advantages and disadvantages of each distribution method<text:bookmark-end text:name="_Toc78982274"/><text:bookmark-end text:name="_Toc78983172"/><text:bookmark-end text:name="_Toc78982840"/></text:h>
+       <text:h text:style-name="P13" text:outline-level="2"><text:bookmark-start text:name="_Toc78982840"/><text:bookmark-start text:name="_Toc78983172"/><text:bookmark-start text:name="_Toc78982274"/><text:soft-page-break/>Advantages and disadvantages of each distribution method<text:bookmark-end text:name="_Toc78982840"/><text:bookmark-end text:name="_Toc78983172"/><text:bookmark-end text:name="_Toc78982274"/></text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
@@ -3982,9 +3982,9 @@ Description automatically generated</svg:desc>
    </table:table>
    <text:p text:style-name="P5" loext:marker-style-name="T4"/>
    <text:p text:style-name="P5" loext:marker-style-name="T4"/>
-   <text:list xml:id="list124221454952608" text:continue-numbering="true" text:style-name="WWNum32">
+   <text:list xml:id="list111839911791449" text:continue-numbering="true" text:style-name="WWNum32">
     <text:list-item>
-     <text:h text:style-name="P30" text:outline-level="1" loext:marker-style-name="T4"><text:bookmark-start text:name="_Toc78982275"/><text:bookmark-start text:name="_Toc78983173"/><text:bookmark-start text:name="_Toc78982841"/><text:span text:style-name="T4">Publishing apps on Google Play</text:span><text:bookmark-end text:name="_Toc78982275"/><text:bookmark-end text:name="_Toc78983173"/><text:bookmark-end text:name="_Toc78982841"/><text:span text:style-name="T4"/></text:h>
+     <text:h text:style-name="P30" text:outline-level="1" loext:marker-style-name="T4"><text:bookmark-start text:name="_Toc78982841"/><text:bookmark-start text:name="_Toc78983173"/><text:bookmark-start text:name="_Toc78982275"/><text:span text:style-name="T4">Publishing apps on Google Play</text:span><text:bookmark-end text:name="_Toc78982841"/><text:bookmark-end text:name="_Toc78983173"/><text:bookmark-end text:name="_Toc78982275"/><text:span text:style-name="T4"/></text:h>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard" loext:marker-style-name="T4"><text:span text:style-name="T4">To publish an Android app on Google Play:</text:span><text:span text:style-name="T4"/></text:p>
@@ -4024,7 +4024,7 @@ Description automatically generated</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P5" loext:marker-style-name="T4"/>
-   <text:p text:style-name="P3" loext:marker-style-name="T4"><text:soft-page-break/><draw:frame draw:style-name="fr2" draw:name="Picture 10" text:anchor-type="as-char" svg:width="5.9827in" svg:height="3.8957in" draw:z-index="8"><draw:image xlink:href="DAB04/12.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:filter-name="&lt;All images&gt;" draw:mime-type="image/png"/>
+   <text:p text:style-name="P3" loext:marker-style-name="T4"><text:soft-page-break/><draw:frame draw:style-name="fr2" draw:name="Picture 10" text:anchor-type="as-char" svg:width="5.9827in" svg:height="3.8957in" draw:z-index="8"><draw:image xlink:href="DAB04/12.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
      <svg:desc>Graphical user interface, text, application, email
 
 Description automatically generated</svg:desc>
@@ -4039,7 +4039,7 @@ Description automatically generated</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P5" loext:marker-style-name="T4"/>
-   <text:list xml:id="list124222488815310" text:continue-numbering="true" text:style-name="WWNum33">
+   <text:list xml:id="list111840522029481" text:continue-numbering="true" text:style-name="WWNum33">
     <text:list-item>
      <text:p text:style-name="P31" loext:marker-style-name="T4"><text:span text:style-name="T4">Select </text:span><text:span text:style-name="T22">Grow</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T23"></text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T22">Store presence</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T23"></text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T22">Main store listing</text:span><text:span text:style-name="T4"> from the menu on the left of the screen, and enter the following details:</text:span></text:p>
     </text:list-item>
@@ -4063,7 +4063,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P42" loext:marker-style-name="T4"><text:span text:style-name="T4">You must not include user testimonials, excessive details or long lists of keywords. See </text:span><text:a xlink:type="simple" xlink:href="https://play.google.com/about/storelisting-promotional/metadata/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T4">https://play.google.com/about/storelisting-promotional/metadata/</text:span></text:span></text:a><text:span text:style-name="T4"> for more details.</text:span></text:p>
    <text:p text:style-name="P43" loext:marker-style-name="T4"/>
    <text:p text:style-name="P39" loext:marker-style-name="T22"><text:span text:style-name="T22">Graphics</text:span><text:span text:style-name="T22"/></text:p>
-   <text:list xml:id="list124221293485788" text:continue-numbering="true" text:style-name="WWNum34">
+   <text:list xml:id="list111838484369619" text:continue-numbering="true" text:style-name="WWNum34">
     <text:list-item>
      <text:p text:style-name="P40" loext:marker-style-name="T4"><text:span text:style-name="T19">App icon</text:span><text:span text:style-name="T4"> (512 by 512 pixels)</text:span></text:p>
      <text:list>
@@ -4093,12 +4093,12 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P48" loext:marker-style-name="T4"/>
    <text:p text:style-name="P49" loext:marker-style-name="T4"><text:span text:style-name="T4">Click </text:span><text:span text:style-name="T22">Save</text:span><text:span text:style-name="T4"> at the bottom of the screen when you have finished.</text:span></text:p>
    <text:p text:style-name="P21" loext:marker-style-name="T4"><text:span text:style-name="T4"><text:line-break/></text:span><text:span text:style-name="T4"/></text:p>
-   <text:list xml:id="list124222765302847" text:continue-list="list124222488815310" text:style-name="WWNum33">
+   <text:list xml:id="list111838755890428" text:continue-list="list111840522029481" text:style-name="WWNum33">
     <text:list-item>
      <text:p text:style-name="P50" loext:marker-style-name="T4"><text:span text:style-name="T4">Select </text:span><text:span text:style-name="T22">Store presence</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T23"></text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T22">Store settings</text:span><text:span text:style-name="T4"> from the menu on the left of the screen, and enter the following details:</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list text:continue-list="list124221293485788" text:style-name="WWNum34">
+   <text:list text:continue-list="list111838484369619" text:style-name="WWNum34">
     <text:list-item>
      <text:p text:style-name="P46" loext:marker-style-name="T4"><text:span text:style-name="T22">App Category</text:span><text:span text:style-name="T4">:</text:span></text:p>
      <text:list>
@@ -4131,7 +4131,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P49" loext:marker-style-name="T4"><text:span text:style-name="T4">Click </text:span><text:span text:style-name="T22">Save</text:span><text:span text:style-name="T4"> at the bottom of the screen when you have finished.</text:span></text:p>
    <text:p text:style-name="P53" loext:marker-style-name="T4"/>
    <text:p text:style-name="P53" loext:marker-style-name="T4"><text:soft-page-break/></text:p>
-   <text:list text:continue-list="list124222765302847" text:style-name="WWNum33">
+   <text:list text:continue-list="list111838755890428" text:style-name="WWNum33">
     <text:list-item>
      <text:p text:style-name="P50" loext:marker-style-name="T4"><text:span text:style-name="T4">Select </text:span><text:span text:style-name="T22">Policy</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T23"></text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T22">App content</text:span><text:span text:style-name="T4"> from the menu on the left of the screen, and follow the instructions on the screen to specify the privacy policy, app access, content ratings, etc. Click </text:span><text:span text:style-name="T22">Save</text:span><text:span text:style-name="T4"> after completing each page.</text:span></text:p>
     </text:list-item>
@@ -4143,7 +4143,7 @@ Description automatically generated</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P5" loext:marker-style-name="T4"/>
-   <text:list xml:id="list124222971145571" text:continue-numbering="true" text:style-name="WWNum33">
+   <text:list xml:id="list111839768029157" text:continue-numbering="true" text:style-name="WWNum33">
     <text:list-item>
      <text:p text:style-name="P50" loext:marker-style-name="T4"><text:span text:style-name="T4">In the </text:span><text:span text:style-name="T22">App Bundles</text:span><text:span text:style-name="T4"> section of the screen, upload the Android App Bundle (.aab) file for your app and give release a </text:span><text:span text:style-name="T22">Release name</text:span><text:span text:style-name="T4"> in the field below.</text:span></text:p>
     </text:list-item>
@@ -4162,7 +4162,7 @@ Description automatically generated</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P57" loext:marker-style-name="T4"/>
-   <text:list text:continue-list="list124222971145571" text:style-name="WWNum33">
+   <text:list text:continue-list="list111839768029157" text:style-name="WWNum33">
     <text:list-item>
      <text:p text:style-name="P50" loext:marker-style-name="T4"><text:span text:style-name="T4">Click the </text:span><text:span text:style-name="T22">Save </text:span><text:span text:style-name="T4">button and then </text:span><text:span text:style-name="T22">Review release</text:span><text:span text:style-name="T4"> button at the bottom right of the screen.</text:span></text:p>
     </text:list-item>
@@ -4179,9 +4179,9 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P59" loext:marker-style-name="T4"><text:span text:style-name="T25">Tip</text:span><text:span text:style-name="T4">: To increase the visibility of your app on the app store, we recommend that you familiarize yourself with the principles of </text:span><text:span text:style-name="T22">App Store Optimization (ASO)</text:span><text:span text:style-name="T4">.</text:span></text:p>
    <text:p text:style-name="P5" loext:marker-style-name="T4"/>
    <text:p text:style-name="P5" loext:marker-style-name="T4"/>
-   <text:list xml:id="list124222547360863" text:continue-list="list124221454952608" text:style-name="WWNum32">
+   <text:list xml:id="list111838636595393" text:continue-list="list111839911791449" text:style-name="WWNum32">
     <text:list-item>
-     <text:h text:style-name="P30" text:outline-level="1" loext:marker-style-name="T4"><text:bookmark-start text:name="_Toc78982276"/><text:bookmark-start text:name="_Toc78983174"/><text:bookmark-start text:name="_Toc78982842"/><text:soft-page-break/><text:span text:style-name="T4">Distributing apps by memory card</text:span><text:bookmark-end text:name="_Toc78982276"/><text:bookmark-end text:name="_Toc78983174"/><text:bookmark-end text:name="_Toc78982842"/><text:span text:style-name="T4"/></text:h>
+     <text:h text:style-name="P30" text:outline-level="1" loext:marker-style-name="T4"><text:bookmark-start text:name="_Toc78982842"/><text:bookmark-start text:name="_Toc78983174"/><text:bookmark-start text:name="_Toc78982276"/><text:soft-page-break/><text:span text:style-name="T4">Distributing apps by memory card</text:span><text:bookmark-end text:name="_Toc78982842"/><text:bookmark-end text:name="_Toc78983174"/><text:bookmark-end text:name="_Toc78982276"/><text:span text:style-name="T4"/></text:h>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard" loext:marker-style-name="T16"><text:span text:style-name="T16">Copy the Android app’s APK file onto </text:span><text:span text:style-name="T17">microSD</text:span><text:span text:style-name="T16"> memory cards. People insert the card into their phone’s memory card slot, browse for it in a file explorer app, and tap on the APK to install it.</text:span></text:p>
@@ -4214,9 +4214,9 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P62" loext:marker-style-name="T4"><text:span text:style-name="T4">If you get an error about a problem parsing the package or if the application installation finishes and says that the application could not be installed, then the phone is unable to write the files to the memory card. When this happens, you need to remove the memory card from the phone and put it in a computer or other device and write the files directly to the memory card. Then put the memory card back in the phone and try the install again. It should work this time.</text:span><text:span text:style-name="T4"/></text:p>
    <text:p text:style-name="P5" loext:marker-style-name="T4"/>
    <text:p text:style-name="P5" loext:marker-style-name="T4"/>
-   <text:list text:continue-list="list124222547360863" text:style-name="WWNum32">
+   <text:list text:continue-list="list111838636595393" text:style-name="WWNum32">
     <text:list-item>
-     <text:h text:style-name="P63" text:outline-level="1" loext:marker-style-name="T4"><text:bookmark-start text:name="_Toc78982277"/><text:bookmark-start text:name="_Toc78983175"/><text:bookmark-start text:name="_Toc78982843"/><text:soft-page-break/><text:span text:style-name="T4">Sharing apps by Bluetooth</text:span><text:bookmark-end text:name="_Toc78982277"/><text:bookmark-end text:name="_Toc78983175"/><text:bookmark-end text:name="_Toc78982843"/><text:span text:style-name="T4"/></text:h>
+     <text:h text:style-name="P63" text:outline-level="1" loext:marker-style-name="T4"><text:bookmark-start text:name="_Toc78982843"/><text:bookmark-start text:name="_Toc78983175"/><text:bookmark-start text:name="_Toc78982277"/><text:soft-page-break/><text:span text:style-name="T4">Sharing apps by Bluetooth</text:span><text:bookmark-end text:name="_Toc78982843"/><text:bookmark-end text:name="_Toc78983175"/><text:bookmark-end text:name="_Toc78982277"/><text:span text:style-name="T4"/></text:h>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P64" loext:marker-style-name="T16"><text:span text:style-name="T16">Use Bluetooth to transfer the Android APK file from your phone to another phone. Once people receive the file, they tap on it to install it.</text:span><text:span text:style-name="T16"/></text:p>
@@ -4228,7 +4228,7 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P5" loext:marker-style-name="T4"/>
    <text:list text:continue-numbering="true" text:style-name="WWNum32">
     <text:list-item>
-     <text:h text:style-name="P30" text:outline-level="1" loext:marker-style-name="T4"><text:bookmark-start text:name="_Toc78982278"/><text:bookmark-start text:name="_Toc78983176"/><text:bookmark-start text:name="_Toc78982844"/><text:span text:style-name="T4">Sharing apps by Wi-Fi transfer</text:span><text:bookmark-end text:name="_Toc78982278"/><text:bookmark-end text:name="_Toc78983176"/><text:bookmark-end text:name="_Toc78982844"/><text:span text:style-name="T4"/></text:h>
+     <text:h text:style-name="P30" text:outline-level="1" loext:marker-style-name="T4"><text:bookmark-start text:name="_Toc78982844"/><text:bookmark-start text:name="_Toc78983176"/><text:bookmark-start text:name="_Toc78982278"/><text:span text:style-name="T4">Sharing apps by Wi-Fi transfer</text:span><text:bookmark-end text:name="_Toc78982844"/><text:bookmark-end text:name="_Toc78983176"/><text:bookmark-end text:name="_Toc78982278"/><text:span text:style-name="T4"/></text:h>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard" loext:marker-style-name="T4"><text:span text:style-name="T4">If you have large Android APK files to transfer from phone to phone or if you have a lot of audio files, Bluetooth can be a slow method of transfer. In such cases, using a Wi-Fi transfer app can give you phone to phone transfer speeds up to 40 times faster than Bluetooth.</text:span><text:span text:style-name="T4"/></text:p>
