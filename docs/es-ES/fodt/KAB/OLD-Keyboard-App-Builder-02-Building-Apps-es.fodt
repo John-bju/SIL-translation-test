@@ -120,7 +120,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">4497997</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4594966</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">true</config:config-item>
@@ -4040,7 +4040,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P40" loext:marker-style-name="T17"><text:span text:style-name="T17">and optionally:</text:span><text:span text:style-name="T17"/></text:p>
-   <text:list xml:id="list205807748843733" text:continue-numbering="true" text:style-name="WWNum25">
+   <text:list xml:id="list205125969276137" text:continue-numbering="true" text:style-name="WWNum25">
     <text:list-item>
      <text:p text:style-name="P43" loext:marker-style-name="T17"><text:span text:style-name="T17">a </text:span><text:span text:style-name="T19">Keyman lexical model file</text:span><text:span text:style-name="T17"> (.model.kmp), for predictive text and autocorrect.</text:span></text:p>
     </text:list-item>
@@ -4129,7 +4129,7 @@
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
    <text:p text:style-name="P48" loext:marker-style-name="T17"><text:span text:style-name="T17">Click </text:span><text:span text:style-name="T18">Next</text:span><text:span text:style-name="T17"> to move to the next page.</text:span></text:p>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:list xml:id="list205807583579230" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list205124359946781" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:p text:style-name="P46" loext:marker-style-name="T17"><text:span text:style-name="T17">On the page of the wizard titled </text:span><text:span text:style-name="T18">Signing</text:span><text:span text:style-name="T17">, you need to specify the keystore and alias to use to sign the app. An app must be signed in this way so that it can installed on an Android device.</text:span></text:p>
     </text:list-item>
@@ -4166,7 +4166,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
-   <text:list text:continue-list="list205807583579230" text:style-name="WWNum4">
+   <text:list text:continue-list="list205124359946781" text:style-name="WWNum4">
     <text:list-item>
      <text:p text:style-name="P46" loext:marker-style-name="T17"><text:span text:style-name="T17">Back on the </text:span><text:span text:style-name="T18">Signing</text:span><text:span text:style-name="T17"> page of the New App wizard, you need to specify the keystore password, select the alias and enter the alias password (just as you entered them in the step above).</text:span></text:p>
     </text:list-item>
@@ -11856,7 +11856,7 @@
    <text:p text:style-name="P30" loext:marker-style-name="T17"/>
    <text:h text:style-name="Heading_20_1" text:outline-level="1" loext:marker-style-name="T17"><text:bookmark-start text:name="_Toc498952700"/><text:bookmark-start text:name="_Toc500152989"/><text:bookmark-start text:name="_Toc129968046"/><text:span text:style-name="T17">Home and Setup Screens</text:span><text:bookmark-end text:name="_Toc129968046"/><text:span text:style-name="T17"/></text:h>
    <text:p text:style-name="P62" loext:marker-style-name="T17"><text:span text:style-name="T17">There are two main screens in an app built with Keyboard App Builder: </text:span><text:span text:style-name="T17"/></text:p>
-   <text:list text:continue-list="list205807748843733" text:style-name="WWNum25">
+   <text:list text:continue-list="list205125969276137" text:style-name="WWNum25">
     <text:list-item>
      <text:p text:style-name="P42" loext:marker-style-name="T17"><text:span text:style-name="T17">the Home screen, and</text:span><text:span text:style-name="T17"/></text:p>
     </text:list-item>
