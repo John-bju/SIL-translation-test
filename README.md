@@ -1,22 +1,5 @@
 # SIL Translation Test
 
-<a href="">###</a>
-<a href="">###</a>
-<a href="">###</a>
-<a href="">###</a>
-<a href="">###</a>
-<a href="">###</a>
-<a href="">###</a>
-<a href="">###</a>
-<a href="">###</a>
-<a href="">###</a>
-<a href="">###</a>
-<a href="">###</a>
-<a href="">###</a>
-<a href="">###</a>
-<a href="">###</a>
-<a href="">###</a>
-<a href="">###</a>
 
 
 ### Description
