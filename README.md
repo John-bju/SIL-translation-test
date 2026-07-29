@@ -175,6 +175,69 @@ All English documents should be submitted into the `docs-en/fodt` folder, they s
 All images will be put into `images/` and should not be submitted anywhere else in the repository.
 
 
+
+Repository Overview
+│
+├── docs   <---------- DO NOT SUBMIT DOCUMENTS IN THIS FOLDER OR ANYTHING BELOW IT. This is where Crowdin puts the translated documents so any documents submitted here will be overwritten with the Crowdin documents.
+│   │
+│   ├── de-DE
+│   │   ├── fodt
+│   │   ├── odt
+│   │   └── pdf
+│   │
+│   ├── es-ES
+│   │   ├── fodt
+│   │   ├── odt
+│   │   └── pdf
+│   │
+│   └── fr-FR
+│       ├── fodt
+│       ├── odt
+│       └── pdf
+│
+├── docs-en 
+│   │
+│   ├── fodt   <----------- SUBMIT DOCUMENTS HERE. This is where the English documents should be submitted.
+│   │   ├── DAB
+│   │   ├── KAB
+│   │   ├── RAB
+│   │   └── SAB
+│   │
+│   ├── odt
+│   │   ├── DAB
+│   │   ├── KAB
+│   │   ├── RAB
+│   │   └── SAB
+│   │
+│   └── pdf
+│       ├── DAB
+│       ├── KAB
+│       ├── RAB
+│       └── SAB
+│
+└── images   <----------- SUBMIT IMAGES HERE. This is where the image files should be submitted. Make sure you separate the images based on language.
+    ├── de-DE
+    │   ├── DAB
+    │   ├── KAB
+    │   ├── RAB
+    │   └── SAB
+    ├── en-US
+    │   ├── DAB
+    │   ├── KAB
+    │   ├── RAB
+    │   └── SAB
+    ├── es-ES
+    │   ├── DAB
+    │   ├── KAB
+    │   ├── RAB
+    │   └── SAB
+    └── fr-FR
+        ├── DAB    
+        ├── KAB
+        ├── RAB
+        └── SAB
+
+
 ### Automatic
 
 1. Scroll to the top of the webpage and click on the actions tab at the top of the screen. Then click on the "auto translate" button under the green button labeled "new workflow".
