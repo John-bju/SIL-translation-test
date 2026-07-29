@@ -175,7 +175,7 @@ All English documents should be submitted into the `docs-en/fodt` folder, they s
 All images will be put into `images/` and should not be submitted anywhere else in the repository.
 
 
-
+```
 Repository Overview
 │
 ├── docs   <---------- DO NOT SUBMIT DOCUMENTS IN THIS FOLDER OR ANYTHING BELOW IT. This is where Crowdin puts the translated documents so any documents submitted here will be overwritten with the Crowdin documents.
@@ -236,7 +236,7 @@ Repository Overview
         ├── KAB
         ├── RAB
         └── SAB
-
+```
 
 ### Automatic
 
