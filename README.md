@@ -170,6 +170,9 @@ The reason why this repository uses this system is that it makes it incredibly e
 ### Submitting Documents
 All submissions should be put into the "main" branch of the GitHub repository, and should be added into the following locations based on their types.
 
+All English documents should be submitted into the `docs-en/fodt` folder, they should not be submitted anywhere else in the repository.
+
+All images will be put into `images/` and should not be submitted anywhere else in the repository.
 
 
 ### Automatic
