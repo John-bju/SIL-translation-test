@@ -143,9 +143,28 @@ After that, look to the right to find the "Duplicate Strings" menu and select th
 Next, select "Skip tags" under "Word and character count". This setting also reduces the word count by not allowing data tags to be marked as words.
 
 
+
 # How to Use
-### Submitting
+
+### Editing Documents
+
+### Submitting Documents
 All submissions should be put into the "main" branch of the GitHub repository, and should be added into the following locations based on their types.
+
+### Automatic
+
+1. Scroll to the top of the webpage and click on the actions tab at the top of the screen. Then click on the "auto translate" button under the green button labeled "new workflow".
+
+<img src="README_pics/Screenshot_20260723_112417.png" width="700" height="1000" />
+
+2. Find the "Run workflow" button on the right side of the screen and select the drop-down menu. Click the "Run workflow" option.
+
+<img src="README_pics/Screenshot_20260713_155959.png" width="700" height="1000" />
+
+3. The workflow is now running in the background. You can click the "Convert" button to view the output of the workflow. Or, when the workflow has finished, click "Summary" to view the artifact outputs.
+
+<img src="README_pics/Screenshot_20260713_160239.png" width="700" height="1000" />
+
 
 ###### Documents
 All documents need to be submitted in English, as Crowdin will handle all translations to non-English languages. All documents should be in .fodt format and should only be added (or modified) in `docs-en/fodt/(app builder name)/(file)`, for example, `"docs-en/fodt/SAB/Scripture-App-Builder-01-Installation-Instructions.fodt".`
@@ -161,22 +180,6 @@ The reason why this repository uses this system is that it makes it incredibly e
 
 
 
-### Workflow
-
-1. Scroll to the top of the webpage and click on the actions tab at the top of the screen. Then click on the "auto translate" button under the green button labeled "new workflow".
-
-<img src="README_pics/Screenshot_20260723_112417.png" width="700" height="1000" />
-
-2. Find the "Run workflow" button on the right side of the screen and select the drop-down menu. Click the "Run workflow" option.
-
-<img src="README_pics/Screenshot_20260713_155959.png" width="700" height="1000" />
-
-3. The workflow is now running in the background. You can click the "Convert" button to view the output of the workflow. Or, when the workflow has finished, click "Summary" to view the artifact outputs.
-
-<img src="README_pics/Screenshot_20260713_160239.png" width="700" height="1000" />
-
-
-
 ### Outputs
 The workflow will produce two types of outputs. First, it will generate all the translated files and add them to the "translations" branch. The user has the option to merge the translations branch into the main branch if they want the new documents to be easily accessible.
 
@@ -185,4 +188,4 @@ The second output is a .zip artifact composed of PDFs from both English and non-
 
 
 # Conclusion
-lskjdfshdkljhlkajshlkdjfasd
+I promise you I will finish this one day.
