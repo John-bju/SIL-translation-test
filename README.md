@@ -148,8 +148,29 @@ Next, select "Skip tags" under "Word and character count". This setting also red
 
 ### Editing Documents
 
+The main process of editing documents hasn't changed, however there are some key differences and steps that have to be followed to work with this repository.
+
+The first difference is with the document editor. While most documents are edited with Microsoft Word this repository uses Libreoffice. Libreoffice is a free and opensource document editor which provides an identical experience to Microsoft Word. This change was made in an attempt to move away from paid software. Because of this change the file formats documents are in has changed as well, no longer using the .doc or .docx but instead .fodt format. Changing this doesn't affect how the document is used only which file type the user must select when saving the document.
+
+The second difference is how images are inserted into the documents.
+
+###### Documents
+All documents need to be submitted in English, as Crowdin will handle all translations to non-English languages. All documents should be in .fodt format and should only be added (or modified) in `docs-en/fodt/(app builder name)/(file)`, for example, `"docs-en/fodt/SAB/Scripture-App-Builder-01-Installation-Instructions.fodt".`
+
+###### Images
+In this repository, images are handled differently than most other documentation repositories. Images are not inserted into the documents themselves, but instead are inserted as links pointing to separate image files. This means that every document has a folder next to it that contains all the images displayed in that document. For example, "Scripture-App-Builder-01-Installation-Instructions.fodt" would be next to a folder named SAB01. This folder would have all the images the document would use. More examples of this would be "Dictionary-App-Builder-04-Distributing-Apps.fodt" next to DAB04, and "Reading-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.fodt" next to RAB07.
+
+<img src="README_pics/Screenshot_20260715_151502.png" width="300" height="600" />
+<img src="README_pics/Screenshot_20260722_161042.png" width="300" height="600" />
+<img src="README_pics/Screenshot_20260722_161127.png" width="300" height="600" />
+
+The reason why this repository uses this system is that it makes it incredibly easy to switch out images in a document. Since screenshots containing English text cannot be translated by Crowdin, the next best solution is to replace these screenshots with ones containing text in the correct language. The GitHub workflow will automatically replace the screenshots; however, the user still needs to manually supply all screenshots. The images are located in images/(language)/(app builder name)/(image folder), for instance, "images/en-US/KAB/KAB02", and do not need to conform to a specific file format. Simply drop the images into the correct folder, and the workflow will handle the rest.
+
+
 ### Submitting Documents
 All submissions should be put into the "main" branch of the GitHub repository, and should be added into the following locations based on their types.
+
+
 
 ### Automatic
 
@@ -166,21 +187,8 @@ All submissions should be put into the "main" branch of the GitHub repository, a
 <img src="README_pics/Screenshot_20260713_160239.png" width="700" height="1000" />
 
 
-###### Documents
-All documents need to be submitted in English, as Crowdin will handle all translations to non-English languages. All documents should be in .fodt format and should only be added (or modified) in `docs-en/fodt/(app builder name)/(file)`, for example, `"docs-en/fodt/SAB/Scripture-App-Builder-01-Installation-Instructions.fodt".`
 
-###### Images
-In this repository, images are handled differently than most other documentation repositories. Images are not inserted into the documents themselves, but instead are inserted as links pointing to separate image files. This means that every document has a folder next to it that contains all the images displayed in that document. For example, "Scripture-App-Builder-01-Installation-Instructions.fodt" would be next to a folder named SAB01. This folder would have all the images the document would use. More examples of this would be "Dictionary-App-Builder-04-Distributing-Apps.fodt" next to DAB04, and "Reading-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.fodt" next to RAB07.
-
-<img src="README_pics/Screenshot_20260715_151502.png" width="300" height="600" />
-<img src="README_pics/Screenshot_20260722_161042.png" width="300" height="600" />
-<img src="README_pics/Screenshot_20260722_161127.png" width="300" height="600" />
-
-The reason why this repository uses this system is that it makes it incredibly easy to switch out images in a document. Since screenshots containing English text cannot be translated by Crowdin, the next best solution is to replace these screenshots with ones containing text in the correct language. The GitHub workflow will automatically replace the screenshots; however, the user still needs to manually supply all screenshots. The images are located in images/(language)/(app builder name)/(image folder), for instance, "images/en-US/KAB/KAB02", and do not need to conform to a specific file format. Simply drop the images into the correct folder, and the workflow will handle the rest.
-
-
-
-### Outputs
+# Outputs
 The workflow will produce two types of outputs. First, it will generate all the translated files and add them to the "translations" branch. The user has the option to merge the translations branch into the main branch if they want the new documents to be easily accessible.
 
 The second output is a .zip artifact composed of PDFs from both English and non-English languages. This can be found by going to the workflow and clicking the "Summary" button.
