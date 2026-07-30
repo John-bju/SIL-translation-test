@@ -238,7 +238,7 @@ Repository Overview
         └── SAB
 ```
 
-### Automatic
+### Workflow
 
 1. Scroll to the top of the webpage and click on the actions tab at the top of the screen. Then click on the "auto translate" button under the green button labeled "new workflow".
 
