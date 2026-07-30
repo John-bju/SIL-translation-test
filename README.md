@@ -168,17 +168,31 @@ The reason why this repository uses this system is that it makes it incredibly e
 
 
 ### Submitting Documents
-All submissions should be put into the "main" branch of the GitHub repository, and should be added into the following locations based on their types.
+All submissions should be put into the "main" branch of the GitHub repository, and should be added into the following locations based on their types. Instructions on how to add files to the repository are shown below.
 
-All English documents should be submitted into the `docs-en/fodt` folder, they should not be submitted anywhere else in the repository. Example `docs-en/fodt/RAB/example_filename.png`
+All English documents should be submitted into the `docs-en/fodt/` folder and should not be submitted anywhere else in the repository. Example `docs-en/fodt/RAB/example_filename.fodt` or `docs-en/fodt/DAB/example_filename.fodt`
 
-All images will be put into `images/` and should not be submitted anywhere else in the repository. Example `images/fr-FR/KAB/KAB02/example_filename.png`
+All images will be put into the `images/` folder and should not be submitted anywhere else in the repository. Example `images/fr-FR/KAB/KAB02/example_filename.png` or `images/en-US/SAB/SAB07/example_filename.png`
+
+1. Click on the "docs-en" folder on the GitHub project webpage. After that click on "fodt" and then the specific app builder the documents are for (SAB RAB KAB DAB).
+
+<img src="README_pics/Screenshot_20260730_094837_arrow.png" width="700" height="1400" />
+
+2. On the top right side of the webpage there will be a button that says "Add file" click on it and select the "Upload files" button from the drop down menu
+
+<img src="README_pics/Screenshot_20260730_103716.png" width="500" height="1000" />
+
+3. Click on the "Choose your files" button in the center of the screen and pick the files you want to upload to the folder. Then after that is done click the green "Commit changes" button at the bottom of the screen.
+
+<img src="README_pics/Screenshot_20260730_100307.png" width="700" height="1400" />
 
 
+#
+Below is a diagram of the repository file structure with notes on what each folder does.
 ```
 Repository Overview
 │
-├── docs   <---------- DO NOT SUBMIT DOCUMENTS IN THIS FOLDER OR ANYTHING BELOW IT. This is where Crowdin puts the translated documents so any documents submitted here will be overwritten with the Crowdin documents.
+├── docs   <---------- DO NOT SUBMIT DOCUMENTS IN THIS FOLDER OR ANYTHING IN IT. This is where Crowdin puts the translated documents so any documents submitted here will be overwritten with the Crowdin documents.
 │   │
 │   ├── de-DE
 │   │   ├── fodt
@@ -238,9 +252,6 @@ Repository Overview
         └── SAB
 ```
 
-<img src="README_pics/Screenshot_20260730_094837_arrow.png" width="700" height="1400" />
-<img src="README_pics/Screenshot_20260730_100307.png" width="700" height="1400" />
-<img src="README_pics/Screenshot_20260730_103716.png" width="700" height="1400" />
 
 
 ### Workflow
