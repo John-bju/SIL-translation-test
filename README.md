@@ -153,7 +153,7 @@ The main process of editing documents hasn't changed, however there are some key
 The first difference is with the document editor. While most documents are edited with Microsoft Word this repository uses Libreoffice. Libreoffice is a free and opensource document editor which provides an identical experience to Microsoft Word. This change was made in an attempt to move away from paid software. Because of this change the file formats documents are in has changed as well, no longer using the .doc or .docx but instead .fodt format. Changing this doesn't affect how the document is used only which file type the user must select when saving the document.
 
 The second difference is how images are inserted into the documents. Images are inserted as image links not fully images, this means that while the image is displayed in the document it is just referencing a separate image file located outside of the document. Because of this difference the method of adding an image slightly changed, images are still inserted by clicking the "Insert" tab and selecting the "Image" option, however the "Link" checkbox must also be checked before adding the desired image.
-
+<!--
 ###### Documents
 All documents need to be submitted in English, as Crowdin will handle all translations to non-English languages. All documents should be in .fodt format and should only be added (or modified) in `docs-en/fodt/(app builder name)/(file)`, for example, `"docs-en/fodt/SAB/Scripture-App-Builder-01-Installation-Instructions.fodt".`
 
@@ -166,6 +166,7 @@ In this repository, images are handled differently than most other documentation
 
 The reason why this repository uses this system is that it makes it incredibly easy to switch out images in a document. Since screenshots containing English text cannot be translated by Crowdin, the next best solution is to replace these screenshots with ones containing text in the correct language. The GitHub workflow will automatically replace the screenshots; however, the user still needs to manually supply all screenshots. The images are located in images/(language)/(app builder name)/(image folder), for instance, "images/en-US/KAB/KAB02", and do not need to conform to a specific file format. Simply drop the images into the correct folder, and the workflow will handle the rest.
 
+-->   
 
 ### Submitting Documents
 All submissions should be put into the "main" branch of the GitHub repository, and should be added into the following locations based on their types. Instructions on how to add files to the repository are shown below.
