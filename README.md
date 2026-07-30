@@ -238,9 +238,9 @@ Repository Overview
         └── SAB
 ```
 
-<img src="README_pics/Screenshot_20260730_094837.png" width="400" height="8000" />
-<img src="README_pics/Screenshot_20260730_100307.png" width="400" height="8000" />
-<img src="README_pics/Screenshot_20260730_103716.png" width="400" height="8000" />
+<img src="README_pics/Screenshot_20260730_094837_arrow.png" width="700" height="1400" />
+<img src="README_pics/Screenshot_20260730_100307.png" width="700" height="1400" />
+<img src="README_pics/Screenshot_20260730_103716.png" width="700" height="1400" />
 
 
 ### Workflow
