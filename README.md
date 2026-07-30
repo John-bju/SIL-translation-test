@@ -242,6 +242,10 @@ Repository Overview
 <img src="README_pics/Screenshot_20260730_100307.png" width="700" height="1400" />
 <img src="README_pics/Screenshot_20260730_103716.png" width="700" height="1400" />
 
+<img src="README_pics/Screenshot_20260730_111805.png" width="700" height="1400" />
+<img src="README_pics/Screenshot_20260730_111846.png" width="700" height="1400" />
+
+
 
 ### Workflow
 
