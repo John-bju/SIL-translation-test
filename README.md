@@ -238,6 +238,11 @@ Repository Overview
         └── SAB
 ```
 
+<img src="README_pics/Screenshot_20260730_094837.png" width="400" height="8000" />
+<img src="README_pics/Screenshot_20260730_100307.png" width="400" height="8000" />
+<img src="README_pics/Screenshot_20260730_103716.png" width="400" height="8000" />
+
+
 ### Workflow
 
 1. Scroll to the top of the webpage and click on the actions tab at the top of the screen. Then click on the "auto translate" button under the green button labeled "new workflow".
