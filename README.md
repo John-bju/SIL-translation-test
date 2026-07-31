@@ -92,16 +92,7 @@ In order for the GitHub workflow and Crowdin to work together, they use tokens t
 
 
 ### Adding tokens to GitHub secrets
-First, you must be an administrator of the GitHub repository. If you are not, you need to contact one. You can tell if you are an administrator if you scroll to the top of the GitHub webpage: there will be a tab labeled "settings." Please note this is a different GitHub settings tab than the one mentioned previously, as this tab is for the GitHub repository settings while the previous one was for GitHub account settings.
-
-Here are examples of what the tokens will look like and their needed names. **THESE ARE EXAMPLES AND NOT VALID**
-
-`CROWDIN_PROJECT_ID` ≈ 346867
-
-`CROWDIN_GITHUB_TOKEN` ≈ ghp_i7KCtEo9rUxgDZZ6k9xY4YydWZcBsP2EJUbd
-
-`CROWDIN_PERSONAL_TOKEN` ≈ 9fcd75f1e2fa8132788171db0ca12624c65e0855d5af9391410e5402c4a7d479a39429b2d2217509
-
+To add tokens as Github secrets you must be an administrator of the GitHub repository. If you are not, you need to contact one. You can tell if you are an administrator if you scroll to the top of the GitHub project webpage: there will be a tab labeled "settings." Please note this is a different GitHub settings tab than the one mentioned previously, as this tab is for the GitHub repository settings while the previous one was for GitHub account settings.
 
 <img src="README_pics/Screenshot_20260713_125818.png" width="600" height="1000" />
 
@@ -109,7 +100,13 @@ If there is a settings tab, select it, then find the "Secrets and variables" but
 
 <img src="README_pics/Screenshot_20260713_125904.png" width="800" height="1200" />
 
-Fill in the "name" and "secret" information and click "Add secret". Make sure you only name the tokens what they are called in this document (`CROWDIN_PROJECT_ID`, `CROWDIN_GITHUB_TOKEN`, `CROWDIN_PERSONAL_TOKEN`). If this is not done, then the GitHub workflow will not register the tokens and Crowdin will not work.
+Fill in the "name" and "secret" information and click "Add secret". Make sure you only name the tokens what they are named below. If this is not done, then the GitHub workflow will not register the tokens and Crowdin will not work. Here are examples of what the tokens should look like with their needed names. **THESE ARE EXAMPLES AND ARE NOT REAL TOKENS**
+
+`CROWDIN_PROJECT_ID` ≈ 346867
+
+`CROWDIN_GITHUB_TOKEN` ≈ ghp_i7KCtEo9rUxgDZZ6k9xY4YydWZcBsP2EJUbd
+
+`CROWDIN_PERSONAL_TOKEN` ≈ 9fcd75f1e2fa8132788171db0ca12624c65e0855d5af9391410e5402c4a7d479a39429b2d2217509
 
 <img src="README_pics/Screenshot_20260723_141526.png" width="800" height="1200" />
 
