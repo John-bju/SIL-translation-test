@@ -127,7 +127,7 @@ To enable this, you need to go into the "settings" tab at the very right.
 
 <img src="README_pics/Screenshot_20260720_140218.png" width="400" height="800" />
 
-Then scroll down to the "import" bar and select it.
+Then scroll down to the "import" bar on the left column and select it.
 
 <img src="README_pics/Screenshot_20260720_140247.png" width="300" height="600" />
 
