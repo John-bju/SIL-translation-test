@@ -70,23 +70,24 @@ In order for the GitHub workflow and Crowdin to work together, they use tokens t
 
 ![Description](README_pics/Screenshot_20260710_154215.png)
 
-2. Then scroll down to find the "Developer Settings" tab at the bottom left and click on it.
+2. Then scroll down to find the "Developer Settings" tab at the bottom of the left column and click on it.
 
 ![Description](README_pics/Screenshot_20260710_154247.png)
 
-3. Then select "Tokens (classic)" under "Personal Access Tokens" and select "Generate new token (classic)".
+3. Then select "Tokens (classic)" under "Personal Access Tokens" and select "Generate new token (classic)". This will open the token creation screen.
 
 ![Description](README_pics/Screenshot_20260710_154629.png)
 
-4. Enter the "GITHUB_TOKEN" into the note field and set the Expiration option to "No Expiration". Then select the repo, workflow, and write:packages boxes. Afterward, scroll to the bottom of the webpage and select the green "Generate token" button.
+4. Enter the "GITHUB_TOKEN" into the "note" field and set the Expiration option to "No Expiration". Then tick the "repo", "workflow", and "write:packages" boxes. Afterward, scroll to the bottom of the webpage and select the green "Generate token" button.
 
 <img src="README_pics/Screenshot_20260727_121126.png" width="800" height="1200" />
 
-5. Click the blue copy button next to the token and paste the token in a notepad app.
+5. When the token is generated and appears on screen click the blue copy button next to the token and paste it somewhere safe.
 
 <img src="README_pics/Screenshot_20260727_122808_blackedout.png" width="800" height="1200" />
 
-6. Finally, now that the token has been generated and saved, it needs to be added to the GitHub repository secrets. Instructions can be found in the "Adding tokens to GitHub secrets" section.
+6. Finally, now that the token has been generated and saved, it needs to be added to the GitHub repository secrets. Instructions on how to add it can be found in the "Adding tokens to GitHub secrets" section below.
+
 
 
 
