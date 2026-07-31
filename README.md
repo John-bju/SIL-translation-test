@@ -3,7 +3,7 @@
 
 
 ### Description
-This repository is for documentation of Scripture App Builder, Reading App Builder, Keyboard App Builder, and Dictionary App Builder. It aims to keep a version history of all documents and translate them into several languages via Crowdin translation. This repository will also automatically convert, format, and output documentation as the user needs.
+This repository is for documentation of Scripture App Builder, Reading App Builder, Keyboard App Builder, and Dictionary App Builder. It aims to keep a version history of all documents and translate them into different languages via Crowdin translation. This repository will also automatically convert, format, and output documentation.
 
 
 
@@ -15,27 +15,16 @@ This repository is for documentation of Scripture App Builder, Reading App Build
 The GitHub workflows are scripts that perform tasks automatically. This repository has only one workflow named “auto translate.” In this case, the workflow formats files, translates documents, and outputs PDFs. The workflow starts whenever a file is submitted or changed in the repository, or it can be manually started.
 
 #### Crowdin
-Crowdin is a business that provides translation software for its users. Crowdin has also created a GitHub workflow integration that allows GitHub workflows to send and receive files from Crowdin projects. This integration syncs this GitHub repository with its Crowdin project, allowing translations to be created and downloaded into a branch named "translations."
+Crowdin is a business that provides translation software for individuals or organisations. Crowdin allows its users to create Crowdin projects where they can upload documents and download their translations. Crowdin has also created a GitHub workflow integration that allows GitHub workflows to send and receive files from Crowdin projects. This integration syncs this GitHub repository with its Crowdin project, allowing translations to be created and downloaded into a branch named "translations."
 
 #### Tokens
-In order for the GitHub workflow and Crowdin to work together, they use tokens to identify each other. Tokens are a unique series of numbers (and sometimes letters) that must be copied and entered into the GitHub repository as an environment secret. There are three tokens that need to be generated and collected for the GitHub workflow to properly run: `CROWDIN_PROJECT_ID`, `CROWDIN_GITHUB_TOKEN`, and `CROWDIN_PERSONAL_TOKEN` (please remember these names). The user will have to add all these tokens to their proper locations in the GitHub repository. Instructions on how to do so are listed in the "configuring tokens" section below.
-
-#
-
-Here are examples of what the tokens will look like and their needed names. **THESE ARE EXAMPLES AND NOT VALID**
-
-`CROWDIN_PROJECT_ID` ≈ 346867
-
-`CROWDIN_GITHUB_TOKEN` ≈ ghp_i7KCtEo9rUxgDZZ6k9xY4YydWZcBsP2EJUbd
-
-`CROWDIN_PERSONAL_TOKEN` ≈ 9fcd75f1e2fa8132788171db0ca12624c65e0855d5af9391410e5402c4a7d479a39429b2d2217509
-
+In order for the GitHub workflow and Crowdin to work together, they use tokens to identify each other. Tokens are a unique series of numbers (and sometimes letters) that must be copied and entered into the GitHub repository. There are three tokens that need to be generated and collected for the GitHub workflow to properly run: `CROWDIN_PROJECT_ID`, `CROWDIN_GITHUB_TOKEN`, and `CROWDIN_PERSONAL_TOKEN`. The user will have to add all these tokens to their proper locations in the GitHub repository. Instructions on how to do so are listed in the "configuring tokens" section below.
 
 
 #
 ### Configuring tokens
 
-#### PLEASE NOTE: Some tokens can only be viewed once before becoming hidden from you. Make sure you temporarily copy them someplace safe like a notepad app before exiting the webpage. There are three tokens that need to be entered as GitHub secrets. Instructions on how to find and add the tokens are shown below.
+#### PLEASE NOTE: Some tokens can only be viewed once before becoming hidden. Make sure they are copied somewhere safe such as a notepad app before exiting the webpage. There are three tokens that need to be entered as GitHub secrets. Instructions on how to find and add the tokens are shown below.
 
 #### CROWDIN_PERSONAL_TOKEN
 1. To create the `CROWDIN_PERSONAL_TOKEN`, open the Crowdin project webpage. (this can be found on the left menu bar at the bottom), click on the user's Crowdin profile picture, and select "settings". This will open the Crowdin user's settings page.
@@ -104,6 +93,15 @@ Here are examples of what the tokens will look like and their needed names. **TH
 
 ### Adding tokens to GitHub secrets
 First, you must be an administrator of the GitHub repository. If you are not, you need to contact one. You can tell if you are an administrator if you scroll to the top of the GitHub webpage: there will be a tab labeled "settings." Please note this is a different GitHub settings tab than the one mentioned previously, as this tab is for the GitHub repository settings while the previous one was for GitHub account settings.
+
+Here are examples of what the tokens will look like and their needed names. **THESE ARE EXAMPLES AND NOT VALID**
+
+`CROWDIN_PROJECT_ID` ≈ 346867
+
+`CROWDIN_GITHUB_TOKEN` ≈ ghp_i7KCtEo9rUxgDZZ6k9xY4YydWZcBsP2EJUbd
+
+`CROWDIN_PERSONAL_TOKEN` ≈ 9fcd75f1e2fa8132788171db0ca12624c65e0855d5af9391410e5402c4a7d479a39429b2d2217509
+
 
 <img src="README_pics/Screenshot_20260713_125818.png" width="600" height="1000" />
 
