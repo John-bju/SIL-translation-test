@@ -35,7 +35,7 @@ In order for the GitHub workflow and Crowdin to work together, they use tokens t
 
 ![Description](README_pics/Screenshot_20260710_145646.png)
 
-3. Then select "New Token" under "Personal Access Tokens," and a screen will appear asking for a token name and permissions.
+3. Then select "New Token" in the box labeled "Personal Access Tokens," and a screen will appear asking for a token name and permissions.
 
 <img src="README_pics/Screenshot_20260723_104701.png" width="400" height="800" />
 
@@ -43,29 +43,28 @@ In order for the GitHub workflow and Crowdin to work together, they use tokens t
 
 <img src="README_pics/Screenshot_20260723_105535.png" width="400" height="800" />
 
-5. After that, Crowdin may prompt you for your account password. Fill it in and hit confirm.
+5. After that, Crowdin may or may not prompt you for your account password. If it does fill it in the password and hit confirm.
 
 <img src="README_pics/Screenshot_20260723_105754.png" width="700" height="1400" />
 
-6. Then a token will be generated in a textbox in the middle of the screen. Click the copy button on the right side of the textbox and temporarily paste it someplace safe.
+6. A token will then be generated in the middle of the screen. Click the copy button on the right side of it and paste it somewhere safe.
 
 <img src="README_pics/Screenshot_20260723_105833_blackedout.png" width="700" height="1400" />
 
-7. Finally, now that the token has been generated and saved, it needs to be added to the GitHub repository secrets. Instructions can be found in the "Adding tokens to GitHub secrets" section.
+7. Finally, now that the token has been generated and saved, it needs to be added to the GitHub repository secrets. This can be done either now or at a later time. If the token is going to be added now scroll down to the "Adding tokens to GitHub secrets" section, instructions can be found there.
+
 
 
 #
-
 #### CROWDIN_PROJECT_ID
-1. To find the `CROWDIN_PROJECT_ID`, open the Crowdin project webpage and open the project. On the right-hand side, under the "dashboard" tab, it will be listed. Click it to copy the token and save it.
+1. To find the `CROWDIN_PROJECT_ID`, open the Crowdin project webpage. (this can be found on the left menu bar at the bottom). On the right-hand side details about the Crowdin project will be listed including the projects ID. Click it to copy the token and save it.
 
 ![Description](README_pics/Screenshot_20260710_153219.png)
+2. Now that the token has been saved, it needs to be added to the GitHub repository secrets. This can be done either now or at a later time. If the token is going to be added now scroll down to the "Adding tokens to GitHub secrets" section, instructions can be found there.
 
-2. Now that the token has been saved, it needs to be added to the GitHub repository secrets. Instructions can be found in the "Adding tokens to GitHub secrets" section.
 
 
 #
-
 #### CROWDIN_GITHUB_TOKEN
 1. To generate the `CROWDIN_GITHUB_TOKEN`, open the GitHub webpage, click on the user's GitHub profile picture, and select "settings". This will open the GitHub user's settings page.
 
