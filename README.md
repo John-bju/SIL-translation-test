@@ -136,7 +136,7 @@ After that, look to the right to find the "Duplicate Strings" menu and select th
 
 Next, select "Skip tags" under "Word and character count". This setting also reduces the word count by not allowing data tags to be marked as words.
 
-<img src="README_pics/Screenshot_20260730_162459.png" width="600" height="1200" />
+<img src="README_pics/Screenshot_20260730_162459.png" width="500" height="1000" />
 
 
 # How to Use
