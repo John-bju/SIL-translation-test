@@ -136,6 +136,7 @@ After that, look to the right to find the "Duplicate Strings" menu and select th
 
 Next, select "Skip tags" under "Word and character count". This setting also reduces the word count by not allowing data tags to be marked as words.
 
+<img src="README_pics/Screenshot_20260730_162459.png" width="600" height="1200" />
 
 
 # How to Use
@@ -275,8 +276,3 @@ Repository Overview
 The workflow will produce two types of outputs. First, it will generate all the translated files and add them to the "translations" branch. The user has the option to merge the translations branch into the main branch if they want the new documents to be easily accessible.
 
 The second output is a .zip artifact composed of PDFs from both English and non-English languages. This can be found by going to the workflow and clicking the "Summary" button.
-
-
-
-# Conclusion
-I promise you I will finish this one day.
