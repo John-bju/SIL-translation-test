@@ -90,7 +90,6 @@ In order for the GitHub workflow and Crowdin to work together, they use tokens t
 
 
 
-
 ### Adding tokens to GitHub secrets
 To add tokens as Github secrets you must be an administrator of the GitHub repository. If you are not, you need to contact one. You can tell if you are an administrator if you scroll to the top of the GitHub project webpage: there will be a tab labeled "settings." Please note this is a different GitHub settings tab than the one mentioned previously, as this tab is for the GitHub repository settings while the previous one was for GitHub account settings.
 
@@ -164,9 +163,7 @@ The reason why this repository uses this system is that it makes it incredibly e
 -->   
 
 ### Submitting Documents
-All English documents should be submitted into the `docs-en/fodt/` folder and should not be submitted anywhere else in the repository. Example `docs-en/fodt/RAB/example_filename.fodt` or `docs-en/fodt/DAB/example_filename.fodt`.
-
-All images will be put into the `images/` folder and should not be submitted anywhere else in the repository. Example `images/fr-FR/KAB/KAB02/example_filename.png` or `images/en-US/SAB/SAB07/example_filename.png`
+A guide on how to submit documents is shown below.
 
 1. Click on the "docs-en" folder on the GitHub project webpage. After that click on "fodt" and then the specific app builder the documents are for (SAB RAB KAB DAB).
 
@@ -180,6 +177,16 @@ All images will be put into the `images/` folder and should not be submitted any
 
 <img src="README_pics/Screenshot_20260730_100307.png" width="700" height="1400" />
 
+#
+##### Documents
+All English documents should be submitted into the `docs-en/fodt/(app builder)` folder and should not be submitted anywhere else in the repository.
+
+Example `docs-en/fodt/RAB/example_filename.fodt` or `docs-en/fodt/DAB/example_filename.fodt`.
+
+#### Images
+All images will be put into the `images/(language)/(app builder)` folder and should not be submitted anywhere else in the repository.
+
+Example `images/fr-FR/KAB/KAB02/example_filename.png` or `images/en-US/SAB/SAB07/example_filename.png`
 
 #
 Below is a diagram of the repository file structure with notes on what each folder does.
