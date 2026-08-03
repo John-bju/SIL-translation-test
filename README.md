@@ -166,6 +166,9 @@ The reason why this repository uses this system is that it makes it incredibly e
 ### Submitting Documents
 All submissions should be put into the "main" branch of the GitHub repository, and should be added into the following locations based on their types. Instructions on how to add files to the repository are shown below.
 
+<img src="README_pics/Screenshot_20260803_124114.png" width="700" height="1400" />
+<img src="README_pics/Screenshot_20260803_124134.png" width="700" height="1400" />
+
 All English documents should be submitted into the `docs-en/fodt/` folder and should not be submitted anywhere else in the repository. Example `docs-en/fodt/RAB/example_filename.fodt` or `docs-en/fodt/DAB/example_filename.fodt`
 
 All images will be put into the `images/` folder and should not be submitted anywhere else in the repository. Example `images/fr-FR/KAB/KAB02/example_filename.png` or `images/en-US/SAB/SAB07/example_filename.png`
