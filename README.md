@@ -117,13 +117,13 @@ In addition, the `CROWDIN_PROJECT_ID` must be manually entered into the `project
 
 #
 ### Configuring Crowdin
-To properly use Crowdin with this GitHub workflow, it is necessary to tweak certain features of the software to get the best results.
+To use Crowdin with this GitHub workflow, there are certain settings that need to be changed to get the best results.
 
 
 #### Duplicate Strings
-A setting that needs to be enabled is "Duplicate Strings." It allows two identical sentences to only be counted as one. This reduces the total word count and therefore costs.
+A setting that needs to be enabled is called "Duplicate Strings." This setting causes two sentences that are identical to be given the same translation so Crowdin can lower the total word count.
 
-To enable this, you need to go into the "settings" tab at the very right.
+To enable this setting, go into the "settings" tab at the very right of the project webpage.
 
 <img src="README_pics/Screenshot_20260720_140218.png" width="400" height="800" />
 
