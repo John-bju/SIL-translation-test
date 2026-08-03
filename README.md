@@ -147,21 +147,18 @@ Because of the methods Crowdin and GitHub use, the process of editing documents 
 
 The first difference is with the recommended document editor. While most documents are edited with Microsoft Word, this repository recommends the use of LibreOffice. LibreOffice is a free and open-source document editor which provides an identical experience to Microsoft Word. The reason for this change was to move away from the reliance on paid software. In addition, the file format used with documents has changed as well, switching from .doc or .docx to the .fodt format. This change doesn't affect the document's usage, but it requires the user to only submit documents in .fodt format.
 
-The second difference is how images are inserted into the documents. Normally, images are fully inserted into the document, with the image data being added to the document file. However, in this repository, images are inserted as image links and not full images. This means that while the image will be displayed in the document, it is just being referenced from a separate image file located outside the document. Because of this difference, the method of adding an image has slightly changed. Images are still inserted by clicking the "Insert" tab and selecting the "Image" option; however, the "Link" checkbox must also be clicked before adding the desired image.
-<!--
-###### Documents
-All documents need to be submitted in English, as Crowdin will handle all translations to non-English languages. All documents should be in .fodt format and should only be added (or modified) in `docs-en/fodt/(app builder name)/(file)`, for example, `"docs-en/fodt/SAB/Scripture-App-Builder-01-Installation-Instructions.fodt".`
+The second difference is how images are inserted into the documents. Normally, images are fully inserted into the document, with the image data being added to the document file. However, in this repository, images are inserted as image links and not full images. This means that while the image will be displayed in the document, it is just being referenced from a separate image file located outside the document. Because of this difference, the method of adding an image has slightly changed. Images are still inserted by clicking the "Insert" tab and selecting the "Image" option; however, the "Link" checkbox must also be clicked before adding the desired image. In order to keep documents from loosing their images all images should only be located in a folder next to the document. The folder must also have the naming convention shown below.
 
-###### Images
-In this repository, images are handled differently than most other documentation repositories. Images are not inserted into the documents themselves, but instead are inserted as links pointing to separate image files. This means that every document has a folder next to it that contains all the images displayed in that document. For example, "Scripture-App-Builder-01-Installation-Instructions.fodt" would be next to a folder named SAB01. This folder would have all the images the document would use. More examples of this would be "Dictionary-App-Builder-04-Distributing-Apps.fodt" next to DAB04, and "Reading-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.fodt" next to RAB07.
+`Scripture-App-Builder-01-Installation-Instructions.fodt` would be next to a folder named `SAB01`.
+
+`Dictionary-App-Builder-04-Distributing-Apps.fodt` would be next to a folder named `DAB04`.
+
+`Reading-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.fodt` would be next to a folder named `RAB07`.
 
 <img src="README_pics/Screenshot_20260715_151502.png" width="300" height="600" />
 <img src="README_pics/Screenshot_20260722_161042.png" width="300" height="600" />
 <img src="README_pics/Screenshot_20260722_161127.png" width="300" height="600" />
 
-The reason why this repository uses this system is that it makes it incredibly easy to switch out images in a document. Since screenshots containing English text cannot be translated by Crowdin, the next best solution is to replace these screenshots with ones containing text in the correct language. The GitHub workflow will automatically replace the screenshots; however, the user still needs to manually supply all screenshots. The images are located in images/(language)/(app builder name)/(image folder), for instance, "images/en-US/KAB/KAB02", and do not need to conform to a specific file format. Simply drop the images into the correct folder, and the workflow will handle the rest.
-
--->   
 
 ### Submitting Documents
 A guide on how to submit documents is shown below.
