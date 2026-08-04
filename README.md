@@ -159,6 +159,16 @@ The second difference is how images are inserted into the documents. Normally, i
 <img src="README_pics/Screenshot_20260722_161042.png" width="300" height="600" />
 <img src="README_pics/Screenshot_20260722_161127.png" width="300" height="600" />
 
+One more thing to note is that all image names must be kept consistent throughout all languages. If an image was named "example.png" it should not be renamed as "example-fr.png" for the french version. Files should never be renamed in this way as the document only looks for a file named "example.png" and if that exact file name is not found it will display a broken image link. This naming requirement only applies between different languages not between the different app builders.
+
+images
+├───────────┐
+en-US       fr-FR  
+    |           |
+    ├─ DAB      ├─ DAB
+    ├─ KAB      ├─ KAB 
+    ├─ RAB      ├─ RAB
+    └─ SAB      └─ SAB
 
 ### Submitting Documents
 A guide on how to submit documents is shown below.
