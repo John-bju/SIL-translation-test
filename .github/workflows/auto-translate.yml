@@ -84,7 +84,9 @@ jobs:
               outdir2="$(dirname "$outdir")"
               project_dirname="$(basename "$outdir")"
               project_dirname2="$(basename "$outdir2")"
-              cp -fr $outdir docs/$dir/fodt/$project_dirname2 && echo copied $outdir to docs/$dir/fodt/$project_dirname2
+              cp -fr $outdir docs/$dir/fodt/$project_dirname2
+              echo copied $outdir to docs/$dir/fodt/$project_dirname2
+              echo $outdir $outdir2 $project_dirname $project_dirname2 $dir $dirs
             done
           done
 
