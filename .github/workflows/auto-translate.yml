@@ -77,16 +77,16 @@ jobs:
 
       - name: Copy image folders
         run: |
-          dirs="$(ls docs/)"
-          for dir in $dirs; do
+          docs_directories="$(ls docs/)"
+          for current_docs_dir in $docs_directories; do
             find images -type f -name "*" | while read file; do
               outdir="$(dirname "$file")"
               outdir2="$(dirname "$outdir")"
               project_dirname="$(basename "$outdir")"
               project_dirname2="$(basename "$outdir2")"
-              cp -fr $outdir docs/$dir/fodt/$project_dirname2
-              echo copied $outdir to docs/$dir/fodt/$project_dirname2
-              echo $outdir $outdir2 $project_dirname $project_dirname2 $dir $dirs
+              cp -fr $outdir docs/$current_docs_dir/fodt/$project_dirname2
+              # echo copied $outdir to docs/$current_docs_dir/fodt/$project_dirname2
+              echo $outdir $outdir2 $project_dirname $project_dirname2 $current_docs_dir
             done
           done
 
