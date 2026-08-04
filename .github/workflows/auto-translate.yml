@@ -87,7 +87,15 @@ jobs:
               # cp -fr $outdir docs/$current_docs_dir/fodt/$project_dirname2
               # echo copied $outdir to docs/$current_docs_dir/fodt/$project_dirname2
               # echo $outdir $outdir2 $project_dirname $project_dirname2 $current_docs_dir
-              echo $outdir docs/$current_docs_dir/fodt/$project_dirname2 $file
+              
+              outdir="$(dirname "$file")"
+              outdir2="$(dirname "$outdir")"
+              outdir3="$(dirname "$outdir2")"
+              outdir4="$(dirname "$outdir3")"
+
+              echo $outdir $outdir2 $outdir3 $outdir4
+              
+              echo $outdir docs/$current_docs_dir/fodt/$project_dirname2
             done
           done
 
