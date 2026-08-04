@@ -7,7 +7,7 @@ This repository is for documentation of Scripture App Builder, Reading App Build
 
 
 
-# Setup
+# Initial setup
 
 ### Description
 
