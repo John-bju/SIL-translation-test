@@ -88,13 +88,9 @@ jobs:
               project_dirname2="$(basename "$outdir2")"
               project_dirname3="$(basename "$outdir3")"
               
-              # cp -fr $outdir docs/$current_docs_dir/fodt/$project_dirname2
-
               if [[ "$project_dirname3" != "en-US" ]]; then
                 cp -fr $outdir docs/$project_dirname3/fodt/$project_dirname2
               fi
-              
-              # rm -rf docs/en-US/
             done
           done
 
@@ -158,5 +154,4 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
           git diff --staged --quiet || git commit -m "chore: add generated files [skip ci]"
-#          git push --set-upstream origin translations
-
+          git push --set-upstream origin translations
