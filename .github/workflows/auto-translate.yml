@@ -89,6 +89,10 @@ jobs:
               project_dirname3="$(basename "$outdir3")"
               
               # cp -fr $outdir docs/$current_docs_dir/fodt/$project_dirname2
+
+              if [[ "$project_dirname3" == "en-US" ]]; then
+                echo "Equal"
+              fi
               
               cp -fr $outdir docs/$project_dirname3/fodt/$project_dirname2
               rm -rf docs/en-US/
