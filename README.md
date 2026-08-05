@@ -161,14 +161,24 @@ The second difference is how images are inserted into the documents. Normally, i
 
 One more thing to note is that all image names must be kept consistent throughout all languages. If an image was named "example.png" it should not be renamed as "example-fr.png" for the french version. Files should never be renamed in this way as the document only looks for a file named "example.png" and if that exact file name is not found it will display a broken image link. This naming requirement only applies between different languages not between the different app builders.
 
+This is an example of how the image names could be used.
+```
 images
-├───────────┐
-en-US       fr-FR  
-    |           |
-    ├─ DAB      ├─ DAB
-    ├─ KAB      ├─ KAB 
-    ├─ RAB      ├─ RAB
-    └─ SAB      └─ SAB
+├───────────────────────────┐
+en-US                       fr-FR
+    |                           |
+    ├─ DAB                      ├─ DAB
+    |    └─ example1.png        |    └─ example1.png
+    |                           |
+    ├─ KAB                      ├─ KAB 
+    |    └─ example-A.png       |    └─ example-A.png
+    |                           |
+    ├─ RAB                      ├─ RAB
+    |    └─ example-87.png      |    └─ example-87.png
+    |                           |
+    └─ SAB                      └─ SAB
+         └─ example_file.png         └─ example_file.png
+```
 
 ### Submitting Documents
 A guide on how to submit documents is shown below.
