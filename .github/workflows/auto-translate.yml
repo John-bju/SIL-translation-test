@@ -90,6 +90,7 @@ jobs:
               
               if [[ "$project_dirname3" != "en-US" ]]; then
                 cp -fr $outdir docs/$project_dirname3/fodt/$project_dirname2
+                echo copied: $outdir to: docs/$project_dirname3/fodt/$project_dirname2
               fi
             done
           done
