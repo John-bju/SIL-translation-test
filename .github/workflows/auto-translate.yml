@@ -92,7 +92,8 @@ jobs:
               project_dirname3="$(basename "$outdir3")"
               
               echo $outdir $outdir2 $outdir3 $project_dirname3 $current_docs_dir
-              
+
+              # echo $outdir docs/$project_dirname3/fodt/$project_dirname2
               # echo $outdir docs/$current_docs_dir/fodt/$project_dirname2
             done
           done
