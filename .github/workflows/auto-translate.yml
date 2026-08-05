@@ -89,9 +89,9 @@ jobs:
               # echo $outdir $outdir2 $project_dirname $project_dirname2 $current_docs_dir
               
               outdir3="$(dirname "$outdir2")"
-              outdir4="$(dirname "$outdir3")"
-
-              echo $outdir $outdir2 $outdir3 $outdir4 $project_dirname $project_dirname2
+              project_dirname3="$(basename "$outdir3")"
+              
+              echo $outdir $outdir2 $outdir3 $project_dirname3 $current_docs_dir
               
               # echo $outdir docs/$current_docs_dir/fodt/$project_dirname2
             done
