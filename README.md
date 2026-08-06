@@ -148,7 +148,7 @@ The first difference is with the recommended document editor. While most documen
 
 To save a file as a .fodt in LibreOffice click the "file" tab at the top of the screen. Then find the "Save as..." button and select it or press ctrl+shift+s. 
 
-<img src="README_pics/ddd.png" width="300" height="600" />
+<img src="README_pics/ddd.png" width="200" height="400" />
 
 After that a menu will open asking for the file name. The file name can be anything but the extension needs to be typed in as .fodt. Click the "Save" button to save the document as an fodt file.
 
