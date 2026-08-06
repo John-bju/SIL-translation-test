@@ -159,6 +159,11 @@ The second difference is how images are inserted into the documents. Normally, i
 <img src="README_pics/Screenshot_20260722_161042.png" width="300" height="600" />
 <img src="README_pics/Screenshot_20260722_161127.png" width="300" height="600" />
 
+
+
+<img src="README_pics/Screenshot_20260806_113105.png" width="500" height="1000" />
+<img src="README_pics/Screenshot_20260806_113235.png" width="500" height="1000" />
+
 One more thing to note is that all image names must be kept consistent throughout all languages. If an image was named "example.png" it should not be renamed as "example-fr.png" for the french version. Files should never be renamed in this way as the document only looks for a file named "example.png" and if that exact file name is not found it will display a broken image link. This naming requirement only applies between different languages not between the different app builders.
 
 This is an example of how the image names should be used.
