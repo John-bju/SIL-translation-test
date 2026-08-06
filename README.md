@@ -195,6 +195,7 @@ en-US                       fr-FR
 
 One last aspect of the image files that needs to be clarified is unofficial naming scheme. Currently all image files have a number for their name; this was done to make the original image linking to the documents easier. However, going forward this **DOES NOT** need to be followed. As long as file names still follow he rules listed above, there is no official naming scheme. For instance, a description of the image is valid, random words taken from the dictionary is valid, and "ksjdhglusnrlhjs" is valid. If someone wants to continue the number system then just add one to the last number.
 
+#
 ### Submitting Documents
 A guide on how to submit documents is shown below.
 
