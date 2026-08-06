@@ -148,11 +148,11 @@ The first difference is with the recommended document editor. While most documen
 
 To save a file as a .fodt in LibreOffice click the "file" tab at the top of the screen. Then find the "Save as..." button and select it or press ctrl+shift+s. 
 
-<img src="ddd.png" width="400" height="800" />
+<img src="README_pics/ddd.png" width="400" height="800" />
 
 After that a menu will open asking for the file name. The file name can be anything but the extension needs to be typed in as .fodt. Click the "Save" button to save the document as an fodt file.
 
-<img src="ddd2.png" width="400" height="800" />
+<img src="README_pics/ddd2.png" width="400" height="800" />
 
 
 The second difference is how images are inserted into the documents. Normally, images are fully inserted into the document, with the image data being added to the document file. However, in this repository, images are inserted as image links and not full images. This means that while the image will be displayed in the document, it is just being referenced from a separate image file located outside the document. Because of this difference, the method of adding an image has slightly changed. Images are still inserted by clicking the "Insert" tab and selecting the "Image" option; however, the "Link" checkbox must also be clicked before adding the desired image. 
