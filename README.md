@@ -147,7 +147,12 @@ Because of the methods Crowdin and GitHub use, the process of editing documents 
 
 The first difference is with the recommended document editor. While most documents are edited with Microsoft Word, this repository recommends the use of LibreOffice. LibreOffice is a free and open-source document editor which provides an identical experience to Microsoft Word. The reason for this change was to move away from the reliance on paid software. In addition, the file format used with documents has changed as well, switching from .doc or .docx to the .fodt format. This change doesn't affect the document's usage, but it requires the user to only submit documents in .fodt format.
 
-The second difference is how images are inserted into the documents. Normally, images are fully inserted into the document, with the image data being added to the document file. However, in this repository, images are inserted as image links and not full images. This means that while the image will be displayed in the document, it is just being referenced from a separate image file located outside the document. Because of this difference, the method of adding an image has slightly changed. Images are still inserted by clicking the "Insert" tab and selecting the "Image" option; however, the "Link" checkbox must also be clicked before adding the desired image. In order to keep documents from loosing their images all images should only be located in a folder next to the document. The folder must also have the naming convention shown below.
+The second difference is how images are inserted into the documents. Normally, images are fully inserted into the document, with the image data being added to the document file. However, in this repository, images are inserted as image links and not full images. This means that while the image will be displayed in the document, it is just being referenced from a separate image file located outside the document. Because of this difference, the method of adding an image has slightly changed. Images are still inserted by clicking the "Insert" tab and selecting the "Image" option; however, the "Link" checkbox must also be clicked before adding the desired image. 
+
+<img src="README_pics/Screenshot_20260806_113105.png" width="700" height="1400" />
+<img src="README_pics/Screenshot_20260806_113235.png" width="500" height="1000" />
+
+In order to keep documents from loosing their images all images should only be located in a folder next to the document. The folder must also have the naming convention shown below.
 
 `Scripture-App-Builder-01-Installation-Instructions.fodt` would be next to a folder named `SAB01`.
 
@@ -158,11 +163,6 @@ The second difference is how images are inserted into the documents. Normally, i
 <img src="README_pics/Screenshot_20260715_151502.png" width="300" height="600" />
 <img src="README_pics/Screenshot_20260722_161042.png" width="300" height="600" />
 <img src="README_pics/Screenshot_20260722_161127.png" width="300" height="600" />
-
-
-
-<img src="README_pics/Screenshot_20260806_113105.png" width="500" height="1000" />
-<img src="README_pics/Screenshot_20260806_113235.png" width="500" height="1000" />
 
 One more thing to note is that all image names must be kept consistent throughout all languages. If an image was named "example.png" it should not be renamed as "example-fr.png" for the french version. Files should never be renamed in this way as the document only looks for a file named "example.png" and if that exact file name is not found it will display a broken image link. This naming requirement only applies between different languages not between the different app builders.
 
