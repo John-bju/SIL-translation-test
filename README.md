@@ -159,6 +159,7 @@ After the image file is selected click the "open" button to add the file.
 <img src="README_pics/Screenshot_20260806_122015.png" width="500" height="1000" />
 
 #
+###### Image names
 Another important aspect of inserting images is the name of the image file. In order to keep the documents from losing their images, all images should only be located in a folder next to the document. The folder must also have the naming convention shown below.
 
 `Scripture-App-Builder-01-Installation-Instructions.fodt` would be next to a folder named `SAB01`.
@@ -173,24 +174,26 @@ Another important aspect of inserting images is the name of the image file. In o
 
 One more thing to note is that all image names must be kept consistent throughout all languages. If an image was named "example.png" it should not be renamed as "example-fr.png" for the french version. Files should never be renamed in this way as the document only looks for a file named "example.png" and if that exact file name is not found it will display a broken image link. This naming requirement only applies between different languages not between the different app builders.
 
-This is an example of how the image names should be used.
+This is an example of how the image names should be used. Between the app builders the file names can be anything, but between the languages they need to match.
 ```
 images
 ├───────────────────────────┐
 en-US                       fr-FR
     |                           |
     ├─ DAB                      ├─ DAB
-    |    └─ example1.png        |    └─ example1.png
+    |    └─ example#1.png        |    └─ example#1.png
     |                           |
     ├─ KAB                      ├─ KAB 
-    |    └─ example-A.png       |    └─ example-A.png
+    |    └─ example-A.tiff       |    └─ example-A.tiff
     |                           |
     ├─ RAB                      ├─ RAB
-    |    └─ example-87.png      |    └─ example-87.png
+    |    └─ example-87.jpeg      |    └─ example-87.jpeg
     |                           |
     └─ SAB                      └─ SAB
          └─ example_file.png         └─ example_file.png
 ```
+
+One last aspect of the image files that needs to be clarified is unofficial naming scheme. Currently all image files have a number for their name; this was done to make the original image linking to the documents easier. However, going forward this **DOES NOT** need to be followed. As long as file names still follow he rules listed above, there is no official naming scheme. For instance, a description of the image is valid, random words taken from the dictionary is valid, and "ksjdhglusnrlhjs" is valid. If someone wants to continue the number system then just add one to the last number.
 
 ### Submitting Documents
 A guide on how to submit documents is shown below.
