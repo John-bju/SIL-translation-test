@@ -161,7 +161,7 @@ The second difference is how images are inserted into the documents. Normally, i
 
 One more thing to note is that all image names must be kept consistent throughout all languages. If an image was named "example.png" it should not be renamed as "example-fr.png" for the french version. Files should never be renamed in this way as the document only looks for a file named "example.png" and if that exact file name is not found it will display a broken image link. This naming requirement only applies between different languages not between the different app builders.
 
-This is an example of how the image names could be used.
+This is an example of how the image names should be used.
 ```
 images
 ├───────────────────────────┐
