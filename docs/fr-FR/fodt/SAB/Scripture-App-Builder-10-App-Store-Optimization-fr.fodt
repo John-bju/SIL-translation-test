@@ -6,10 +6,10 @@
 <meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">400897</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">32016</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">22386</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">44743</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">22782</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
   </config:config-item-set>
@@ -96,7 +96,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -120,7 +120,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">4849026</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4967832</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -150,7 +150,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Times New Roman2" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Times New Roman2" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -2337,7 +2337,7 @@ Description générée automatiquement</svg:desc>
    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
    <text:list text:style-name="WWNum5">
     <text:list-item>
-     <text:p text:style-name="P12" loext:marker-style-name="T3"><text:span text:style-name="T5">Someone is looking for a Bible app for a specific language</text:span><text:span text:style-name="T3">, say Minyanka. Dans un tel cas, ils peuvent utiliser des termes de recherche tels que « Minyanka Bible », « Bible en langue minyanka », « Minyanka New Testament », « Minyanka Scriptures ». Vous voudrez vous assurer que les éléments de la page de votre magasin contiennent ces mots-clés. Think about the different terms people use for God&apos;s Word in your context, e.g. “Scriptures”, “Holy Book”, “Bible”, “Gospel̠”, “Injil”, “New Testament”, etc.</text:span></text:p>
+     <text:p text:style-name="P12" loext:marker-style-name="T3"><text:span text:style-name="T5">Someone is looking for a Bible app for a specific language</text:span><text:span text:style-name="T3">, say Minyanka. Dans un tel cas, ils peuvent utiliser des termes de recherche tels que « Minyanka Bible », « Bible en langue minyanka », « Minyanka New Testament », « Minyanka Scriptures ». Vous voudrez vous assurer que les éléments de la page de votre magasin contiennent ces mots-clés. Pensez aux différents termes que les gens utilisent pour la Parole de Dieu dans votre contexte . . « Écritures », « Livre Saint », « Bible », « Évangile », « Injil », « Nouveau Testament », etc.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3"/></text:p>
@@ -2473,37 +2473,37 @@ Description générée automatiquement</svg:desc>
    </text:list>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3"/></text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc77935158"/><text:span text:style-name="T3">Description</text:span><text:bookmark-end text:name="_Toc77935158"/><text:span text:style-name="T3"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Réfléchissez aux types de descriptions d&apos;applications qui attirent les utilisateurs et aux types de descriptions qui sont déconnectés. Écrivez la description de l&apos;application d&apos;une manière claire et attrayante. Cela ne devrait pas ressembler à un manuel technique ou à un document juridique. It needs to explain the app&apos;s unique features in such a way that they see that it is an app they will enjoy and find useful.</text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Réfléchissez aux types de descriptions d&apos;applications qui attirent les utilisateurs et aux types de descriptions qui sont déconnectés. Écrivez la description de l&apos;application d&apos;une manière claire et attrayante. Cela ne devrait pas ressembler à un manuel technique ou à un document juridique. Il faut que explique les fonctionnalités uniques de l&apos;application de telle sorte qu&apos;elle voit qu&apos;il s&apos;agit d&apos;une application qu&apos;elle appréciera et qu&apos;elle sera utile.</text:span></text:p>
    <text:p text:style-name="P36" loext:marker-style-name="T3"><text:s/></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Make sure the description is written in a language your potential users will understand.</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Assurez-vous que la description est écrite dans une langue que vos utilisateurs potentiels comprendront.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc77935159"/><text:span text:style-name="T3">Screenshots</text:span><text:bookmark-end text:name="_Toc77935159"/><text:span text:style-name="T3"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Screenshots capture our attention. Your potential users will glance at the screenshots to see whether the app looks good or not. Here are some tips on choosing good screenshots:</text:span><text:span text:style-name="T3"/></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc77935159"/><text:span text:style-name="T3">Captures d&apos;écran</text:span><text:bookmark-end text:name="_Toc77935159"/><text:span text:style-name="T3"/></text:h>
+   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Des captures d&apos;écran captent notre attention. Vos utilisateurs potentiels jetteront un œil sur les captures d&apos;écran pour voir si l&apos;application a l&apos;air bonne ou non. Voici quelques conseils pour choisir de bonnes captures d&apos;écran :</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
    <text:list text:style-name="WWNum10">
     <text:list-item>
-     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Include at least five screenshots, rather than being satisfied with the minimum number.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P17" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Inclure au moins cinq captures d&apos;écran, plutôt que d&apos;être satisfait du nombre minimum.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P18" loext:marker-style-name="T3"><text:span text:style-name="T3">Choose screenshots that highlight the most interesting features of the app.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P18" loext:marker-style-name="T3"><text:span text:style-name="T3">Choisissez des captures d&apos;écran qui mettent en évidence les fonctionnalités les plus intéressantes de l&apos;application.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P18" loext:marker-style-name="T3"><text:span text:style-name="T3">Screenshots that have colour and images will usually be more interesting than those which just contain text.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P18" loext:marker-style-name="T3"><text:span text:style-name="T3">Les captures d&apos;écran qui ont des couleurs et des images seront généralement plus intéressantes que celles qui contiennent du texte.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P18" loext:marker-style-name="T3"><text:span text:style-name="T3">Arrange the screenshots in order of “interestingness”. Put the most attractive ones first.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P18" loext:marker-style-name="T3"><text:span text:style-name="T3">Organiser les captures d&apos;écran dans l&apos;ordre de &quot;intéressant&quot;. Mettez d&apos;abord les plus attrayantes.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P18" loext:marker-style-name="T3"><text:span text:style-name="T3">Be ruthless about deleting screenshots that are boring and do not really communicate much that is interesting to a potential user.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P18" loext:marker-style-name="T3"><text:span text:style-name="T3">Soyez impitoyable de supprimer des captures d&apos;écran qui sont ennuyeuses et ne communiquent pas vraiment beaucoup qui est intéressant pour un utilisateur potentiel.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">You may have noticed that some app store pages use </text:span><text:span text:style-name="T6">enhanced screenshots</text:span><text:span text:style-name="T3">. These are screenshots that are framed with captions and coloured backgrounds. For example, see the Skype app screenshots:</text:span></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Vous avez peut-être remarqué que certaines pages de la boutique d&apos;applications utilisent </text:span><text:span text:style-name="T6">des captures d&apos;écran</text:span><text:span text:style-name="T3"> améliorées. Ce sont des captures d&apos;écran encadrées avec des légendes et des fonds colorés. Par exemple, voir les captures d&apos;écran de l&apos;application Skype :</text:span></text:p>
    <text:p text:style-name="P36" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><draw:frame draw:style-name="fr8" draw:name="Picture 25" text:anchor-type="as-char" svg:width="5.7362in" svg:height="3.0819in" draw:z-index="0"><draw:image xlink:href="SAB10/8.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">and the Kindle app screenshots:</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">et les captures d&apos;écran de l&apos;application Kindle :</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><draw:frame draw:style-name="fr7" draw:name="Picture 4" text:anchor-type="as-char" svg:width="5.7264in" svg:height="3.1693in" draw:z-index="0"><draw:image xlink:href="SAB10/9.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
@@ -2527,22 +2527,22 @@ Description générée automatiquement</svg:desc>
    </text:list>
    <text:p text:style-name="P22" loext:marker-style-name="T3"/>
    <text:p text:style-name="P3" loext:marker-style-name="T3"><draw:frame draw:style-name="fr6" draw:name="Picture 10" text:anchor-type="as-char" svg:width="5.0598in" svg:height="3.2362in" draw:z-index="0"><draw:image xlink:href="SAB10/10.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
-     <svg:desc>Graphical user interface, application
+     <svg:desc>Interface utilisateur graphique, application
 
-Description automatically generated</svg:desc>
+Description générée automatiquement</svg:desc>
     </draw:frame></text:p>
    <text:p text:style-name="P36" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
-   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Some of these are free. Others require a subscription.</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Certaines d&apos;entre elles sont gratuites. D&apos;autres nécessitent un abonnement.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Here is an example of enhanced screenshots for a Scripture app:</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T3"><draw:frame draw:style-name="fr5" draw:name="Picture 26" text:anchor-type="as-char" svg:width="5.7075in" svg:height="3.1626in" draw:z-index="0"><draw:image xlink:href="SAB10/11.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
-   <text:h text:style-name="P6" text:outline-level="2"><text:bookmark-start text:name="_Toc77935160"/><text:soft-page-break/>How can we influence off-metadata factors to optimise the conversion rate?<text:bookmark-end text:name="_Toc77935160"/></text:h>
-   <text:p text:style-name="P45" loext:marker-style-name="T3"><text:span text:style-name="T3">Off-meta data factors include the number of installs, ratings, and reviews.</text:span><text:span text:style-name="T3"/></text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc77935161"/><text:span text:style-name="T3">Number of installs</text:span><text:bookmark-end text:name="_Toc77935161"/><text:span text:style-name="T3"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">If someone sees an app that was released some ago but has only a few installs, they might think twice about installing it. Why isn’t it more popular? Why aren’t people interested in installing it? Getting more installs can increase the conversion rate.</text:span><text:span text:style-name="T3"/></text:p>
+   <text:h text:style-name="P6" text:outline-level="2"><text:bookmark-start text:name="_Toc77935160"/><text:soft-page-break/>Comment pouvons-nous influencer les facteurs hors métadonnées pour optimiser le taux de conversion ?<text:bookmark-end text:name="_Toc77935160"/></text:h>
+   <text:p text:style-name="P45" loext:marker-style-name="T3"><text:span text:style-name="T3">Les facteurs de données off-meta comprennent le nombre d&apos;installations, de notes et de révisions.</text:span><text:span text:style-name="T3"/></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc77935161"/><text:span text:style-name="T3">Nombre d’installations</text:span><text:bookmark-end text:name="_Toc77935161"/><text:span text:style-name="T3"/></text:h>
+   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Si quelqu&apos;un voit une application qui a été publiée il y a quelque temps, mais qui n&apos;a que quelques installations, il peut penser à l&apos;installer. Pourquoi n&apos;est-ce pas plus populaire? Pourquoi les gens ne sont-ils pas intéressés à l’installer ? Obtenir plus d&apos;installations peut augmenter le taux de conversion.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
    <text:p text:style-name="P3" loext:marker-style-name="T3"><draw:frame draw:style-name="fr4" draw:name="Picture 8" text:anchor-type="as-char" svg:width="3.7638in" svg:height="2.1366in" draw:z-index="0"><draw:image xlink:href="SAB10/12.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame><text:s/></text:p>
@@ -2571,45 +2571,45 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P36" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
-   <text:p text:style-name="P46" loext:marker-style-name="T3"><text:span text:style-name="T3">How can you increase the number of app installs?</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="P46" loext:marker-style-name="T3"><text:span text:style-name="T3">Comment pouvez-vous augmenter le nombre d&apos;installations?</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P40" loext:marker-style-name="T3"/>
    <text:list text:style-name="WWNum11">
     <text:list-item>
-     <text:p text:style-name="P23" loext:marker-style-name="T3"><text:span text:style-name="T3">Apply the ASO techniques described this document to optimize app discoverability and conversion.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P23" loext:marker-style-name="T3"><text:span text:style-name="T3">Appliquez les techniques ASO décrites dans ce document pour optimiser la découverte et la conversion d&apos;applications.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P24" loext:marker-style-name="T3"><text:span text:style-name="T3">Promote your app well among potential users, using social media, email, and announcements in local gatherings.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P24" loext:marker-style-name="T3"><text:span text:style-name="T3">Faites la promotion de votre application parmi les utilisateurs potentiels, en utilisant les médias sociaux, les e-mails et les annonces lors de réunions locales.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P24" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Use paid marketing campaigns, e.g. Google Ads or Facebook Ads. Just a small investment can make a big difference.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P24" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Utilisez des campagnes de marketing payantes, par exemple Google Ads ou Facebook Ads. Un investissement modeste peut faire une grande différence.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc77935162"/><text:span text:style-name="T3">Ratings</text:span><text:bookmark-end text:name="_Toc77935162"/><text:span text:style-name="T3"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">If an app has a rating less than 4.0, it will appear less attractive to potential users. We want to do what we can to ensure that the rating stays high.</text:span><text:span text:style-name="T3"/></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc77935162"/><text:span text:style-name="T3">Évaluations</text:span><text:bookmark-end text:name="_Toc77935162"/><text:span text:style-name="T3"/></text:h>
+   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Si une application a une note inférieure à 4.0, elle semblera moins attrayante pour les utilisateurs potentiels. Nous voulons faire ce que nous pouvons pour garantir que la note reste élevée.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
    <text:p text:style-name="P3" loext:marker-style-name="T3"><draw:frame draw:style-name="fr3" draw:name="Picture 2" text:anchor-type="as-char" svg:width="4.0756in" svg:height="1.8689in" draw:z-index="0"><draw:image xlink:href="SAB10/13.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">How can you keep the app rating high?</text:span><text:span text:style-name="T3"/></text:p>
+   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:soft-page-break/><text:span text:style-name="T3">Comment pouvez-vous garder la note élevée de l&apos;application?</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
    <text:list text:style-name="WWNum12">
     <text:list-item>
-     <text:p text:style-name="P25" loext:marker-style-name="T3"><text:span text:style-name="T3">Make sure that you have high quality and unique app content.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P25" loext:marker-style-name="T3"><text:span text:style-name="T3">Assurez-vous que vous avez un contenu d&apos;application unique et de haute qualité.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P26" loext:marker-style-name="T3"><text:span text:style-name="T3">Check that the spelling is correct and use Paratext checks for Scripture.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P26" loext:marker-style-name="T3"><text:span text:style-name="T3">Vérifiez que l&apos;orthographe est correcte et utilisez les vérifications Paratext pour l&apos;Écriture.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P26" loext:marker-style-name="T3"><text:span text:style-name="T3">Ensure that the app description describes accurately what the app does, so that users do not feel misled or disappointed after they install the app.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P26" loext:marker-style-name="T3"><text:span text:style-name="T3">Assurez-vous que la description de l&apos;application décrit avec précision ce que fait l&apos;application, afin que les utilisateurs ne se sentent pas induits en erreur ou déçus après avoir installé l&apos;application.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P26" loext:marker-style-name="T3"><text:span text:style-name="T3">Ask people you know to rate the app - as long as they can do so honestly, i.e. avoid asking a friend to rate an app for a language they don&apos;t understand.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P26" loext:marker-style-name="T3"><text:span text:style-name="T3">Demandez aux gens que vous connaissez d&apos;évaluer l&apos;application - aussi longtemps qu&apos;ils peuvent le faire honnêtement, i. . Évitez de demander à un ami de noter une application pour une langue qu&apos;il ne comprend pas.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc77935163"/><text:soft-page-break/><text:span text:style-name="T3">Reviews</text:span><text:bookmark-end text:name="_Toc77935163"/><text:span text:style-name="T3"/></text:h>
-   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">It is always interesting to see what users are saying about the app. Lots of enthusiastic and positive reviews can increase the conversion rate. Bad reviews can turn people away.</text:span><text:span text:style-name="T3"/></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3" loext:marker-style-name="T3"><text:bookmark-start text:name="_Toc77935163"/><text:soft-page-break/><text:span text:style-name="T3">Revues</text:span><text:bookmark-end text:name="_Toc77935163"/><text:span text:style-name="T3"/></text:h>
+   <text:p text:style-name="Standard" loext:marker-style-name="T3"><text:span text:style-name="T3">Il est toujours intéressant de voir ce que les utilisateurs disent à propos de l&apos;application. De nombreux avis enthousiastes et positifs peuvent augmenter le taux de conversion. Les mauvais commentaires peuvent éloigner les gens.</text:span><text:span text:style-name="T3"/></text:p>
    <text:p text:style-name="P36" loext:marker-style-name="T3"/>
    <text:p text:style-name="P3" loext:marker-style-name="T3"><draw:frame draw:style-name="fr2" draw:name="Image1" text:anchor-type="as-char" svg:width="4.7016in" svg:height="2.3508in" draw:z-index="0"><draw:image xlink:href="SAB10/14.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame><text:s/></text:p>
@@ -2619,22 +2619,22 @@ Description automatically generated</svg:desc>
    <text:p text:style-name="P36" loext:marker-style-name="T3"><text:soft-page-break/></text:p>
    <text:list text:style-name="WWNum13">
     <text:list-item>
-     <text:p text:style-name="P27" loext:marker-style-name="T3"><text:span text:style-name="T3">Ask people you know to write a review of the app - as long as they can do so honestly, i.e. avoid asking a friend to rate an app for a language they don&apos;t understand. It is more convincing if the names and photos of those reviewing the app are obviously from the language community.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P27" loext:marker-style-name="T3"><text:span text:style-name="T3">Demandez aux gens que vous connaissez d&apos;écrire un avis sur l&apos;application - tant qu&apos;ils peuvent le faire honnêtement, i. . Évitez de demander à un ami de noter une application pour une langue qu&apos;il ne comprend pas. Il est plus convaincant que les noms et les photos de ceux qui passent en revue l&apos;application proviennent évidemment de la communauté linguistique.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P28" loext:marker-style-name="T3"><text:span text:style-name="T3">If someone tells you that they like the app, encourage them to write a review on the store page.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P28" loext:marker-style-name="T3"><text:span text:style-name="T3">Si quelqu&apos;un vous dit qu&apos;il aime l&apos;application, encouragez-lui à écrire un avis sur la page de la boutique.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P28" loext:marker-style-name="T3"><text:span text:style-name="T3">Respond to user reviews as much as possible, especially those that are longer (not necessarily the ones that say something like “Good app!”)</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P28" loext:marker-style-name="T3"><text:span text:style-name="T3">Répondre aux avis des utilisateurs autant que possible, surtout ceux qui sont plus longs (pas nécessairement ceux qui disent quelque chose comme “Une bonne application ! )</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P28" loext:marker-style-name="T3"><text:span text:style-name="T3">If someone leaves a negative review, answer graciously, and do not get into an argument.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P28" loext:marker-style-name="T3"><text:span text:style-name="T3">Si quelqu&apos;un quitte un examen négatif, répondez gracieusement et n&apos;entrez pas dans un argument.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P28" loext:marker-style-name="T3"><text:span text:style-name="T3">Sometimes reviews can indicate that you have not explained the contents of the app clearly enough in the description. A common comment received on Scripture apps is, “It’s only the New Testament, where is the Old Testament?”. Such comments show you that you need to make it clearer that the app is the New Testament, and that you need to say something about if/when the Old Testament is coming.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P28" loext:marker-style-name="T3"><text:span text:style-name="T3">Parfois, les avis peuvent indiquer que vous n&apos;avez pas expliqué le contenu de l&apos;application assez clairement dans la description. Un commentaire commun reçu sur les applications bibliques est : « Ce n’est que le Nouveau Testament, où est l’Ancien Testament ? ». Ces commentaires vous montrent que vous avez besoin de préciser que l&apos;application est le Nouveau Testament, et que vous devez dire quelque chose à propos du moment où l&apos;Ancien Testament arrive.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P28" loext:marker-style-name="T3"><text:span text:style-name="T3">If people have good ideas about possible enhancements, please let the App Builder developers know.</text:span><text:span text:style-name="T3"/></text:p>
+     <text:p text:style-name="P28" loext:marker-style-name="T3"><text:span text:style-name="T3">Si les gens ont de bonnes idées sur les améliorations possibles, veuillez en informer les développeurs du constructeur d&apos;applications.</text:span><text:span text:style-name="T3"/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P41" loext:marker-style-name="T3"><text:soft-page-break/></text:p>

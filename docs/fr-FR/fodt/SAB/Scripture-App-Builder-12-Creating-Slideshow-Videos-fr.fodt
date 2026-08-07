@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:title>Scripture App Builder: Creating Slideshow Videos</dc:title>
+ <office:meta><dc:title>Éditeur d&apos;applications bibliques : Création de vidéos diaporamas</dc:title>
 <meta:initial-creator>Richard Margetts</meta:initial-creator><meta:editing-cycles>31</meta:editing-cycles><meta:print-date>2021-12-06T16:58:00</meta:print-date><meta:creation-date>2022-08-29T17:34:00</meta:creation-date><dc:date>2026-07-28T12:30:53.041916482</dc:date><meta:editing-duration>PT10M52S</meta:editing-duration><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="15" meta:object-count="0" meta:page-count="21" meta:paragraph-count="107" meta:word-count="1056" meta:character-count="6287" meta:non-whitespace-character-count="5298"/>
 <meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">340360</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">32016</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">22386</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">44743</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">22782</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
   </config:config-item-set>
@@ -96,7 +96,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -120,7 +120,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">6910228</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">7020742</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -154,7 +154,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Calibri" fo:font-size="11pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Calibri2" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="DejaVu Sans" style:font-size-complex="11pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -2216,7 +2216,7 @@ Description générée automatiquement</svg:desc>
    <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="https://www.youtube.com/watch?v=oY3BrpoVbGI&amp;list=PLoDMmx9LIxpPcT2qrXQXAkda5pcvuWIdh" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:soft-page-break/><text:span text:style-name="Internet_20_link">Jésus calme la tempête – dans le langage Juni Kuin du Pérou</text:span></text:a></text:p>
    <text:p text:style-name="Standard"><text:line-break/>Les vidéos sont des fichiers MP4 qui peuvent être partagés avec d&apos;autres, téléchargés sur YouTube ou Vimeo, ou intégrés dans une application biblique.</text:p>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list205160434580350" text:continue-numbering="true" text:style-name="WWNum17">
+   <text:list xml:id="list164755122641077" text:continue-numbering="true" text:style-name="WWNum17">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2235,7 +2235,7 @@ Description générée automatiquement</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
-   <text:list text:continue-list="list205160434580350" text:style-name="WWNum17">
+   <text:list text:continue-list="list164755122641077" text:style-name="WWNum17">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2300,7 +2300,7 @@ Description générée automatiquement</svg:desc>
    </table:table>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list205159330976012" text:continue-numbering="true" text:style-name="WWNum17">
+   <text:list xml:id="list164755982324240" text:continue-numbering="true" text:style-name="WWNum17">
     <text:list-item>
      <text:h text:style-name="P23" text:outline-level="1"><text:bookmark-start text:name="_Toc112848940"/>Configuration des vidéos du diaporama<text:bookmark-end text:name="_Toc112848940"/> </text:h>
     </text:list-item>
@@ -2316,7 +2316,7 @@ Description générée automatiquement</svg:desc>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list205158815654368" text:continue-list="list205159330976012" text:style-name="WWNum17">
+   <text:list xml:id="list164754075847025" text:continue-list="list164755982324240" text:style-name="WWNum17">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2346,7 +2346,7 @@ Description générée automatiquement</svg:desc>
    </text:list>
    <text:p text:style-name="P7">Le processus d&apos;installation vous permettra de définir le dossier où les modèles seront situés sur votre ordinateur. Une fois installé, ce dossier apparaîtra dans les paramètres <text:span text:style-name="T11">des modèles Diaporamas </text:span>.</text:p>
    <text:p text:style-name="P8"><text:line-break/> </text:p>
-   <text:list xml:id="list205158604908528" text:continue-list="list205158815654368" text:style-name="WWNum17">
+   <text:list xml:id="list164754315334845" text:continue-list="list164754075847025" text:style-name="WWNum17">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2369,7 +2369,7 @@ Description générée automatiquement</svg:desc>
    </text:list>
    <text:p text:style-name="P19" loext:marker-style-name="T4"/>
    <text:p text:style-name="P19" loext:marker-style-name="T4"/>
-   <text:list text:continue-list="list205158604908528" text:style-name="WWNum17">
+   <text:list text:continue-list="list164754315334845" text:style-name="WWNum17">
     <text:list-item>
      <text:h text:style-name="P24" text:outline-level="1"><text:bookmark-start text:name="_Toc112848943"/>Préparation d&apos;un projet d&apos;application pour les vidéos de diaporama<text:bookmark-end text:name="_Toc112848943"/></text:h>
     </text:list-item>
@@ -2386,7 +2386,7 @@ Description générée automatiquement</svg:desc>
    <text:p text:style-name="Standard">Utilisez <text:span text:style-name="T11">Réglage fin des Timings</text:span> pour vérifier que les timings sont corrects.</text:p>
    <text:p text:style-name="Standard"><text:soft-page-break/></text:p>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list205159468377056" text:continue-numbering="true" text:style-name="WWNum17">
+   <text:list xml:id="list164754760435302" text:continue-numbering="true" text:style-name="WWNum17">
     <text:list-item>
      <text:h text:style-name="P25" text:outline-level="1"><text:bookmark-start text:name="_Toc112848944"/>Exécuter l&apos;Assistant Créer un diaporama<text:bookmark-end text:name="_Toc112848944"/></text:h>
     </text:list-item>
@@ -2493,62 +2493,62 @@ Description générée automatiquement</svg:desc>
     </draw:frame><text:s/><draw:frame draw:style-name="fr2" draw:name="Image2" text:anchor-type="as-char" svg:width="2.5626in" svg:height="1.052in" draw:z-index="0"><draw:image xlink:href="SAB12/11.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="Standard"><text:soft-page-break/><text:s/></text:p>
-   <text:p text:style-name="P9">Each video subfolder will contain:</text:p>
+   <text:p text:style-name="P9">Chaque sous-dossier vidéo contiendra :</text:p>
    <text:list text:style-name="WWNum21">
     <text:list-item>
-     <text:p text:style-name="P39">a <text:span text:style-name="T11">video file</text:span> (.mp4)</text:p>
+     <text:p text:style-name="P39">un fichier vidéo (.mp4)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P38">the corresponding <text:span text:style-name="T11">subtitle files</text:span> (.srt and .vtt). These can be used in video players such as <text:span text:style-name="T10">VLC</text:span> or for uploading to <text:span text:style-name="T10">YouTube</text:span> to make the text available as subtitles.</text:p>
+     <text:p text:style-name="P38">les fichiers de sous-titres <text:span text:style-name="T11">correspondants</text:span> (.srt et .vtt). Celles-ci peuvent être utilisées dans les lecteurs vidéo tels que <text:span text:style-name="T10">VLC</text:span> ou pour télécharger sur <text:span text:style-name="T10">YouTube</text:span> pour rendre le texte disponible en tant que sous-titres.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
-   <text:list text:continue-list="list205159468377056" text:style-name="WWNum17">
+   <text:list text:continue-list="list164754760435302" text:style-name="WWNum17">
     <text:list-item>
-     <text:h text:style-name="P24" text:outline-level="1"><text:bookmark-start text:name="_Toc112848945"/><text:soft-page-break/>Distributing and using the videos<text:bookmark-end text:name="_Toc112848945"/></text:h>
+     <text:h text:style-name="P24" text:outline-level="1"><text:bookmark-start text:name="_Toc112848945"/><text:soft-page-break/>Distribuer et utiliser les vidéos<text:bookmark-end text:name="_Toc112848945"/></text:h>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">There are many ways of distributing your videos, such as:</text:p>
+   <text:p text:style-name="Standard">Il y a de nombreuses façons de distribuer vos vidéos, telles que:</text:p>
    <text:list text:style-name="WWNum22">
     <text:list-item>
-     <text:p text:style-name="P40">Uploading them to a video sharing platform such as YouTube or Vimeo.</text:p>
+     <text:p text:style-name="P40">Les télécharger sur une plateforme de partage vidéo telle que YouTube ou Vimeo.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P40">Making them available on a language-specific website, or a site with multiple language resources such as Scripture Earth (<text:a xlink:type="simple" xlink:href="http://www.ScriptureEarth.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">www.ScriptureEarth.org</text:span></text:a>)</text:p>
+     <text:p text:style-name="P40">Les rendre disponibles sur un site Web spécifique à une langue, ou sur un site avec des ressources linguistiques multiples telles que l&apos;Écriture de la Terre (<text:a xlink:type="simple" xlink:href="http://www.ScriptureEarth.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">www.ScriptureEarth.org</text:span></text:a>)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P40">Sharing them from phone to phone using Bluetooth or a Wi-Fi transfer app</text:p>
+     <text:p text:style-name="P40">Partagez-les du téléphone au téléphone en utilisant le Bluetooth ou une application de transfert Wi-Fi</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P40"><text:soft-page-break/>Sharing them on memory cards</text:p>
+     <text:p text:style-name="P40"><text:soft-page-break/>Partagez-les sur des cartes mémoire</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P40">Making them available on a Wi-Fi media hub</text:p>
+     <text:p text:style-name="P40">Les rendre disponibles sur un hub multimédia Wi-Fi</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">Once the videos are available in <text:span text:style-name="T10">YouTube</text:span> or another internet location, you can embed them in your apps. For more information on how to do this, please refer to the <text:span text:style-name="T11">Building Apps</text:span> manual, in the section titled <text:span text:style-name="T11">Video</text:span>.</text:p>
+   <text:p text:style-name="Standard">Une fois que les vidéos sont disponibles dans <text:span text:style-name="T10">YouTube</text:span> ou un autre emplacement Internet, vous pouvez les intégrer dans vos applications. Pour plus d&apos;informations sur la façon de le faire, veuillez vous référer au manuel <text:span text:style-name="T11">Construction des applications</text:span> dans la section intitulée <text:span text:style-name="T11">Vidéo</text:span>.</text:p>
    <text:p text:style-name="P4"><draw:frame draw:style-name="fr2" draw:name="Image3" text:anchor-type="as-char" svg:width="1.9957in" svg:height="3.4256in" draw:z-index="0"><draw:image xlink:href="SAB12/12.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame><text:s/><draw:frame draw:style-name="fr2" draw:name="Image4" text:anchor-type="as-char" svg:width="1.9965in" svg:height="3.4272in" draw:z-index="0"><draw:image xlink:href="SAB12/13.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame><text:s/></text:p>
-   <text:p text:style-name="Standard"><text:line-break/><text:a xlink:type="simple" xlink:href="http://www.ScriptureEarth.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">www.ScriptureEarth.org</text:span></text:a> can host the video files for viewing or downloading. Please contact <text:a xlink:type="simple" xlink:href="mailto:info@ScriptureEarth.org" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">info@ScriptureEarth.org</text:span></text:a> for more information.</text:p>
+   <text:p text:style-name="Standard"><text:line-break/><text:a xlink:type="simple" xlink:href="http://www.ScriptureEarth.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">www.ScriptureEarth.org</text:span></text:a> peut héberger les fichiers vidéo à visualiser ou à télécharger. Veuillez contacter <text:a xlink:type="simple" xlink:href="mailto:info@ScriptureEarth.org" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">info@ScriptureEarth.org</text:span></text:a> pour plus d&apos;informations.</text:p>
    <text:p text:style-name="P20" loext:marker-style-name="T17"><text:soft-page-break/><text:s/></text:p>
    <text:p text:style-name="P20" loext:marker-style-name="T17"/>
-   <text:p text:style-name="P9" loext:marker-style-name="T17"><text:span text:style-name="T17">Scripture Earth Example</text:span><text:span text:style-name="T17"/></text:p>
-   <text:p text:style-name="P9">Here is an example of what it looks like when a set of slideshow videos are uploaded to Scripture Earth:</text:p>
+   <text:p text:style-name="P9" loext:marker-style-name="T17"><text:span text:style-name="T17">Exemple de Terre Écriture</text:span><text:span text:style-name="T17"/></text:p>
+   <text:p text:style-name="P9">Voici un exemple de ce à quoi il ressemble quand un ensemble de vidéos de diaporama sont téléchargées sur la Terre des Écritures :</text:p>
    <text:p text:style-name="P12"><text:a xlink:type="simple" xlink:href="https://www.scriptureearth.org/00i-Scripture_Index.php?idx=22" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">https://www.scriptureearth.org/00i-Scripture_Index.php?idx=22</text:span></text:a>. </text:p>
-   <text:p text:style-name="Standard"><text:line-break/><text:line-break/>Click on <text:span text:style-name="T11">View Videos de las Escrituras</text:span> to view the list of videos. <text:line-break/></text:p>
+   <text:p text:style-name="Standard"><text:line-break/><text:line-break/>Cliquez sur <text:span text:style-name="T11">Voir les vidéos des Escrituras</text:span> pour voir la liste des vidéos. <text:line-break/></text:p>
    <text:p text:style-name="Standard"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Picture 6" text:anchor-type="as-char" svg:width="6.2681in" svg:height="4.5429in" draw:z-index="0"><draw:image xlink:href="SAB12/14.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard">If you click on a thumbnail image, you will be taken to YouTube to watch the video.</text:p>
-   <text:p text:style-name="P9"><text:line-break/>Click <text:span text:style-name="T11">Download Videos de las Escrituras</text:span> to see the list of videos available to download. </text:p>
+   <text:p text:style-name="Standard">Si vous cliquez sur une image miniature, vous serez dirigé vers YouTube pour regarder la vidéo.</text:p>
+   <text:p text:style-name="P9"><text:line-break/>Cliquez sur <text:span text:style-name="T11">Télécharger les vidéos de las Escrituras</text:span> pour voir la liste des vidéos à télécharger. </text:p>
    <text:p text:style-name="P9"/>
    <text:p text:style-name="P13"><draw:frame draw:style-name="fr1" draw:name="Picture 7" text:anchor-type="as-char" svg:width="6.2681in" svg:height="2.5193in" draw:z-index="0"><draw:image xlink:href="SAB12/15.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame><text:s/></text:p>
-   <text:p text:style-name="P13"><text:soft-page-break/><text:line-break/>You can select several videos (or all of them) and download them as a zip file.</text:p>
+   <text:p text:style-name="P13"><text:soft-page-break/><text:line-break/>Vous pouvez sélectionner plusieurs vidéos (ou toutes) et les télécharger en tant que fichier zip.</text:p>
   </office:text>
  </office:body>
 </office:document>
