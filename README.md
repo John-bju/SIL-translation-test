@@ -155,7 +155,9 @@ After that a menu will open asking for the file name. The file name can be anyth
 <img src="README_pics/ddd2.png" width="600" height="1200" />
 
 
-The second difference is how images are inserted into the documents. Normally, images are fully inserted into the document, with the image data being added to the document file. However, in this repository, images are inserted as image links and not full images. This means that while the image will be displayed in the document, it is just being referenced from a separate image file located outside the document. Because of this difference, the method of adding an image has slightly changed. Images are still inserted by clicking the "Insert" tab and selecting the "Image" option; however, the "Link" checkbox must also be clicked before adding the desired image. 
+The second difference is how images are inserted into the documents. Normally, images are fully inserted into the document, with the image data being added to the document file. However, in this repository, images are inserted as image links and not full images. This means that while the image will be displayed in the document, it is just being referenced from a separate image file located outside the document. Because of this difference, the method of adding an image has slightly changed. Images are still inserted by clicking the "Insert" tab and selecting the "Image" option; however, the "Link" checkbox must also be clicked before adding the desired image.
+
+Before linking an image make sure it is inside the document's folder to avoid the image links breaking when either the document or the folder is moved. Document folders are explained more in the "Image names and folders" section below.
 
 <img src="README_pics/Screenshot_20260806_121826.png" width="400" height="800" />
 <img src="README_pics/Screenshot_20260806_113235.png" width="400" height="800" />
@@ -167,8 +169,8 @@ After the image file is selected, click the "Open" button to add the file.
 <img src="README_pics/Screenshot_20260806_122015.png" width="500" height="1000" />
 
 #
-###### Image names
-Another important aspect of inserting images is the name of the image file. In order to keep the documents from losing their images, all images should only be located in a folder next to the document. The folder must also have the naming convention shown below.
+##### Image names and folders
+Another important aspect of inserting images is the name of the image file. In order to keep the documents from losing their images, all images should only be located and linked in a folder next to the document. The folder must also have the naming convention shown below.
 
 `Scripture-App-Builder-01-Installation-Instructions.fodt` would be next to a folder named `SAB01`.
 
