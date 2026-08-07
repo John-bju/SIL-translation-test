@@ -6,10 +6,10 @@
 <meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">454872</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">32016</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">22386</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">44743</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">22782</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
   </config:config-item-set>
@@ -96,7 +96,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -120,7 +120,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">4772809</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4801997</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">true</config:config-item>
@@ -148,7 +148,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="en" fo:country="GB" style:letter-kerning="false" style:font-name-asian="Times New Roman1" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="GB" style:font-name-complex="Times New Roman1" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -1826,7 +1826,7 @@
  <office:master-styles>
   <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
    <style:footer>
-    <text:p text:style-name="Footer"><draw:frame draw:style-name="fr1" draw:name="Frame13" text:anchor-type="paragraph" svg:y="0.0008in" draw:z-index="67">
+    <text:p text:style-name="Footer"><draw:frame draw:style-name="fr1" draw:name="Frame13" text:anchor-type="paragraph" svg:y="0.0008in" draw:z-index="68">
       <draw:text-box fo:min-height="0.0161in" fo:min-width="0.0161in">
        <text:p text:style-name="P1"><text:span text:style-name="Page_20_Number"><text:page-number text:select-page="current">54</text:page-number></text:span><text:span text:style-name="Page_20_Number"><text:s/></text:span></text:p>
       </draw:text-box>
@@ -2067,7 +2067,7 @@
    <text:p text:style-name="P15" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="1" draw:name="Shape6" draw:style-name="gr3" draw:text-style-name="P57" svg:width="1.7504in" svg:height="0.3142in" svg:x="3.75in" svg:y="0.098in">
      <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T17"><text:span text:style-name="T17">Publish Sound Files</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="mso-spt202" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
-    </draw:custom-shape><text:s/><draw:frame draw:style-name="fr2" draw:name="Frame2" text:anchor-type="char" svg:x="0.6252in" svg:y="0.1602in" svg:width="1.75in" svg:height="0.3138in" draw:z-index="7">
+    </draw:custom-shape><text:s/><draw:frame draw:style-name="fr2" draw:name="Frame2" text:anchor-type="char" svg:x="0.6252in" svg:y="0.1602in" svg:width="1.75in" svg:height="0.3138in" draw:z-index="8">
      <draw:text-box>
       <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T19"><text:span text:style-name="T17">Choose </text:span><text:span text:style-name="T19">Paratext Project</text:span></text:p>
      </draw:text-box>
@@ -2114,11 +2114,11 @@
       <draw:equation draw:name="f7" draw:formula="?f1 -?f6 "/>
       <draw:handle draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600" draw:handle-range-y-minimum="0" draw:handle-range-y-maximum="10800" draw:handle-position="$0 $1"/>
      </draw:enhanced-geometry>
-    </draw:custom-shape><text:s/><draw:frame draw:style-name="fr2" draw:name="Frame3" text:anchor-type="char" svg:x="-0.0311in" svg:y="0.0453in" svg:width="0.8752in" svg:height="0.5in" draw:z-index="11">
+    </draw:custom-shape><text:s/><draw:frame draw:style-name="fr2" draw:name="Frame3" text:anchor-type="char" svg:x="-0.0311in" svg:y="0.0453in" svg:width="0.8752in" svg:height="0.5in" draw:z-index="12">
      <draw:text-box>
       <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T19"><text:span text:style-name="T19">Book </text:span><text:span text:style-name="T17">selector</text:span></text:p>
      </draw:text-box>
-    </draw:frame><text:s/><draw:frame draw:style-name="fr2" draw:name="Frame4" text:anchor-type="char" svg:x="-0.0417in" svg:y="1.4618in" svg:width="0.8752in" svg:height="0.5in" draw:z-index="12">
+    </draw:frame><text:s/><draw:frame draw:style-name="fr2" draw:name="Frame4" text:anchor-type="char" svg:x="-0.0417in" svg:y="1.4618in" svg:width="0.8752in" svg:height="0.5in" draw:z-index="13">
      <draw:text-box>
       <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T17"><text:span text:style-name="T17">Chapter selector</text:span></text:p>
      </draw:text-box>
@@ -2135,7 +2135,7 @@
       <draw:equation draw:name="f7" draw:formula="?f1 -?f6 "/>
       <draw:handle draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600" draw:handle-range-y-minimum="0" draw:handle-range-y-maximum="10800" draw:handle-position="$0 $1"/>
      </draw:enhanced-geometry>
-    </draw:custom-shape><text:s/><draw:frame draw:style-name="fr2" draw:name="Frame5" text:anchor-type="char" svg:x="-0.0626in" svg:y="2.6598in" svg:width="0.8752in" svg:height="1in" draw:z-index="10">
+    </draw:custom-shape><text:s/><draw:frame draw:style-name="fr2" draw:name="Frame5" text:anchor-type="char" svg:x="-0.0626in" svg:y="2.6598in" svg:width="0.8752in" svg:height="1in" draw:z-index="11">
      <draw:text-box>
       <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T19"><text:span text:style-name="T17">Current</text:span><text:span text:style-name="T19"> phrase to record</text:span></text:p>
      </draw:text-box>
@@ -2152,7 +2152,7 @@
       <draw:equation draw:name="f7" draw:formula="?f1 -?f6 "/>
       <draw:handle draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600" draw:handle-range-y-minimum="0" draw:handle-range-y-maximum="10800" draw:handle-position="$0 $1"/>
      </draw:enhanced-geometry>
-    </draw:custom-shape><text:s/><draw:frame draw:style-name="fr2" draw:name="Frame6" text:anchor-type="char" svg:x="5.1252in" svg:y="2.7118in" svg:width="1.75in" svg:height="0.5in" draw:z-index="8">
+    </draw:custom-shape><text:s/><draw:frame draw:style-name="fr2" draw:name="Frame6" text:anchor-type="char" svg:x="5.1252in" svg:y="2.7118in" svg:width="1.75in" svg:height="0.5in" draw:z-index="9">
      <draw:text-box>
       <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T17"><text:span text:style-name="T17">Play, Record <text:line-break/>and Next buttons</text:span></text:p>
      </draw:text-box>
@@ -2199,11 +2199,11 @@
     </draw:frame><text:s/></text:p>
    <text:p text:style-name="P18" loext:marker-style-name="T9"/>
    <text:p text:style-name="P18" loext:marker-style-name="T9"/>
-   <text:p text:style-name="P18" loext:marker-style-name="T9"><draw:frame draw:style-name="fr2" draw:name="Frame7" text:anchor-type="char" svg:x="4.3646in" svg:y="0.0311in" svg:width="1.75in" svg:height="0.5in" draw:z-index="70">
+   <text:p text:style-name="P18" loext:marker-style-name="T9"><draw:frame draw:style-name="fr2" draw:name="Frame7" text:anchor-type="char" svg:x="4.3646in" svg:y="0.0311in" svg:width="1.75in" svg:height="0.5in" draw:z-index="71">
      <draw:text-box>
       <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T19"><text:span text:style-name="T19">Input microphone level</text:span></text:p>
      </draw:text-box>
-    </draw:frame><text:s/><draw:frame draw:style-name="fr2" draw:name="Frame8" text:anchor-type="char" svg:x="0.1252in" svg:y="0.0626in" svg:width="1.75in" svg:height="0.5in" draw:z-index="9">
+    </draw:frame><text:s/><draw:frame draw:style-name="fr2" draw:name="Frame8" text:anchor-type="char" svg:x="0.1252in" svg:y="0.0626in" svg:width="1.75in" svg:height="0.5in" draw:z-index="10">
      <draw:text-box>
       <text:p text:style-name="Frame_20_contents" loext:marker-style-name="T17"><text:span text:style-name="T17">Font size: make text smaller or larger</text:span></text:p>
      </draw:text-box>
@@ -2228,7 +2228,7 @@
    <text:p text:style-name="P15" loext:marker-style-name="T9"/>
    <text:h text:style-name="P6" text:outline-level="2" loext:marker-style-name="T9"><text:bookmark-start text:name="_Toc459024692"/><text:span text:style-name="T9">Choose the book and chapter to record</text:span><text:bookmark-end text:name="_Toc459024692"/><text:span text:style-name="T9"/></text:h>
    <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:soft-page-break/><text:span text:style-name="T9">You can select the book and chapter to record by clicking on the appropriate blue or gray boxes at the top of the screen.</text:span><text:span text:style-name="T9"/></text:p>
-   <text:p text:style-name="P15" loext:marker-style-name="T9"><draw:frame draw:style-name="fr2" draw:name="Frame9" text:anchor-type="char" svg:x="2.448in" svg:y="0.0654in" svg:width="1.75in" svg:height="0.3138in" draw:z-index="75">
+   <text:p text:style-name="P15" loext:marker-style-name="T9"><draw:frame draw:style-name="fr2" draw:name="Frame9" text:anchor-type="char" svg:x="2.448in" svg:y="0.0654in" svg:width="1.75in" svg:height="0.3138in" draw:z-index="76">
      <draw:text-box>
       <text:p text:style-name="P3" loext:marker-style-name="T19"><text:span text:style-name="T19">Books</text:span></text:p>
      </draw:text-box>
@@ -2400,7 +2400,7 @@
    <text:p text:style-name="P15" loext:marker-style-name="T9"/>
    <text:p text:style-name="Standard" loext:marker-style-name="T9"><text:span text:style-name="T9">As you record each verse you will see a small horizontal blue line appear the Verse selector. To go back to a verse, click on one of these blue lines.</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P15" loext:marker-style-name="T9"/>
-   <text:p text:style-name="Standard" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="76" draw:name="Shape26" draw:style-name="gr2" draw:text-style-name="P56" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (1.03759824031063) translate (0.727083333333333in 0.979166666666667in)">
+   <text:p text:style-name="Standard" loext:marker-style-name="T9"><draw:custom-shape text:anchor-type="char" draw:z-index="77" draw:name="Shape26" draw:style-name="gr2" draw:text-style-name="P56" svg:width="0.6252in" svg:height="0.2504in" draw:transform="rotate (1.03759824031063) translate (0.727083333333333in 0.979166666666667in)">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="0 ?f0 ?f5 ?f2" draw:type="right-arrow" draw:modifiers="16200 5400" draw:enhanced-path="M 0 ?f0 L ?f1 ?f0 ?f1 0 21600 10800 ?f1 21600 ?f1 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -2413,7 +2413,7 @@
       <draw:equation draw:name="f7" draw:formula="?f1 -?f6 "/>
       <draw:handle draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600" draw:handle-range-y-minimum="0" draw:handle-range-y-maximum="10800" draw:handle-position="$0 $1"/>
      </draw:enhanced-geometry>
-    </draw:custom-shape><text:soft-page-break/><text:s/><draw:frame draw:style-name="fr2" draw:name="Frame11" text:anchor-type="char" svg:x="0.0008in" svg:y="1.0244in" svg:width="1.75in" svg:height="0.3138in" draw:z-index="78">
+    </draw:custom-shape><text:soft-page-break/><text:s/><draw:frame draw:style-name="fr2" draw:name="Frame11" text:anchor-type="char" svg:x="0.0008in" svg:y="1.0244in" svg:width="1.75in" svg:height="0.3138in" draw:z-index="79">
      <draw:text-box>
       <text:p text:style-name="P3" loext:marker-style-name="T17"><text:span text:style-name="T17">Verses already recorded</text:span></text:p>
      </draw:text-box>
